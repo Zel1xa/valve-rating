@@ -6,9 +6,9 @@ Global Rank: [190](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [21]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  587.0<br />
+Final Rank Value:  587.4<br />
 <br />
-Final Rank Value (587.0) = Starting Rank Value (542.8) + Head To Head Adjustments (44.2)<br />
+Final Rank Value (587.4) = Starting Rank Value (542.8) + Head To Head Adjustments (44.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       10 | 2024-08-01 | GUN5      | L   | 1.000      | -            | -                | -                | -         |    -5.59 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            9 |      129 | 2024-07-29 | 1WIN      | L   | 1.000      | -            | -                | -                | -         |    -3.10 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            8 |      172 | 2024-07-28 | GUN5      | W   | 1.000      | 0.143        | 0.074 (0.011)    | 0.555 (0.079)    | 0 (0.000) |    26.29 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            7 |     1896 | 2024-05-18 | GUN5      | L   | 0.700      | -            | -                | -                | -         |    -2.25 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            6 |     1931 | 2024-05-17 | Rare Atom | W   | 0.694      | 0.143        | 0.000 (0.000)    | 0.437 (0.043)    | 0 (0.000) |    13.80 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            5 |     2100 | 2024-05-14 | Heimo     | W   | 0.671      | 0.143        | 0.006 (0.001)    | 0.086 (0.008)    | 0 (0.000) |    14.76 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            4 |     2123 | 2024-05-13 | Rare Atom | L   | 0.664      | -            | -                | -                | -         |    -7.12 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            3 |     2672 | 2024-04-19 | JANO      | L   | 0.506      | -            | -                | -                | -         |    -4.87 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            2 |     2725 | 2024-04-18 | RUBY      | L   | 0.499      | -            | -                | -                | -         |    -1.59 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            1 |     2765 | 2024-04-17 | Sampi     | W   | 0.492      | 0.143        | 0.028 (0.002)    | 1.000 (0.070)    | 0 (0.000) |    13.85 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|           10 |       14 | 2024-08-01 | GUN5      | L   | 1.000      | -            | -                | -                | -         |    -5.21 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            9 |      132 | 2024-07-29 | 1WIN      | L   | 1.000      | -            | -                | -                | -         |    -3.10 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            8 |      174 | 2024-07-28 | GUN5      | W   | 1.000      | 0.143        | 0.074 (0.011)    | 0.555 (0.079)    | 0 (0.000) |    26.34 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            7 |     1898 | 2024-05-18 | GUN5      | L   | 0.700      | -            | -                | -                | -         |    -2.25 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            6 |     1933 | 2024-05-17 | Rare Atom | W   | 0.693      | 0.143        | 0.000 (0.000)    | 0.437 (0.043)    | 0 (0.000) |    13.79 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            5 |     2102 | 2024-05-14 | Heimo     | W   | 0.671      | 0.143        | 0.006 (0.001)    | 0.086 (0.008)    | 0 (0.000) |    14.75 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            4 |     2125 | 2024-05-13 | Rare Atom | L   | 0.664      | -            | -                | -                | -         |    -7.11 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            3 |     2674 | 2024-04-19 | JANO      | L   | 0.506      | -            | -                | -                | -         |    -4.87 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            2 |     2727 | 2024-04-18 | RUBY      | L   | 0.499      | -            | -                | -                | -         |    -1.59 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            1 |     2767 | 2024-04-17 | Sampi     | W   | 0.492      | 0.143        | 0.028 (0.002)    | 1.000 (0.070)    | 0 (0.000) |    13.84 | dan1, hotd0g , m4tthi, meztal, MOREE |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

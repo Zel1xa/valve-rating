@@ -6,9 +6,9 @@ Global Rank: [57](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [16]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1004.5<br />
+Final Rank Value:  1004.6<br />
 <br />
-Final Rank Value (1004.5) = Starting Rank Value (1016.6) + Head To Head Adjustments (-12.2)<br />
+Final Rank Value (1004.6) = Starting Rank Value (1016.6) + Head To Head Adjustments (-12.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,113 +37,113 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          100 |       72 | 2024-07-30 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -23.43 | luchov, naz, Noktse, tomaszin, zock    |
-|           99 |       78 | 2024-07-30 | Galorys           | W   | 1.000      | 0.450        | -                | 0.568 (0.256)    | 0 (0.000) |     7.57 | luchov, naz, Noktse, tomaszin, zock    |
-|           98 |       86 | 2024-07-30 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.67 | luchov, naz, Noktse, tomaszin, zock    |
-|           97 |      114 | 2024-07-29 | Intense           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.61 | luchov, naz, Noktse, tomaszin, zock    |
-|           96 |      143 | 2024-07-28 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.68 | luchov, naz, Noktse, tomaszin, zock    |
-|           95 |      225 | 2024-07-25 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -15.87 | luchov, naz, Noktse, tomaszin, zock    |
-|           94 |      233 | 2024-07-25 | Bad News Chickens | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.12 | luchov, naz, Noktse, tomaszin, zock    |
-|           93 |      302 | 2024-07-23 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.30 | luchov, naz, Noktse, tomaszin, zock    |
-|           92 |      307 | 2024-07-23 | Hype              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.63 | luchov, naz, Noktse, tomaszin, zock    |
-|           91 |      343 | 2024-07-22 | Fluxo             | W   | 1.000      | 0.384        | 0.122 (0.047)    | 0.702 (0.270)    | 0 (0.000) |    23.65 | luchov, naz, Noktse, tomaszin, zock    |
-|           90 |      369 | 2024-07-21 | RED Canids        | W   | 1.000      | 0.384        | -                | 0.754 (0.290)    | 0 (0.000) |    23.03 | luchov, naz, Noktse, tomaszin, zock    |
-|           89 |      427 | 2024-07-19 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    12.55 | luchov, naz, Noktse, tomaszin, zock    |
-|           88 |      439 | 2024-07-19 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -19.61 | luchov, naz, Noktse, tomaszin, zock    |
-|           87 |      484 | 2024-07-18 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -6.45 | luchov, naz, Noktse, tomaszin, zock    |
-|           86 |      486 | 2024-07-18 | Amigos de T2M4SS  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.20 | luchov, naz, Noktse, tomaszin, zock    |
-|           85 |      498 | 2024-07-18 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.82 | luchov, naz, Noktse, tomaszin, zock    |
-|           84 |      546 | 2024-07-17 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.14 | luchov, naz, Noktse, tomaszin, zock    |
-|           83 |      550 | 2024-07-17 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.84 | luchov, naz, Noktse, tomaszin, zock    |
-|           82 |      560 | 2024-07-17 | Vikings KR        | W   | 1.000      | -            | -                | -                | -         |     9.60 | luchov, naz, Noktse, tomaszin, zock    |
-|           81 |      612 | 2024-07-16 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.66 | luchov, naz, Noktse, tomaszin, zock    |
-|           80 |      616 | 2024-07-16 | ODDIK             | W   | 1.000      | 0.450        | 0.096 (0.043)    | 0.822 (0.370)    | -         |    19.12 | luchov, naz, Noktse, tomaszin, zock    |
-|           79 |      626 | 2024-07-16 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.09 | luchov, naz, Noktse, tomaszin, zock    |
-|           78 |      678 | 2024-07-15 | Vikings KR        | W   | 1.000      | -            | -                | -                | -         |     8.90 | luchov, naz, Noktse, tomaszin, zock    |
-|           77 |      712 | 2024-07-13 | Intense           | W   | 1.000      | -            | -                | -                | -         |     4.14 | luchov, naz, Noktse, tomaszin, zock    |
-|           76 |      725 | 2024-07-12 | SPORT             | L   | 1.000      | -            | -                | -                | -         |   -25.88 | luchov, naz, Noktse, tomaszin, zock    |
-|           75 |      756 | 2024-07-10 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -17.06 | luchov, naz, Noktse, tomaszin, zock    |
-|           74 |      784 | 2024-07-09 | SPORT             | W   | 1.000      | -            | -                | -                | -         |     4.62 | luchov, naz, Noktse, tomaszin, zock    |
-|           73 |      799 | 2024-07-08 | Intense           | W   | 1.000      | -            | -                | -                | -         |     3.45 | luchov, naz, Noktse, tomaszin, zock    |
-|           72 |      807 | 2024-07-08 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |   -19.13 | luchov, naz, Noktse, tomaszin, zock    |
-|           71 |     1060 | 2024-06-10 | paiN              | L   | 0.855      | -            | -                | -                | -         |    -5.82 | luchov, meyern, naz, Noktse, tomaszin  |
-|           70 |     1066 | 2024-06-10 | Bounty Hunters    | W   | 0.854      | -            | -                | -                | -         |     9.21 | luchov, meyern, naz, Noktse, tomaszin  |
-|           69 |     1094 | 2024-06-09 | RED Canids        | W   | 0.849      | 0.371        | -                | 0.754 (0.237)    | -         |    15.27 | luchov, meyern, naz, Noktse, tomaszin  |
-|           68 |     1122 | 2024-06-09 | Sharks            | L   | 0.846      | -            | -                | -                | -         |   -13.09 | luchov, meyern, naz, Noktse, tomaszin  |
-|           67 |     1163 | 2024-06-08 | Solid             | W   | 0.841      | 0.371        | -                | 0.844 (0.263)    | -         |     8.30 | luchov, meyern, naz, Noktse, tomaszin  |
-|           66 |     1178 | 2024-06-08 | Vikings KR        | L   | 0.840      | -            | -                | -                | -         |   -20.80 | luchov, meyern, naz, Noktse, tomaszin  |
-|           65 |     1231 | 2024-06-07 | ODDIK             | W   | 0.834      | 0.450        | 0.096 (0.036)    | 0.822 (0.309)    | -         |     9.44 | luchov, meyern, naz, Noktse, tomaszin  |
-|           64 |     1293 | 2024-06-06 | inSanitY          | L   | 0.828      | -            | -                | -                | -         |   -16.60 | luchov, meyern, naz, Noktse, tomaszin  |
-|           63 |     1355 | 2024-06-05 | MIBR              | L   | 0.821      | -            | -                | -                | -         |    -3.37 | luchov, meyern, naz, Noktse, tomaszin  |
-|           62 |     1408 | 2024-06-04 | Sharks            | L   | 0.815      | -            | -                | -                | -         |   -14.36 | luchov, meyern, naz, Noktse, tomaszin  |
-|           61 |     1725 | 2024-05-22 | Case              | W   | 0.728      | -            | -                | -                | -         |     7.25 | luchov, meyern, naz, Noktse, tomaszin  |
-|           60 |     1731 | 2024-05-22 | Case              | W   | 0.728      | -            | -                | -                | -         |     7.67 | luchov, meyern, naz, Noktse, tomaszin  |
-|           59 |     1733 | 2024-05-22 | Fluxo             | W   | 0.728      | 0.450        | 0.122 (0.040)    | -                | -         |    12.65 | luchov, meyern, naz, Noktse, tomaszin  |
-|           58 |     1736 | 2024-05-22 | Fluxo             | W   | 0.727      | 0.450        | 0.122 (0.040)    | -                | -         |    13.48 | luchov, meyern, naz, Noktse, tomaszin  |
-|           57 |     1784 | 2024-05-21 | Smoke             | W   | 0.722      | -            | -                | -                | -         |     4.55 | luchov, meyern, naz, Noktse, tomaszin  |
-|           56 |     1787 | 2024-05-21 | Smoke             | W   | 0.721      | -            | -                | -                | -         |     4.74 | luchov, meyern, naz, Noktse, tomaszin  |
-|           55 |     1792 | 2024-05-21 | Imperial          | W   | 0.721      | 0.450        | 0.239 (0.078)    | -                | -         |    18.81 | luchov, meyern, naz, Noktse, tomaszin  |
-|           54 |     1793 | 2024-05-21 | Imperial          | W   | 0.721      | 0.450        | 0.239 (0.078)    | -                | -         |    19.44 | luchov, meyern, naz, Noktse, tomaszin  |
-|           53 |     1824 | 2024-05-20 | Corinthians       | W   | 0.715      | -            | -                | -                | -         |     1.49 | luchov, meyern, naz, Noktse, tomaszin  |
-|           52 |     1828 | 2024-05-20 | Corinthians       | W   | 0.715      | -            | -                | -                | -         |     1.51 | luchov, meyern, naz, Noktse, tomaszin  |
-|           51 |     1830 | 2024-05-20 | 9z                | W   | 0.714      | 0.450        | 0.138 (0.044)    | -                | -         |    17.31 | luchov, meyern, naz, Noktse, tomaszin  |
-|           50 |     1833 | 2024-05-20 | 9z                | L   | 0.714      | -            | -                | -                | -         |    -5.06 | luchov, meyern, naz, Noktse, tomaszin  |
-|           49 |     1924 | 2024-05-17 | Solid             | L   | 0.695      | -            | -                | -                | -         |   -13.54 | luchov, meyern, naz, Noktse, tomaszin  |
-|           48 |     1925 | 2024-05-17 | Solid             | W   | 0.695      | 0.450        | -                | 0.844 (0.264)    | -         |     8.40 | luchov, meyern, naz, Noktse, tomaszin  |
-|           47 |     2009 | 2024-05-15 | ODDIK             | W   | 0.681      | 0.450        | 0.096 (0.029)    | 0.822 (0.252)    | -         |    10.96 | luchov, meyern, naz, Noktse, tomaszin  |
-|           46 |     2010 | 2024-05-15 | ODDIK             | W   | 0.681      | 0.450        | -                | 0.822 (0.252)    | -         |    11.64 | luchov, meyern, naz, Noktse, tomaszin  |
-|           45 |     2020 | 2024-05-15 | Hype              | L   | 0.680      | -            | -                | -                | -         |   -12.40 | luchov, meyern, naz, Noktse, tomaszin  |
-|           44 |     2077 | 2024-05-14 | Imperial          | L   | 0.674      | -            | -                | -                | -         |    -3.22 | luchov, meyern, naz, Noktse, tomaszin  |
-|           43 |     2087 | 2024-05-14 | RED Canids        | L   | 0.673      | -            | -                | -                | -         |    -8.04 | luchov, meyern, naz, Noktse, tomaszin  |
-|           42 |     2130 | 2024-05-12 | Solid             | W   | 0.661      | -            | -                | -                | -         |     8.29 | luchov, meyern, naz, Noktse, tomaszin  |
-|           41 |     2137 | 2024-05-12 | O PLANO           | W   | 0.660      | -            | -                | -                | -         |     1.71 | luchov, meyern, naz, Noktse, tomaszin  |
-|           40 |     2164 | 2024-05-11 | paiN              | L   | 0.653      | -            | -                | -                | -         |    -2.14 | luchov, meyern, naz, Noktse, tomaszin  |
-|           39 |     2188 | 2024-05-10 | Imperial          | W   | 0.647      | 0.435        | 0.239 (0.067)    | -                | -         |    17.56 | luchov, meyern, naz, Noktse, tomaszin  |
-|           38 |     2207 | 2024-05-09 | Sharks            | W   | 0.642      | -            | -                | -                | -         |    11.28 | luchov, meyern, naz, Noktse, tomaszin  |
-|           37 |     2236 | 2024-05-08 | Vikings KR        | W   | 0.633      | -            | -                | -                | -         |     7.21 | luchov, meyern, naz, Noktse, tomaszin  |
-|           36 |     2267 | 2024-05-06 | Sharks            | L   | 0.622      | -            | -                | -                | -         |    -8.43 | luchov, meyern, naz, Noktse, tomaszin  |
-|           35 |     2509 | 2024-04-25 | RED Canids        | L   | 0.548      | -            | -                | -                | -         |    -5.86 | luchov, meyern, naz, Noktse, tomaszin  |
-|           34 |     2511 | 2024-04-25 | RED Canids        | L   | 0.548      | -            | -                | -                | -         |    -6.13 | luchov, meyern, naz, Noktse, tomaszin  |
-|           33 |     2785 | 2024-04-16 | O PLANO           | L   | 0.489      | -            | -                | -                | -         |   -14.16 | luchov, meyern, naz, Noktse, tomaszin  |
-|           32 |     2884 | 2024-04-11 | Galorys           | L   | 0.453      | -            | -                | -                | -         |    -8.08 | luchov, meyern, naz, Noktse, tomaszin  |
-|           31 |     2966 | 2024-04-09 | Galorys           | L   | 0.442      | -            | -                | -                | -         |    -8.15 | luchov, meyern, naz, Noktse, tomaszin  |
-|           30 |     2971 | 2024-04-09 | Galorys           | W   | 0.441      | -            | -                | -                | -         |     5.86 | luchov, meyern, naz, Noktse, tomaszin  |
-|           29 |     3007 | 2024-04-08 | RED Canids        | L   | 0.435      | -            | -                | -                | -         |    -5.64 | luchov, meyern, naz, Noktse, tomaszin  |
-|           28 |     3050 | 2024-04-07 | Sharks            | L   | 0.426      | -            | -                | -                | -         |   -10.39 | luchov, meyern, naz, Noktse, tomaszin  |
-|           27 |     3058 | 2024-04-06 | Fluxo             | W   | 0.422      | -            | -                | -                | -         |     8.16 | luchov, meyern, naz, Noktse, tomaszin  |
-|           26 |     3095 | 2024-04-04 | adalYamigos       | L   | 0.409      | -            | -                | -                | -         |   -11.16 | luchov, meyern, naz, Noktse, tomaszin  |
-|           25 |     3104 | 2024-04-04 | adalYamigos       | W   | 0.408      | -            | -                | -                | -         |     1.70 | luchov, meyern, naz, Noktse, tomaszin  |
-|           24 |     3112 | 2024-04-04 | Imperial          | L   | 0.407      | -            | -                | -                | -         |    -2.12 | luchov, meyern, naz, Noktse, tomaszin  |
-|           23 |     3151 | 2024-04-03 | Fluxo             | L   | 0.401      | -            | -                | -                | -         |    -5.25 | luchov, meyern, naz, Noktse, tomaszin  |
-|           22 |     3193 | 2024-04-02 | Sharks            | W   | 0.395      | -            | -                | -                | -         |     2.59 | luchov, meyern, naz, Noktse, tomaszin  |
-|           21 |     3198 | 2024-04-02 | Fluxo             | L   | 0.394      | -            | -                | -                | -         |    -5.27 | luchov, meyern, naz, Noktse, tomaszin  |
-|           20 |     3287 | 2024-03-27 | W7M               | L   | 0.355      | -            | -                | -                | -         |    -7.98 | luchov, meyern, naz, Noktse, tomaszin  |
-|           19 |     3292 | 2024-03-27 | W7M               | W   | 0.355      | -            | -                | -                | -         |     3.24 | luchov, meyern, naz, Noktse, tomaszin  |
-|           18 |     3612 | 2024-03-12 | RED Canids        | L   | 0.253      | -            | -                | -                | -         |    -3.83 | deco, luchov, meyern, Noktse, tomaszin |
-|           17 |     3622 | 2024-03-11 | FURIA Academy     | W   | 0.248      | -            | -                | -                | -         |     0.46 | deco, luchov, meyern, Noktse, tomaszin |
-|           16 |     3645 | 2024-03-10 | adalYamigos       | L   | 0.242      | -            | -                | -                | -         |    -6.83 | deco, luchov, meyern, Noktse, tomaszin |
-|           15 |     3694 | 2024-03-08 | FURIA Academy     | W   | 0.228      | -            | -                | -                | -         |     0.41 | deco, luchov, meyern, Noktse, tomaszin |
-|           14 |     3864 | 2024-03-02 | Wildcard          | L   | 0.187      | -            | -                | -                | -         |    -3.80 | deco, luchov, meyern, Noktse, tomaszin |
-|           13 |     3882 | 2024-03-01 | Liquid            | L   | 0.181      | -            | -                | -                | -         |    -0.33 | deco, luchov, meyern, Noktse, tomaszin |
-|           12 |     4009 | 2024-02-24 | Imperial          | L   | 0.140      | -            | -                | -                | -         |    -0.86 | deco, luchov, meyern, Noktse, tomaszin |
-|           11 |     4030 | 2024-02-23 | 9z                | L   | 0.134      | -            | -                | -                | -         |    -1.02 | deco, luchov, meyern, Noktse, tomaszin |
-|           10 |     4042 | 2024-02-22 | Imperial          | W   | 0.128      | -            | -                | -                | -         |     3.25 | deco, luchov, meyern, Noktse, tomaszin |
-|            9 |     4050 | 2024-02-22 | 9z                | L   | 0.127      | -            | -                | -                | -         |    -0.96 | deco, luchov, meyern, Noktse, tomaszin |
-|            8 |     4073 | 2024-02-21 | W7M               | W   | 0.120      | -            | -                | -                | -         |     1.12 | deco, luchov, meyern, Noktse, tomaszin |
-|            7 |     4150 | 2024-02-18 | FURIA Academy     | W   | 0.100      | -            | -                | -                | -         |     0.17 | deco, luchov, meyern, Noktse, tomaszin |
-|            6 |     4195 | 2024-02-16 | Case              | L   | 0.088      | -            | -                | -                | -         |    -1.67 | deco, luchov, meyern, Noktse, tomaszin |
-|            5 |     4302 | 2024-02-13 | MIBR              | W   | 0.068      | -            | -                | -                | -         |     1.95 | deco, luchov, meyern, Noktse, tomaszin |
-|            4 |     4303 | 2024-02-13 | MIBR              | W   | 0.068      | -            | -                | -                | -         |     1.95 | deco, luchov, meyern, Noktse, tomaszin |
-|            3 |     4308 | 2024-02-13 | paiN              | W   | 0.068      | -            | -                | -                | -         |     1.88 | deco, luchov, meyern, Noktse, tomaszin |
-|            2 |     4309 | 2024-02-13 | paiN              | W   | 0.068      | -            | -                | -                | -         |     1.88 | deco, luchov, meyern, Noktse, tomaszin |
-|            1 |     4322 | 2024-02-12 | FURIA Academy     | W   | 0.062      | -            | -                | -                | -         |     0.11 | deco, luchov, meyern, Noktse, tomaszin |
+|          100 |       75 | 2024-07-30 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -23.37 | luchov, naz, Noktse, tomaszin, zock    |
+|           99 |       81 | 2024-07-30 | Galorys           | W   | 1.000      | 0.450        | -                | 0.568 (0.256)    | 0 (0.000) |     7.63 | luchov, naz, Noktse, tomaszin, zock    |
+|           98 |       89 | 2024-07-30 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.67 | luchov, naz, Noktse, tomaszin, zock    |
+|           97 |      116 | 2024-07-29 | Intense           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.61 | luchov, naz, Noktse, tomaszin, zock    |
+|           96 |      145 | 2024-07-28 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.68 | luchov, naz, Noktse, tomaszin, zock    |
+|           95 |      227 | 2024-07-25 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -15.87 | luchov, naz, Noktse, tomaszin, zock    |
+|           94 |      235 | 2024-07-25 | Bad News Chickens | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.12 | luchov, naz, Noktse, tomaszin, zock    |
+|           93 |      304 | 2024-07-23 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.30 | luchov, naz, Noktse, tomaszin, zock    |
+|           92 |      309 | 2024-07-23 | Hype              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.63 | luchov, naz, Noktse, tomaszin, zock    |
+|           91 |      345 | 2024-07-22 | Fluxo             | W   | 1.000      | 0.384        | 0.122 (0.047)    | 0.702 (0.270)    | 0 (0.000) |    23.65 | luchov, naz, Noktse, tomaszin, zock    |
+|           90 |      371 | 2024-07-21 | RED Canids        | W   | 1.000      | 0.384        | -                | 0.754 (0.290)    | 0 (0.000) |    23.03 | luchov, naz, Noktse, tomaszin, zock    |
+|           89 |      429 | 2024-07-19 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    12.55 | luchov, naz, Noktse, tomaszin, zock    |
+|           88 |      441 | 2024-07-19 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -19.61 | luchov, naz, Noktse, tomaszin, zock    |
+|           87 |      486 | 2024-07-18 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -6.45 | luchov, naz, Noktse, tomaszin, zock    |
+|           86 |      488 | 2024-07-18 | Amigos de T2M4SS  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.21 | luchov, naz, Noktse, tomaszin, zock    |
+|           85 |      500 | 2024-07-18 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.82 | luchov, naz, Noktse, tomaszin, zock    |
+|           84 |      548 | 2024-07-17 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.14 | luchov, naz, Noktse, tomaszin, zock    |
+|           83 |      552 | 2024-07-17 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.84 | luchov, naz, Noktse, tomaszin, zock    |
+|           82 |      562 | 2024-07-17 | Vikings KR        | W   | 1.000      | -            | -                | -                | -         |     9.60 | luchov, naz, Noktse, tomaszin, zock    |
+|           81 |      614 | 2024-07-16 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.66 | luchov, naz, Noktse, tomaszin, zock    |
+|           80 |      618 | 2024-07-16 | ODDIK             | W   | 1.000      | 0.450        | 0.096 (0.043)    | 0.822 (0.370)    | -         |    19.12 | luchov, naz, Noktse, tomaszin, zock    |
+|           79 |      627 | 2024-07-16 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.09 | luchov, naz, Noktse, tomaszin, zock    |
+|           78 |      680 | 2024-07-15 | Vikings KR        | W   | 1.000      | -            | -                | -                | -         |     8.90 | luchov, naz, Noktse, tomaszin, zock    |
+|           77 |      714 | 2024-07-13 | Intense           | W   | 1.000      | -            | -                | -                | -         |     4.14 | luchov, naz, Noktse, tomaszin, zock    |
+|           76 |      727 | 2024-07-12 | SPORT             | L   | 1.000      | -            | -                | -                | -         |   -25.88 | luchov, naz, Noktse, tomaszin, zock    |
+|           75 |      758 | 2024-07-10 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -17.06 | luchov, naz, Noktse, tomaszin, zock    |
+|           74 |      786 | 2024-07-09 | SPORT             | W   | 1.000      | -            | -                | -                | -         |     4.62 | luchov, naz, Noktse, tomaszin, zock    |
+|           73 |      801 | 2024-07-08 | Intense           | W   | 1.000      | -            | -                | -                | -         |     3.46 | luchov, naz, Noktse, tomaszin, zock    |
+|           72 |      809 | 2024-07-08 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |   -19.13 | luchov, naz, Noktse, tomaszin, zock    |
+|           71 |     1062 | 2024-06-10 | paiN              | L   | 0.855      | -            | -                | -                | -         |    -5.82 | luchov, meyern, naz, Noktse, tomaszin  |
+|           70 |     1068 | 2024-06-10 | Bounty Hunters    | W   | 0.853      | -            | -                | -                | -         |     9.21 | luchov, meyern, naz, Noktse, tomaszin  |
+|           69 |     1096 | 2024-06-09 | RED Canids        | W   | 0.848      | 0.371        | -                | 0.754 (0.237)    | -         |    15.26 | luchov, meyern, naz, Noktse, tomaszin  |
+|           68 |     1124 | 2024-06-09 | Sharks            | L   | 0.846      | -            | -                | -                | -         |   -13.09 | luchov, meyern, naz, Noktse, tomaszin  |
+|           67 |     1165 | 2024-06-08 | Solid             | W   | 0.841      | 0.371        | -                | 0.844 (0.263)    | -         |     8.30 | luchov, meyern, naz, Noktse, tomaszin  |
+|           66 |     1180 | 2024-06-08 | Vikings KR        | L   | 0.840      | -            | -                | -                | -         |   -20.79 | luchov, meyern, naz, Noktse, tomaszin  |
+|           65 |     1233 | 2024-06-07 | ODDIK             | W   | 0.834      | 0.450        | 0.096 (0.036)    | 0.822 (0.309)    | -         |     9.44 | luchov, meyern, naz, Noktse, tomaszin  |
+|           64 |     1295 | 2024-06-06 | inSanitY          | L   | 0.827      | -            | -                | -                | -         |   -16.60 | luchov, meyern, naz, Noktse, tomaszin  |
+|           63 |     1357 | 2024-06-05 | MIBR              | L   | 0.821      | -            | -                | -                | -         |    -3.36 | luchov, meyern, naz, Noktse, tomaszin  |
+|           62 |     1410 | 2024-06-04 | Sharks            | L   | 0.815      | -            | -                | -                | -         |   -14.36 | luchov, meyern, naz, Noktse, tomaszin  |
+|           61 |     1727 | 2024-05-22 | Case              | W   | 0.728      | -            | -                | -                | -         |     7.25 | luchov, meyern, naz, Noktse, tomaszin  |
+|           60 |     1733 | 2024-05-22 | Case              | W   | 0.728      | -            | -                | -                | -         |     7.67 | luchov, meyern, naz, Noktse, tomaszin  |
+|           59 |     1735 | 2024-05-22 | Fluxo             | W   | 0.727      | 0.450        | 0.122 (0.040)    | -                | -         |    12.65 | luchov, meyern, naz, Noktse, tomaszin  |
+|           58 |     1738 | 2024-05-22 | Fluxo             | W   | 0.727      | 0.450        | 0.122 (0.040)    | -                | -         |    13.47 | luchov, meyern, naz, Noktse, tomaszin  |
+|           57 |     1786 | 2024-05-21 | Smoke             | W   | 0.721      | -            | -                | -                | -         |     4.55 | luchov, meyern, naz, Noktse, tomaszin  |
+|           56 |     1789 | 2024-05-21 | Smoke             | W   | 0.721      | -            | -                | -                | -         |     4.74 | luchov, meyern, naz, Noktse, tomaszin  |
+|           55 |     1794 | 2024-05-21 | Imperial          | W   | 0.721      | 0.450        | 0.239 (0.078)    | -                | -         |    18.80 | luchov, meyern, naz, Noktse, tomaszin  |
+|           54 |     1795 | 2024-05-21 | Imperial          | W   | 0.720      | 0.450        | 0.239 (0.078)    | -                | -         |    19.43 | luchov, meyern, naz, Noktse, tomaszin  |
+|           53 |     1826 | 2024-05-20 | Corinthians       | W   | 0.715      | -            | -                | -                | -         |     1.49 | luchov, meyern, naz, Noktse, tomaszin  |
+|           52 |     1830 | 2024-05-20 | Corinthians       | W   | 0.714      | -            | -                | -                | -         |     1.51 | luchov, meyern, naz, Noktse, tomaszin  |
+|           51 |     1832 | 2024-05-20 | 9z                | W   | 0.714      | 0.450        | 0.138 (0.044)    | -                | -         |    17.31 | luchov, meyern, naz, Noktse, tomaszin  |
+|           50 |     1835 | 2024-05-20 | 9z                | L   | 0.714      | -            | -                | -                | -         |    -5.06 | luchov, meyern, naz, Noktse, tomaszin  |
+|           49 |     1926 | 2024-05-17 | Solid             | L   | 0.695      | -            | -                | -                | -         |   -13.54 | luchov, meyern, naz, Noktse, tomaszin  |
+|           48 |     1927 | 2024-05-17 | Solid             | W   | 0.695      | 0.450        | -                | 0.844 (0.264)    | -         |     8.40 | luchov, meyern, naz, Noktse, tomaszin  |
+|           47 |     2011 | 2024-05-15 | ODDIK             | W   | 0.681      | 0.450        | 0.096 (0.029)    | 0.822 (0.252)    | -         |    10.96 | luchov, meyern, naz, Noktse, tomaszin  |
+|           46 |     2012 | 2024-05-15 | ODDIK             | W   | 0.681      | 0.450        | -                | 0.822 (0.252)    | -         |    11.63 | luchov, meyern, naz, Noktse, tomaszin  |
+|           45 |     2022 | 2024-05-15 | Hype              | L   | 0.680      | -            | -                | -                | -         |   -12.39 | luchov, meyern, naz, Noktse, tomaszin  |
+|           44 |     2079 | 2024-05-14 | Imperial          | L   | 0.674      | -            | -                | -                | -         |    -3.22 | luchov, meyern, naz, Noktse, tomaszin  |
+|           43 |     2089 | 2024-05-14 | RED Canids        | L   | 0.673      | -            | -                | -                | -         |    -8.03 | luchov, meyern, naz, Noktse, tomaszin  |
+|           42 |     2132 | 2024-05-12 | Solid             | W   | 0.661      | -            | -                | -                | -         |     8.29 | luchov, meyern, naz, Noktse, tomaszin  |
+|           41 |     2139 | 2024-05-12 | O PLANO           | W   | 0.660      | -            | -                | -                | -         |     1.71 | luchov, meyern, naz, Noktse, tomaszin  |
+|           40 |     2166 | 2024-05-11 | paiN              | L   | 0.653      | -            | -                | -                | -         |    -2.14 | luchov, meyern, naz, Noktse, tomaszin  |
+|           39 |     2190 | 2024-05-10 | Imperial          | W   | 0.647      | 0.435        | 0.239 (0.067)    | -                | -         |    17.55 | luchov, meyern, naz, Noktse, tomaszin  |
+|           38 |     2209 | 2024-05-09 | Sharks            | W   | 0.641      | -            | -                | -                | -         |    11.28 | luchov, meyern, naz, Noktse, tomaszin  |
+|           37 |     2238 | 2024-05-08 | Vikings KR        | W   | 0.633      | -            | -                | -                | -         |     7.21 | luchov, meyern, naz, Noktse, tomaszin  |
+|           36 |     2269 | 2024-05-06 | Sharks            | L   | 0.621      | -            | -                | -                | -         |    -8.43 | luchov, meyern, naz, Noktse, tomaszin  |
+|           35 |     2511 | 2024-04-25 | RED Canids        | L   | 0.548      | -            | -                | -                | -         |    -5.86 | luchov, meyern, naz, Noktse, tomaszin  |
+|           34 |     2513 | 2024-04-25 | RED Canids        | L   | 0.548      | -            | -                | -                | -         |    -6.12 | luchov, meyern, naz, Noktse, tomaszin  |
+|           33 |     2787 | 2024-04-16 | O PLANO           | L   | 0.488      | -            | -                | -                | -         |   -14.15 | luchov, meyern, naz, Noktse, tomaszin  |
+|           32 |     2886 | 2024-04-11 | Galorys           | L   | 0.453      | -            | -                | -                | -         |    -8.08 | luchov, meyern, naz, Noktse, tomaszin  |
+|           31 |     2968 | 2024-04-09 | Galorys           | L   | 0.441      | -            | -                | -                | -         |    -8.15 | luchov, meyern, naz, Noktse, tomaszin  |
+|           30 |     2973 | 2024-04-09 | Galorys           | W   | 0.441      | -            | -                | -                | -         |     5.86 | luchov, meyern, naz, Noktse, tomaszin  |
+|           29 |     3009 | 2024-04-08 | RED Canids        | L   | 0.434      | -            | -                | -                | -         |    -5.63 | luchov, meyern, naz, Noktse, tomaszin  |
+|           28 |     3052 | 2024-04-07 | Sharks            | L   | 0.426      | -            | -                | -                | -         |   -10.39 | luchov, meyern, naz, Noktse, tomaszin  |
+|           27 |     3060 | 2024-04-06 | Fluxo             | W   | 0.421      | -            | -                | -                | -         |     8.16 | luchov, meyern, naz, Noktse, tomaszin  |
+|           26 |     3097 | 2024-04-04 | adalYamigos       | L   | 0.408      | -            | -                | -                | -         |   -11.15 | luchov, meyern, naz, Noktse, tomaszin  |
+|           25 |     3106 | 2024-04-04 | adalYamigos       | W   | 0.408      | -            | -                | -                | -         |     1.70 | luchov, meyern, naz, Noktse, tomaszin  |
+|           24 |     3114 | 2024-04-04 | Imperial          | L   | 0.407      | -            | -                | -                | -         |    -2.12 | luchov, meyern, naz, Noktse, tomaszin  |
+|           23 |     3153 | 2024-04-03 | Fluxo             | L   | 0.400      | -            | -                | -                | -         |    -5.25 | luchov, meyern, naz, Noktse, tomaszin  |
+|           22 |     3195 | 2024-04-02 | Sharks            | W   | 0.395      | -            | -                | -                | -         |     2.58 | luchov, meyern, naz, Noktse, tomaszin  |
+|           21 |     3200 | 2024-04-02 | Fluxo             | L   | 0.394      | -            | -                | -                | -         |    -5.27 | luchov, meyern, naz, Noktse, tomaszin  |
+|           20 |     3289 | 2024-03-27 | W7M               | L   | 0.355      | -            | -                | -                | -         |    -7.97 | luchov, meyern, naz, Noktse, tomaszin  |
+|           19 |     3294 | 2024-03-27 | W7M               | W   | 0.355      | -            | -                | -                | -         |     3.24 | luchov, meyern, naz, Noktse, tomaszin  |
+|           18 |     3614 | 2024-03-12 | RED Canids        | L   | 0.253      | -            | -                | -                | -         |    -3.83 | deco, luchov, meyern, Noktse, tomaszin |
+|           17 |     3624 | 2024-03-11 | FURIA Academy     | W   | 0.248      | -            | -                | -                | -         |     0.46 | deco, luchov, meyern, Noktse, tomaszin |
+|           16 |     3647 | 2024-03-10 | adalYamigos       | L   | 0.242      | -            | -                | -                | -         |    -6.82 | deco, luchov, meyern, Noktse, tomaszin |
+|           15 |     3696 | 2024-03-08 | FURIA Academy     | W   | 0.228      | -            | -                | -                | -         |     0.40 | deco, luchov, meyern, Noktse, tomaszin |
+|           14 |     3866 | 2024-03-02 | Wildcard          | L   | 0.187      | -            | -                | -                | -         |    -3.80 | deco, luchov, meyern, Noktse, tomaszin |
+|           13 |     3884 | 2024-03-01 | Liquid            | L   | 0.181      | -            | -                | -                | -         |    -0.33 | deco, luchov, meyern, Noktse, tomaszin |
+|           12 |     4011 | 2024-02-24 | Imperial          | L   | 0.140      | -            | -                | -                | -         |    -0.86 | deco, luchov, meyern, Noktse, tomaszin |
+|           11 |     4032 | 2024-02-23 | 9z                | L   | 0.134      | -            | -                | -                | -         |    -1.02 | deco, luchov, meyern, Noktse, tomaszin |
+|           10 |     4044 | 2024-02-22 | Imperial          | W   | 0.128      | -            | -                | -                | -         |     3.24 | deco, luchov, meyern, Noktse, tomaszin |
+|            9 |     4052 | 2024-02-22 | 9z                | L   | 0.127      | -            | -                | -                | -         |    -0.96 | deco, luchov, meyern, Noktse, tomaszin |
+|            8 |     4075 | 2024-02-21 | W7M               | W   | 0.120      | -            | -                | -                | -         |     1.12 | deco, luchov, meyern, Noktse, tomaszin |
+|            7 |     4152 | 2024-02-18 | FURIA Academy     | W   | 0.100      | -            | -                | -                | -         |     0.17 | deco, luchov, meyern, Noktse, tomaszin |
+|            6 |     4197 | 2024-02-16 | Case              | L   | 0.088      | -            | -                | -                | -         |    -1.66 | deco, luchov, meyern, Noktse, tomaszin |
+|            5 |     4304 | 2024-02-13 | MIBR              | W   | 0.068      | -            | -                | -                | -         |     1.94 | deco, luchov, meyern, Noktse, tomaszin |
+|            4 |     4305 | 2024-02-13 | MIBR              | W   | 0.068      | -            | -                | -                | -         |     1.94 | deco, luchov, meyern, Noktse, tomaszin |
+|            3 |     4310 | 2024-02-13 | paiN              | W   | 0.068      | -            | -                | -                | -         |     1.87 | deco, luchov, meyern, Noktse, tomaszin |
+|            2 |     4311 | 2024-02-13 | paiN              | W   | 0.068      | -            | -                | -                | -         |     1.88 | deco, luchov, meyern, Noktse, tomaszin |
+|            1 |     4324 | 2024-02-12 | FURIA Academy     | W   | 0.061      | -            | -                | -                | -         |     0.11 | deco, luchov, meyern, Noktse, tomaszin |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($29,156.57)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- First, take the sum of their top 10 scaled winnings ($29,152.13)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.09) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -151,10 +151,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-22 |      1.000 | $20,000.00     | $20,000.00      |
-| 2024-06-10 |      0.855 | $4,000.00      | $3,419.54       |
-| 2024-06-09 |      0.848 | $2,000.00      | $1,695.37       |
-| 2024-05-12 |      0.661 | $5,000.00      | $3,304.17       |
-| 2024-02-25 |      0.147 | $5,000.00      | $737.50         |
+| 2024-06-10 |      0.855 | $4,000.00      | $3,418.43       |
+| 2024-06-09 |      0.847 | $2,000.00      | $1,694.81       |
+| 2024-05-12 |      0.661 | $5,000.00      | $3,302.78       |
+| 2024-02-25 |      0.147 | $5,000.00      | $736.11         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

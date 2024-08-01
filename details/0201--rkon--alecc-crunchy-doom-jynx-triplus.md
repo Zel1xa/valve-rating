@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3188 | 2024-04-03 | Rooster     | L   | 0.398      | -            | -                | -                | -         |    -2.12 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|           11 |     3189 | 2024-04-03 | Rooster     | L   | 0.398      | -            | -                | -                | -         |    -2.16 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|           10 |     3309 | 2024-03-27 | DXA         | W   | 0.352      | 0.333        | 0.002 (0.000)    | 0.228 (0.027)    | 0 (0.000) |     8.10 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|            9 |     3314 | 2024-03-27 | DXA         | L   | 0.351      | -            | -                | -                | -         |    -3.00 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|            8 |     3590 | 2024-03-13 | KZG         | W   | 0.258      | 0.333        | 0.006 (0.000)    | 0.113 (0.010)    | 0 (0.000) |     6.06 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|            7 |     3597 | 2024-03-13 | KZG         | L   | 0.258      | -            | -                | -                | -         |    -2.09 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|            6 |     3947 | 2024-02-27 | Vantage     | L   | 0.158      | -            | -                | -                | -         |    -1.54 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            5 |     3949 | 2024-02-27 | Vantage     | W   | 0.158      | 0.333        | 0.002 (0.000)    | 0.075 (0.004)    | 0 (0.000) |     3.47 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            4 |     4086 | 2024-02-21 | Canon Event | W   | 0.118      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.91 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            3 |     4089 | 2024-02-21 | Canon Event | W   | 0.118      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.93 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            2 |     4119 | 2024-02-20 | Mindfreak   | L   | 0.111      | -            | -                | -                | -         |    -0.92 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            1 |     4320 | 2024-02-13 | KZG         | L   | 0.064      | -            | -                | -                | -         |    -0.48 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
+|           12 |     3190 | 2024-04-03 | Rooster     | L   | 0.397      | -            | -                | -                | -         |    -2.12 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|           11 |     3191 | 2024-04-03 | Rooster     | L   | 0.397      | -            | -                | -                | -         |    -2.16 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|           10 |     3311 | 2024-03-27 | DXA         | W   | 0.351      | 0.333        | 0.002 (0.000)    | 0.228 (0.027)    | 0 (0.000) |     8.09 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|            9 |     3316 | 2024-03-27 | DXA         | L   | 0.351      | -            | -                | -                | -         |    -3.00 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|            8 |     3592 | 2024-03-13 | KZG         | W   | 0.258      | 0.333        | 0.006 (0.000)    | 0.113 (0.010)    | 0 (0.000) |     6.05 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|            7 |     3599 | 2024-03-13 | KZG         | L   | 0.258      | -            | -                | -                | -         |    -2.09 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|            6 |     3949 | 2024-02-27 | Vantage     | L   | 0.158      | -            | -                | -                | -         |    -1.53 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            5 |     3951 | 2024-02-27 | Vantage     | W   | 0.158      | 0.333        | 0.002 (0.000)    | 0.074 (0.004)    | 0 (0.000) |     3.47 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            4 |     4088 | 2024-02-21 | Canon Event | W   | 0.118      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.91 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            3 |     4091 | 2024-02-21 | Canon Event | W   | 0.118      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.93 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            2 |     4121 | 2024-02-20 | Mindfreak   | L   | 0.111      | -            | -                | -                | -         |    -0.92 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            1 |     4322 | 2024-02-13 | KZG         | L   | 0.064      | -            | -                | -                | -         |    -0.48 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

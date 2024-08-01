@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     1462 | 2024-06-02 | Imperial fe       | L   | 0.801      | -            | -                | -                | -         |    -8.17 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           15 |     1466 | 2024-06-02 | HSG fe            | W   | 0.800      | 0.524        | 0.032 (0.013)    | 0.070 (0.030)    | 1 (0.800) |     9.92 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           14 |     1524 | 2024-05-31 | panelinha         | W   | 0.788      | 0.524        | 0.033 (0.013)    | 0.158 (0.065)    | 1 (0.788) |    10.86 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           13 |     1530 | 2024-05-31 | NAVI Javelins     | W   | 0.787      | 0.524        | 0.027 (0.011)    | 0.210 (0.087)    | 1 (0.787) |    11.58 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           12 |     2625 | 2024-04-20 | ex-GUILD fe       | W   | 0.513      | 0.331        | 0.003 (0.000)    | 0.066 (0.011)    | 0 (0.000) |     3.47 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           11 |     2663 | 2024-04-19 | Spirit fe         | W   | 0.507      | 0.331        | 0.005 (0.001)    | 0.101 (0.017)    | 0 (0.000) |     3.08 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
-|           10 |     2864 | 2024-04-12 | NAVI Javelins     | L   | 0.459      | -            | -                | -                | -         |    -8.66 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            9 |     2885 | 2024-04-11 | NIP Impact        | L   | 0.453      | -            | -                | -                | -         |   -10.62 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            8 |     2930 | 2024-04-10 | 1WIN Gang         | L   | 0.447      | -            | -                | -                | -         |   -11.57 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            7 |     2986 | 2024-04-09 | Spirit fe         | W   | 0.440      | 0.303        | 0.005 (0.001)    | 0.101 (0.014)    | 0 (0.000) |     2.49 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            6 |     3070 | 2024-04-06 | Fearless Cheetahs | L   | 0.418      | -            | -                | -                | -         |   -10.39 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            5 |     3158 | 2024-04-03 | NAVI Javelins     | W   | 0.400      | 0.331        | 0.027 (0.004)    | 0.210 (0.028)    | 0 (0.000) |     4.63 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
-|            4 |     3389 | 2024-03-21 | Fearless Cheetahs | L   | 0.314      | -            | -                | -                | -         |    -7.96 | Joanana, kezziwow, meli, RacheLL, suns1de  |
-|            3 |     3576 | 2024-03-13 | Crescent fe       | W   | 0.260      | 0.331        | 0.005 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     1.48 | Joanana, kezziwow, meli, RacheLL, suns1de  |
-|            2 |     3985 | 2024-02-25 | BIG EQUIPA        | L   | 0.145      | -            | -                | -                | -         |    -3.27 | Joanana, kezziwow, meli, RacheLL, suns1de  |
-|            1 |     4019 | 2024-02-24 | Nemesis fe        | W   | 0.139      | 0.238        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.20 | Joanana, kezziwow, meli, RacheLL, suns1de  |
+|           16 |     1464 | 2024-06-02 | Imperial fe       | L   | 0.801      | -            | -                | -                | -         |    -8.16 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           15 |     1468 | 2024-06-02 | HSG fe            | W   | 0.800      | 0.524        | 0.032 (0.013)    | 0.070 (0.030)    | 1 (0.800) |     9.91 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           14 |     1526 | 2024-05-31 | panelinha         | W   | 0.788      | 0.524        | 0.033 (0.013)    | 0.158 (0.065)    | 1 (0.788) |    10.86 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           13 |     1532 | 2024-05-31 | NAVI Javelins     | W   | 0.787      | 0.524        | 0.027 (0.011)    | 0.210 (0.087)    | 1 (0.787) |    11.57 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           12 |     2627 | 2024-04-20 | ex-GUILD fe       | W   | 0.512      | 0.331        | 0.003 (0.000)    | 0.066 (0.011)    | 0 (0.000) |     3.47 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           11 |     2665 | 2024-04-19 | Spirit fe         | W   | 0.507      | 0.331        | 0.005 (0.001)    | 0.101 (0.017)    | 0 (0.000) |     3.08 | ASTRA, Joanana, ManeschijnX, meli, RacheLL |
+|           10 |     2866 | 2024-04-12 | NAVI Javelins     | L   | 0.459      | -            | -                | -                | -         |    -8.66 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            9 |     2887 | 2024-04-11 | NIP Impact        | L   | 0.453      | -            | -                | -                | -         |   -10.61 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            8 |     2932 | 2024-04-10 | 1WIN Gang         | L   | 0.447      | -            | -                | -                | -         |   -11.56 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            7 |     2988 | 2024-04-09 | Spirit fe         | W   | 0.440      | 0.303        | 0.005 (0.001)    | 0.101 (0.013)    | 0 (0.000) |     2.49 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            6 |     3072 | 2024-04-06 | Fearless Cheetahs | L   | 0.418      | -            | -                | -                | -         |   -10.38 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            5 |     3160 | 2024-04-03 | NAVI Javelins     | W   | 0.400      | 0.331        | 0.027 (0.004)    | 0.210 (0.028)    | 0 (0.000) |     4.63 | ASTRA, Joanana, kezziwow, meli, RacheLL    |
+|            4 |     3391 | 2024-03-21 | Fearless Cheetahs | L   | 0.313      | -            | -                | -                | -         |    -7.95 | Joanana, kezziwow, meli, RacheLL, suns1de  |
+|            3 |     3578 | 2024-03-13 | Crescent fe       | W   | 0.260      | 0.331        | 0.005 (0.000)    | 0.079 (0.007)    | 0 (0.000) |     1.48 | Joanana, kezziwow, meli, RacheLL, suns1de  |
+|            2 |     3987 | 2024-02-25 | BIG EQUIPA        | L   | 0.145      | -            | -                | -                | -         |    -3.27 | Joanana, kezziwow, meli, RacheLL, suns1de  |
+|            1 |     4021 | 2024-02-24 | Nemesis fe        | W   | 0.139      | 0.238        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.20 | Joanana, kezziwow, meli, RacheLL, suns1de  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($20,027.78)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- First, take the sum of their top 10 scaled winnings ($20,020.83)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.06) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

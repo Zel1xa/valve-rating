@@ -37,45 +37,45 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      382 | 2024-07-21 | France fe         | L   | 1.000      | -            | -                | -                | -         |   -17.70 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           20 |      415 | 2024-07-20 | YeYO              | W   | 1.000      | 0.294        | 0.001 (0.000)    | -                | 0 (0.000) |     7.06 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           19 |      896 | 2024-06-16 | dream catchers fe | W   | 0.893      | 0.250        | 0.016 (0.004)    | 0.170 (0.038)    | 0 (0.000) |    13.79 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           18 |     1648 | 2024-05-26 | Crescent fe       | L   | 0.753      | -            | -                | -                | -         |   -14.50 | Nayomy, Qiyarah, ramziiN, spike, vilga |
-|           17 |     1881 | 2024-05-19 | Imperial fe       | L   | 0.705      | -            | -                | -                | -         |    -3.13 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           16 |     1904 | 2024-05-18 | ex-GUILD fe       | W   | 0.699      | 0.281        | 0.003 (0.001)    | 0.066 (0.013)    | 0 (0.000) |     9.27 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           15 |     2462 | 2024-04-27 | Imperial fe       | L   | 0.559      | -            | -                | -                | -         |    -2.49 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           14 |     2468 | 2024-04-27 | ENCE Athena       | W   | 0.559      | 0.252        | 0.002 (0.000)    | 0.038 (0.005)    | 0 (0.000) |     6.71 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           13 |     2661 | 2024-04-19 | BIG EQUIPA        | L   | 0.507      | -            | -                | -                | -         |    -6.84 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           12 |     2817 | 2024-04-15 | NAVI Javelins     | L   | 0.480      | -            | -                | -                | -         |    -5.38 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           11 |     2830 | 2024-04-14 | Imperial fe       | L   | 0.473      | -            | -                | -                | -         |    -2.13 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           10 |     2843 | 2024-04-13 | Astralis W        | W   | 0.467      | 0.303        | 0.001 (0.000)    | 0.022 (0.003)    | 0 (0.000) |     5.11 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            9 |     2885 | 2024-04-11 | Let Her Cook      | W   | 0.453      | 0.303        | 0.061 (0.008)    | 0.146 (0.020)    | 0 (0.000) |    10.62 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            8 |     2929 | 2024-04-10 | ex-GUILD fe       | L   | 0.447      | -            | -                | -                | -         |    -8.24 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            7 |     2990 | 2024-04-09 | NAVI Javelins     | W   | 0.439      | 0.303        | 0.027 (0.004)    | 0.210 (0.028)    | 0 (0.000) |     8.99 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            6 |     3049 | 2024-04-07 | Imperial fe       | L   | 0.426      | -            | -                | -                | -         |    -1.86 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            5 |     3054 | 2024-04-07 | Fearless Cheetahs | W   | 0.425      | 0.262        | 0.003 (0.000)    | 0.067 (0.007)    | 0 (0.000) |     6.47 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            4 |     3067 | 2024-04-06 | ex-GUILD fe       | W   | 0.419      | 0.262        | 0.003 (0.000)    | 0.066 (0.007)    | 0 (0.000) |     5.81 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            3 |     3160 | 2024-04-03 | Astralis W        | W   | 0.400      | 0.331        | -                | 0.022 (0.003)    | 0 (0.000) |     4.78 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            2 |     3419 | 2024-03-20 | ENCE Athena       | W   | 0.307      | 0.331        | 0.002 (0.000)    | 0.038 (0.004)    | -         |     4.11 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            1 |     3722 | 2024-03-07 | Imperial fe       | L   | 0.220      | -            | -                | -                | -         |    -0.91 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           21 |      384 | 2024-07-21 | France fe         | L   | 1.000      | -            | -                | -                | -         |   -17.70 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           20 |      417 | 2024-07-20 | YeYO              | W   | 1.000      | 0.294        | 0.001 (0.000)    | -                | 0 (0.000) |     7.06 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           19 |      898 | 2024-06-16 | dream catchers fe | W   | 0.893      | 0.250        | 0.016 (0.004)    | 0.170 (0.038)    | 0 (0.000) |    13.79 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           18 |     1650 | 2024-05-26 | Crescent fe       | L   | 0.753      | -            | -                | -                | -         |   -14.50 | Nayomy, Qiyarah, ramziiN, spike, vilga |
+|           17 |     1883 | 2024-05-19 | Imperial fe       | L   | 0.705      | -            | -                | -                | -         |    -3.13 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           16 |     1906 | 2024-05-18 | ex-GUILD fe       | W   | 0.699      | 0.281        | 0.003 (0.001)    | 0.066 (0.013)    | 0 (0.000) |     9.26 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           15 |     2464 | 2024-04-27 | Imperial fe       | L   | 0.559      | -            | -                | -                | -         |    -2.49 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           14 |     2470 | 2024-04-27 | ENCE Athena       | W   | 0.559      | 0.252        | 0.002 (0.000)    | 0.038 (0.005)    | 0 (0.000) |     6.71 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           13 |     2663 | 2024-04-19 | BIG EQUIPA        | L   | 0.507      | -            | -                | -                | -         |    -6.83 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           12 |     2819 | 2024-04-15 | NAVI Javelins     | L   | 0.480      | -            | -                | -                | -         |    -5.38 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           11 |     2832 | 2024-04-14 | Imperial fe       | L   | 0.473      | -            | -                | -                | -         |    -2.12 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           10 |     2845 | 2024-04-13 | Astralis W        | W   | 0.466      | 0.303        | 0.001 (0.000)    | 0.022 (0.003)    | 0 (0.000) |     5.11 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            9 |     2887 | 2024-04-11 | Let Her Cook      | W   | 0.453      | 0.303        | 0.061 (0.008)    | 0.146 (0.020)    | 0 (0.000) |    10.61 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            8 |     2931 | 2024-04-10 | ex-GUILD fe       | L   | 0.447      | -            | -                | -                | -         |    -8.24 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            7 |     2992 | 2024-04-09 | NAVI Javelins     | W   | 0.439      | 0.303        | 0.027 (0.004)    | 0.210 (0.028)    | 0 (0.000) |     8.98 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            6 |     3051 | 2024-04-07 | Imperial fe       | L   | 0.426      | -            | -                | -                | -         |    -1.86 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            5 |     3056 | 2024-04-07 | Fearless Cheetahs | W   | 0.425      | 0.262        | 0.003 (0.000)    | 0.067 (0.007)    | 0 (0.000) |     6.47 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            4 |     3069 | 2024-04-06 | ex-GUILD fe       | W   | 0.418      | 0.262        | 0.003 (0.000)    | 0.066 (0.007)    | 0 (0.000) |     5.81 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            3 |     3162 | 2024-04-03 | Astralis W        | W   | 0.400      | 0.331        | -                | 0.022 (0.003)    | 0 (0.000) |     4.78 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            2 |     3421 | 2024-03-20 | ENCE Athena       | W   | 0.307      | 0.331        | 0.002 (0.000)    | 0.038 (0.004)    | -         |     4.11 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            1 |     3724 | 2024-03-07 | Imperial fe       | L   | 0.220      | -            | -                | -                | -         |    -0.91 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,794.38)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- First, take the sum of their top 10 scaled winnings ($1,793.60)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.893 | $750.00        | $669.81         |
-| 2024-05-26 |      0.753 | $250.00        | $188.34         |
-| 2024-04-27 |      0.559 | $321.00        | $179.57         |
-| 2024-04-21 |      0.520 | $1,250.00      | $650.17         |
-| 2024-04-07 |      0.426 | $250.00        | $106.49         |
+| 2024-06-16 |      0.893 | $750.00        | $669.60         |
+| 2024-05-26 |      0.753 | $250.00        | $188.27         |
+| 2024-04-27 |      0.559 | $321.00        | $179.48         |
+| 2024-04-21 |      0.520 | $1,250.00      | $649.83         |
+| 2024-04-07 |      0.426 | $250.00        | $106.42         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -4,7 +4,7 @@
 | Standing | Points | Team Name          | Roster                                            |                                                                                          |
 | :- | -: | :- | :- | :- |
 | 1        |   1692 | The MongolZ        | 910, bLitz, mzinho, Senzu, Techno                 | [details](details/0007--the_mongolz--910-blitz-mzinho-senzu-techno.md)                   |
-| 2        |   1195 | FlyQuest           | aliStair, dexter, INS, Liazz, Vexite              | [details](details/0032--flyquest--alistair-dexter-ins-liazz-vexite.md)                   |
+| 2        |   1195 | FlyQuest           | aliStair, dexter, INS, Liazz, Vexite              | [details](details/0031--flyquest--alistair-dexter-ins-liazz-vexite.md)                   |
 | 3        |   1004 | Lynn Vision        | EmiliaQAQ, flying, Starry, Westmelon, z4kr        | [details](details/0058--lynn_vision--emiliaqaq-flying-starry-westmelon-z4kr.md)          |
 | 4        |    876 | ATOX               | Annihilation, dobu, kabal, MiQ, yAmi              | [details](details/0092--atox--annihilation-dobu-kabal-miq-yami.md)                       |
 | 5        |    815 | Rooster            | asap, chelleos, dangeR, Hatz, TjP                 | [details](details/0117--rooster--asap-chelleos-danger-hatz-tjp.md)                       |

@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      368 | 2024-07-21 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -14.85 | Adam9130, bevve, MMS, shushan, Speedy    |
-|            9 |      487 | 2024-07-18 | 9INE            | L   | 1.000      | -            | -                | -                | -         |    -6.68 | Adam9130, bevve, MMS, shushan, Speedy    |
-|            8 |      570 | 2024-07-17 | GL Academy      | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.102 (0.015)    | 0 (0.000) |    17.64 | Adam9130, bevve, meztal, shushan, Speedy |
-|            7 |      884 | 2024-06-17 | UNiTY           | L   | 0.898      | -            | -                | -                | -         |    -5.51 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            6 |      886 | 2024-06-17 | kONO            | L   | 0.897      | -            | -                | -                | -         |    -8.60 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            5 |     1063 | 2024-06-10 | Fraud5          | W   | 0.854      | 0.282        | 0.004 (0.001)    | 0.056 (0.014)    | 0 (0.000) |    11.37 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            4 |     1415 | 2024-06-04 | Verdant         | W   | 0.814      | 0.282        | 0.015 (0.003)    | 0.305 (0.070)    | 0 (0.000) |    19.75 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            3 |     1499 | 2024-06-01 | CYBERSHOKE      | L   | 0.793      | -            | -                | -                | -         |    -6.20 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            2 |     1553 | 2024-05-30 | The Last Resort | W   | 0.780      | 0.282        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.92 | Adam9130, bevve, dobbo, MMS, shushan     |
-|            1 |     2477 | 2024-04-27 | GL Academy      | L   | 0.558      | -            | -                | -                | -         |    -7.20 | Adam9130, bevve, dobbo, MMS, shushan     |
+|           10 |      370 | 2024-07-21 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -14.85 | Adam9130, bevve, MMS, shushan, Speedy    |
+|            9 |      489 | 2024-07-18 | 9INE            | L   | 1.000      | -            | -                | -                | -         |    -6.68 | Adam9130, bevve, MMS, shushan, Speedy    |
+|            8 |      572 | 2024-07-17 | GL Academy      | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.102 (0.015)    | 0 (0.000) |    17.64 | Adam9130, bevve, meztal, shushan, Speedy |
+|            7 |      886 | 2024-06-17 | UNiTY           | L   | 0.898      | -            | -                | -                | -         |    -5.51 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            6 |      888 | 2024-06-17 | kONO            | L   | 0.897      | -            | -                | -                | -         |    -8.60 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            5 |     1065 | 2024-06-10 | Fraud5          | W   | 0.853      | 0.282        | 0.004 (0.001)    | 0.056 (0.014)    | 0 (0.000) |    11.36 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            4 |     1417 | 2024-06-04 | Verdant         | W   | 0.813      | 0.282        | 0.015 (0.003)    | 0.305 (0.070)    | 0 (0.000) |    19.75 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            3 |     1501 | 2024-06-01 | CYBERSHOKE      | L   | 0.793      | -            | -                | -                | -         |    -6.20 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            2 |     1555 | 2024-05-30 | The Last Resort | W   | 0.780      | 0.282        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.92 | Adam9130, bevve, dobbo, MMS, shushan     |
+|            1 |     2479 | 2024-04-27 | GL Academy      | L   | 0.557      | -            | -                | -                | -         |    -7.19 | Adam9130, bevve, dobbo, MMS, shushan     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,532.86)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- First, take the sum of their top 10 scaled winnings ($2,532.05)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-18 |      0.904 | $1,000.00      | $904.17         |
-| 2024-06-10 |      0.854 | $1,908.00      | $1,628.69       |
+| 2024-06-18 |      0.904 | $1,000.00      | $903.89         |
+| 2024-06-10 |      0.853 | $1,908.00      | $1,628.16       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

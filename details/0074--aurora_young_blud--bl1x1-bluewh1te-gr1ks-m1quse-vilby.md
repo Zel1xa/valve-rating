@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |       40 | 2024-07-31 | Sampi            | W   | 1.000      | 0.435        | 0.028 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.06 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           29 |      127 | 2024-07-29 | EYEBALLERS       | W   | 1.000      | 0.435        | 0.006 (0.002)    | 0.512 (0.223)    | 0 (0.000) |    10.48 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           28 |      191 | 2024-07-27 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.58 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           27 |      257 | 2024-07-25 | MOUZ NXT         | L   | 1.000      | -            | -                | -                | -         |    -8.63 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           26 |      273 | 2024-07-24 | Astralis Talent  | W   | 1.000      | 0.435        | 0.009 (0.004)    | 0.201 (0.087)    | 0 (0.000) |     7.66 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           25 |      399 | 2024-07-20 | BC.Game          | W   | 1.000      | 0.435        | -                | 0.193 (0.084)    | 0 (0.000) |     6.97 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           24 |      501 | 2024-07-18 | Sampi            | W   | 1.000      | 0.435        | 0.028 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.91 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           23 |      583 | 2024-07-17 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |   -11.27 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           30 |       43 | 2024-07-31 | Sampi            | W   | 1.000      | 0.435        | 0.028 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.06 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           29 |      129 | 2024-07-29 | EYEBALLERS       | W   | 1.000      | 0.435        | 0.006 (0.002)    | 0.512 (0.223)    | 0 (0.000) |    10.48 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           28 |      193 | 2024-07-27 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.58 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           27 |      259 | 2024-07-25 | MOUZ NXT         | L   | 1.000      | -            | -                | -                | -         |    -8.63 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           26 |      275 | 2024-07-24 | Astralis Talent  | W   | 1.000      | 0.435        | 0.009 (0.004)    | 0.201 (0.087)    | 0 (0.000) |     7.66 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           25 |      401 | 2024-07-20 | BC.Game          | W   | 1.000      | 0.435        | -                | 0.193 (0.084)    | 0 (0.000) |     6.97 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           24 |      503 | 2024-07-18 | Sampi            | W   | 1.000      | 0.435        | 0.028 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.91 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           23 |      585 | 2024-07-17 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |   -11.27 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
 |           22 |      674 | 2024-07-15 | VP.Prodigy       | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.405 (0.176)    | 0 (0.000) |    14.43 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           21 |      688 | 2024-07-15 | BLEED            | L   | 1.000      | -            | -                | -                | -         |    -2.76 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
-|           20 |      908 | 2024-06-16 | Preasy           | W   | 0.891      | -            | -                | -                | 0 (0.000) |     9.77 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           19 |      951 | 2024-06-14 | Verdant          | W   | 0.880      | -            | -                | -                | 0 (0.000) |    13.94 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           18 |      988 | 2024-06-13 | Astralis Talent  | W   | 0.874      | -            | -                | -                | 0 (0.000) |     7.89 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           17 |     1005 | 2024-06-13 | BLEED            | L   | 0.872      | -            | -                | -                | -         |    -1.79 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           16 |     1117 | 2024-06-09 | Sampi            | W   | 0.846      | 0.435        | 0.028 (0.010)    | 1.000 (0.368)    | 0 (0.000) |    13.77 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           15 |     1224 | 2024-06-07 | Zero Tenacity    | W   | 0.835      | 0.435        | 0.139 (0.050)    | 1.000 (0.363)    | -         |    20.27 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           14 |     1240 | 2024-06-07 | Insilio          | L   | 0.833      | -            | -                | -                | -         |    -9.86 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           13 |     1268 | 2024-06-07 | Passion UA       | L   | 0.831      | -            | -                | -                | -         |    -6.75 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           12 |     1303 | 2024-06-06 | Verdant          | W   | 0.827      | 0.372        | 0.015 (0.005)    | 0.305 (0.094)    | -         |    14.72 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           11 |     1379 | 2024-06-05 | Zero Tenacity    | L   | 0.819      | -            | -                | -                | -         |    -4.66 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|           10 |     1393 | 2024-06-05 | Illuminar        | W   | 0.818      | 0.435        | 0.012 (0.004)    | 0.376 (0.134)    | -         |    12.48 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            9 |     1427 | 2024-06-04 | Spirit Academy   | W   | 0.813      | 0.372        | 0.014 (0.004)    | -                | -         |     9.29 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            8 |     1439 | 2024-06-04 | MOUZ NXT         | L   | 0.811      | -            | -                | -                | -         |    -4.76 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            7 |     1450 | 2024-06-03 | FLuffy Gangsters | W   | 0.807      | -            | -                | -                | -         |     4.85 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            6 |     1480 | 2024-06-02 | ThunderFlash     | W   | 0.799      | -            | -                | -                | -         |     2.03 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            5 |     1509 | 2024-06-01 | LEON             | W   | 0.792      | -            | -                | -                | -         |     8.19 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            4 |     1590 | 2024-05-29 | FAVBET           | L   | 0.773      | -            | -                | -                | -         |   -13.46 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
-|            3 |     2803 | 2024-04-16 | ALTERNATE aTTaX  | L   | 0.485      | -            | -                | -                | -         |    -5.00 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
-|            2 |     2819 | 2024-04-15 | Sangal           | L   | 0.479      | -            | -                | -                | -         |    -2.77 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
-|            1 |     3130 | 2024-04-04 | ENCE             | L   | 0.405      | -            | -                | -                | -         |    -0.40 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
+|           21 |      690 | 2024-07-15 | BLEED            | L   | 1.000      | -            | -                | -                | -         |    -2.76 | bl1x1, bluewh1te, gr1ks, m1QUSE, VILBy |
+|           20 |      910 | 2024-06-16 | Preasy           | W   | 0.891      | -            | -                | -                | 0 (0.000) |     9.76 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           19 |      953 | 2024-06-14 | Verdant          | W   | 0.880      | -            | -                | -                | 0 (0.000) |    13.94 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           18 |      990 | 2024-06-13 | Astralis Talent  | W   | 0.873      | -            | -                | -                | 0 (0.000) |     7.89 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           17 |     1007 | 2024-06-13 | BLEED            | L   | 0.871      | -            | -                | -                | -         |    -1.78 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           16 |     1119 | 2024-06-09 | Sampi            | W   | 0.846      | 0.435        | 0.028 (0.010)    | 1.000 (0.368)    | 0 (0.000) |    13.76 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           15 |     1226 | 2024-06-07 | Zero Tenacity    | W   | 0.834      | 0.435        | 0.139 (0.050)    | 1.000 (0.363)    | -         |    20.27 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           14 |     1242 | 2024-06-07 | Insilio          | L   | 0.833      | -            | -                | -                | -         |    -9.86 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           13 |     1270 | 2024-06-07 | Passion UA       | L   | 0.831      | -            | -                | -                | -         |    -6.75 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           12 |     1305 | 2024-06-06 | Verdant          | W   | 0.827      | 0.372        | 0.015 (0.005)    | 0.305 (0.094)    | -         |    14.72 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           11 |     1381 | 2024-06-05 | Zero Tenacity    | L   | 0.819      | -            | -                | -                | -         |    -4.65 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|           10 |     1395 | 2024-06-05 | Illuminar        | W   | 0.818      | 0.435        | 0.012 (0.004)    | 0.376 (0.134)    | -         |    12.48 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            9 |     1429 | 2024-06-04 | Spirit Academy   | W   | 0.812      | 0.372        | 0.014 (0.004)    | -                | -         |     9.29 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            8 |     1441 | 2024-06-04 | MOUZ NXT         | L   | 0.811      | -            | -                | -                | -         |    -4.76 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            7 |     1452 | 2024-06-03 | FLuffy Gangsters | W   | 0.806      | -            | -                | -                | -         |     4.85 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            6 |     1482 | 2024-06-02 | ThunderFlash     | W   | 0.798      | -            | -                | -                | -         |     2.03 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            5 |     1511 | 2024-06-01 | LEON             | W   | 0.792      | -            | -                | -                | -         |     8.19 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            4 |     1592 | 2024-05-29 | FAVBET           | L   | 0.773      | -            | -                | -                | -         |   -13.46 | bl1x1, bluewh1te, gr1ks, sh1geo, VILBy |
+|            3 |     2805 | 2024-04-16 | ALTERNATE aTTaX  | L   | 0.485      | -            | -                | -                | -         |    -5.00 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
+|            2 |     2821 | 2024-04-15 | Sangal           | L   | 0.479      | -            | -                | -                | -         |    -2.77 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
+|            1 |     3132 | 2024-04-04 | ENCE             | L   | 0.405      | -            | -                | -                | -         |    -0.40 | bl1x1, bluewh1te, easy, sh1geo, VILBy  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,067.19)
-- Divide that value by the 5th highest value among all rosters ($327,030.46)
+- First, take the sum of their top 10 scaled winnings ($1,066.84)
+- Divide that value by the 5th highest value among all rosters ($326,952.13)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
