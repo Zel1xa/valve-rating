@@ -6,9 +6,9 @@ Global Rank: [179](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [17]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  647.3<br />
+Final Rank Value:  646.9<br />
 <br />
-Final Rank Value (647.3) = Starting Rank Value (657.6) + Head To Head Adjustments (-10.3)<br />
+Final Rank Value (646.9) = Starting Rank Value (657.2) + Head To Head Adjustments (-10.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.125<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 657.6
-- 400 + ( ( 0.125 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 657.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 657.2
+- 400 + ( ( 0.125 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 657.2
 
 
 #### Factors<br />
@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |     1759 | 2024-05-22 | Rooster            | L   | 0.726      | -            | -                | -                | -         |    -6.09 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           28 |     1764 | 2024-05-22 | Rooster            | L   | 0.726      | -            | -                | -                | -         |    -6.41 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           27 |     2043 | 2024-05-15 | FlyQuest           | L   | 0.679      | -            | -                | -                | -         |    -0.87 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           26 |     2044 | 2024-05-15 | FlyQuest           | L   | 0.679      | -            | -                | -                | -         |    -0.88 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           25 |     2577 | 2024-04-22 | Mindfreak          | L   | 0.526      | -            | -                | -                | -         |    -7.45 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           24 |     2579 | 2024-04-22 | Mindfreak          | L   | 0.526      | -            | -                | -                | -         |    -7.80 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           23 |     2773 | 2024-04-17 | Arcade             | L   | 0.493      | -            | -                | -                | -         |    -8.40 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           22 |     2939 | 2024-04-10 | Arcade             | W   | 0.446      | 0.333        | 0.003 (0.000)    | 0.138 (0.021)    | 0 (0.000) |     6.56 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           21 |     2943 | 2024-04-10 | Arcade             | W   | 0.446      | 0.333        | 0.003 (0.000)    | 0.138 (0.021)    | 0 (0.000) |     6.83 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           20 |     3173 | 2024-04-03 | KZG                | W   | 0.400      | 0.333        | 0.006 (0.001)    | 0.113 (0.015)    | 0 (0.000) |     6.60 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           19 |     3180 | 2024-04-03 | KZG                | W   | 0.399      | 0.333        | 0.006 (0.001)    | 0.113 (0.015)    | 0 (0.000) |     6.83 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           18 |     3306 | 2024-03-27 | Canon Event        | W   | 0.353      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.31 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           17 |     3311 | 2024-03-27 | Canon Event        | W   | 0.353      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.40 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           16 |     3585 | 2024-03-13 | DXA                | L   | 0.260      | -            | -                | -                | -         |    -3.77 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           15 |     3591 | 2024-03-13 | DXA                | W   | 0.259      | 0.333        | 0.002 (0.000)    | 0.228 (0.020)    | 0 (0.000) |     4.49 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           14 |     3765 | 2024-03-06 | Bad News Kangaroos | L   | 0.213      | -            | -                | -                | -         |    -2.29 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           13 |     3767 | 2024-03-06 | Bad News Kangaroos | L   | 0.213      | -            | -                | -                | -         |    -2.33 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           12 |     3943 | 2024-02-27 | RKON               | W   | 0.159      | 0.333        | -                | 0.034 (0.002)    | 0 (0.000) |     1.55 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           11 |     3945 | 2024-02-27 | RKON               | L   | 0.159      | -            | -                | -                | -         |    -3.50 | Drox, N1ghtraid, Omichella, SkulL, vision  |
-|           10 |     4053 | 2024-02-22 | Bad News Kangaroos | L   | 0.126      | -            | -                | -                | -         |    -1.39 | Drox, Omichella, SkulL, viridian, vision   |
-|            9 |     4055 | 2024-02-21 | Rooster            | L   | 0.125      | -            | -                | -                | -         |    -1.31 | Drox, Omichella, SkulL, viridian, vision   |
-|            8 |     4090 | 2024-02-20 | Arcade             | W   | 0.119      | 0.143        | 0.003 (0.000)    | 0.138 (0.002)    | 0 (0.000) |     1.95 | Drox, Omichella, SkulL, viridian, vision   |
-|            7 |     4110 | 2024-02-20 | Mindfreak          | W   | 0.113      | 0.143        | 0.004 (0.000)    | 0.227 (0.004)    | 0 (0.000) |     1.93 | Drox, Omichella, SkulL, viridian, vision   |
-|            6 |     4112 | 2024-02-20 | Blitz              | W   | 0.113      | -            | -                | -                | -         |     0.69 | Drox, Omichella, SkulL, viridian, vision   |
-|            5 |     4154 | 2024-02-18 | Mindfreak          | L   | 0.100      | -            | -                | -                | -         |    -1.44 | Drox, Omichella, SkulL, viridian, vision   |
-|            4 |     4157 | 2024-02-18 | LE-LUX             | W   | 0.099      | -            | -                | -                | -         |     0.60 | Drox, Omichella, SkulL, viridian, vision   |
-|            3 |     4216 | 2024-02-15 | sunday school      | L   | 0.085      | -            | -                | -                | -         |    -1.42 | damyo, Omichella, SkulL, viridian, vision  |
-|            2 |     4240 | 2024-02-15 | DXA                | W   | 0.079      | 0.143        | 0.002 (0.000)    | 0.228 (0.003)    | -         |     1.37 | damyo, Omichella, SkulL, viridian, vision  |
-|            1 |     4242 | 2024-02-14 | KZG                | L   | 0.078      | -            | -                | -                | -         |    -1.04 | damyo, Omichella, SkulL, viridian, vision  |
+|           29 |     1763 | 2024-05-22 | Rooster            | L   | 0.725      | -            | -                | -                | -         |    -6.09 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           28 |     1768 | 2024-05-22 | Rooster            | L   | 0.724      | -            | -                | -                | -         |    -6.41 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           27 |     2047 | 2024-05-15 | FlyQuest           | L   | 0.678      | -            | -                | -                | -         |    -0.86 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           26 |     2048 | 2024-05-15 | FlyQuest           | L   | 0.678      | -            | -                | -                | -         |    -0.87 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           25 |     2581 | 2024-04-22 | Mindfreak          | L   | 0.525      | -            | -                | -                | -         |    -7.43 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           24 |     2583 | 2024-04-22 | Mindfreak          | L   | 0.525      | -            | -                | -                | -         |    -7.79 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           23 |     2777 | 2024-04-17 | Arcade             | L   | 0.491      | -            | -                | -                | -         |    -8.38 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           22 |     2943 | 2024-04-10 | Arcade             | W   | 0.445      | 0.333        | 0.003 (0.000)    | 0.138 (0.021)    | 0 (0.000) |     6.54 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           21 |     2947 | 2024-04-10 | Arcade             | W   | 0.444      | 0.333        | 0.003 (0.000)    | 0.138 (0.020)    | 0 (0.000) |     6.80 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           20 |     3177 | 2024-04-03 | KZG                | W   | 0.398      | 0.333        | 0.006 (0.001)    | 0.113 (0.015)    | 0 (0.000) |     6.57 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           19 |     3184 | 2024-04-03 | KZG                | W   | 0.398      | 0.333        | 0.006 (0.001)    | 0.113 (0.015)    | 0 (0.000) |     6.80 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           18 |     3310 | 2024-03-27 | Canon Event        | W   | 0.352      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.30 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           17 |     3315 | 2024-03-27 | Canon Event        | W   | 0.351      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.39 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           16 |     3589 | 2024-03-13 | DXA                | L   | 0.258      | -            | -                | -                | -         |    -3.75 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           15 |     3595 | 2024-03-13 | DXA                | W   | 0.258      | 0.333        | 0.002 (0.000)    | 0.228 (0.020)    | 0 (0.000) |     4.46 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           14 |     3769 | 2024-03-06 | Bad News Kangaroos | L   | 0.212      | -            | -                | -                | -         |    -2.28 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           13 |     3771 | 2024-03-06 | Bad News Kangaroos | L   | 0.211      | -            | -                | -                | -         |    -2.31 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           12 |     3947 | 2024-02-27 | RKON               | W   | 0.158      | 0.333        | -                | 0.034 (0.002)    | 0 (0.000) |     1.54 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           11 |     3949 | 2024-02-27 | RKON               | L   | 0.158      | -            | -                | -                | -         |    -3.47 | Drox, N1ghtraid, Omichella, SkulL, vision  |
+|           10 |     4057 | 2024-02-22 | Bad News Kangaroos | L   | 0.125      | -            | -                | -                | -         |    -1.38 | Drox, Omichella, SkulL, viridian, vision   |
+|            9 |     4059 | 2024-02-21 | Rooster            | L   | 0.123      | -            | -                | -                | -         |    -1.29 | Drox, Omichella, SkulL, viridian, vision   |
+|            8 |     4094 | 2024-02-20 | Arcade             | W   | 0.117      | 0.143        | 0.003 (0.000)    | 0.138 (0.002)    | 0 (0.000) |     1.93 | Drox, Omichella, SkulL, viridian, vision   |
+|            7 |     4114 | 2024-02-20 | Mindfreak          | W   | 0.112      | 0.143        | 0.004 (0.000)    | 0.227 (0.004)    | 0 (0.000) |     1.91 | Drox, Omichella, SkulL, viridian, vision   |
+|            6 |     4116 | 2024-02-20 | Blitz              | W   | 0.111      | -            | -                | -                | -         |     0.68 | Drox, Omichella, SkulL, viridian, vision   |
+|            5 |     4158 | 2024-02-18 | Mindfreak          | L   | 0.098      | -            | -                | -                | -         |    -1.42 | Drox, Omichella, SkulL, viridian, vision   |
+|            4 |     4161 | 2024-02-18 | LE-LUX             | W   | 0.098      | -            | -                | -                | -         |     0.59 | Drox, Omichella, SkulL, viridian, vision   |
+|            3 |     4220 | 2024-02-15 | sunday school      | L   | 0.083      | -            | -                | -                | -         |    -1.39 | damyo, Omichella, SkulL, viridian, vision  |
+|            2 |     4244 | 2024-02-15 | DXA                | W   | 0.078      | 0.143        | 0.002 (0.000)    | 0.228 (0.003)    | -         |     1.35 | damyo, Omichella, SkulL, viridian, vision  |
+|            1 |     4246 | 2024-02-14 | KZG                | L   | 0.077      | -            | -                | -                | -         |    -1.02 | damyo, Omichella, SkulL, viridian, vision  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($676.00)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($674.89)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,22 +6,22 @@ Global Rank: [154](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [14]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  704.0<br />
+Final Rank Value:  703.7<br />
 <br />
-Final Rank Value (704.0) = Starting Rank Value (679.0) + Head To Head Adjustments (25.1)<br />
+Final Rank Value (703.7) = Starting Rank Value (678.6) + Head To Head Adjustments (25.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.280[<sup>1</sup>](#table2)
 - Bounty Collected: 0.235[<sup>2</sup>](#table1)
-- Opponent Network: 0.027[<sup>2</sup>](#table1)
+- Opponent Network: 0.026[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.135<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 679.0
-- 400 + ( ( 0.135 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 679.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 678.6
+- 400 + ( ( 0.135 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 678.6
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      324 | 2024-07-23 | MANTRA    | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.039 (0.013)    | 0 (0.000) |     8.03 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           11 |      329 | 2024-07-23 | MANTRA    | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.039 (0.013)    | 0 (0.000) |     8.61 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           10 |      514 | 2024-07-18 | Arcade    | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.138 (0.046)    | 0 (0.000) |    13.60 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            9 |      521 | 2024-07-18 | Arcade    | L   | 1.000      | -            | -                | -                | -         |   -18.10 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            8 |      635 | 2024-07-16 | DXA       | L   | 1.000      | -            | -                | -                | -         |   -18.20 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            7 |      641 | 2024-07-16 | DXA       | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.228 (0.076)    | 0 (0.000) |    13.08 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|            6 |     1268 | 2024-06-07 | Mindfreak | L   | 0.832      | -            | -                | -                | -         |   -12.01 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|            5 |     1340 | 2024-06-06 | Rooster   | L   | 0.826      | -            | -                | -                | -         |    -8.61 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|            4 |     1758 | 2024-05-22 | KZG       | W   | 0.726      | 0.333        | 0.006 (0.001)    | 0.113 (0.027)    | 0 (0.000) |     9.98 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|            3 |     1763 | 2024-05-22 | KZG       | W   | 0.726      | 0.333        | 0.006 (0.001)    | 0.113 (0.027)    | 0 (0.000) |    10.63 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|            2 |     2036 | 2024-05-15 | Arcade    | W   | 0.679      | 0.333        | 0.003 (0.001)    | 0.138 (0.031)    | 0 (0.000) |     8.77 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|            1 |     2041 | 2024-05-15 | Arcade    | W   | 0.679      | 0.333        | 0.003 (0.001)    | 0.138 (0.031)    | 0 (0.000) |     9.30 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           12 |      328 | 2024-07-23 | MANTRA    | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.039 (0.013)    | 0 (0.000) |     8.04 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           11 |      333 | 2024-07-23 | MANTRA    | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.039 (0.013)    | 0 (0.000) |     8.61 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           10 |      518 | 2024-07-18 | Arcade    | W   | 1.000      | 0.333        | 0.003 (0.001)    | 0.138 (0.046)    | 0 (0.000) |    13.60 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            9 |      525 | 2024-07-18 | Arcade    | L   | 1.000      | -            | -                | -                | -         |   -18.09 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            8 |      639 | 2024-07-16 | DXA       | L   | 1.000      | -            | -                | -                | -         |   -18.20 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            7 |      645 | 2024-07-16 | DXA       | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.228 (0.076)    | 0 (0.000) |    13.09 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|            6 |     1272 | 2024-06-07 | Mindfreak | L   | 0.831      | -            | -                | -                | -         |   -11.99 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|            5 |     1344 | 2024-06-06 | Rooster   | L   | 0.824      | -            | -                | -                | -         |    -8.61 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|            4 |     1762 | 2024-05-22 | KZG       | W   | 0.725      | 0.333        | 0.006 (0.001)    | 0.113 (0.027)    | 0 (0.000) |     9.96 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|            3 |     1767 | 2024-05-22 | KZG       | W   | 0.724      | 0.333        | 0.006 (0.001)    | 0.113 (0.027)    | 0 (0.000) |    10.62 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|            2 |     2040 | 2024-05-15 | Arcade    | W   | 0.678      | 0.333        | 0.003 (0.001)    | 0.138 (0.031)    | 0 (0.000) |     8.76 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|            1 |     2045 | 2024-05-15 | Arcade    | W   | 0.678      | 0.333        | 0.003 (0.001)    | 0.138 (0.031)    | 0 (0.000) |     9.28 | ADDICT, BRACE, damyo, hazr, yourwombat       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($887.25)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($885.79)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

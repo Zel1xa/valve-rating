@@ -6,22 +6,22 @@ Global Rank: [26](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [20]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1243.0<br />
+Final Rank Value:  1242.8<br />
 <br />
-Final Rank Value (1243.0) = Starting Rank Value (1151.2) + Head To Head Adjustments (91.8)<br />
+Final Rank Value (1242.8) = Starting Rank Value (1150.1) + Head To Head Adjustments (92.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.604[<sup>1</sup>](#table2)
-- Bounty Collected: 0.496[<sup>2</sup>](#table1)
-- Opponent Network: 0.360[<sup>2</sup>](#table1)
+- Bounty Collected: 0.495[<sup>2</sup>](#table1)
+- Opponent Network: 0.359[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.365<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1151.2
-- 400 + ( ( 0.365 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 1151.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1150.1
+- 400 + ( ( 0.365 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1150.1
 
 
 #### Factors<br />
@@ -37,84 +37,83 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           71 |       96 | 2024-07-30 | SINNERS           | W   | 1.000      | 0.500        | -                | 0.768 (0.384)    | 0 (0.000) |     5.40 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           70 |      150 | 2024-07-28 | fnatic            | W   | 1.000      | 0.435        | 0.292 (0.127)    | -                | 0 (0.000) |    20.91 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           69 |      166 | 2024-07-28 | Monte             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.99 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           68 |      188 | 2024-07-27 | B8                | W   | 1.000      | 0.435        | 0.168 (0.073)    | 0.878 (0.382)    | 0 (0.000) |    13.42 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           67 |      203 | 2024-07-26 | Permitta          | W   | 1.000      | 0.435        | -                | 0.801 (0.348)    | 0 (0.000) |     4.98 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           66 |      317 | 2024-07-23 | brazylijski luz   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.62 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           65 |      420 | 2024-07-20 | fnatic            | L   | 1.000      | -            | -                | -                | -         |   -10.16 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           64 |      555 | 2024-07-17 | SAW               | L   | 1.000      | -            | -                | -                | -         |   -16.45 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           63 |      569 | 2024-07-17 | B8                | W   | 1.000      | 0.500        | 0.168 (0.084)    | 0.878 (0.439)    | 0 (0.000) |    14.20 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           62 |      668 | 2024-07-15 | RUSH B            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.69 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           61 |      687 | 2024-07-15 | Rebels            | W   | 1.000      | 0.500        | -                | 0.635 (0.318)    | 0 (0.000) |     8.11 | imoRR, jottAAA, SaMey, xfl0ud, yxngstxr |
-|           60 |     1107 | 2024-06-09 | KOI               | W   | 0.848      | -            | -                | -                | 0 (0.000) |     6.23 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           59 |     1175 | 2024-06-08 | SINNERS           | W   | 0.841      | 0.500        | -                | 0.768 (0.323)    | -         |     7.24 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           58 |     1235 | 2024-06-07 | Aurora            | W   | 0.835      | 0.500        | 0.432 (0.180)    | 0.798 (0.333)    | -         |    23.13 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           57 |     1304 | 2024-06-06 | 3DMAX             | W   | 0.828      | 0.500        | 0.505 (0.209)    | 1.000 (0.414)    | -         |    23.11 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           56 |     1367 | 2024-06-05 | SAW               | W   | 0.821      | 0.500        | 0.108 (0.044)    | -                | -         |    15.25 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           55 |     1418 | 2024-06-04 | 9 Pandas          | W   | 0.815      | -            | -                | -                | -         |    11.76 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           54 |     1532 | 2024-05-31 | SAW               | L   | 0.788      | -            | -                | -                | -         |    -8.48 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           53 |     1535 | 2024-05-31 | FAVBET            | W   | 0.788      | -            | -                | -                | -         |     3.69 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           52 |     1539 | 2024-05-31 | fnatic            | L   | 0.787      | -            | -                | -                | -         |    -5.81 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           51 |     1567 | 2024-05-30 | MOUZ NXT          | L   | 0.779      | -            | -                | -                | -         |   -13.56 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           50 |     1741 | 2024-05-22 | Zero Tenacity     | W   | 0.728      | 0.500        | 0.139 (0.050)    | 1.000 (0.364)    | -         |    10.61 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           49 |     1803 | 2024-05-21 | Monte             | W   | 0.720      | -            | -                | -                | -         |     9.05 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           48 |     1835 | 2024-05-20 | Passion UA        | L   | 0.714      | -            | -                | -                | -         |   -14.08 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           47 |     1842 | 2024-05-20 | PARIVISION        | W   | 0.713      | -            | -                | -                | -         |    10.48 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           46 |     1863 | 2024-05-19 | Ninjas in Pyjamas | W   | 0.708      | 0.500        | 0.207 (0.073)    | -                | -         |    18.89 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           45 |     1870 | 2024-05-19 | Endpoint          | W   | 0.707      | -            | -                | -                | -         |     7.16 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           44 |     1906 | 2024-05-18 | Rare Atom         | W   | 0.700      | -            | -                | -                | -         |     1.85 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           43 |     1948 | 2024-05-17 | Permitta          | W   | 0.692      | -            | -                | -                | -         |     5.74 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           42 |     1961 | 2024-05-16 | Ninjas in Pyjamas | L   | 0.688      | -            | -                | -                | -         |    -2.68 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           41 |     2032 | 2024-05-15 | Verdant           | L   | 0.680      | -            | -                | -                | -         |   -15.24 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           40 |     2098 | 2024-05-14 | DMS               | L   | 0.672      | -            | -                | -                | -         |   -15.61 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           39 |     2349 | 2024-05-02 | Metizport         | L   | 0.594      | -            | -                | -                | -         |   -13.56 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           38 |     2383 | 2024-05-01 | ALTERNATE aTTaX   | L   | 0.586      | -            | -                | -                | -         |   -13.37 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           37 |     2394 | 2024-04-30 | Zero Tenacity     | W   | 0.581      | 0.500        | -                | 1.000 (0.290)    | -         |     7.53 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           36 |     2426 | 2024-04-29 | SINNERS           | W   | 0.573      | -            | -                | -                | -         |     6.90 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           35 |     2433 | 2024-04-28 | 1WIN              | W   | 0.568      | -            | -                | -                | -         |     4.66 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           34 |     2457 | 2024-04-27 | PARIVISION        | L   | 0.561      | -            | -                | -                | -         |    -9.78 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           33 |     2490 | 2024-04-26 | Nemiga            | W   | 0.553      | 0.435        | 0.324 (0.078)    | -                | -         |     9.90 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           32 |     2565 | 2024-04-23 | Grannys Knockers  | W   | 0.532      | -            | -                | -                | -         |     2.08 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           31 |     2571 | 2024-04-22 | BLEED             | L   | 0.527      | -            | -                | -                | -         |    -9.63 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           30 |     2583 | 2024-04-22 | ex-Guild Eagles   | L   | 0.526      | -            | -                | -                | -         |   -13.66 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           29 |     2598 | 2024-04-21 | Alliance          | W   | 0.519      | -            | -                | -                | -         |     3.01 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           28 |     2619 | 2024-04-20 | brazylijski luz   | W   | 0.514      | -            | -                | -                | -         |     2.73 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           27 |     2635 | 2024-04-20 | JANO              | W   | 0.512      | -            | -                | -                | -         |     1.39 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           26 |     2655 | 2024-04-19 | TSM               | W   | 0.508      | -            | -                | -                | -         |     1.25 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           25 |     2667 | 2024-04-19 | Nemiga            | L   | 0.507      | -            | -                | -                | -         |    -7.32 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           24 |     2777 | 2024-04-17 | 9 Pandas          | W   | 0.492      | -            | -                | -                | -         |     4.96 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           23 |     2789 | 2024-04-16 | Zero Tenacity     | W   | 0.488      | -            | -                | -                | -         |     6.22 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           22 |     2811 | 2024-04-15 | B8                | W   | 0.482      | 0.500        | 0.168 (0.040)    | -                | -         |     6.33 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           21 |     2815 | 2024-04-15 | Aurora Young Blud | W   | 0.481      | -            | -                | -                | -         |     2.77 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           20 |     2856 | 2024-04-12 | Monte             | L   | 0.461      | -            | -                | -                | -         |    -9.48 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           19 |     3110 | 2024-04-04 | EYEBALLERS        | W   | 0.408      | -            | -                | -                | -         |     2.96 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           18 |     3201 | 2024-04-02 | 9 Pandas          | L   | 0.395      | -            | -                | -                | -         |    -8.21 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
-|           17 |     3568 | 2024-03-13 | KOI               | L   | 0.262      | -            | -                | -                | -         |    -6.12 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           16 |     3678 | 2024-03-09 | Zero Tenacity     | L   | 0.234      | -            | -                | -                | -         |    -4.11 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           15 |     3727 | 2024-03-07 | 500               | L   | 0.221      | -            | -                | -                | -         |    -6.28 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           14 |     3747 | 2024-03-06 | TSM               | W   | 0.215      | -            | -                | -                | -         |     0.47 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           13 |     3822 | 2024-03-04 | Sampi             | W   | 0.200      | -            | -                | -                | -         |     1.24 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           12 |     3847 | 2024-03-03 | Rebels            | L   | 0.194      | -            | -                | -                | -         |    -4.21 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           11 |     3875 | 2024-03-02 | HAVU              | W   | 0.186      | -            | -                | -                | -         |     0.48 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|           10 |     3897 | 2024-02-29 | Rebels            | L   | 0.174      | -            | -                | -                | -         |    -3.82 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            9 |     3919 | 2024-02-28 | Alliance          | L   | 0.166      | -            | -                | -                | -         |    -4.40 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            8 |     3926 | 2024-02-27 | 9INE              | W   | 0.162      | -            | -                | -                | -         |     0.15 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            7 |     3974 | 2024-02-25 | Sashi             | W   | 0.148      | -            | -                | -                | -         |     2.43 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            6 |     4155 | 2024-02-18 | 500               | W   | 0.099      | -            | -                | -                | -         |     0.27 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            5 |     4346 | 2024-02-10 | brazylijski luz   | W   | 0.047      | -            | -                | -                | -         |     0.19 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            4 |     4369 | 2024-02-08 | AURA              | L   | 0.034      | -            | -                | -                | -         |    -1.05 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            3 |     4391 | 2024-02-06 | ex-Preasy         | L   | 0.020      | -            | -                | -                | -         |    -0.55 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            2 |     4425 | 2024-02-04 | ALTERNATE aTTaX   | W   | 0.006      | -            | -                | -                | -         |     0.06 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
-|            1 |     4446 | 2024-02-03 | Entropiq          | L   | 0.001      | -            | -                | -                | -         |    -0.02 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           70 |      100 | 2024-07-30 | SINNERS           | W   | 1.000      | 0.500        | -                | 0.768 (0.384)    | 0 (0.000) |     5.40 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           69 |      154 | 2024-07-28 | fnatic            | W   | 1.000      | 0.435        | 0.292 (0.127)    | -                | 0 (0.000) |    20.92 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           68 |      170 | 2024-07-28 | Monte             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.98 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           67 |      192 | 2024-07-27 | B8                | W   | 1.000      | 0.435        | 0.168 (0.073)    | 0.878 (0.381)    | 0 (0.000) |    13.39 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           66 |      207 | 2024-07-26 | Permitta          | W   | 1.000      | 0.435        | -                | 0.801 (0.348)    | 0 (0.000) |     4.98 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           65 |      321 | 2024-07-23 | brazylijski luz   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.62 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           64 |      424 | 2024-07-20 | fnatic            | L   | 1.000      | -            | -                | -                | -         |   -10.14 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           63 |      559 | 2024-07-17 | SAW               | L   | 1.000      | -            | -                | -                | -         |   -16.49 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           62 |      573 | 2024-07-17 | B8                | W   | 1.000      | 0.500        | 0.168 (0.084)    | 0.878 (0.439)    | 0 (0.000) |    14.16 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           61 |      672 | 2024-07-15 | RUSH B            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.67 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           60 |      691 | 2024-07-15 | Rebels            | W   | 1.000      | 0.500        | -                | 0.635 (0.318)    | 0 (0.000) |     8.09 | imoRR, jottAAA, SaMey, xfl0ud, yxngstxr |
+|           59 |     1111 | 2024-06-09 | KOI               | W   | 0.846      | -            | -                | -                | 0 (0.000) |     6.19 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           58 |     1179 | 2024-06-08 | SINNERS           | W   | 0.840      | 0.500        | -                | 0.768 (0.323)    | -         |     7.20 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           57 |     1239 | 2024-06-07 | Aurora            | W   | 0.833      | 0.500        | 0.431 (0.180)    | 0.798 (0.333)    | -         |    23.09 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           56 |     1308 | 2024-06-06 | 3DMAX             | W   | 0.827      | 0.500        | 0.505 (0.209)    | 1.000 (0.413)    | -         |    23.06 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           55 |     1371 | 2024-06-05 | SAW               | W   | 0.820      | 0.500        | 0.108 (0.044)    | -                | -         |    15.18 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           54 |     1422 | 2024-06-04 | 9 Pandas          | W   | 0.813      | -            | -                | -                | -         |    11.69 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           53 |     1536 | 2024-05-31 | SAW               | L   | 0.787      | -            | -                | -                | -         |    -8.51 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           52 |     1539 | 2024-05-31 | FAVBET            | W   | 0.786      | -            | -                | -                | -         |     3.67 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           51 |     1543 | 2024-05-31 | fnatic            | L   | 0.786      | -            | -                | -                | -         |    -5.84 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           50 |     1571 | 2024-05-30 | MOUZ NXT          | L   | 0.778      | -            | -                | -                | -         |   -13.58 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           49 |     1745 | 2024-05-22 | Zero Tenacity     | W   | 0.726      | 0.500        | 0.139 (0.050)    | 1.000 (0.363)    | -         |    10.55 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           48 |     1807 | 2024-05-21 | Monte             | W   | 0.719      | -            | -                | -                | -         |     8.99 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           47 |     1839 | 2024-05-20 | Passion UA        | L   | 0.713      | -            | -                | -                | -         |   -14.09 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           46 |     1846 | 2024-05-20 | PARIVISION        | W   | 0.712      | -            | -                | -                | -         |    10.42 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           45 |     1867 | 2024-05-19 | Ninjas in Pyjamas | W   | 0.707      | 0.500        | 0.207 (0.073)    | -                | -         |    19.57 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           44 |     1874 | 2024-05-19 | Endpoint          | W   | 0.706      | -            | -                | -                | -         |     7.13 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           43 |     1910 | 2024-05-18 | Rare Atom         | W   | 0.699      | -            | -                | -                | -         |     1.84 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           42 |     1952 | 2024-05-17 | Permitta          | W   | 0.691      | -            | -                | -                | -         |     5.71 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           41 |     1965 | 2024-05-16 | Ninjas in Pyjamas | L   | 0.687      | -            | -                | -                | -         |    -2.08 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           40 |     2036 | 2024-05-15 | Verdant           | L   | 0.678      | -            | -                | -                | -         |   -15.20 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           39 |     2102 | 2024-05-14 | DMS               | L   | 0.671      | -            | -                | -                | -         |   -15.58 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           38 |     2353 | 2024-05-02 | Metizport         | L   | 0.593      | -            | -                | -                | -         |   -13.52 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           37 |     2387 | 2024-05-01 | ALTERNATE aTTaX   | L   | 0.584      | -            | -                | -                | -         |   -13.34 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           36 |     2398 | 2024-04-30 | Zero Tenacity     | W   | 0.579      | 0.500        | -                | 1.000 (0.290)    | -         |     7.52 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           35 |     2430 | 2024-04-29 | SINNERS           | W   | 0.571      | -            | -                | -                | -         |     6.88 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           34 |     2437 | 2024-04-28 | 1WIN              | W   | 0.567      | -            | -                | -                | -         |     4.67 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           33 |     2461 | 2024-04-27 | PARIVISION        | L   | 0.559      | -            | -                | -                | -         |    -9.75 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           32 |     2494 | 2024-04-26 | Nemiga            | W   | 0.552      | 0.435        | 0.324 (0.078)    | -                | -         |     9.86 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           31 |     2569 | 2024-04-23 | Grannys Knockers  | W   | 0.531      | -            | -                | -                | -         |     2.08 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           30 |     2575 | 2024-04-22 | BLEED             | L   | 0.526      | -            | -                | -                | -         |    -9.62 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           29 |     2587 | 2024-04-22 | ex-Guild Eagles   | L   | 0.524      | -            | -                | -                | -         |   -13.63 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           28 |     2602 | 2024-04-21 | Alliance          | W   | 0.518      | -            | -                | -                | -         |     3.01 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           27 |     2623 | 2024-04-20 | brazylijski luz   | W   | 0.513      | -            | -                | -                | -         |     2.73 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           26 |     2639 | 2024-04-20 | JANO              | W   | 0.511      | -            | -                | -                | -         |     1.39 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           25 |     2659 | 2024-04-19 | TSM               | W   | 0.507      | -            | -                | -                | -         |     1.25 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           24 |     2671 | 2024-04-19 | Nemiga            | L   | 0.506      | -            | -                | -                | -         |    -7.31 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           23 |     2781 | 2024-04-17 | 9 Pandas          | W   | 0.491      | -            | -                | -                | -         |     4.94 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           22 |     2793 | 2024-04-16 | Zero Tenacity     | W   | 0.487      | -            | -                | -                | -         |     6.20 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           21 |     2815 | 2024-04-15 | B8                | W   | 0.480      | 0.500        | 0.168 (0.040)    | -                | -         |     6.31 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           20 |     2819 | 2024-04-15 | Aurora Young Blud | W   | 0.479      | -            | -                | -                | -         |     2.77 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           19 |     2860 | 2024-04-12 | Monte             | L   | 0.459      | -            | -                | -                | -         |    -9.46 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           18 |     3114 | 2024-04-04 | EYEBALLERS        | W   | 0.407      | -            | -                | -                | -         |     2.95 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           17 |     3205 | 2024-04-02 | 9 Pandas          | L   | 0.393      | -            | -                | -                | -         |    -8.19 | jottAAA, LNZ, SaMey, xfl0ud, yxngstxr   |
+|           16 |     3572 | 2024-03-13 | KOI               | L   | 0.261      | -            | -                | -                | -         |    -6.09 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           15 |     3682 | 2024-03-09 | Zero Tenacity     | L   | 0.233      | -            | -                | -                | -         |    -4.08 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           14 |     3731 | 2024-03-07 | 500               | L   | 0.219      | -            | -                | -                | -         |    -6.24 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           13 |     3751 | 2024-03-06 | TSM               | W   | 0.214      | -            | -                | -                | -         |     0.46 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           12 |     3826 | 2024-03-04 | Sampi             | W   | 0.198      | -            | -                | -                | -         |     1.23 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           11 |     3851 | 2024-03-03 | Rebels            | L   | 0.193      | -            | -                | -                | -         |    -4.18 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|           10 |     3879 | 2024-03-02 | HAVU              | W   | 0.185      | -            | -                | -                | -         |     0.47 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            9 |     3901 | 2024-02-29 | Rebels            | L   | 0.173      | -            | -                | -                | -         |    -3.79 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            8 |     3923 | 2024-02-28 | Alliance          | L   | 0.165      | -            | -                | -                | -         |    -4.36 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            7 |     3930 | 2024-02-27 | 9INE              | W   | 0.161      | -            | -                | -                | -         |     0.15 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            6 |     3978 | 2024-02-25 | Sashi             | W   | 0.147      | -            | -                | -                | -         |     2.40 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            5 |     4159 | 2024-02-18 | 500               | W   | 0.098      | -            | -                | -                | -         |     0.27 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            4 |     4350 | 2024-02-10 | brazylijski luz   | W   | 0.045      | -            | -                | -                | -         |     0.18 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            3 |     4373 | 2024-02-08 | AURA              | L   | 0.033      | -            | -                | -                | -         |    -1.00 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            2 |     4395 | 2024-02-06 | ex-Preasy         | L   | 0.018      | -            | -                | -                | -         |    -0.52 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
+|            1 |     4429 | 2024-02-04 | ALTERNATE aTTaX   | W   | 0.004      | -            | -                | -                | -         |     0.04 | Ganginho, LNZ, sausol, xfl0ud, yxngstxr |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($72,362.19)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($72,269.83)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.22) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -122,8 +121,8 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $22,000.00     | $22,000.00      |
-| 2024-06-09 |      0.848 | $16,500.00     | $13,987.19      |
-| 2024-05-22 |      0.728 | $50,000.00     | $36,375.00      |
+| 2024-06-09 |      0.846 | $16,500.00     | $13,964.27      |
+| 2024-05-22 |      0.726 | $50,000.00     | $36,305.56      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [77](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [56]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  943.6<br />
+Final Rank Value:  942.9<br />
 <br />
-Final Rank Value (943.6) = Starting Rank Value (862.0) + Head To Head Adjustments (81.6)<br />
+Final Rank Value (942.9) = Starting Rank Value (861.4) + Head To Head Adjustments (81.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.224<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 862.0
-- 400 + ( ( 0.224 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 862.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 861.4
+- 400 + ( ( 0.224 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 861.4
 
 
 #### Factors<br />
@@ -37,45 +37,45 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |       84 | 2024-07-30 | B8              | L   | 1.000      | -            | -                | -                | -         |    -7.86 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           23 |      116 | 2024-07-29 | PERA            | W   | 1.000      | 0.500        | 0.048 (0.024)    | 0.452 (0.226)    | 0 (0.000) |    16.54 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           22 |      617 | 2024-07-16 | Nemiga          | L   | 1.000      | -            | -                | -                | -         |    -6.75 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           21 |      899 | 2024-06-16 | RUBY            | L   | 0.893      | -            | -                | -                | -         |   -16.18 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           20 |      920 | 2024-06-15 | EYEBALLERS      | W   | 0.888      | 0.143        | -                | 0.513 (0.065)    | 0 (0.000) |    11.57 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           19 |      934 | 2024-06-15 | VP.Prodigy      | W   | 0.886      | 0.450        | 0.026 (0.010)    | 0.405 (0.161)    | 0 (0.000) |    12.55 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           18 |      950 | 2024-06-14 | FAVBET          | W   | 0.881      | -            | -                | -                | 0 (0.000) |    10.69 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           17 |     1002 | 2024-06-13 | CYBERSHOKE      | W   | 0.873      | 0.450        | 0.040 (0.016)    | 0.348 (0.137)    | 0 (0.000) |    12.81 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           16 |     1058 | 2024-06-10 | Insilio         | L   | 0.855      | -            | -                | -                | -         |   -10.90 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           15 |     1379 | 2024-06-05 | RUBY            | W   | 0.821      | 0.372        | 0.097 (0.030)    | 0.544 (0.166)    | 0 (0.000) |    13.73 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           14 |     1451 | 2024-06-03 | DMS             | W   | 0.807      | 0.372        | 0.003 (0.001)    | 0.447 (0.134)    | 0 (0.000) |    15.85 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           13 |     1498 | 2024-06-01 | Enterprise      | W   | 0.794      | 0.372        | 0.040 (0.012)    | 0.622 (0.184)    | 0 (0.000) |    13.57 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           12 |     1556 | 2024-05-30 | FAVBET          | W   | 0.782      | 0.372        | 0.003 (0.001)    | 0.343 (0.100)    | 0 (0.000) |     9.85 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           11 |     2299 | 2024-05-05 | 9 Pandas        | L   | 0.612      | -            | -                | -                | -         |    -6.31 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|           10 |     2484 | 2024-04-26 | Insilio         | W   | 0.554      | 0.396        | 0.023 (0.005)    | 0.554 (0.122)    | 0 (0.000) |    10.28 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            9 |     2493 | 2024-04-26 | Permitta        | W   | 0.553      | 0.396        | 0.024 (0.005)    | 0.801 (0.176)    | -         |    11.17 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            8 |     3609 | 2024-03-12 | The Chosen Few  | L   | 0.254      | -            | -                | -                | -         |    -5.83 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            7 |     3668 | 2024-03-09 | FORZE YNG       | W   | 0.235      | -            | -                | -                | -         |     0.53 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            6 |     3693 | 2024-03-08 | RUBY            | L   | 0.228      | -            | -                | -                | -         |    -2.78 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            5 |     3781 | 2024-03-05 | 1WIN            | W   | 0.209      | 0.372        | 0.027 (0.002)    | -                | -         |     3.61 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            4 |     3935 | 2024-02-27 | FORZE           | L   | 0.161      | -            | -                | -                | -         |    -2.27 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            3 |     4150 | 2024-02-18 | brazylijski luz | L   | 0.101      | -            | -                | -                | -         |    -1.83 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            2 |     4332 | 2024-02-11 | Sashi           | L   | 0.053      | -            | -                | -                | -         |    -0.26 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
-|            1 |     4422 | 2024-02-04 | Portugal        | L   | 0.007      | -            | -                | -                | -         |    -0.15 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           24 |       88 | 2024-07-30 | B8              | L   | 1.000      | -            | -                | -                | -         |    -7.87 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           23 |      120 | 2024-07-29 | PERA            | W   | 1.000      | 0.500        | 0.048 (0.024)    | 0.452 (0.226)    | 0 (0.000) |    16.57 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           22 |      621 | 2024-07-16 | Nemiga          | L   | 1.000      | -            | -                | -                | -         |    -6.76 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           21 |      903 | 2024-06-16 | RUBY            | L   | 0.892      | -            | -                | -                | -         |   -16.16 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           20 |      924 | 2024-06-15 | EYEBALLERS      | W   | 0.887      | 0.143        | -                | 0.512 (0.065)    | 0 (0.000) |    11.55 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           19 |      938 | 2024-06-15 | VP.Prodigy      | W   | 0.885      | 0.450        | 0.026 (0.010)    | 0.405 (0.161)    | 0 (0.000) |    12.53 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           18 |      954 | 2024-06-14 | FAVBET          | W   | 0.880      | -            | -                | -                | 0 (0.000) |    10.67 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           17 |     1006 | 2024-06-13 | CYBERSHOKE      | W   | 0.872      | 0.450        | 0.040 (0.016)    | 0.348 (0.137)    | 0 (0.000) |    12.79 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           16 |     1062 | 2024-06-10 | Insilio         | L   | 0.854      | -            | -                | -                | -         |   -10.89 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           15 |     1383 | 2024-06-05 | RUBY            | W   | 0.819      | 0.372        | 0.097 (0.029)    | 0.544 (0.166)    | 0 (0.000) |    13.71 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           14 |     1455 | 2024-06-03 | DMS             | W   | 0.806      | 0.372        | 0.003 (0.001)    | 0.447 (0.134)    | 0 (0.000) |    15.82 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           13 |     1502 | 2024-06-01 | Enterprise      | W   | 0.793      | 0.372        | 0.040 (0.012)    | 0.622 (0.184)    | 0 (0.000) |    13.55 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           12 |     1560 | 2024-05-30 | FAVBET          | W   | 0.780      | 0.372        | 0.003 (0.001)    | 0.343 (0.100)    | 0 (0.000) |     9.83 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           11 |     2303 | 2024-05-05 | 9 Pandas        | L   | 0.611      | -            | -                | -                | -         |    -6.31 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|           10 |     2488 | 2024-04-26 | Insilio         | W   | 0.553      | 0.396        | 0.023 (0.005)    | 0.554 (0.121)    | 0 (0.000) |    10.25 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            9 |     2497 | 2024-04-26 | Permitta        | W   | 0.551      | 0.396        | 0.024 (0.005)    | 0.801 (0.175)    | -         |    11.13 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            8 |     3613 | 2024-03-12 | The Chosen Few  | L   | 0.253      | -            | -                | -                | -         |    -5.79 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            7 |     3672 | 2024-03-09 | FORZE YNG       | W   | 0.233      | -            | -                | -                | -         |     0.52 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            6 |     3697 | 2024-03-08 | RUBY            | L   | 0.227      | -            | -                | -                | -         |    -2.77 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            5 |     3785 | 2024-03-05 | 1WIN            | W   | 0.207      | 0.372        | 0.027 (0.002)    | -                | -         |     3.60 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            4 |     3939 | 2024-02-27 | FORZE           | L   | 0.160      | -            | -                | -                | -         |    -2.26 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            3 |     4154 | 2024-02-18 | brazylijski luz | L   | 0.100      | -            | -                | -                | -         |    -1.81 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            2 |     4336 | 2024-02-11 | Sashi           | L   | 0.052      | -            | -                | -                | -         |    -0.25 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
+|            1 |     4426 | 2024-02-04 | Portugal        | L   | 0.005      | -            | -                | -                | -         |    -0.12 | 1NVISIBLEE, DSSj, Get_Jeka, shg, synyx |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($12,610.43)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($12,590.57)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.04) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.893 | $10,000.00     | $8,933.33       |
-| 2024-06-10 |      0.855 | $4,300.00      | $3,677.10       |
+| 2024-06-16 |      0.892 | $10,000.00     | $8,919.44       |
+| 2024-06-10 |      0.854 | $4,300.00      | $3,671.13       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

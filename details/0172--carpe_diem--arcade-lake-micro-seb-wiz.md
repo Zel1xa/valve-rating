@@ -6,9 +6,9 @@ Global Rank: [172](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [50]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  667.5<br />
+Final Rank Value:  667.0<br />
 <br />
-Final Rank Value (667.5) = Starting Rank Value (678.5) + Head To Head Adjustments (-11.1)<br />
+Final Rank Value (667.0) = Starting Rank Value (678.1) + Head To Head Adjustments (-11.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.135<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 678.5
-- 400 + ( ( 0.135 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 678.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 678.1
+- 400 + ( ( 0.135 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 678.1
 
 
 #### Factors<br />
@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |     2223 | 2024-05-08 | M80              | L   | 0.637      | -            | -                | -                | -         |    -0.70 | arcade, Lake, micro, Seb, wiz |
-|           19 |     2224 | 2024-05-08 | M80              | L   | 0.637      | -            | -                | -                | -         |    -0.70 | arcade, Lake, micro, Seb, wiz |
-|           18 |     2865 | 2024-04-11 | Mythic           | W   | 0.457      | 0.477        | 0.010 (0.002)    | 0.304 (0.066)    | 0 (0.000) |     9.59 | arcade, Lake, micro, Seb, wiz |
-|           17 |     2867 | 2024-04-11 | Mythic           | L   | 0.457      | -            | -                | -                | -         |    -4.87 | arcade, Lake, micro, Seb, wiz |
-|           16 |     2955 | 2024-04-09 | NRG              | L   | 0.444      | -            | -                | -                | -         |    -3.48 | arcade, Lake, micro, Seb, wiz |
-|           15 |     2958 | 2024-04-09 | NRG              | L   | 0.444      | -            | -                | -                | -         |    -3.58 | arcade, Lake, micro, Seb, wiz |
-|           14 |     3082 | 2024-04-04 | Perseverance     | L   | 0.411      | -            | -                | -                | -         |    -5.20 | arcade, Lake, micro, Seb, wiz |
-|           13 |     3087 | 2024-04-04 | Perseverance     | L   | 0.410      | -            | -                | -                | -         |    -5.38 | arcade, Lake, micro, Seb, wiz |
-|           12 |     3269 | 2024-03-27 | Party Astronauts | L   | 0.357      | -            | -                | -                | -         |    -2.11 | arcade, Lake, micro, Seb, wiz |
-|           11 |     3272 | 2024-03-27 | Party Astronauts | L   | 0.357      | -            | -                | -                | -         |    -2.15 | arcade, Lake, micro, Seb, wiz |
-|           10 |     3493 | 2024-03-15 | Elevate          | L   | 0.278      | -            | -                | -                | -         |    -1.27 | arcade, Lake, micro, Seb, wiz |
-|            9 |     3495 | 2024-03-15 | Elevate          | L   | 0.277      | -            | -                | -                | -         |    -1.28 | arcade, Lake, micro, Seb, wiz |
-|            8 |     3557 | 2024-03-13 | Party Astronauts | L   | 0.263      | -            | -                | -                | -         |    -1.62 | arcade, Lake, micro, Seb, wiz |
-|            7 |     3597 | 2024-03-12 | NRG              | W   | 0.257      | 0.143        | 0.020 (0.001)    | 0.519 (0.019)    | 0 (0.000) |     5.86 | arcade, Lake, micro, Seb, wiz |
-|            6 |     3733 | 2024-03-06 | Limitless        | W   | 0.217      | 0.477        | 0.001 (0.000)    | 0.170 (0.018)    | 0 (0.000) |     3.19 | arcade, Lake, micro, Seb, wiz |
-|            5 |     3736 | 2024-03-06 | Limitless        | W   | 0.217      | 0.477        | 0.001 (0.000)    | 0.170 (0.018)    | 0 (0.000) |     3.25 | arcade, Lake, micro, Seb, wiz |
-|            4 |     4245 | 2024-02-14 | Rocket           | W   | 0.077      | 0.477        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     0.64 | arcade, Lake, micro, Seb, wiz |
-|            3 |     4247 | 2024-02-14 | Rocket           | L   | 0.077      | -            | -                | -                | -         |    -1.80 | arcade, Lake, micro, Seb, wiz |
-|            2 |     4285 | 2024-02-13 | FLUFFY AIMERS    | W   | 0.071      | 0.477        | 0.010 (0.000)    | 0.105 (0.004)    | 0 (0.000) |     1.39 | arcade, Lake, micro, Seb, wiz |
-|            1 |     4288 | 2024-02-13 | FLUFFY AIMERS    | L   | 0.071      | -            | -                | -                | -         |    -0.84 | arcade, Lake, micro, Seb, wiz |
+|           20 |     2227 | 2024-05-08 | M80              | L   | 0.635      | -            | -                | -                | -         |    -0.69 | arcade, Lake, micro, Seb, wiz |
+|           19 |     2228 | 2024-05-08 | M80              | L   | 0.635      | -            | -                | -                | -         |    -0.70 | arcade, Lake, micro, Seb, wiz |
+|           18 |     2869 | 2024-04-11 | Mythic           | W   | 0.456      | 0.477        | 0.010 (0.002)    | 0.304 (0.066)    | 0 (0.000) |     9.56 | arcade, Lake, micro, Seb, wiz |
+|           17 |     2871 | 2024-04-11 | Mythic           | L   | 0.456      | -            | -                | -                | -         |    -4.85 | arcade, Lake, micro, Seb, wiz |
+|           16 |     2959 | 2024-04-09 | NRG              | L   | 0.442      | -            | -                | -                | -         |    -3.47 | arcade, Lake, micro, Seb, wiz |
+|           15 |     2962 | 2024-04-09 | NRG              | L   | 0.442      | -            | -                | -                | -         |    -3.58 | arcade, Lake, micro, Seb, wiz |
+|           14 |     3086 | 2024-04-04 | Perseverance     | L   | 0.409      | -            | -                | -                | -         |    -5.18 | arcade, Lake, micro, Seb, wiz |
+|           13 |     3091 | 2024-04-04 | Perseverance     | L   | 0.409      | -            | -                | -                | -         |    -5.37 | arcade, Lake, micro, Seb, wiz |
+|           12 |     3273 | 2024-03-27 | Party Astronauts | L   | 0.356      | -            | -                | -                | -         |    -2.10 | arcade, Lake, micro, Seb, wiz |
+|           11 |     3276 | 2024-03-27 | Party Astronauts | L   | 0.356      | -            | -                | -                | -         |    -2.15 | arcade, Lake, micro, Seb, wiz |
+|           10 |     3497 | 2024-03-15 | Elevate          | L   | 0.276      | -            | -                | -                | -         |    -1.27 | arcade, Lake, micro, Seb, wiz |
+|            9 |     3499 | 2024-03-15 | Elevate          | L   | 0.276      | -            | -                | -                | -         |    -1.28 | arcade, Lake, micro, Seb, wiz |
+|            8 |     3561 | 2024-03-13 | Party Astronauts | L   | 0.261      | -            | -                | -                | -         |    -1.61 | arcade, Lake, micro, Seb, wiz |
+|            7 |     3601 | 2024-03-12 | NRG              | W   | 0.256      | 0.143        | 0.020 (0.001)    | 0.519 (0.019)    | 0 (0.000) |     5.83 | arcade, Lake, micro, Seb, wiz |
+|            6 |     3737 | 2024-03-06 | Limitless        | W   | 0.216      | 0.477        | 0.001 (0.000)    | 0.170 (0.017)    | 0 (0.000) |     3.17 | arcade, Lake, micro, Seb, wiz |
+|            5 |     3740 | 2024-03-06 | Limitless        | W   | 0.216      | 0.477        | 0.001 (0.000)    | 0.170 (0.017)    | 0 (0.000) |     3.23 | arcade, Lake, micro, Seb, wiz |
+|            4 |     4249 | 2024-02-14 | Rocket           | W   | 0.076      | 0.477        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     0.63 | arcade, Lake, micro, Seb, wiz |
+|            3 |     4251 | 2024-02-14 | Rocket           | L   | 0.076      | -            | -                | -                | -         |    -1.77 | arcade, Lake, micro, Seb, wiz |
+|            2 |     4289 | 2024-02-13 | FLUFFY AIMERS    | W   | 0.069      | 0.477        | 0.010 (0.000)    | 0.104 (0.003)    | 0 (0.000) |     1.36 | arcade, Lake, micro, Seb, wiz |
+|            1 |     4292 | 2024-02-13 | FLUFFY AIMERS    | L   | 0.069      | -            | -                | -                | -         |    -0.83 | arcade, Lake, micro, Seb, wiz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,700.00)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($1,697.22)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

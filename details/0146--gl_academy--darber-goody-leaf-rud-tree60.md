@@ -6,9 +6,9 @@ Global Rank: [146](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [96]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  728.4<br />
+Final Rank Value:  727.8<br />
 <br />
-Final Rank Value (728.4) = Starting Rank Value (738.2) + Head To Head Adjustments (-9.7)<br />
+Final Rank Value (727.8) = Starting Rank Value (737.6) + Head To Head Adjustments (-9.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.164<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 738.2
-- 400 + ( ( 0.164 - 0.000 ) / ( 0.777 - 0.000 ) ) * 1600 = 738.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 737.6
+- 400 + ( ( 0.164 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 737.6
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      505 | 2024-07-18 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -16.92 | darber, Goody, leaf, rud, Tree60 |
-|           11 |      566 | 2024-07-17 | K10             | L   | 1.000      | -            | -                | -                | -         |   -17.65 | darber, Goody, leaf, rud, Tree60 |
-|           10 |     1443 | 2024-06-03 | PERA            | L   | 0.808      | -            | -                | -                | -         |    -6.84 | darber, Goody, leaf, rud, Tree60 |
-|            9 |     1603 | 2024-05-28 | UNiTY           | W   | 0.768      | 0.379        | 0.025 (0.007)    | 0.267 (0.078)    | 0 (0.000) |    17.51 | darber, Goody, leaf, rud, Tree60 |
-|            8 |     1697 | 2024-05-23 | brazylijski luz | L   | 0.735      | -            | -                | -                | -         |    -8.77 | darber, Goody, leaf, rud, Tree60 |
-|            7 |     2298 | 2024-05-05 | MOUZ NXT        | L   | 0.613      | -            | -                | -                | -         |    -3.98 | darber, Goody, leaf, rud, shadiy |
-|            6 |     2308 | 2024-05-04 | B8              | L   | 0.607      | -            | -                | -                | -         |    -3.39 | darber, Goody, leaf, rud, shadiy |
-|            5 |     2382 | 2024-05-01 | RUBY            | W   | 0.586      | 0.435        | 0.097 (0.025)    | 0.544 (0.139)    | 0 (0.000) |    13.56 | darber, Goody, leaf, rud, shadiy |
-|            4 |     2387 | 2024-04-30 | Sampi           | L   | 0.582      | -            | -                | -                | -         |    -5.47 | darber, Goody, leaf, rud, sSen   |
-|            3 |     2473 | 2024-04-27 | K10             | W   | 0.559      | 0.143        | 0.008 (0.001)    | 0.133 (0.011)    | 0 (0.000) |     7.21 | darber, Goody, leaf, rud, sSen   |
-|            2 |     3237 | 2024-03-30 | NAVI Junior     | W   | 0.373      | 0.333        | 0.003 (0.000)    | 0.032 (0.004)    | 0 (0.000) |     5.22 | darber, Goody, leaf, nestee, rud |
-|            1 |     3265 | 2024-03-28 | Passion UA      | W   | 0.360      | 0.333        | 0.172 (0.021)    | 1.000 (0.120)    | 0 (0.000) |     9.80 | darber, Goody, leaf, nestee, rud |
+|           12 |      509 | 2024-07-18 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -16.91 | darber, Goody, leaf, rud, Tree60 |
+|           11 |      570 | 2024-07-17 | K10             | L   | 1.000      | -            | -                | -                | -         |   -17.64 | darber, Goody, leaf, rud, Tree60 |
+|           10 |     1447 | 2024-06-03 | PERA            | L   | 0.807      | -            | -                | -                | -         |    -6.81 | darber, Goody, leaf, rud, Tree60 |
+|            9 |     1607 | 2024-05-28 | UNiTY           | W   | 0.767      | 0.379        | 0.025 (0.007)    | 0.267 (0.078)    | 0 (0.000) |    17.47 | darber, Goody, leaf, rud, Tree60 |
+|            8 |     1701 | 2024-05-23 | brazylijski luz | L   | 0.734      | -            | -                | -                | -         |    -8.76 | darber, Goody, leaf, rud, Tree60 |
+|            7 |     2302 | 2024-05-05 | MOUZ NXT        | L   | 0.611      | -            | -                | -                | -         |    -3.98 | darber, Goody, leaf, rud, shadiy |
+|            6 |     2312 | 2024-05-04 | B8              | L   | 0.605      | -            | -                | -                | -         |    -3.39 | darber, Goody, leaf, rud, shadiy |
+|            5 |     2386 | 2024-05-01 | RUBY            | W   | 0.584      | 0.435        | 0.097 (0.025)    | 0.544 (0.138)    | 0 (0.000) |    13.52 | darber, Goody, leaf, rud, shadiy |
+|            4 |     2391 | 2024-04-30 | Sampi           | L   | 0.581      | -            | -                | -                | -         |    -5.46 | darber, Goody, leaf, rud, sSen   |
+|            3 |     2477 | 2024-04-27 | K10             | W   | 0.558      | 0.143        | 0.008 (0.001)    | 0.133 (0.011)    | 0 (0.000) |     7.20 | darber, Goody, leaf, rud, sSen   |
+|            2 |     3241 | 2024-03-30 | NAVI Junior     | W   | 0.372      | 0.333        | 0.003 (0.000)    | 0.032 (0.004)    | 0 (0.000) |     5.20 | darber, Goody, leaf, nestee, rud |
+|            1 |     3269 | 2024-03-28 | Passion UA      | W   | 0.359      | 0.333        | 0.173 (0.021)    | 1.000 (0.120)    | 0 (0.000) |     9.76 | darber, Goody, leaf, nestee, rud |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,240.00)
-- Divide that value by the 5th highest value among all rosters ($327,422.13)
+- First, take the sum of their top 10 scaled winnings ($2,231.67)
+- Divide that value by the 5th highest value among all rosters ($327,030.46)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
