@@ -6,22 +6,22 @@ Global Rank: [63](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [44]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  985.8<br />
+Final Rank Value:  975.5<br />
 <br />
-Final Rank Value (985.8) = Starting Rank Value (970.5) + Head To Head Adjustments (15.3)<br />
+Final Rank Value (975.5) = Starting Rank Value (974.2) + Head To Head Adjustments (1.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.416[<sup>1</sup>](#table2)
 - Bounty Collected: 0.445[<sup>2</sup>](#table1)
-- Opponent Network: 0.248[<sup>2</sup>](#table1)
+- Opponent Network: 0.262[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.277<br />
+The average of these factors is 0.281<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 970.5
-- 400 + ( ( 0.277 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 970.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 974.2
+- 400 + ( ( 0.281 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 974.2
 
 
 #### Factors<br />
@@ -37,29 +37,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |       84 | 2024-07-30 | 9 Pandas         | W   | 1.000      | 0.500        | 0.083 (0.041)    | 0.577 (0.289)    | 0 (0.000) |    19.58 | acoR, Altekz, niko, valde, Zyphon |
-|           15 |      141 | 2024-07-29 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -19.94 | acoR, Altekz, niko, valde, Zyphon |
-|           14 |      170 | 2024-07-28 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -16.38 | acoR, Altekz, niko, valde, Zyphon |
-|           13 |      342 | 2024-07-22 | CPH Wolves       | L   | 1.000      | -            | -                | -                | -         |   -22.40 | acoR, Altekz, niko, valde, Zyphon |
-|           12 |      386 | 2024-07-21 | Preasy           | W   | 1.000      | 0.143        | 0.012 (0.002)    | 0.222 (0.032)    | 0 (0.000) |     6.63 | acoR, Altekz, niko, valde, Zyphon |
-|           11 |      499 | 2024-07-18 | Nexus            | L   | 1.000      | -            | -                | -                | -         |   -25.41 | acoR, Altekz, niko, valde, Zyphon |
-|           10 |      523 | 2024-07-18 | LEON             | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.131 (0.019)    | 0 (0.000) |     3.47 | acoR, Altekz, niko, valde, Zyphon |
-|            9 |      569 | 2024-07-17 | GUN5             | W   | 1.000      | 0.500        | 0.074 (0.037)    | 0.555 (0.278)    | 0 (0.000) |    12.50 | acoR, Altekz, niko, valde, Zyphon |
-|            8 |      590 | 2024-07-17 | Into the Breach  | L   | 1.000      | -            | -                | -                | -         |   -28.28 | acoR, Altekz, niko, valde, Zyphon |
-|            7 |      639 | 2024-07-16 | 500              | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.023 (0.008)    | 0 (0.000) |     0.82 | acoR, Altekz, niko, valde, Zyphon |
-|            6 |      676 | 2024-07-15 | 3DMAX            | W   | 1.000      | 0.500        | 0.505 (0.253)    | 1.000 (0.500)    | 0 (0.000) |    26.88 | acoR, Altekz, niko, valde, Zyphon |
-|            5 |      723 | 2024-07-13 | Sashi            | W   | 1.000      | 0.358        | 0.186 (0.067)    | 0.970 (0.347)    | 0 (0.000) |    22.83 | acoR, Altekz, niko, valde, Zyphon |
-|            4 |      736 | 2024-07-12 | Johnny Speeds    | W   | 1.000      | 0.358        | 0.124 (0.044)    | 0.819 (0.293)    | 0 (0.000) |    25.25 | acoR, Altekz, niko, valde, Zyphon |
-|            3 |      795 | 2024-07-09 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | 0 (0.000) |    18.54 | acoR, Altekz, niko, valde, Zyphon |
-|            2 |      814 | 2024-07-08 | FLuffy Gangsters | L   | 1.000      | -            | -                | -                | -         |   -27.26 | acoR, Altekz, niko, valde, Zyphon |
-|            1 |      817 | 2024-07-08 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | 0 (0.000) |    18.43 | acoR, Altekz, niko, valde, Zyphon |
+|           17 |       25 | 2024-08-02 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |   -10.43 | acoR, Altekz, niko, valde, Zyphon |
+|           16 |      140 | 2024-07-30 | 9 Pandas         | W   | 1.000      | 0.500        | 0.082 (0.041)    | 0.715 (0.357)    | 0 (0.000) |    19.41 | acoR, Altekz, niko, valde, Zyphon |
+|           15 |      197 | 2024-07-29 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -20.48 | acoR, Altekz, niko, valde, Zyphon |
+|           14 |      226 | 2024-07-28 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -16.49 | acoR, Altekz, niko, valde, Zyphon |
+|           13 |      397 | 2024-07-22 | CPH Wolves       | L   | 1.000      | -            | -                | -                | -         |   -22.58 | acoR, Altekz, niko, valde, Zyphon |
+|           12 |      440 | 2024-07-21 | Preasy           | W   | 1.000      | 0.143        | 0.012 (0.002)    | 0.231 (0.033)    | 0 (0.000) |     6.50 | acoR, Altekz, niko, valde, Zyphon |
+|           11 |      545 | 2024-07-18 | Nexus            | L   | 1.000      | -            | -                | -                | -         |   -26.46 | acoR, Altekz, niko, valde, Zyphon |
+|           10 |      570 | 2024-07-18 | LEON             | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.135 (0.019)    | 0 (0.000) |     3.49 | acoR, Altekz, niko, valde, Zyphon |
+|            9 |      615 | 2024-07-17 | GUN5             | W   | 1.000      | 0.500        | 0.073 (0.036)    | 0.588 (0.294)    | 0 (0.000) |    11.71 | acoR, Altekz, niko, valde, Zyphon |
+|            8 |      634 | 2024-07-17 | Into the Breach  | L   | 1.000      | -            | -                | -                | -         |   -28.40 | acoR, Altekz, niko, valde, Zyphon |
+|            7 |      680 | 2024-07-16 | 500              | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.024 (0.008)    | 0 (0.000) |     0.79 | acoR, Altekz, niko, valde, Zyphon |
+|            6 |      714 | 2024-07-15 | 3DMAX            | W   | 1.000      | 0.500        | 0.504 (0.252)    | 1.000 (0.500)    | 0 (0.000) |    26.75 | acoR, Altekz, niko, valde, Zyphon |
+|            5 |      755 | 2024-07-13 | Sashi            | W   | 1.000      | 0.358        | 0.184 (0.066)    | 0.998 (0.357)    | 0 (0.000) |    22.64 | acoR, Altekz, niko, valde, Zyphon |
+|            4 |      768 | 2024-07-12 | Johnny Speeds    | W   | 1.000      | 0.358        | 0.122 (0.044)    | 0.930 (0.333)    | 0 (0.000) |    24.92 | acoR, Altekz, niko, valde, Zyphon |
+|            3 |      826 | 2024-07-09 | Passion UA       | W   | 1.000      | 0.358        | 0.172 (0.062)    | 1.000 (0.358)    | 0 (0.000) |    18.67 | acoR, Altekz, niko, valde, Zyphon |
+|            2 |      845 | 2024-07-08 | FLuffy Gangsters | L   | 1.000      | -            | -                | -                | -         |   -27.37 | acoR, Altekz, niko, valde, Zyphon |
+|            1 |      848 | 2024-07-08 | Passion UA       | W   | 1.000      | 0.358        | 0.172 (0.062)    | 1.000 (0.358)    | 0 (0.000) |    18.59 | acoR, Altekz, niko, valde, Zyphon |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($12,864.00)
-- Divide that value by the 5th highest value among all rosters ($326,952.13)
+- Divide that value by the 5th highest value among all rosters ($325,971.18)
 - The final value (0.04) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

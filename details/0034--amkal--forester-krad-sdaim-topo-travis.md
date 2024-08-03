@@ -6,22 +6,22 @@ Global Rank: [34](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [25]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1168.3<br />
+Final Rank Value:  1166.9<br />
 <br />
-Final Rank Value (1168.3) = Starting Rank Value (1152.7) + Head To Head Adjustments (15.6)<br />
+Final Rank Value (1166.9) = Starting Rank Value (1150.7) + Head To Head Adjustments (16.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.532[<sup>1</sup>](#table2)
-- Bounty Collected: 0.442[<sup>2</sup>](#table1)
-- Opponent Network: 0.230[<sup>2</sup>](#table1)
-- LAN Wins: 0.260[<sup>2</sup>](#table1)
+- Bounty Offered: 0.530[<sup>1</sup>](#table2)
+- Bounty Collected: 0.444[<sup>2</sup>](#table1)
+- Opponent Network: 0.242[<sup>2</sup>](#table1)
+- LAN Wins: 0.252[<sup>2</sup>](#table1)
 
-The average of these factors is 0.366<br />
+The average of these factors is 0.367<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1152.7
-- 400 + ( ( 0.366 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1152.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1150.7
+- 400 + ( ( 0.367 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1150.7
 
 
 #### Factors<br />
@@ -37,69 +37,69 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           56 |        1 | 2024-08-01 | Cloud9            | L   | 1.000      | -            | -                | -                | -         |   -29.12 | Forester, Krad, Sdaim, topo, TRAVIS     |
-|           55 |       51 | 2024-07-31 | BLEED             | L   | 1.000      | -            | -                | -                | -         |   -10.20 | Forester, Krad, Sdaim, topo, TRAVIS     |
-|           54 |      189 | 2024-07-27 | The MongolZ       | L   | 1.000      | -            | -                | -                | -         |    -1.83 | Forester, Krad, Sdaim, shady, TRAVIS    |
-|           53 |      221 | 2024-07-26 | DMS               | W   | 1.000      | 0.650        | -                | 0.447 (0.291)    | 1 (1.000) |     4.55 | Forester, Krad, Sdaim, shady, TRAVIS    |
-|           52 |      256 | 2024-07-25 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -2.67 | Forester, Krad, Sdaim, shady, TRAVIS    |
-|           51 |      281 | 2024-07-24 | Revenant          | W   | 1.000      | 0.650        | 0.027 (0.018)    | 0.263 (0.171)    | 1 (1.000) |     3.73 | Forester, Krad, Sdaim, shady, TRAVIS    |
-|           50 |      291 | 2024-07-24 | 3DMAX             | L   | 1.000      | -            | -                | -                | -         |    -9.77 | Forester, Krad, Sdaim, shady, TRAVIS    |
-|           49 |     1103 | 2024-06-09 | Monte             | W   | 0.847      | -            | -                | -                | 0 (0.000) |     7.24 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           48 |     1132 | 2024-06-09 | B8                | W   | 0.845      | 0.143        | 0.168 (0.020)    | 0.878 (0.106)    | 0 (0.000) |    10.59 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           47 |     1192 | 2024-06-08 | Monte             | W   | 0.839      | -            | -                | -                | 0 (0.000) |     6.98 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           46 |     1196 | 2024-06-08 | 1WIN              | W   | 0.839      | -            | -                | -                | 0 (0.000) |     6.03 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           45 |     1514 | 2024-06-01 | MOUZ NXT          | L   | 0.792      | -            | -                | -                | -         |   -15.94 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           44 |     1531 | 2024-05-31 | Permitta          | W   | 0.787      | 0.435        | -                | 0.801 (0.274)    | 0 (0.000) |     4.13 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           43 |     1796 | 2024-05-21 | GamerLegion       | L   | 0.720      | -            | -                | -                | -         |   -12.06 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           42 |     1874 | 2024-05-19 | paiN              | W   | 0.706      | 0.769        | 0.300 (0.163)    | 0.801 (0.435)    | -         |    14.78 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           41 |     1878 | 2024-05-19 | Liquid            | L   | 0.705      | -            | -                | -                | -         |    -2.95 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           40 |     1899 | 2024-05-18 | paiN              | W   | 0.700      | 0.769        | 0.300 (0.161)    | 0.801 (0.431)    | -         |    15.28 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           39 |     2308 | 2024-05-04 | BetBoom           | W   | 0.606      | 0.435        | 0.257 (0.068)    | 0.551 (0.145)    | -         |    15.26 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           38 |     2318 | 2024-05-04 | Metizport         | W   | 0.604      | 0.435        | -                | 0.424 (0.112)    | -         |     4.67 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           37 |     2328 | 2024-05-03 | Gaimin Gladiators | W   | 0.599      | 0.435        | 0.040 (0.010)    | -                | -         |     5.83 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           36 |     2343 | 2024-05-02 | BLEED             | W   | 0.593      | 0.435        | 0.095 (0.024)    | -                | -         |     7.32 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           35 |     2378 | 2024-05-01 | fnatic            | L   | 0.586      | -            | -                | -                | -         |    -4.52 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           34 |     2397 | 2024-04-30 | Gaimin Gladiators | W   | 0.580      | -            | -                | -                | -         |     5.68 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           33 |     2422 | 2024-04-29 | Permitta          | W   | 0.572      | 0.384        | -                | 0.801 (0.176)    | -         |     4.55 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           32 |     2547 | 2024-04-24 | Nexus             | W   | 0.538      | -            | -                | -                | -         |     2.73 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           31 |     2598 | 2024-04-21 | Gaimin Gladiators | L   | 0.519      | -            | -                | -                | -         |   -10.37 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           30 |     2676 | 2024-04-19 | ENCE              | W   | 0.506      | 0.384        | 0.173 (0.034)    | -                | -         |    13.33 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           29 |     2721 | 2024-04-18 | Apeks             | L   | 0.499      | -            | -                | -                | -         |   -11.94 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           28 |     2730 | 2024-04-18 | ex-Guild Eagles   | W   | 0.498      | -            | -                | -                | -         |     2.41 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           27 |     2807 | 2024-04-16 | B8                | W   | 0.484      | 0.384        | 0.168 (0.031)    | 0.878 (0.163)    | -         |     5.71 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           26 |     2859 | 2024-04-12 | Aurora            | L   | 0.460      | -            | -                | -                | -         |    -0.81 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           25 |     2897 | 2024-04-11 | BetBoom           | W   | 0.452      | 0.143        | 0.257 (0.017)    | -                | -         |    11.93 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           24 |     2929 | 2024-04-10 | Apeks             | W   | 0.447      | -            | -                | -                | -         |     3.67 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           23 |     2943 | 2024-04-10 | Enterprise        | L   | 0.444      | -            | -                | -                | -         |   -10.74 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           22 |     3154 | 2024-04-03 | Insilio           | W   | 0.400      | -            | -                | -                | -         |     2.89 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           21 |     3165 | 2024-04-03 | ex-Guild Eagles   | W   | 0.399      | -            | -                | -                | -         |     1.88 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           20 |     3178 | 2024-04-03 | Alliance          | W   | 0.398      | -            | -                | -                | -         |     2.33 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           19 |     3209 | 2024-04-02 | PARIVISION        | W   | 0.393      | -            | -                | -                | -         |     5.95 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           18 |     3210 | 2024-04-02 | ex-Guild Eagles   | L   | 0.392      | -            | -                | -                | -         |   -10.54 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           17 |     3221 | 2024-04-02 | ALTERNATE aTTaX   | W   | 0.391      | -            | -                | -                | -         |     3.64 | Forester, ICY, Krad, Sdaim, TRAVIS      |
-|           16 |     3449 | 2024-03-18 | The MongolZ       | L   | 0.292      | -            | -                | -                | -         |    -0.10 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           15 |     3466 | 2024-03-17 | Apeks             | L   | 0.287      | -            | -                | -                | -         |    -6.92 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           14 |     3476 | 2024-03-17 | GamerLegion       | L   | 0.286      | -            | -                | -                | -         |    -7.85 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           13 |     3791 | 2024-03-05 | FORZE             | L   | 0.207      | -            | -                | -                | -         |    -5.11 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           12 |     3801 | 2024-03-05 | Zero Tenacity     | W   | 0.206      | -            | -                | -                | -         |     2.83 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           11 |     3898 | 2024-03-01 | BIG               | L   | 0.178      | -            | -                | -                | -         |    -2.14 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|           10 |     3917 | 2024-02-28 | Young Ninjas      | L   | 0.166      | -            | -                | -                | -         |    -4.71 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            9 |     4187 | 2024-02-17 | 9 Pandas          | W   | 0.091      | -            | -                | -                | 1 (0.091) |     0.88 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            8 |     4217 | 2024-02-16 | Falcons           | W   | 0.085      | -            | -                | -                | 1 (0.085) |     2.23 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            7 |     4241 | 2024-02-15 | fnatic            | L   | 0.078      | -            | -                | -                | -         |    -0.55 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            6 |     4275 | 2024-02-14 | Ninjas in Pyjamas | W   | 0.073      | -            | -                | -                | 1 (0.073) |     0.03 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            5 |     4279 | 2024-02-14 | Enterprise        | L   | 0.072      | -            | -                | -                | -         |    -1.77 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            4 |     4348 | 2024-02-10 | Sashi             | L   | 0.046      | -            | -                | -                | -         |    -0.69 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            3 |     4356 | 2024-02-09 | Nemiga            | L   | 0.040      | -            | -                | -                | -         |    -0.61 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            2 |     4374 | 2024-02-08 | RUBY              | W   | 0.033      | -            | -                | -                | -         |     0.25 | Forester, ICY, Krad, NickelBack, TRAVIS |
-|            1 |     4379 | 2024-02-08 | Insilio           | W   | 0.032      | -            | -                | -                | -         |     0.19 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           56 |       54 | 2024-08-01 | Cloud9            | L   | 1.000      | -            | -                | -                | -         |   -28.92 | Forester, Krad, Sdaim, topo, TRAVIS     |
+|           55 |      108 | 2024-07-31 | BLEED             | L   | 1.000      | -            | -                | -                | -         |   -10.33 | Forester, Krad, Sdaim, topo, TRAVIS     |
+|           54 |      245 | 2024-07-27 | The MongolZ       | L   | 1.000      | -            | -                | -                | -         |    -1.81 | Forester, Krad, Sdaim, shady, TRAVIS    |
+|           53 |      277 | 2024-07-26 | DMS               | W   | 1.000      | 0.650        | -                | 0.462 (0.300)    | 1 (1.000) |     5.10 | Forester, Krad, Sdaim, shady, TRAVIS    |
+|           52 |      312 | 2024-07-25 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -2.80 | Forester, Krad, Sdaim, shady, TRAVIS    |
+|           51 |      337 | 2024-07-24 | Revenant          | W   | 1.000      | 0.650        | 0.027 (0.018)    | 0.275 (0.179)    | 1 (1.000) |     4.14 | Forester, Krad, Sdaim, shady, TRAVIS    |
+|           50 |      347 | 2024-07-24 | 3DMAX             | L   | 1.000      | -            | -                | -                | -         |    -9.76 | Forester, Krad, Sdaim, shady, TRAVIS    |
+|           49 |     1118 | 2024-06-09 | Monte             | W   | 0.834      | -            | -                | -                | 0 (0.000) |     7.05 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           48 |     1147 | 2024-06-09 | B8                | W   | 0.832      | 0.143        | 0.166 (0.020)    | 0.945 (0.112)    | 0 (0.000) |    10.82 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           47 |     1201 | 2024-06-08 | Monte             | W   | 0.826      | -            | -                | -                | 0 (0.000) |     6.81 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           46 |     1204 | 2024-06-08 | 1WIN              | W   | 0.826      | -            | -                | -                | 0 (0.000) |     5.93 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           45 |     1506 | 2024-06-01 | MOUZ NXT          | L   | 0.779      | -            | -                | -                | -         |   -15.67 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           44 |     1523 | 2024-05-31 | Permitta          | W   | 0.774      | 0.435        | -                | 0.887 (0.298)    | 0 (0.000) |     4.19 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           43 |     1771 | 2024-05-21 | GamerLegion       | L   | 0.707      | -            | -                | -                | -         |   -12.01 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           42 |     1837 | 2024-05-19 | paiN              | W   | 0.693      | 0.769        | 0.324 (0.173)    | 0.859 (0.458)    | -         |    15.15 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           41 |     1841 | 2024-05-19 | Liquid            | L   | 0.692      | -            | -                | -                | -         |    -3.12 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           40 |     1862 | 2024-05-18 | paiN              | W   | 0.687      | 0.769        | 0.324 (0.171)    | 0.859 (0.454)    | -         |    15.63 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           39 |     2258 | 2024-05-04 | BetBoom           | W   | 0.593      | 0.435        | 0.252 (0.065)    | 0.563 (0.145)    | -         |    14.84 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           38 |     2268 | 2024-05-04 | Metizport         | W   | 0.591      | 0.435        | -                | 0.433 (0.111)    | -         |     4.57 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           37 |     2278 | 2024-05-03 | Gaimin Gladiators | W   | 0.586      | 0.435        | 0.038 (0.010)    | -                | -         |     5.53 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           36 |     2293 | 2024-05-02 | BLEED             | W   | 0.580      | 0.435        | 0.092 (0.023)    | -                | -         |     7.26 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           35 |     2326 | 2024-05-01 | fnatic            | L   | 0.573      | -            | -                | -                | -         |    -4.49 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           34 |     2344 | 2024-04-30 | Gaimin Gladiators | W   | 0.567      | -            | -                | -                | -         |     5.36 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           33 |     2369 | 2024-04-29 | Permitta          | W   | 0.559      | 0.384        | -                | 0.887 (0.191)    | -         |     4.57 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           32 |     2493 | 2024-04-24 | Nexus             | W   | 0.525      | -            | -                | -                | -         |     2.66 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           31 |     2540 | 2024-04-21 | Gaimin Gladiators | L   | 0.506      | -            | -                | -                | -         |   -10.35 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           30 |     2615 | 2024-04-19 | ENCE              | W   | 0.492      | 0.384        | 0.170 (0.032)    | -                | -         |    12.88 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           29 |     2659 | 2024-04-18 | Apeks             | L   | 0.486      | -            | -                | -                | -         |   -11.82 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           28 |     2668 | 2024-04-18 | ex-Guild Eagles   | W   | 0.485      | -            | -                | -                | -         |     2.27 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           27 |     2743 | 2024-04-16 | B8                | W   | 0.471      | 0.384        | 0.166 (0.030)    | 0.945 (0.171)    | -         |     5.47 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           26 |     2795 | 2024-04-12 | Aurora            | L   | 0.447      | -            | -                | -                | -         |    -0.81 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           25 |     2832 | 2024-04-11 | BetBoom           | W   | 0.439      | 0.143        | 0.252 (0.016)    | -                | -         |    11.48 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           24 |     2864 | 2024-04-10 | Apeks             | W   | 0.434      | -            | -                | -                | -         |     3.38 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           23 |     2878 | 2024-04-10 | Enterprise        | L   | 0.431      | -            | -                | -                | -         |   -10.46 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           22 |     3087 | 2024-04-03 | Insilio           | W   | 0.387      | -            | -                | -                | -         |     2.77 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           21 |     3098 | 2024-04-03 | ex-Guild Eagles   | W   | 0.386      | -            | -                | -                | -         |     1.76 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           20 |     3107 | 2024-04-03 | Alliance          | W   | 0.385      | -            | -                | -                | -         |     2.24 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           19 |     3136 | 2024-04-02 | PARIVISION        | W   | 0.380      | -            | -                | -                | -         |     5.70 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           18 |     3137 | 2024-04-02 | ex-Guild Eagles   | L   | 0.379      | -            | -                | -                | -         |   -10.25 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           17 |     3148 | 2024-04-02 | ALTERNATE aTTaX   | W   | 0.378      | -            | -                | -                | -         |     3.50 | Forester, ICY, Krad, Sdaim, TRAVIS      |
+|           16 |     3366 | 2024-03-18 | The MongolZ       | L   | 0.279      | -            | -                | -                | -         |    -0.09 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           15 |     3383 | 2024-03-17 | Apeks             | L   | 0.274      | -            | -                | -                | -         |    -6.72 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           14 |     3393 | 2024-03-17 | GamerLegion       | L   | 0.273      | -            | -                | -                | -         |    -7.55 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           13 |     3699 | 2024-03-05 | FORZE             | L   | 0.194      | -            | -                | -                | -         |    -4.84 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           12 |     3704 | 2024-03-05 | Zero Tenacity     | W   | 0.193      | -            | -                | -                | -         |     2.66 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           11 |     3800 | 2024-03-01 | BIG               | L   | 0.165      | -            | -                | -                | -         |    -1.46 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|           10 |     3818 | 2024-02-28 | Young Ninjas      | L   | 0.153      | -            | -                | -                | -         |    -4.36 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            9 |     4080 | 2024-02-17 | 9 Pandas          | W   | 0.078      | -            | -                | -                | 1 (0.078) |     0.74 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            8 |     4109 | 2024-02-16 | Falcons           | W   | 0.072      | -            | -                | -                | 1 (0.072) |     1.87 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            7 |     4133 | 2024-02-15 | fnatic            | L   | 0.065      | -            | -                | -                | -         |    -0.48 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            6 |     4167 | 2024-02-14 | Ninjas in Pyjamas | W   | 0.060      | -            | -                | -                | 1 (0.060) |     0.03 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            5 |     4171 | 2024-02-14 | Enterprise        | L   | 0.059      | -            | -                | -                | -         |    -1.46 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            4 |     4231 | 2024-02-10 | Sashi             | L   | 0.033      | -            | -                | -                | -         |    -0.50 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            3 |     4238 | 2024-02-09 | Nemiga            | L   | 0.027      | -            | -                | -                | -         |    -0.42 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            2 |     4256 | 2024-02-08 | RUBY              | W   | 0.020      | -            | -                | -                | -         |     0.15 | Forester, ICY, Krad, NickelBack, TRAVIS |
+|            1 |     4261 | 2024-02-08 | Insilio           | W   | 0.019      | -            | -                | -                | -         |     0.12 | Forester, ICY, Krad, NickelBack, TRAVIS |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($43,038.26)
-- Divide that value by the 5th highest value among all rosters ($326,952.13)
+- First, take the sum of their top 10 scaled winnings ($42,413.82)
+- Divide that value by the 5th highest value among all rosters ($325,971.18)
 - The final value (0.13) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -107,11 +107,11 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $15,000.00     | $15,000.00      |
-| 2024-06-02 |      0.799 | $2,000.00      | $1,598.33       |
-| 2024-05-23 |      0.732 | $12,500.00     | $9,151.04       |
-| 2024-05-04 |      0.606 | $22,000.00     | $13,334.44      |
-| 2024-05-02 |      0.593 | $1,500.00      | $889.17         |
-| 2024-03-20 |      0.307 | $10,000.00     | $3,065.28       |
+| 2024-06-02 |      0.786 | $2,000.00      | $1,572.31       |
+| 2024-05-23 |      0.719 | $12,500.00     | $8,988.43       |
+| 2024-05-04 |      0.593 | $22,000.00     | $13,048.24      |
+| 2024-05-02 |      0.580 | $1,500.00      | $869.65         |
+| 2024-03-20 |      0.294 | $10,000.00     | $2,935.19       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

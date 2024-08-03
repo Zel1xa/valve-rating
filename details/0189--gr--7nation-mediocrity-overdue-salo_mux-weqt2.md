@@ -6,9 +6,9 @@ Global Rank: [189](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [119]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  600.5<br />
+Final Rank Value:  600.7<br />
 <br />
-Final Rank Value (600.5) = Starting Rank Value (675.1) + Head To Head Adjustments (-74.6)<br />
+Final Rank Value (600.7) = Starting Rank Value (673.0) + Head To Head Adjustments (-72.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.002[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.134<br />
+The average of these factors is 0.133<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 675.1
-- 400 + ( ( 0.134 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 675.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 673.0
+- 400 + ( ( 0.133 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 673.0
 
 
 #### Factors<br />
@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      135 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -19.62 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           12 |      166 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.11 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           11 |      213 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.37 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           10 |      733 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.44 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            9 |      737 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |   -13.49 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            8 |     1261 | 2024-06-07 | TYLOO             | L   | 0.832      | -            | -                | -                | -         |   -11.04 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            7 |     1335 | 2024-06-06 | Clutch            | W   | 0.825      | 0.416        | 0.005 (0.002)    | 0.063 (0.022)    | 0 (0.000) |    13.37 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            6 |     1394 | 2024-06-05 | ATOX              | L   | 0.818      | -            | -                | -                | -         |    -5.90 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
-|            5 |     4189 | 2024-02-16 | FlyQuest          | L   | 0.090      | -            | -                | -                | -         |    -0.16 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            4 |     4216 | 2024-02-16 | MAG               | L   | 0.085      | -            | -                | -                | -         |    -1.99 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            3 |     4220 | 2024-02-16 | Newhappy          | L   | 0.084      | -            | -                | -                | -         |    -1.91 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            2 |     4244 | 2024-02-15 | The Huns          | W   | 0.078      | 0.143        | 0.000 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     0.43 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            1 |     4284 | 2024-02-14 | ZEUS              | W   | 0.072      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.40 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|           13 |      191 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -19.65 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           12 |      222 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.10 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           11 |      269 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.41 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           10 |      765 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.47 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            9 |      769 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |   -11.41 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            8 |     1262 | 2024-06-07 | TYLOO             | L   | 0.819      | -            | -                | -                | -         |   -10.89 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            7 |     1333 | 2024-06-06 | Clutch            | W   | 0.812      | 0.416        | 0.005 (0.002)    | 0.065 (0.022)    | 0 (0.000) |    13.15 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            6 |     1390 | 2024-06-05 | ATOX              | L   | 0.805      | -            | -                | -                | -         |    -5.97 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
+|            5 |     4082 | 2024-02-16 | FlyQuest          | L   | 0.077      | -            | -                | -                | -         |    -0.15 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            4 |     4108 | 2024-02-16 | MAG               | L   | 0.072      | -            | -                | -                | -         |    -1.68 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            3 |     4112 | 2024-02-16 | Newhappy          | L   | 0.071      | -            | -                | -                | -         |    -1.62 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            2 |     4136 | 2024-02-15 | The Huns          | W   | 0.065      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.36 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            1 |     4176 | 2024-02-14 | ZEUS              | W   | 0.059      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.33 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,580.97)
-- Divide that value by the 5th highest value among all rosters ($326,952.13)
+- First, take the sum of their top 10 scaled winnings ($2,535.44)
+- Divide that value by the 5th highest value among all rosters ($325,971.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.844 | $3,000.00      | $2,533.33       |
-| 2024-02-17 |      0.095 | $500.00        | $47.64          |
+| 2024-06-09 |      0.831 | $3,000.00      | $2,494.31       |
+| 2024-02-17 |      0.082 | $500.00        | $41.13          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
