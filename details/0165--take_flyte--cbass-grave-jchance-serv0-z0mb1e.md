@@ -6,9 +6,9 @@ Global Rank: [165](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [46]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  672.1<br />
+Final Rank Value:  671.9<br />
 <br />
-Final Rank Value (672.1) = Starting Rank Value (710.9) + Head To Head Adjustments (-38.8)<br />
+Final Rank Value (671.9) = Starting Rank Value (710.7) + Head To Head Adjustments (-38.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.152<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 710.9
-- 400 + ( ( 0.152 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 710.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 710.7
+- 400 + ( ( 0.152 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 710.7
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           42 |       96 | 2024-07-31 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -13.21 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           41 |      101 | 2024-07-31 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -14.41 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           40 |      349 | 2024-07-24 | The Nomads       | W   | 1.000      | 0.371        | 0.000 (0.000)    | -                | 0 (0.000) |     4.96 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           39 |      540 | 2024-07-18 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |    -5.34 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           38 |      545 | 2024-07-18 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |    -5.62 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           37 |      602 | 2024-07-17 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -5.28 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           36 |      606 | 2024-07-17 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -5.55 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           35 |      667 | 2024-07-16 | Perseverance     | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.244 (0.117)    | 0 (0.000) |    15.61 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           34 |      673 | 2024-07-16 | Perseverance     | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.244 (0.117)    | 0 (0.000) |    17.05 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           33 |      719 | 2024-07-15 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -4.86 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           32 |      722 | 2024-07-15 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.09 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           31 |      977 | 2024-06-15 | Akimbo           | W   | 0.874      | 0.143        | 0.015 (0.002)    | 0.275 (0.034)    | 0 (0.000) |    17.82 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           30 |     1013 | 2024-06-14 | E-Xolos LAZER    | W   | 0.867      | 0.143        | 0.011 (0.001)    | 0.389 (0.048)    | 0 (0.000) |    18.40 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           29 |     1768 | 2024-05-22 | Wildcard         | L   | 0.714      | -            | -                | -                | -         |    -3.49 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           28 |     1771 | 2024-05-22 | Wildcard         | L   | 0.714      | -            | -                | -                | -         |    -3.61 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           27 |     1818 | 2024-05-21 | Elevate          | L   | 0.708      | -            | -                | -                | -         |    -3.35 | cbass, Champ, jchancE, serv0, z0mb1e |
-|           26 |     1822 | 2024-05-21 | Elevate          | L   | 0.707      | -            | -                | -                | -         |    -3.45 | cbass, Champ, jchancE, serv0, z0mb1e |
-|           25 |     1855 | 2024-05-20 | MIGHT            | W   | 0.701      | 0.477        | -                | 0.060 (0.020)    | 0 (0.000) |     6.88 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           24 |     1859 | 2024-05-20 | MIGHT            | L   | 0.701      | -            | -                | -                | -         |   -15.59 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           23 |     1984 | 2024-05-16 | Limitless        | L   | 0.674      | -            | -                | -                | -         |    -7.53 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           22 |     1985 | 2024-05-16 | Limitless        | L   | 0.674      | -            | -                | -                | -         |    -7.96 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           21 |     2024 | 2024-05-15 | M80              | L   | 0.667      | -            | -                | -                | -         |    -0.86 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           20 |     2031 | 2024-05-15 | M80              | L   | 0.667      | -            | -                | -                | -         |    -0.87 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           19 |     2077 | 2024-05-14 | NRG              | L   | 0.661      | -            | -                | -                | -         |    -4.97 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           18 |     2082 | 2024-05-14 | NRG              | L   | 0.661      | -            | -                | -                | -         |    -5.19 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           17 |     2562 | 2024-04-23 | Nouns            | W   | 0.521      | 0.477        | 0.057 (0.014)    | 0.547 (0.136)    | 0 (0.000) |    13.00 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           16 |     2564 | 2024-04-23 | Nouns            | L   | 0.521      | -            | -                | -                | -         |    -3.38 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           15 |     2902 | 2024-04-10 | FLUFFY AIMERS    | W   | 0.434      | 0.477        | 0.010 (0.002)    | 0.102 (0.021)    | 0 (0.000) |     8.02 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           14 |     2907 | 2024-04-10 | FLUFFY AIMERS    | L   | 0.434      | -            | -                | -                | -         |    -5.76 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           13 |     2960 | 2024-04-09 | Party Astronauts | L   | 0.427      | -            | -                | -                | -         |    -2.76 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           12 |     2966 | 2024-04-09 | Party Astronauts | L   | 0.427      | -            | -                | -                | -         |    -2.83 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           11 |     3091 | 2024-04-04 | Limitless        | W   | 0.394      | 0.477        | 0.001 (0.000)    | 0.168 (0.032)    | 0 (0.000) |     5.49 | cbass, Grave, jchancE, serv0, z0mb1e |
-|           10 |     3095 | 2024-04-04 | Limitless        | L   | 0.394      | -            | -                | -                | -         |    -7.08 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            9 |     3267 | 2024-03-27 | BOSS             | L   | 0.341      | -            | -                | -                | -         |    -4.07 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            8 |     3270 | 2024-03-27 | BOSS             | W   | 0.341      | 0.477        | 0.014 (0.002)    | 0.333 (0.054)    | 0 (0.000) |     6.81 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            7 |     3510 | 2024-03-14 | Mythic           | L   | 0.254      | -            | -                | -                | -         |    -3.09 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            6 |     3513 | 2024-03-14 | Mythic           | L   | 0.254      | -            | -                | -                | -         |    -3.15 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            5 |     3759 | 2024-03-05 | LAG              | L   | 0.195      | -            | -                | -                | -         |    -1.90 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            4 |     3761 | 2024-03-05 | LAG              | L   | 0.194      | -            | -                | -                | -         |    -1.92 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            3 |     4016 | 2024-02-22 | Party Astronauts | L   | 0.113      | -            | -                | -                | -         |    -0.82 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            2 |     4257 | 2024-02-13 | Perseverance     | W   | 0.054      | 0.477        | 0.004 (0.000)    | 0.244 (0.006)    | -         |     0.92 | cbass, Grave, jchancE, serv0, z0mb1e |
-|            1 |     4260 | 2024-02-13 | Perseverance     | L   | 0.054      | -            | -                | -                | -         |    -0.79 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           42 |       99 | 2024-07-31 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -13.21 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           41 |      104 | 2024-07-31 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -14.41 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           40 |      352 | 2024-07-24 | The Nomads       | W   | 1.000      | 0.371        | 0.000 (0.000)    | -                | 0 (0.000) |     4.96 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           39 |      543 | 2024-07-18 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |    -5.34 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           38 |      548 | 2024-07-18 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |    -5.62 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           37 |      605 | 2024-07-17 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -5.29 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           36 |      609 | 2024-07-17 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -5.56 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           35 |      670 | 2024-07-16 | Perseverance     | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.244 (0.116)    | 0 (0.000) |    15.61 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           34 |      676 | 2024-07-16 | Perseverance     | W   | 1.000      | 0.477        | 0.004 (0.002)    | 0.244 (0.116)    | 0 (0.000) |    17.05 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           33 |      722 | 2024-07-15 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -4.86 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           32 |      725 | 2024-07-15 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.10 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           31 |      981 | 2024-06-15 | Akimbo           | W   | 0.871      | 0.143        | 0.015 (0.002)    | 0.274 (0.034)    | 0 (0.000) |    17.75 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           30 |     1017 | 2024-06-14 | E-Xolos LAZER    | W   | 0.864      | 0.143        | 0.011 (0.001)    | 0.389 (0.048)    | 0 (0.000) |    18.33 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           29 |     1772 | 2024-05-22 | Wildcard         | L   | 0.711      | -            | -                | -                | -         |    -3.48 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           28 |     1775 | 2024-05-22 | Wildcard         | L   | 0.711      | -            | -                | -                | -         |    -3.60 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           27 |     1822 | 2024-05-21 | Elevate          | L   | 0.704      | -            | -                | -                | -         |    -3.33 | cbass, Champ, jchancE, serv0, z0mb1e |
+|           26 |     1826 | 2024-05-21 | Elevate          | L   | 0.704      | -            | -                | -                | -         |    -3.44 | cbass, Champ, jchancE, serv0, z0mb1e |
+|           25 |     1859 | 2024-05-20 | MIGHT            | W   | 0.698      | 0.477        | -                | 0.060 (0.020)    | 0 (0.000) |     6.85 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           24 |     1863 | 2024-05-20 | MIGHT            | L   | 0.698      | -            | -                | -                | -         |   -15.53 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           23 |     1988 | 2024-05-16 | Limitless        | L   | 0.671      | -            | -                | -                | -         |    -7.51 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           22 |     1989 | 2024-05-16 | Limitless        | L   | 0.671      | -            | -                | -                | -         |    -7.93 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           21 |     2028 | 2024-05-15 | M80              | L   | 0.664      | -            | -                | -                | -         |    -0.86 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           20 |     2035 | 2024-05-15 | M80              | L   | 0.664      | -            | -                | -                | -         |    -0.87 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           19 |     2081 | 2024-05-14 | NRG              | L   | 0.658      | -            | -                | -                | -         |    -4.95 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           18 |     2086 | 2024-05-14 | NRG              | L   | 0.657      | -            | -                | -                | -         |    -5.17 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           17 |     2567 | 2024-04-23 | Nouns            | W   | 0.518      | 0.477        | 0.057 (0.014)    | 0.548 (0.135)    | 0 (0.000) |    12.92 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           16 |     2569 | 2024-04-23 | Nouns            | L   | 0.517      | -            | -                | -                | -         |    -3.37 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           15 |     2907 | 2024-04-10 | FLUFFY AIMERS    | W   | 0.431      | 0.477        | 0.010 (0.002)    | 0.101 (0.021)    | 0 (0.000) |     7.96 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           14 |     2912 | 2024-04-10 | FLUFFY AIMERS    | L   | 0.431      | -            | -                | -                | -         |    -5.72 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           13 |     2965 | 2024-04-09 | Party Astronauts | L   | 0.424      | -            | -                | -                | -         |    -2.75 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           12 |     2971 | 2024-04-09 | Party Astronauts | L   | 0.424      | -            | -                | -                | -         |    -2.81 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           11 |     3096 | 2024-04-04 | Limitless        | W   | 0.391      | 0.477        | 0.001 (0.000)    | 0.167 (0.031)    | 0 (0.000) |     5.45 | cbass, Grave, jchancE, serv0, z0mb1e |
+|           10 |     3100 | 2024-04-04 | Limitless        | L   | 0.391      | -            | -                | -                | -         |    -7.03 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            9 |     3272 | 2024-03-27 | BOSS             | L   | 0.338      | -            | -                | -                | -         |    -4.03 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            8 |     3275 | 2024-03-27 | BOSS             | W   | 0.338      | 0.477        | 0.014 (0.002)    | 0.333 (0.054)    | 0 (0.000) |     6.75 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            7 |     3515 | 2024-03-14 | Mythic           | L   | 0.251      | -            | -                | -                | -         |    -3.05 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            6 |     3518 | 2024-03-14 | Mythic           | L   | 0.251      | -            | -                | -                | -         |    -3.12 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            5 |     3765 | 2024-03-05 | LAG              | L   | 0.191      | -            | -                | -                | -         |    -1.87 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            4 |     3767 | 2024-03-05 | LAG              | L   | 0.191      | -            | -                | -                | -         |    -1.89 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            3 |     4022 | 2024-02-22 | Party Astronauts | L   | 0.110      | -            | -                | -                | -         |    -0.80 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            2 |     4264 | 2024-02-13 | Perseverance     | W   | 0.051      | 0.477        | 0.004 (0.000)    | 0.244 (0.006)    | -         |     0.87 | cbass, Grave, jchancE, serv0, z0mb1e |
+|            1 |     4267 | 2024-02-13 | Perseverance     | L   | 0.051      | -            | -                | -                | -         |    -0.75 | cbass, Grave, jchancE, serv0, z0mb1e |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($666.89)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- First, take the sum of their top 10 scaled winnings ($664.44)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

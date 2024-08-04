@@ -6,9 +6,9 @@ Global Rank: [118](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [85]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  818.0<br />
+Final Rank Value:  817.9<br />
 <br />
-Final Rank Value (818.0) = Starting Rank Value (674.2) + Head To Head Adjustments (143.8)<br />
+Final Rank Value (817.9) = Starting Rank Value (674.3) + Head To Head Adjustments (143.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.134<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 674.2
-- 400 + ( ( 0.134 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 674.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 674.3
+- 400 + ( ( 0.134 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 674.3
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |        8 | 2024-08-03 | ARCRED            | W   | 1.000      | 0.342        | 0.041 (0.014)    | 0.344 (0.118)    | 0 (0.000) |    21.73 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|           12 |       44 | 2024-08-02 | Space             | W   | 1.000      | 0.342        | 0.006 (0.002)    | 0.406 (0.139)    | 0 (0.000) |    18.20 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|           11 |       83 | 2024-08-01 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    19.92 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|           10 |      175 | 2024-07-30 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.006 (0.002)    | 0.510 (0.222)    | 0 (0.000) |    17.58 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            9 |      230 | 2024-07-28 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -8.94 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            8 |      296 | 2024-07-26 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.569 (0.247)    | 0 (0.000) |    21.74 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            7 |      334 | 2024-07-25 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -2.40 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            6 |      359 | 2024-07-24 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |    -7.12 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            5 |      403 | 2024-07-23 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.569 (0.247)    | 0 (0.000) |    23.57 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            4 |      433 | 2024-07-22 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -3.09 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            3 |      477 | 2024-07-20 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |    -8.48 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            2 |      585 | 2024-07-18 | Metizport         | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.418 (0.182)    | 0 (0.000) |    25.29 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
-|            1 |      713 | 2024-07-16 | SINNERS           | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.758 (0.329)    | 0 (0.000) |    25.77 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           13 |       11 | 2024-08-03 | ARCRED            | W   | 1.000      | 0.342        | 0.041 (0.014)    | 0.344 (0.118)    | 0 (0.000) |    21.71 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           12 |       47 | 2024-08-02 | Space             | W   | 1.000      | 0.342        | 0.006 (0.002)    | 0.406 (0.139)    | 0 (0.000) |    18.18 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           11 |       86 | 2024-08-01 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    19.91 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           10 |      178 | 2024-07-30 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.006 (0.002)    | 0.510 (0.221)    | 0 (0.000) |    17.57 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            9 |      233 | 2024-07-28 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -8.94 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            8 |      299 | 2024-07-26 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    21.73 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            7 |      337 | 2024-07-25 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -2.42 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            6 |      362 | 2024-07-24 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |    -7.14 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            5 |      406 | 2024-07-23 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    23.55 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            4 |      436 | 2024-07-22 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -3.06 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            3 |      480 | 2024-07-20 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |    -8.48 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            2 |      588 | 2024-07-18 | Metizport         | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.417 (0.181)    | 0 (0.000) |    25.27 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            1 |      716 | 2024-07-16 | SINNERS           | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.758 (0.329)    | 0 (0.000) |    25.76 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

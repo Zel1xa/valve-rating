@@ -8,7 +8,7 @@ Regional Rank: [80]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  834.2<br />
 <br />
-Final Rank Value (834.2) = Starting Rank Value (778.2) + Head To Head Adjustments (56.0)<br />
+Final Rank Value (834.2) = Starting Rank Value (778.4) + Head To Head Adjustments (55.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.185<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 778.2
-- 400 + ( ( 0.185 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 778.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 778.4
+- 400 + ( ( 0.185 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 778.4
 
 
 #### Factors<br />
@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      171 | 2024-07-30 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -6.39 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           21 |      237 | 2024-07-28 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.95 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           20 |      262 | 2024-07-27 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -11.30 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           19 |      372 | 2024-07-24 | Space            | W   | 1.000      | 0.435        | 0.006 (0.003)    | 0.406 (0.177)    | 0 (0.000) |    18.59 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           18 |      398 | 2024-07-23 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -13.74 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           17 |      420 | 2024-07-22 | TSM              | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.353 (0.050)    | 0 (0.000) |    22.53 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           16 |      430 | 2024-07-22 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |   -10.29 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           15 |      475 | 2024-07-20 | INFINITE         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.187 (0.027)    | 0 (0.000) |     6.26 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           14 |      487 | 2024-07-20 | Space            | L   | 1.000      | -            | -                | -                | -         |   -12.45 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           13 |      522 | 2024-07-19 | Heimo            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.107 (0.015)    | 0 (0.000) |     7.62 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           12 |      599 | 2024-07-18 | Passion UA       | W   | 1.000      | 0.435        | 0.172 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    23.33 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           11 |      697 | 2024-07-16 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.45 | BøghmagiC, Fessor, sense, shadiy, Tapewaare |
-|           10 |      752 | 2024-07-15 | GUN5             | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.569 (0.247)    | 0 (0.000) |    22.21 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|            9 |      969 | 2024-06-16 | 777              | W   | 0.877      | 0.143        | 0.015 (0.002)    | 0.181 (0.023)    | 0 (0.000) |    10.63 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            8 |     1037 | 2024-06-14 | FLuffy Gangsters | W   | 0.864      | 0.143        | -                | 0.222 (0.027)    | 0 (0.000) |     6.56 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            7 |     1078 | 2024-06-13 | INFINITE         | W   | 0.857      | 0.143        | -                | 0.187 (0.023)    | 0 (0.000) |     5.70 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            6 |     1093 | 2024-06-12 | Sashi            | L   | 0.852      | -            | -                | -                | -         |    -2.47 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            5 |     1103 | 2024-06-12 | WOPA             | W   | 0.851      | 0.340        | 0.001 (0.000)    | 0.127 (0.037)    | 0 (0.000) |     7.36 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            4 |     1940 | 2024-05-18 | VP.Prodigy       | L   | 0.684      | -            | -                | -                | -         |    -8.14 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            3 |     1966 | 2024-05-17 | MASONIC          | W   | 0.678      | 0.143        | 0.009 (0.001)    | -                | -         |    10.50 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            2 |     2002 | 2024-05-16 | Rhyno            | L   | 0.671      | -            | -                | -                | -         |    -5.39 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            1 |     2059 | 2024-05-15 | MASONIC          | W   | 0.664      | 0.143        | 0.009 (0.001)    | -                | -         |    10.33 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|           22 |      174 | 2024-07-30 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -6.36 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           21 |      240 | 2024-07-28 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.96 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           20 |      265 | 2024-07-27 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -11.33 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           19 |      375 | 2024-07-24 | Space            | W   | 1.000      | 0.435        | 0.006 (0.003)    | 0.406 (0.177)    | 0 (0.000) |    18.57 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           18 |      401 | 2024-07-23 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -13.76 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           17 |      423 | 2024-07-22 | TSM              | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.354 (0.051)    | 0 (0.000) |    22.55 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           16 |      433 | 2024-07-22 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |   -10.31 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           15 |      478 | 2024-07-20 | INFINITE         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.187 (0.027)    | 0 (0.000) |     6.26 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           14 |      490 | 2024-07-20 | Space            | L   | 1.000      | -            | -                | -                | -         |   -12.47 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           13 |      525 | 2024-07-19 | Heimo            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.107 (0.015)    | 0 (0.000) |     7.62 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           12 |      602 | 2024-07-18 | Passion UA       | W   | 1.000      | 0.435        | 0.172 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    23.41 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           11 |      700 | 2024-07-16 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.45 | BøghmagiC, Fessor, sense, shadiy, Tapewaare |
+|           10 |      755 | 2024-07-15 | GUN5             | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    22.20 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|            9 |      973 | 2024-06-16 | 777              | W   | 0.874      | 0.143        | 0.015 (0.002)    | 0.181 (0.023)    | 0 (0.000) |    10.59 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            8 |     1041 | 2024-06-14 | FLuffy Gangsters | W   | 0.861      | 0.143        | -                | 0.222 (0.027)    | 0 (0.000) |     6.54 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            7 |     1082 | 2024-06-13 | INFINITE         | W   | 0.854      | 0.143        | -                | 0.187 (0.023)    | 0 (0.000) |     5.68 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            6 |     1097 | 2024-06-12 | Sashi            | L   | 0.849      | -            | -                | -                | -         |    -2.47 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            5 |     1107 | 2024-06-12 | WOPA             | W   | 0.848      | 0.340        | 0.001 (0.000)    | 0.127 (0.037)    | 0 (0.000) |     7.33 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            4 |     1944 | 2024-05-18 | VP.Prodigy       | L   | 0.681      | -            | -                | -                | -         |    -8.12 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            3 |     1970 | 2024-05-17 | MASONIC          | W   | 0.675      | 0.143        | 0.009 (0.001)    | -                | -         |    10.44 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            2 |     2006 | 2024-05-16 | Rhyno            | L   | 0.668      | -            | -                | -                | -         |    -5.38 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            1 |     2063 | 2024-05-15 | MASONIC          | W   | 0.661      | 0.143        | 0.009 (0.001)    | -                | -         |    10.27 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,227.35)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- First, take the sum of their top 10 scaled winnings ($1,222.95)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

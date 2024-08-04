@@ -6,22 +6,22 @@ Global Rank: [42](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [11]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1115.7<br />
+Final Rank Value:  1115.5<br />
 <br />
-Final Rank Value (1115.7) = Starting Rank Value (1011.5) + Head To Head Adjustments (104.3)<br />
+Final Rank Value (1115.5) = Starting Rank Value (1010.8) + Head To Head Adjustments (104.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.523[<sup>1</sup>](#table2)
 - Bounty Collected: 0.348[<sup>2</sup>](#table1)
 - Opponent Network: 0.202[<sup>2</sup>](#table1)
-- LAN Wins: 0.125[<sup>2</sup>](#table1)
+- LAN Wins: 0.123[<sup>2</sup>](#table1)
 
 The average of these factors is 0.299<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1011.5
-- 400 + ( ( 0.299 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 1011.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1010.8
+- 400 + ( ( 0.299 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 1010.8
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           42 |        0 | 2024-08-03 | paiN             | L   | 1.000      | -            | -                | -                | -         |    -4.82 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           41 |        9 | 2024-08-03 | Solid            | W   | 1.000      | 0.143        | -                | 0.835 (0.119)    | 0 (0.000) |     9.45 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           40 |       25 | 2024-08-02 | Fluxo            | W   | 1.000      | 0.143        | 0.124 (0.018)    | -                | 0 (0.000) |    17.48 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           39 |       32 | 2024-08-02 | paiN             | L   | 1.000      | -            | -                | -                | -         |    -4.79 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           38 |       63 | 2024-08-01 | Intense          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.32 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           37 |      109 | 2024-07-31 | Case             | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.804 (0.298)    | 0 (0.000) |     8.03 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           36 |      197 | 2024-07-29 | Solid            | W   | 1.000      | 0.143        | -                | 0.835 (0.119)    | 0 (0.000) |    10.40 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           35 |      241 | 2024-07-28 | Smoke            | W   | 1.000      | -            | -                | -                | -         |     3.76 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           34 |      771 | 2024-07-14 | ODDIK            | L   | 1.000      | -            | -                | -                | -         |   -17.75 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           33 |      777 | 2024-07-13 | RED Canids       | W   | 1.000      | 0.371        | 0.077 (0.029)    | 0.743 (0.275)    | -         |    19.43 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           32 |      789 | 2024-07-12 | Bounty Hunters   | W   | 1.000      | 0.371        | 0.022 (0.008)    | 0.556 (0.206)    | -         |    12.10 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           31 |      802 | 2024-07-11 | ODDIK            | L   | 1.000      | -            | -                | -                | -         |   -18.39 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           30 |      825 | 2024-07-10 | Case             | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.804 (0.298)    | -         |     7.58 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           29 |      852 | 2024-07-09 | Vikings KR       | W   | 1.000      | 0.371        | -                | 0.504 (0.187)    | -         |     6.73 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           28 |      949 | 2024-06-16 | Nouns            | W   | 0.881      | 0.371        | 0.057 (0.019)    | 0.547 (0.179)    | -         |    11.34 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           27 |      953 | 2024-06-16 | Elevate          | W   | 0.880      | 0.371        | 0.027 (0.009)    | 0.505 (0.165)    | -         |    11.32 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           26 |      982 | 2024-06-15 | Akimbo           | W   | 0.873      | -            | -                | -                | -         |     5.88 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           25 |     1016 | 2024-06-14 | Akimbo           | W   | 0.867      | -            | -                | -                | -         |     2.98 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           24 |     1130 | 2024-06-10 | Akimbo           | W   | 0.841      | -            | -                | -                | -         |     5.51 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           23 |     1164 | 2024-06-09 | Party Astronauts | W   | 0.834      | 0.384        | 0.041 (0.013)    | 0.532 (0.170)    | -         |    11.89 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           22 |     1235 | 2024-06-08 | M80              | L   | 0.826      | -            | -                | -                | -         |    -5.31 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           21 |     1290 | 2024-06-07 | Party Astronauts | L   | 0.820      | -            | -                | -                | -         |   -13.96 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           20 |     1297 | 2024-06-07 | Elevate          | W   | 0.819      | -            | -                | -                | -         |    11.21 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           19 |     1342 | 2024-06-06 | Mythic           | W   | 0.814      | -            | -                | -                | -         |     6.20 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           18 |     1345 | 2024-06-06 | Akimbo           | W   | 0.813      | -            | -                | -                | -         |     5.29 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           17 |     1411 | 2024-06-05 | Vibe             | W   | 0.807      | -            | -                | -                | -         |     0.89 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           16 |     1460 | 2024-06-04 | E-Xolos LAZER    | W   | 0.801      | -            | -                | -                | -         |     5.46 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           15 |     1798 | 2024-05-22 | NRG              | L   | 0.712      | -            | -                | -                | -         |   -13.99 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           14 |     1826 | 2024-05-21 | Limitless        | W   | 0.707      | -            | -                | -                | -         |     4.78 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           13 |     1955 | 2024-05-17 | Party Astronauts | L   | 0.680      | -            | -                | -                | -         |   -13.28 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           12 |     2658 | 2024-04-19 | M80              | L   | 0.493      | -            | -                | -                | -         |    -3.93 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
-|           11 |     2700 | 2024-04-18 | Elevate          | W   | 0.487      | -            | -                | -                | -         |     6.87 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
-|           10 |     2704 | 2024-04-18 | Liquid           | L   | 0.486      | -            | -                | -                | -         |    -0.97 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
-|            9 |     3413 | 2024-03-20 | The MongolZ      | L   | 0.290      | -            | -                | -                | -         |    -0.06 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            8 |     3428 | 2024-03-19 | Apeks            | W   | 0.284      | -            | -                | -                | 1 (0.284) |     3.20 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            7 |     3439 | 2024-03-18 | GamerLegion      | L   | 0.277      | -            | -                | -                | -         |    -6.86 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            6 |     3452 | 2024-03-17 | Cloud9           | L   | 0.273      | -            | -                | -                | -         |    -4.17 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            5 |     3462 | 2024-03-17 | FURIA            | W   | 0.271      | 0.143        | 0.284 (0.011)    | -                | 1 (0.271) |     8.38 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            4 |     3797 | 2024-03-04 | M80              | W   | 0.185      | -            | -                | -                | 1 (0.185) |     4.45 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            3 |     3809 | 2024-03-03 | MIBR             | W   | 0.180      | 0.143        | 0.210 (0.005)    | -                | 1 (0.180) |     5.12 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            2 |     3838 | 2024-03-02 | Nouns            | W   | 0.173      | -            | -                | -                | 1 (0.173) |     1.99 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            1 |     3861 | 2024-03-01 | paiN             | L   | 0.166      | -            | -                | -                | -         |    -0.50 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|           42 |        2 | 2024-08-03 | paiN             | L   | 1.000      | -            | -                | -                | -         |    -4.83 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           41 |       12 | 2024-08-03 | Solid            | W   | 1.000      | 0.143        | -                | 0.835 (0.119)    | 0 (0.000) |     9.45 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           40 |       28 | 2024-08-02 | Fluxo            | W   | 1.000      | 0.143        | 0.124 (0.018)    | -                | 0 (0.000) |    17.48 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           39 |       34 | 2024-08-02 | paiN             | L   | 1.000      | -            | -                | -                | -         |    -4.80 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           38 |       66 | 2024-08-01 | Intense          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.33 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           37 |      112 | 2024-07-31 | Case             | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.805 (0.298)    | 0 (0.000) |     8.03 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           36 |      200 | 2024-07-29 | Solid            | W   | 1.000      | 0.143        | -                | 0.835 (0.119)    | 0 (0.000) |    10.39 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           35 |      244 | 2024-07-28 | Smoke            | W   | 1.000      | -            | -                | -                | -         |     3.77 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           34 |      774 | 2024-07-14 | ODDIK            | L   | 1.000      | -            | -                | -                | -         |   -17.34 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           33 |      780 | 2024-07-13 | RED Canids       | W   | 1.000      | 0.371        | 0.077 (0.029)    | 0.743 (0.275)    | -         |    19.43 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           32 |      793 | 2024-07-12 | Bounty Hunters   | W   | 1.000      | 0.371        | 0.022 (0.008)    | 0.557 (0.206)    | -         |    12.13 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           31 |      806 | 2024-07-11 | ODDIK            | L   | 1.000      | -            | -                | -                | -         |   -18.36 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           30 |      829 | 2024-07-10 | Case             | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.805 (0.298)    | -         |     7.62 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           29 |      856 | 2024-07-09 | Vikings KR       | W   | 1.000      | 0.371        | -                | 0.505 (0.187)    | -         |     6.76 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           28 |      953 | 2024-06-16 | Nouns            | W   | 0.878      | 0.371        | 0.057 (0.019)    | 0.548 (0.178)    | -         |    11.32 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           27 |      957 | 2024-06-16 | Elevate          | W   | 0.877      | 0.371        | 0.027 (0.009)    | 0.505 (0.164)    | -         |    11.30 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           26 |      986 | 2024-06-15 | Akimbo           | W   | 0.870      | -            | -                | -                | -         |     5.87 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           25 |     1020 | 2024-06-14 | Akimbo           | W   | 0.864      | -            | -                | -                | -         |     2.98 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           24 |     1134 | 2024-06-10 | Akimbo           | W   | 0.838      | -            | -                | -                | -         |     5.50 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           23 |     1168 | 2024-06-09 | Party Astronauts | W   | 0.831      | 0.384        | 0.041 (0.013)    | 0.531 (0.170)    | -         |    11.85 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           22 |     1239 | 2024-06-08 | M80              | L   | 0.823      | -            | -                | -                | -         |    -5.29 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           21 |     1294 | 2024-06-07 | Party Astronauts | L   | 0.817      | -            | -                | -                | -         |   -13.90 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           20 |     1301 | 2024-06-07 | Elevate          | W   | 0.816      | -            | -                | -                | -         |    11.19 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           19 |     1346 | 2024-06-06 | Mythic           | W   | 0.811      | -            | -                | -                | -         |     6.18 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           18 |     1349 | 2024-06-06 | Akimbo           | W   | 0.810      | -            | -                | -                | -         |     5.28 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           17 |     1415 | 2024-06-05 | Vibe             | W   | 0.804      | -            | -                | -                | -         |     0.89 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           16 |     1464 | 2024-06-04 | E-Xolos LAZER    | W   | 0.798      | -            | -                | -                | -         |     5.46 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           15 |     1802 | 2024-05-22 | NRG              | L   | 0.709      | -            | -                | -                | -         |   -13.92 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           14 |     1830 | 2024-05-21 | Limitless        | W   | 0.704      | -            | -                | -                | -         |     4.77 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           13 |     1959 | 2024-05-17 | Party Astronauts | L   | 0.677      | -            | -                | -                | -         |   -13.21 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           12 |     2663 | 2024-04-19 | M80              | L   | 0.490      | -            | -                | -                | -         |    -3.90 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
+|           11 |     2705 | 2024-04-18 | Elevate          | W   | 0.484      | -            | -                | -                | -         |     6.84 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
+|           10 |     2709 | 2024-04-18 | Liquid           | L   | 0.483      | -            | -                | -                | -         |    -0.96 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
+|            9 |     3418 | 2024-03-20 | The MongolZ      | L   | 0.287      | -            | -                | -                | -         |    -0.06 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            8 |     3433 | 2024-03-19 | Apeks            | W   | 0.281      | -            | -                | -                | 1 (0.281) |     3.15 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            7 |     3444 | 2024-03-18 | GamerLegion      | L   | 0.274      | -            | -                | -                | -         |    -6.79 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            6 |     3457 | 2024-03-17 | Cloud9           | L   | 0.270      | -            | -                | -                | -         |    -4.14 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            5 |     3467 | 2024-03-17 | FURIA            | W   | 0.268      | 0.143        | 0.284 (0.011)    | -                | 1 (0.268) |     8.29 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            4 |     3803 | 2024-03-04 | M80              | W   | 0.182      | -            | -                | -                | 1 (0.182) |     4.38 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            3 |     3815 | 2024-03-03 | MIBR             | W   | 0.176      | 0.143        | 0.209 (0.005)    | -                | 1 (0.176) |     5.04 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            2 |     3844 | 2024-03-02 | Nouns            | W   | 0.170      | -            | -                | -                | 1 (0.170) |     1.95 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            1 |     3867 | 2024-03-01 | paiN             | L   | 0.163      | -            | -                | -                | -         |    -0.49 | b4rtiN, coldzera, dumau, latto, NEKIZ |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($39,787.64)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- First, take the sum of their top 10 scaled winnings ($39,644.03)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.12) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -94,10 +94,10 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-02 |      1.000 | $1,500.00      | $1,500.00       |
 | 2024-07-14 |      1.000 | $4,000.00      | $4,000.00       |
-| 2024-06-16 |      0.881 | $10,000.00     | $8,806.94       |
-| 2024-06-10 |      0.841 | $7,000.00      | $5,884.86       |
-| 2024-06-09 |      0.834 | $20,000.00     | $16,677.78      |
-| 2024-03-20 |      0.292 | $10,000.00     | $2,918.06       |
+| 2024-06-16 |      0.878 | $10,000.00     | $8,776.39       |
+| 2024-06-10 |      0.838 | $7,000.00      | $5,863.47       |
+| 2024-06-09 |      0.831 | $20,000.00     | $16,616.67      |
+| 2024-03-20 |      0.289 | $10,000.00     | $2,887.50       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

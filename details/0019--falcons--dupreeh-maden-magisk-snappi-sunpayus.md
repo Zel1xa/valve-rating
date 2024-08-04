@@ -6,22 +6,22 @@ Global Rank: [19](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [15]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1429.4<br />
+Final Rank Value:  1428.1<br />
 <br />
-Final Rank Value (1429.4) = Starting Rank Value (1423.1) + Head To Head Adjustments (6.3)<br />
+Final Rank Value (1428.1) = Starting Rank Value (1421.6) + Head To Head Adjustments (6.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.607[<sup>1</sup>](#table2)
-- Bounty Collected: 0.508[<sup>2</sup>](#table1)
+- Bounty Offered: 0.606[<sup>1</sup>](#table2)
+- Bounty Collected: 0.507[<sup>2</sup>](#table1)
 - Opponent Network: 0.167[<sup>2</sup>](#table1)
-- LAN Wins: 0.721[<sup>2</sup>](#table1)
+- LAN Wins: 0.719[<sup>2</sup>](#table1)
 
-The average of these factors is 0.501<br />
+The average of these factors is 0.500<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1423.1
-- 400 + ( ( 0.501 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 1423.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1421.6
+- 400 + ( ( 0.500 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 1421.6
 
 
 #### Factors<br />
@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |       49 | 2024-08-02 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -6.52 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           26 |      167 | 2024-07-30 | GamerLegion      | W   | 1.000      | 0.581        | 0.174 (0.101)    | 0.271 (0.158)    | 1 (1.000) |     5.35 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           25 |      200 | 2024-07-29 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -6.48 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           24 |      965 | 2024-06-16 | Complexity       | L   | 0.877      | -            | -                | -                | -         |    -7.90 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           23 |      970 | 2024-06-16 | ENCE             | W   | 0.877      | 0.500        | 0.170 (0.074)    | 0.401 (0.176)    | 1 (0.877) |    11.00 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           22 |      999 | 2024-06-15 | The MongolZ      | W   | 0.871      | 0.500        | 1.000 (0.436)    | 0.720 (0.314)    | 1 (0.871) |    25.27 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           21 |     1009 | 2024-06-15 | Party Astronauts | W   | 0.869      | 0.500        | 0.041 (0.018)    | 0.532 (0.231)    | 1 (0.869) |     2.23 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           20 |     1050 | 2024-06-14 | Aurora           | L   | 0.863      | -            | -                | -                | -         |   -14.10 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           19 |     1658 | 2024-05-28 | Liquid           | L   | 0.753      | -            | -                | -                | -         |    -8.48 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           18 |     1679 | 2024-05-27 | Monte            | W   | 0.746      | 0.624        | 0.080 (0.037)    | 0.618 (0.288)    | 1 (0.746) |     2.26 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           17 |     1691 | 2024-05-27 | G2               | L   | 0.745      | -            | -                | -                | -         |    -1.29 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           16 |     1941 | 2024-05-18 | Spirit           | L   | 0.684      | -            | -                | -                | -         |    -1.38 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           15 |     1973 | 2024-05-17 | Virtus.pro       | W   | 0.677      | 0.769        | 0.496 (0.258)    | 0.324 (0.168)    | 1 (0.677) |    17.22 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           14 |     2052 | 2024-05-15 | BetBoom          | W   | 0.665      | 0.769        | 0.252 (0.129)    | 0.543 (0.278)    | 1 (0.665) |     9.35 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           13 |     2111 | 2024-05-14 | Virtus.pro       | L   | 0.658      | -            | -                | -                | -         |    -3.62 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           12 |     2486 | 2024-04-27 | G2               | L   | 0.543      | -            | -                | -                | -         |    -0.81 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           11 |     2510 | 2024-04-26 | BetBoom          | L   | 0.537      | -            | -                | -                | -         |    -8.73 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|           10 |     2536 | 2024-04-25 | TYLOO            | W   | 0.530      | 0.889        | 0.019 (0.009)    | 0.092 (0.043)    | 1 (0.530) |     0.42 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|            9 |     2556 | 2024-04-24 | The MongolZ      | L   | 0.523      | -            | -                | -                | -         |    -1.02 | dupreeh, Maden, Magisk, Snappi, SunPayus |
-|            8 |     3730 | 2024-03-06 | Metizport        | L   | 0.199      | -            | -                | -                | -         |    -5.93 | Maden, Magisk, s1mple, Snappi, SunPayus  |
-|            7 |     4182 | 2024-02-16 | AMKAL            | L   | 0.070      | -            | -                | -                | -         |    -1.82 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            6 |     4208 | 2024-02-15 | Eternal Fire     | L   | 0.063      | -            | -                | -                | -         |    -0.36 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            5 |     4237 | 2024-02-14 | FaZe             | L   | 0.059      | -            | -                | -                | -         |    -0.35 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            4 |     4242 | 2024-02-14 | 3DMAX            | W   | 0.058      | 0.143        | -                | 1.000 (0.008)    | 1 (0.058) |     1.47 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            3 |     4298 | 2024-02-10 | Spirit           | L   | 0.032      | -            | -                | -                | -         |    -0.06 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            2 |     4311 | 2024-02-09 | ENCE             | W   | 0.025      | 1.000        | 0.170 (0.004)    | 0.401 (0.010)    | 1 (0.025) |     0.45 | BOROS, Maden, Magisk, Snappi, SunPayus   |
-|            1 |     4346 | 2024-02-06 | Natus Vincere    | W   | 0.005      | 1.000        | 1.000 (0.005)    | -                | -         |     0.14 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|           27 |       52 | 2024-08-02 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -6.51 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           26 |      170 | 2024-07-30 | GamerLegion      | W   | 1.000      | 0.581        | 0.174 (0.101)    | 0.271 (0.157)    | 1 (1.000) |     5.36 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           25 |      203 | 2024-07-29 | Astralis         | L   | 1.000      | -            | -                | -                | -         |    -6.47 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           24 |      969 | 2024-06-16 | Complexity       | L   | 0.874      | -            | -                | -                | -         |    -7.85 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           23 |      974 | 2024-06-16 | ENCE             | W   | 0.874      | 0.500        | 0.169 (0.074)    | 0.400 (0.175)    | 1 (0.874) |    11.00 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           22 |     1003 | 2024-06-15 | The MongolZ      | W   | 0.868      | 0.500        | 1.000 (0.434)    | 0.721 (0.313)    | 1 (0.868) |    25.20 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           21 |     1013 | 2024-06-15 | Party Astronauts | W   | 0.866      | 0.500        | 0.041 (0.018)    | 0.531 (0.230)    | 1 (0.866) |     2.23 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           20 |     1054 | 2024-06-14 | Aurora           | L   | 0.860      | -            | -                | -                | -         |   -13.98 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           19 |     1662 | 2024-05-28 | Liquid           | L   | 0.750      | -            | -                | -                | -         |    -8.44 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           18 |     1683 | 2024-05-27 | Monte            | W   | 0.743      | 0.624        | 0.080 (0.037)    | 0.618 (0.287)    | 1 (0.743) |     2.27 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           17 |     1695 | 2024-05-27 | G2               | L   | 0.742      | -            | -                | -                | -         |    -1.27 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           16 |     1945 | 2024-05-18 | Spirit           | L   | 0.681      | -            | -                | -                | -         |    -1.37 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           15 |     1977 | 2024-05-17 | Virtus.pro       | W   | 0.674      | 0.769        | 0.497 (0.257)    | 0.323 (0.167)    | 1 (0.674) |    17.16 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           14 |     2056 | 2024-05-15 | BetBoom          | W   | 0.662      | 0.769        | 0.251 (0.128)    | 0.542 (0.276)    | 1 (0.662) |     9.32 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           13 |     2115 | 2024-05-14 | Virtus.pro       | L   | 0.655      | -            | -                | -                | -         |    -3.60 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           12 |     2490 | 2024-04-27 | G2               | L   | 0.540      | -            | -                | -                | -         |    -0.80 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           11 |     2515 | 2024-04-26 | BetBoom          | L   | 0.534      | -            | -                | -                | -         |    -8.68 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|           10 |     2541 | 2024-04-25 | TYLOO            | W   | 0.527      | 0.889        | 0.019 (0.009)    | 0.092 (0.043)    | 1 (0.527) |     0.42 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|            9 |     2561 | 2024-04-24 | The MongolZ      | L   | 0.520      | -            | -                | -                | -         |    -1.00 | dupreeh, Maden, Magisk, Snappi, SunPayus |
+|            8 |     3736 | 2024-03-06 | Metizport        | L   | 0.196      | -            | -                | -                | -         |    -5.84 | Maden, Magisk, s1mple, Snappi, SunPayus  |
+|            7 |     4189 | 2024-02-16 | AMKAL            | L   | 0.067      | -            | -                | -                | -         |    -1.74 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            6 |     4215 | 2024-02-15 | Eternal Fire     | L   | 0.060      | -            | -                | -                | -         |    -0.34 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            5 |     4244 | 2024-02-14 | FaZe             | L   | 0.055      | -            | -                | -                | -         |    -0.33 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            4 |     4249 | 2024-02-14 | 3DMAX            | W   | 0.055      | 0.143        | 0.506 (0.004)    | 1.000 (0.008)    | 1 (0.055) |     1.39 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            3 |     4305 | 2024-02-10 | Spirit           | L   | 0.029      | -            | -                | -                | -         |    -0.06 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            2 |     4318 | 2024-02-09 | ENCE             | W   | 0.022      | 1.000        | 0.169 (0.004)    | 0.400 (0.009)    | 1 (0.022) |     0.40 | BOROS, Maden, Magisk, Snappi, SunPayus   |
+|            1 |     4353 | 2024-02-06 | Natus Vincere    | W   | 0.002      | -            | -                | -                | -         |     0.05 | BOROS, Maden, Magisk, Snappi, SunPayus   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($73,187.85)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- First, take the sum of their top 10 scaled winnings ($72,677.57)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.22) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -78,12 +78,12 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-03 |      1.000 | $8,500.00      | $8,500.00       |
-| 2024-06-16 |      0.877 | $20,000.00     | $17,550.00      |
-| 2024-06-02 |      0.785 | $5,000.00      | $3,926.39       |
-| 2024-05-19 |      0.691 | $50,000.00     | $34,527.78      |
-| 2024-05-12 |      0.644 | $7,000.00      | $4,511.11       |
-| 2024-03-10 |      0.226 | $5,000.00      | $1,128.13       |
-| 2024-02-11 |      0.038 | $80,000.00     | $3,044.44       |
+| 2024-06-16 |      0.874 | $20,000.00     | $17,488.89      |
+| 2024-06-02 |      0.782 | $5,000.00      | $3,911.11       |
+| 2024-05-19 |      0.688 | $50,000.00     | $34,375.00      |
+| 2024-05-12 |      0.641 | $7,000.00      | $4,489.72       |
+| 2024-03-10 |      0.223 | $5,000.00      | $1,112.85       |
+| 2024-02-11 |      0.035 | $80,000.00     | $2,800.00       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [107](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [27]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  842.8<br />
+Final Rank Value:  842.5<br />
 <br />
-Final Rank Value (842.8) = Starting Rank Value (844.3) + Head To Head Adjustments (-1.6)<br />
+Final Rank Value (842.5) = Starting Rank Value (844.2) + Head To Head Adjustments (-1.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.217<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 844.3
-- 400 + ( ( 0.217 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 844.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 844.2
+- 400 + ( ( 0.217 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 844.2
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      256 | 2024-07-27 | MIBR fe       | L   | 1.000      | -            | -                | -                | -         |   -21.87 | annaEX, goddess, josi, Le, yungher       |
-|           11 |     1528 | 2024-06-02 | Imperial fe   | L   | 0.784      | -            | -                | -                | -         |    -6.63 | annaEX, goddess, julih, poppins, yungher |
-|           10 |     1548 | 2024-06-01 | NAVI Javelins | W   | 0.779      | 0.524        | 0.026 (0.011)    | 0.190 (0.077)    | 1 (0.779) |    12.29 | annaEX, goddess, julih, poppins, yungher |
-|            9 |     1581 | 2024-05-31 | Let Her Cook  | L   | 0.773      | -            | -                | -                | -         |   -10.39 | annaEX, goddess, julih, poppins, yungher |
-|            8 |     1585 | 2024-05-31 | TSM Shimmer   | W   | 0.772      | 0.524        | 0.020 (0.008)    | 0.199 (0.081)    | 1 (0.772) |     7.82 | annaEX, goddess, julih, poppins, yungher |
-|            7 |     2659 | 2024-04-19 | FURIA fe      | W   | 0.493      | 0.332        | 0.003 (0.001)    | 0.075 (0.012)    | 0 (0.000) |     4.26 | annaEX, goddess, julih, poppins, yungher |
-|            6 |     2922 | 2024-04-10 | GENKID4M4     | W   | 0.433      | 0.332        | 0.002 (0.000)    | 0.011 (0.002)    | 0 (0.000) |     2.73 | annaEX, goddess, julih, poppins, yungher |
-|            5 |     3114 | 2024-04-04 | KG fe         | W   | 0.393      | 0.332        | 0.002 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     1.67 | annaEX, goddess, julih, poppins, yungher |
-|            4 |     3287 | 2024-03-27 | Divina fe     | W   | 0.340      | 0.332        | 0.002 (0.000)    | 0.021 (0.002)    | 0 (0.000) |     2.45 | annaEX, goddess, julih, poppins, yungher |
-|            3 |     3405 | 2024-03-20 | MIBR fe       | W   | 0.293      | 0.332        | 0.007 (0.001)    | 0.107 (0.010)    | 0 (0.000) |     2.71 | annaEX, goddess, julih, poppins, yungher |
-|            2 |     3523 | 2024-03-14 | W7M fe        | W   | 0.253      | 0.332        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     1.83 | annaEX, goddess, julih, poppins, yungher |
-|            1 |     3728 | 2024-03-06 | Atrix         | W   | 0.200      | 0.332        | 0.003 (0.000)    | 0.060 (0.004)    | 0 (0.000) |     1.55 | annaEX, goddess, julih, poppins, yungher |
+|           12 |      259 | 2024-07-27 | MIBR fe       | L   | 1.000      | -            | -                | -                | -         |   -21.86 | annaEX, goddess, josi, Le, yungher       |
+|           11 |     1532 | 2024-06-02 | Imperial fe   | L   | 0.781      | -            | -                | -                | -         |    -6.61 | annaEX, goddess, julih, poppins, yungher |
+|           10 |     1552 | 2024-06-01 | NAVI Javelins | W   | 0.776      | 0.524        | 0.026 (0.011)    | 0.189 (0.077)    | 1 (0.776) |    12.23 | annaEX, goddess, julih, poppins, yungher |
+|            9 |     1585 | 2024-05-31 | Let Her Cook  | L   | 0.770      | -            | -                | -                | -         |   -10.29 | annaEX, goddess, julih, poppins, yungher |
+|            8 |     1589 | 2024-05-31 | TSM Shimmer   | W   | 0.769      | 0.524        | 0.020 (0.008)    | 0.199 (0.080)    | 1 (0.769) |     7.80 | annaEX, goddess, julih, poppins, yungher |
+|            7 |     2664 | 2024-04-19 | FURIA fe      | W   | 0.490      | 0.332        | 0.003 (0.001)    | 0.074 (0.012)    | 0 (0.000) |     4.23 | annaEX, goddess, julih, poppins, yungher |
+|            6 |     2927 | 2024-04-10 | GENKID4M4     | W   | 0.430      | 0.332        | 0.002 (0.000)    | 0.011 (0.002)    | 0 (0.000) |     2.72 | annaEX, goddess, julih, poppins, yungher |
+|            5 |     3119 | 2024-04-04 | KG fe         | W   | 0.390      | 0.332        | 0.002 (0.000)    | 0.003 (0.000)    | 0 (0.000) |     1.66 | annaEX, goddess, julih, poppins, yungher |
+|            4 |     3292 | 2024-03-27 | Divina fe     | W   | 0.337      | 0.332        | 0.002 (0.000)    | 0.021 (0.002)    | 0 (0.000) |     2.43 | annaEX, goddess, julih, poppins, yungher |
+|            3 |     3410 | 2024-03-20 | MIBR fe       | W   | 0.290      | 0.332        | 0.007 (0.001)    | 0.107 (0.010)    | 0 (0.000) |     2.68 | annaEX, goddess, julih, poppins, yungher |
+|            2 |     3528 | 2024-03-14 | W7M fe        | W   | 0.250      | 0.332        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     1.81 | annaEX, goddess, julih, poppins, yungher |
+|            1 |     3734 | 2024-03-06 | Atrix         | W   | 0.197      | 0.332        | 0.003 (0.000)    | 0.059 (0.004)    | 0 (0.000) |     1.53 | annaEX, goddess, julih, poppins, yungher |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($10,469.44)
-- Divide that value by the 5th highest value among all rosters ($325,463.29)
+- First, take the sum of their top 10 scaled winnings ($10,429.72)
+- Divide that value by the 5th highest value among all rosters ($324,557.31)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -63,7 +63,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-27 |      1.000 | $250.00        | $250.00         |
-| 2024-06-02 |      0.786 | $13,000.00     | $10,219.44      |
+| 2024-06-02 |      0.783 | $13,000.00     | $10,179.72      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
