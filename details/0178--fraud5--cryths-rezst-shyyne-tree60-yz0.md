@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1139 | 2024-06-10 | K10            | L   | 0.836      | -            | -                | -                | -         |   -11.08 | cryths, Rezst, shyyne, Tree60, yz0    |
-|           10 |     1430 | 2024-06-05 | RAPTORS EC     | W   | 0.802      | 0.282        | 0.000 (0.000)    | 0.034 (0.008)    | 0 (0.000) |    10.67 | cryths, Rezst, shyyne, Tree60, yz0    |
-|            9 |     3244 | 2024-03-29 | The Neighbours | L   | 0.349      | -            | -                | -                | -         |    -4.72 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|            8 |     3427 | 2024-03-19 | RAPTORS EC     | W   | 0.283      | 0.143        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     2.55 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|            7 |     3668 | 2024-03-09 | Insilio        | L   | 0.215      | -            | -                | -                | -         |    -1.37 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            6 |     3682 | 2024-03-09 | ex-Preasy      | L   | 0.213      | -            | -                | -                | -         |    -2.05 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            5 |     3692 | 2024-03-08 | MOUZ NXT       | L   | 0.208      | -            | -                | -                | -         |    -0.66 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            4 |     3755 | 2024-03-06 | Passion UA     | L   | 0.194      | -            | -                | -                | -         |    -0.48 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            3 |     3806 | 2024-03-04 | Secret         | W   | 0.181      | 0.371        | 0.000 (0.000)    | 0.058 (0.004)    | 0 (0.000) |     2.02 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            2 |     3962 | 2024-02-25 | The Neighbours | L   | 0.128      | -            | -                | -                | -         |    -1.81 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            1 |     3990 | 2024-02-24 | The Neighbours | W   | 0.122      | 0.307        | 0.003 (0.000)    | 0.035 (0.001)    | 1 (0.122) |     2.13 | Rezst, shyyne, SLY, Tree60, yz0       |
+|           11 |     1147 | 2024-06-10 | K10            | L   | 0.835      | -            | -                | -                | -         |   -11.06 | cryths, Rezst, shyyne, Tree60, yz0    |
+|           10 |     1438 | 2024-06-05 | RAPTORS EC     | W   | 0.802      | 0.282        | 0.000 (0.000)    | 0.034 (0.008)    | 0 (0.000) |    10.66 | cryths, Rezst, shyyne, Tree60, yz0    |
+|            9 |     3252 | 2024-03-29 | The Neighbours | L   | 0.349      | -            | -                | -                | -         |    -4.71 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|            8 |     3435 | 2024-03-19 | RAPTORS EC     | W   | 0.282      | 0.143        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     2.55 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|            7 |     3676 | 2024-03-09 | Insilio        | L   | 0.214      | -            | -                | -                | -         |    -1.35 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            6 |     3690 | 2024-03-09 | ex-Preasy      | L   | 0.212      | -            | -                | -                | -         |    -2.04 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            5 |     3700 | 2024-03-08 | MOUZ NXT       | L   | 0.208      | -            | -                | -                | -         |    -0.66 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            4 |     3763 | 2024-03-06 | Passion UA     | L   | 0.193      | -            | -                | -                | -         |    -0.48 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            3 |     3814 | 2024-03-04 | Secret         | W   | 0.180      | 0.371        | 0.000 (0.000)    | 0.058 (0.004)    | 0 (0.000) |     2.01 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            2 |     3970 | 2024-02-25 | The Neighbours | L   | 0.127      | -            | -                | -                | -         |    -1.80 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            1 |     3998 | 2024-02-24 | The Neighbours | W   | 0.121      | 0.307        | 0.003 (0.000)    | 0.035 (0.001)    | 1 (0.121) |     2.12 | Rezst, shyyne, SLY, Tree60, yz0       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,282.39)
-- Divide that value by the 5th highest value among all rosters ($324,557.31)
+- First, take the sum of their top 10 scaled winnings ($1,280.17)
+- Divide that value by the 5th highest value among all rosters ($324,344.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-10 |      0.836 | $954.00        | $797.12         |
-| 2024-03-29 |      0.349 | $951.00        | $332.32         |
-| 2024-02-25 |      0.128 | $1,197.00      | $152.95         |
+| 2024-06-10 |      0.835 | $954.00        | $796.44         |
+| 2024-03-29 |      0.349 | $951.00        | $331.64         |
+| 2024-02-25 |      0.127 | $1,197.00      | $152.09         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

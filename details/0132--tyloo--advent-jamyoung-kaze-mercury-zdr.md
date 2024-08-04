@@ -4,11 +4,11 @@ Roster: advent, JamYoung, kaze, Mercury, zdr<br />
 Global Rank: [132](../standings_global.md)<br />
 <br />
 Region: [Asia]( ../standings_asia.md)<br />
-Regional Rank: [9]( ../standings_asia.md)<br />
+Regional Rank: [10]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  768.5<br />
+Final Rank Value:  770.2<br />
 <br />
-Final Rank Value (768.5) = Starting Rank Value (762.3) + Head To Head Adjustments (6.2)<br />
+Final Rank Value (770.2) = Starting Rank Value (762.3) + Head To Head Adjustments (7.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     2483 | 2024-04-27 | M80             | L   | 0.541      | -            | -                | -                | -         |    -1.11 | advent, JamYoung, kaze, Mercury, zdr    |
-|           15 |     2503 | 2024-04-26 | Sharks          | W   | 0.535      | 0.889        | 0.020 (0.009)    | 0.033 (0.016)    | 1 (0.535) |     8.50 | advent, JamYoung, kaze, Mercury, zdr    |
-|           14 |     2541 | 2024-04-25 | Falcons         | L   | 0.527      | -            | -                | -                | -         |    -0.42 | advent, JamYoung, kaze, Mercury, zdr    |
-|           13 |     2562 | 2024-04-24 | G2              | L   | 0.520      | -            | -                | -                | -         |    -0.02 | advent, JamYoung, kaze, Mercury, zdr    |
-|           12 |     2697 | 2024-04-19 | Rare Atom       | L   | 0.487      | -            | -                | -                | -         |    -8.89 | advent, JamYoung, kaze, Mercury, zdr    |
-|           11 |     2737 | 2024-04-18 | The MongolZ     | L   | 0.481      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
-|           10 |     2749 | 2024-04-18 | Lynn Vision     | W   | 0.480      | 0.143        | 0.078 (0.005)    | 0.152 (0.010)    | 0 (0.000) |    11.86 | advent, JamYoung, kaze, Mercury, zdr    |
-|            9 |     2776 | 2024-04-17 | Sheer Conquer   | W   | 0.474      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     2.80 | advent, JamYoung, kaze, Mercury, zdr    |
-|            8 |     2780 | 2024-04-17 | The Huns        | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.79 | advent, JamYoung, kaze, Mercury, zdr    |
-|            7 |     3034 | 2024-04-08 | Lynn Vision     | L   | 0.414      | -            | -                | -                | -         |    -2.74 | advent, JamYoung, kaze, Mercury, zdr    |
-|            6 |     3044 | 2024-04-07 | MOUZ            | L   | 0.412      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
-|            5 |     3578 | 2024-03-13 | LYG             | L   | 0.240      | -            | -                | -                | -         |    -4.36 | advent, JamYoung, lyrics3, Mercury, zdr |
-|            4 |     3585 | 2024-03-13 | padaem Holodnie | W   | 0.240      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.88 | advent, JamYoung, lyrics3, Mercury, zdr |
-|            3 |     3934 | 2024-02-26 | ATOX            | L   | 0.139      | -            | -                | -                | -         |    -1.58 | advent, aumaN, JamYoung, kaze, Mercury  |
-|            2 |     3946 | 2024-02-25 | Lynn Vision     | L   | 0.133      | -            | -                | -                | -         |    -0.96 | advent, aumaN, JamYoung, kaze, Mercury  |
-|            1 |     3948 | 2024-02-25 | JiJieHao        | W   | 0.132      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.132) |     0.50 | advent, aumaN, JamYoung, kaze, Mercury  |
+|           16 |     2491 | 2024-04-27 | M80             | L   | 0.541      | -            | -                | -                | -         |    -1.11 | advent, JamYoung, kaze, Mercury, zdr    |
+|           15 |     2511 | 2024-04-26 | Sharks          | W   | 0.535      | 0.889        | 0.020 (0.009)    | 0.033 (0.016)    | 1 (0.535) |     8.44 | advent, JamYoung, kaze, Mercury, zdr    |
+|           14 |     2549 | 2024-04-25 | Falcons         | L   | 0.526      | -            | -                | -                | -         |    -0.42 | advent, JamYoung, kaze, Mercury, zdr    |
+|           13 |     2570 | 2024-04-24 | G2              | L   | 0.520      | -            | -                | -                | -         |    -0.02 | advent, JamYoung, kaze, Mercury, zdr    |
+|           12 |     2705 | 2024-04-19 | Rare Atom       | L   | 0.486      | -            | -                | -                | -         |    -8.88 | advent, JamYoung, kaze, Mercury, zdr    |
+|           11 |     2745 | 2024-04-18 | The MongolZ     | L   | 0.480      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
+|           10 |     2757 | 2024-04-18 | Lynn Vision     | W   | 0.479      | 0.143        | 0.078 (0.005)    | 0.192 (0.013)    | 0 (0.000) |    12.63 | advent, JamYoung, kaze, Mercury, zdr    |
+|            9 |     2784 | 2024-04-17 | Sheer Conquer   | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.019 (0.001)    | 0 (0.000) |     2.79 | advent, JamYoung, kaze, Mercury, zdr    |
+|            8 |     2788 | 2024-04-17 | The Huns        | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.78 | advent, JamYoung, kaze, Mercury, zdr    |
+|            7 |     3042 | 2024-04-08 | Lynn Vision     | L   | 0.413      | -            | -                | -                | -         |    -2.06 | advent, JamYoung, kaze, Mercury, zdr    |
+|            6 |     3052 | 2024-04-07 | MOUZ            | L   | 0.412      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
+|            5 |     3586 | 2024-03-13 | LYG             | L   | 0.240      | -            | -                | -                | -         |    -4.34 | advent, JamYoung, lyrics3, Mercury, zdr |
+|            4 |     3593 | 2024-03-13 | padaem Holodnie | W   | 0.239      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.88 | advent, JamYoung, lyrics3, Mercury, zdr |
+|            3 |     3942 | 2024-02-26 | ATOX            | L   | 0.138      | -            | -                | -                | -         |    -1.57 | advent, aumaN, JamYoung, kaze, Mercury  |
+|            2 |     3954 | 2024-02-25 | Lynn Vision     | L   | 0.132      | -            | -                | -                | -         |    -0.71 | advent, aumaN, JamYoung, kaze, Mercury  |
+|            1 |     3956 | 2024-02-25 | JiJieHao        | W   | 0.131      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.131) |     0.50 | advent, aumaN, JamYoung, kaze, Mercury  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($6,303.70)
-- Divide that value by the 5th highest value among all rosters ($324,557.31)
+- First, take the sum of their top 10 scaled winnings ($6,295.81)
+- Divide that value by the 5th highest value among all rosters ($324,344.55)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-05-12 |      0.641 | $7,000.00      | $4,489.72       |
-| 2024-04-14 |      0.453 | $4,000.00      | $1,813.98       |
+| 2024-05-12 |      0.641 | $7,000.00      | $4,484.70       |
+| 2024-04-14 |      0.453 | $4,000.00      | $1,811.11       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

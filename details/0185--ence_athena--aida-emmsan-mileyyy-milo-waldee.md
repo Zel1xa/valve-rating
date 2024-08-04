@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1270 | 2024-06-08 | Crescent fe       | L   | 0.821      | -            | -                | -                | -         |   -11.79 | Aida, Emmsan, Mileyyy, miLo, Waldee |
-|           11 |     2486 | 2024-04-27 | NIP Impact        | L   | 0.541      | -            | -                | -                | -         |    -6.49 | Aida, Emmsan, miLo, Waldee, xia     |
-|           10 |     2674 | 2024-04-19 | Astralis W        | W   | 0.489      | 0.331        | 0.001 (0.000)    | 0.021 (0.003)    | 0 (0.000) |     7.21 | Aida, Emmsan, miLo, Waldee, xia     |
-|            9 |     3053 | 2024-04-07 | dream catchers fe | L   | 0.409      | -            | -                | -                | -         |    -5.04 | Aida, Emmsan, miLo, Waldee, xia     |
-|            8 |     3077 | 2024-04-06 | Imperial fe       | L   | 0.400      | -            | -                | -                | -         |    -1.22 | Aida, Emmsan, miLo, Waldee, xia     |
-|            7 |     3126 | 2024-04-04 | BIG EQUIPA        | L   | 0.389      | -            | -                | -                | -         |    -4.03 | Aida, Emmsan, miLo, Waldee, xia     |
-|            6 |     3298 | 2024-03-27 | Imperial fe       | L   | 0.336      | -            | -                | -                | -         |    -1.05 | Aida, Emmsan, miLo, Waldee, xia     |
-|            5 |     3414 | 2024-03-20 | NIP Impact        | L   | 0.289      | -            | -                | -                | -         |    -3.83 | Aida, Emmsan, miLo, Waldee, xia     |
-|            4 |     3566 | 2024-03-13 | Astralis W        | W   | 0.242      | 0.331        | 0.002 (0.000)    | 0.064 (0.005)    | 0 (0.000) |     4.00 | Aida, Emmsan, miLo, Waldee, xia     |
-|            3 |     3966 | 2024-02-25 | NAVI Javelins     | L   | 0.127      | -            | -                | -                | -         |    -1.08 | Aida, Emmsan, miLo, Waldee, xia     |
-|            2 |     3996 | 2024-02-24 | Spirit fe         | W   | 0.121      | 0.238        | 0.005 (0.000)    | 0.141 (0.004)    | 0 (0.000) |     2.04 | Aida, Emmsan, miLo, Waldee, xia     |
-|            1 |     4238 | 2024-02-14 | more whiskey      | W   | 0.056      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.37 | Aida, Emmsan, miLo, Waldee, xia     |
+|           12 |     1278 | 2024-06-08 | Crescent fe       | L   | 0.820      | -            | -                | -                | -         |   -11.78 | Aida, Emmsan, Mileyyy, miLo, Waldee |
+|           11 |     2494 | 2024-04-27 | NIP Impact        | L   | 0.540      | -            | -                | -                | -         |    -6.48 | Aida, Emmsan, miLo, Waldee, xia     |
+|           10 |     2682 | 2024-04-19 | Astralis W        | W   | 0.488      | 0.331        | 0.001 (0.000)    | 0.021 (0.003)    | 0 (0.000) |     7.20 | Aida, Emmsan, miLo, Waldee, xia     |
+|            9 |     3061 | 2024-04-07 | dream catchers fe | L   | 0.408      | -            | -                | -                | -         |    -5.03 | Aida, Emmsan, miLo, Waldee, xia     |
+|            8 |     3085 | 2024-04-06 | Imperial fe       | L   | 0.400      | -            | -                | -                | -         |    -1.21 | Aida, Emmsan, miLo, Waldee, xia     |
+|            7 |     3134 | 2024-04-04 | BIG EQUIPA        | L   | 0.388      | -            | -                | -                | -         |    -4.02 | Aida, Emmsan, miLo, Waldee, xia     |
+|            6 |     3306 | 2024-03-27 | Imperial fe       | L   | 0.335      | -            | -                | -                | -         |    -1.05 | Aida, Emmsan, miLo, Waldee, xia     |
+|            5 |     3422 | 2024-03-20 | NIP Impact        | L   | 0.288      | -            | -                | -                | -         |    -3.83 | Aida, Emmsan, miLo, Waldee, xia     |
+|            4 |     3574 | 2024-03-13 | Astralis W        | W   | 0.242      | 0.331        | 0.002 (0.000)    | 0.064 (0.005)    | 0 (0.000) |     3.99 | Aida, Emmsan, miLo, Waldee, xia     |
+|            3 |     3974 | 2024-02-25 | NAVI Javelins     | L   | 0.126      | -            | -                | -                | -         |    -1.07 | Aida, Emmsan, miLo, Waldee, xia     |
+|            2 |     4004 | 2024-02-24 | Spirit fe         | W   | 0.120      | 0.238        | 0.005 (0.000)    | 0.141 (0.004)    | 0 (0.000) |     2.03 | Aida, Emmsan, miLo, Waldee, xia     |
+|            1 |     4246 | 2024-02-14 | more whiskey      | W   | 0.056      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.36 | Aida, Emmsan, miLo, Waldee, xia     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($769.59)
-- Divide that value by the 5th highest value among all rosters ($324,557.31)
+- First, take the sum of their top 10 scaled winnings ($768.51)
+- Divide that value by the 5th highest value among all rosters ($324,344.55)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-08 |      0.822 | $100.00        | $82.21          |
-| 2024-04-27 |      0.541 | $107.00        | $57.92          |
-| 2024-04-21 |      0.502 | $1,050.00      | $527.19         |
-| 2024-04-07 |      0.409 | $250.00        | $102.27         |
+| 2024-06-08 |      0.821 | $100.00        | $82.14          |
+| 2024-04-27 |      0.541 | $107.00        | $57.85          |
+| 2024-04-21 |      0.501 | $1,050.00      | $526.43         |
+| 2024-04-07 |      0.408 | $250.00        | $102.09         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

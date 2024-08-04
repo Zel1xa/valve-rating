@@ -1,0 +1,72 @@
+### Roster Details<br />
+Team Name: BC.Game<br />
+Roster: anarkez, CacaNito, joel, Lekr0, pr1metapz<br />
+Global Rank: [70](../standings_global.md)<br />
+<br />
+Region: [Europe]( ../standings_europe.md)<br />
+Regional Rank: [49]( ../standings_europe.md)<br />
+<br />
+Final Rank Value:  959.4<br />
+<br />
+Final Rank Value (959.4) = Starting Rank Value (874.6) + Head To Head Adjustments (84.8)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.375[<sup>1</sup>](#table2)
+- Bounty Collected: 0.348[<sup>2</sup>](#table1)
+- Opponent Network: 0.205[<sup>2</sup>](#table1)
+- LAN Wins: 0.000[<sup>2</sup>](#table1)
+
+The average of these factors is 0.232<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 874.6
+- 400 + ( ( 0.232 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 874.6
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           14 |        2 | 2024-08-04 | RUSH B            | W   | 1.000      | 0.342        | 0.026 (0.009)    | 0.386 (0.132)    | 0 (0.000) |    15.79 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           13 |       20 | 2024-08-03 | ARCRED            | W   | 1.000      | 0.342        | 0.041 (0.014)    | 0.344 (0.118)    | 0 (0.000) |    16.48 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           12 |       55 | 2024-08-02 | Space             | W   | 1.000      | 0.342        | 0.006 (0.002)    | 0.406 (0.139)    | 0 (0.000) |    12.47 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           11 |       94 | 2024-08-01 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.07 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|           10 |      186 | 2024-07-30 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.006 (0.002)    | 0.510 (0.221)    | 0 (0.000) |    11.46 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            9 |      241 | 2024-07-28 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -14.98 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            8 |      307 | 2024-07-26 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    15.49 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            7 |      345 | 2024-07-25 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -5.30 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            6 |      370 | 2024-07-24 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |   -12.73 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            5 |      414 | 2024-07-23 | GUN5              | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    16.81 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            4 |      444 | 2024-07-22 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -7.00 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            3 |      488 | 2024-07-20 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -15.24 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            2 |      596 | 2024-07-18 | Metizport         | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.417 (0.181)    | 0 (0.000) |    18.50 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+|            1 |      724 | 2024-07-16 | SINNERS           | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.757 (0.329)    | 0 (0.000) |    19.00 | anarkez, CacaNito, joel, Lekr0, pr1metapz |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($7,000.00)
+- Divide that value by the 5th highest value among all rosters ($324,344.55)
+- The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by HLTV.org_<br />
