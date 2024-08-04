@@ -8,7 +8,7 @@ Regional Rank: [96]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  739.8<br />
 <br />
-Final Rank Value (739.8) = Starting Rank Value (636.1) + Head To Head Adjustments (103.7)<br />
+Final Rank Value (739.8) = Starting Rank Value (636.2) + Head To Head Adjustments (103.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.115<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 636.1
-- 400 + ( ( 0.115 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 636.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 636.2
+- 400 + ( ( 0.115 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 636.2
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |        7 | 2024-08-04 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |    -2.64 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|           10 |       47 | 2024-08-03 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.36 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            9 |       80 | 2024-08-02 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.59 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            8 |      109 | 2024-08-01 | GUN5          | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    20.82 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            7 |      168 | 2024-07-31 | 1WIN          | L   | 1.000      | -            | -                | -                | -         |    -6.50 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            6 |      252 | 2024-07-29 | Passion UA    | W   | 1.000      | 0.435        | 0.172 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    27.90 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            5 |      293 | 2024-07-27 | Monte         | L   | 1.000      | -            | -                | -                | -         |    -3.45 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            4 |      359 | 2024-07-25 | Permitta      | W   | 1.000      | 0.435        | 0.024 (0.010)    | 0.876 (0.381)    | 0 (0.000) |    23.59 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            3 |      465 | 2024-07-22 | INFINITE      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.187 (0.027)    | 0 (0.000) |    11.79 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            2 |      608 | 2024-07-18 | Preasy        | W   | 1.000      | 0.143        | 0.012 (0.002)    | 0.224 (0.032)    | 0 (0.000) |    20.72 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            1 |      694 | 2024-07-17 | TSM           | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.394 (0.056)    | 0 (0.000) |    28.40 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|           11 |        8 | 2024-08-04 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |    -2.64 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|           10 |       48 | 2024-08-03 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.36 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            9 |       81 | 2024-08-02 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.59 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            8 |      110 | 2024-08-01 | GUN5          | W   | 1.000      | 0.435        | 0.073 (0.032)    | 0.570 (0.248)    | 0 (0.000) |    20.82 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            7 |      169 | 2024-07-31 | 1WIN          | L   | 1.000      | -            | -                | -                | -         |    -6.50 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            6 |      253 | 2024-07-29 | Passion UA    | W   | 1.000      | 0.435        | 0.172 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    27.90 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            5 |      294 | 2024-07-27 | Monte         | L   | 1.000      | -            | -                | -                | -         |    -3.45 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            4 |      360 | 2024-07-25 | Permitta      | W   | 1.000      | 0.435        | 0.024 (0.010)    | 0.876 (0.381)    | 0 (0.000) |    23.59 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            3 |      466 | 2024-07-22 | INFINITE      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.187 (0.027)    | 0 (0.000) |    11.79 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            2 |      609 | 2024-07-18 | Preasy        | W   | 1.000      | 0.143        | 0.012 (0.002)    | 0.224 (0.032)    | 0 (0.000) |    20.72 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            1 |      695 | 2024-07-17 | TSM           | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.394 (0.056)    | 0 (0.000) |    28.41 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

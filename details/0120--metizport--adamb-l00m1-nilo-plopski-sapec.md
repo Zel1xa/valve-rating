@@ -6,9 +6,9 @@ Global Rank: [120](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [86]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  814.9<br />
+Final Rank Value:  815.0<br />
 <br />
-Final Rank Value (814.9) = Starting Rank Value (785.7) + Head To Head Adjustments (29.2)<br />
+Final Rank Value (815.0) = Starting Rank Value (785.7) + Head To Head Adjustments (29.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |      113 | 2024-08-01 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.560 (0.080)    | 0 (0.000) |    18.34 | adamb, L00m1, nilo, Plopski, Sapec    |
-|           14 |      122 | 2024-08-01 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -9.72 | adamb, Jackinho, nilo, Plopski, Sapec |
-|           13 |      225 | 2024-07-30 | QUAZAR            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.92 | adamb, Jackinho, nilo, Plopski, Sapec |
-|           12 |      272 | 2024-07-28 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -9.68 | adamb, Jackinho, nilo, Plopski, Sapec |
-|           11 |      440 | 2024-07-23 | RUBY              | L   | 1.000      | -            | -                | -                | -         |   -12.37 | adamb, Jackinho, nilo, Plopski, Sapec |
-|           10 |      458 | 2024-07-22 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -11.39 | adamb, Jackinho, nilo, Plopski, Sapec |
-|            9 |      559 | 2024-07-19 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    18.43 | adamb, Jackinho, nilo, Plopski, Sapec |
-|            8 |      618 | 2024-07-18 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -12.70 | adamb, Jackinho, nilo, Plopski, Sapec |
-|            7 |      737 | 2024-07-16 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.522 (0.227)    | 0 (0.000) |    17.92 | adamb, Jackinho, nilo, Plopski, Sapec |
-|            6 |     1801 | 2024-05-23 | Space             | L   | 0.711      | -            | -                | -                | -         |    -9.88 | abdi, adamb, Jackinho, nilo, Plopski  |
-|            5 |     1907 | 2024-05-20 | Zero Tenacity     | L   | 0.694      | -            | -                | -                | -         |    -4.24 | adamb, Jackinho, nilo, Plopski, ztr   |
-|            4 |     1959 | 2024-05-18 | Ninjas in Pyjamas | W   | 0.681      | 0.500        | 0.255 (0.087)    | 0.553 (0.188)    | 0 (0.000) |    21.16 | adamb, Jackinho, nilo, Plopski, ztr   |
-|            3 |     2045 | 2024-05-16 | Rare Atom         | W   | 0.666      | 0.500        | 0.000 (0.000)    | 0.480 (0.160)    | 0 (0.000) |     8.07 | adamb, Jackinho, nilo, Plopski, ztr   |
-|            2 |     2231 | 2024-05-11 | BetBoom           | L   | 0.632      | -            | -                | -                | -         |    -0.72 | adamb, Jackinho, nilo, Plopski, ztr   |
-|            1 |     2245 | 2024-05-10 | EYEBALLERS        | W   | 0.627      | 0.435        | 0.006 (0.001)    | 0.509 (0.139)    | 0 (0.000) |    13.06 | adamb, Jackinho, nilo, Plopski, ztr   |
+|           15 |      114 | 2024-08-01 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.560 (0.080)    | 0 (0.000) |    18.34 | adamb, L00m1, nilo, Plopski, Sapec    |
+|           14 |      123 | 2024-08-01 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -9.72 | adamb, Jackinho, nilo, Plopski, Sapec |
+|           13 |      226 | 2024-07-30 | QUAZAR            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.92 | adamb, Jackinho, nilo, Plopski, Sapec |
+|           12 |      273 | 2024-07-28 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -9.68 | adamb, Jackinho, nilo, Plopski, Sapec |
+|           11 |      441 | 2024-07-23 | RUBY              | L   | 1.000      | -            | -                | -                | -         |   -12.37 | adamb, Jackinho, nilo, Plopski, Sapec |
+|           10 |      459 | 2024-07-22 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -11.39 | adamb, Jackinho, nilo, Plopski, Sapec |
+|            9 |      560 | 2024-07-19 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    18.43 | adamb, Jackinho, nilo, Plopski, Sapec |
+|            8 |      619 | 2024-07-18 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -12.70 | adamb, Jackinho, nilo, Plopski, Sapec |
+|            7 |      738 | 2024-07-16 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.522 (0.227)    | 0 (0.000) |    17.93 | adamb, Jackinho, nilo, Plopski, Sapec |
+|            6 |     1802 | 2024-05-23 | Space             | L   | 0.711      | -            | -                | -                | -         |    -9.87 | abdi, adamb, Jackinho, nilo, Plopski  |
+|            5 |     1908 | 2024-05-20 | Zero Tenacity     | L   | 0.694      | -            | -                | -                | -         |    -4.22 | adamb, Jackinho, nilo, Plopski, ztr   |
+|            4 |     1960 | 2024-05-18 | Ninjas in Pyjamas | W   | 0.680      | 0.500        | 0.254 (0.087)    | 0.553 (0.188)    | 0 (0.000) |    21.15 | adamb, Jackinho, nilo, Plopski, ztr   |
+|            3 |     2046 | 2024-05-16 | Rare Atom         | W   | 0.665      | 0.500        | 0.000 (0.000)    | 0.480 (0.160)    | 0 (0.000) |     8.07 | adamb, Jackinho, nilo, Plopski, ztr   |
+|            2 |     2232 | 2024-05-11 | BetBoom           | L   | 0.632      | -            | -                | -                | -         |    -0.72 | adamb, Jackinho, nilo, Plopski, ztr   |
+|            1 |     2246 | 2024-05-10 | EYEBALLERS        | W   | 0.626      | 0.435        | 0.006 (0.001)    | 0.509 (0.139)    | 0 (0.000) |    13.06 | adamb, Jackinho, nilo, Plopski, ztr   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,280.79)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($1,280.19)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

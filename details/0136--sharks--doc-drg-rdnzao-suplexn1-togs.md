@@ -37,36 +37,36 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     2534 | 2024-04-26 | TYLOO    | L   | 0.534      | -            | -                | -                | -         |    -8.43 | doc, drg, rdnzao, supLexN1, togs  |
-|           14 |     2567 | 2024-04-25 | M80      | L   | 0.527      | -            | -                | -                | -         |    -1.15 | doc, drg, rdnzao, supLexN1, togs  |
-|           13 |     2606 | 2024-04-23 | Vitality | L   | 0.513      | -            | -                | -                | -         |    -0.04 | doc, drg, rdnzao, supLexN1, togs  |
-|           12 |     2831 | 2024-04-16 | W7M      | L   | 0.469      | -            | -                | -                | -         |    -6.11 | doc, drg, rdnzao, supLexN1, togs  |
-|           11 |     2896 | 2024-04-12 | Galorys  | L   | 0.441      | -            | -                | -                | -         |    -4.58 | doc, drg, rdnzao, supLexN1, togs  |
-|           10 |     2948 | 2024-04-10 | ODDIK    | W   | 0.429      | 0.450        | 0.099 (0.019)    | 0.831 (0.161)    | 0 (0.000) |     9.94 | doc, drg, lukiz, rdnzao, supLexN1 |
-|            9 |     2952 | 2024-04-10 | ODDIK    | L   | 0.429      | -            | -                | -                | -         |    -3.59 | doc, drg, lukiz, rdnzao, supLexN1 |
-|            8 |     3049 | 2024-04-08 | paiN     | L   | 0.414      | -            | -                | -                | -         |    -0.34 | doc, drg, rdnzao, supLexN1, togs  |
-|            7 |     3089 | 2024-04-07 | BESTIA   | W   | 0.406      | 0.435        | 0.095 (0.017)    | 0.801 (0.141)    | 0 (0.000) |     9.98 | doc, drg, rdnzao, supLexN1, togs  |
-|            6 |     3100 | 2024-04-06 | ODDIK    | W   | 0.401      | 0.143        | 0.099 (0.006)    | 0.831 (0.048)    | 0 (0.000) |     9.77 | doc, drg, gafolo, supLexN1, togs  |
-|            5 |     3119 | 2024-04-05 | paiN     | L   | 0.394      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
-|            4 |     3139 | 2024-04-04 | paiN     | L   | 0.389      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
-|            3 |     3146 | 2024-04-04 | paiN     | L   | 0.389      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
-|            2 |     3224 | 2024-04-02 | BESTIA   | L   | 0.376      | -            | -                | -                | -         |    -2.40 | doc, drg, rdnzao, supLexN1, togs  |
-|            1 |     3228 | 2024-04-02 | MIBR     | L   | 0.374      | -            | -                | -                | -         |    -0.30 | doc, drg, rdnzao, supLexN1, togs  |
+|           15 |     2535 | 2024-04-26 | TYLOO    | L   | 0.534      | -            | -                | -                | -         |    -8.43 | doc, drg, rdnzao, supLexN1, togs  |
+|           14 |     2568 | 2024-04-25 | M80      | L   | 0.526      | -            | -                | -                | -         |    -1.15 | doc, drg, rdnzao, supLexN1, togs  |
+|           13 |     2607 | 2024-04-23 | Vitality | L   | 0.513      | -            | -                | -                | -         |    -0.04 | doc, drg, rdnzao, supLexN1, togs  |
+|           12 |     2832 | 2024-04-16 | W7M      | L   | 0.469      | -            | -                | -                | -         |    -6.10 | doc, drg, rdnzao, supLexN1, togs  |
+|           11 |     2897 | 2024-04-12 | Galorys  | L   | 0.441      | -            | -                | -                | -         |    -4.58 | doc, drg, rdnzao, supLexN1, togs  |
+|           10 |     2949 | 2024-04-10 | ODDIK    | W   | 0.429      | 0.450        | 0.099 (0.019)    | 0.832 (0.160)    | 0 (0.000) |     9.94 | doc, drg, lukiz, rdnzao, supLexN1 |
+|            9 |     2953 | 2024-04-10 | ODDIK    | L   | 0.428      | -            | -                | -                | -         |    -3.59 | doc, drg, lukiz, rdnzao, supLexN1 |
+|            8 |     3050 | 2024-04-08 | paiN     | L   | 0.414      | -            | -                | -                | -         |    -0.34 | doc, drg, rdnzao, supLexN1, togs  |
+|            7 |     3090 | 2024-04-07 | BESTIA   | W   | 0.406      | 0.435        | 0.095 (0.017)    | 0.801 (0.141)    | 0 (0.000) |     9.98 | doc, drg, rdnzao, supLexN1, togs  |
+|            6 |     3101 | 2024-04-06 | ODDIK    | W   | 0.401      | 0.143        | 0.099 (0.006)    | 0.832 (0.048)    | 0 (0.000) |     9.76 | doc, drg, gafolo, supLexN1, togs  |
+|            5 |     3120 | 2024-04-05 | paiN     | L   | 0.393      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
+|            4 |     3140 | 2024-04-04 | paiN     | L   | 0.389      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
+|            3 |     3147 | 2024-04-04 | paiN     | L   | 0.388      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
+|            2 |     3225 | 2024-04-02 | BESTIA   | L   | 0.375      | -            | -                | -                | -         |    -2.40 | doc, drg, rdnzao, supLexN1, togs  |
+|            1 |     3229 | 2024-04-02 | MIBR     | L   | 0.374      | -            | -                | -                | -         |    -0.30 | doc, drg, rdnzao, supLexN1, togs  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($6,380.42)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($6,377.86)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.828 | $5,000.00      | $4,140.74       |
-| 2024-05-12 |      0.640 | $3,500.00      | $2,239.68       |
+| 2024-06-09 |      0.828 | $5,000.00      | $4,139.24       |
+| 2024-05-12 |      0.640 | $3,500.00      | $2,238.62       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -8,7 +8,7 @@ Regional Rank: [70]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  860.9<br />
 <br />
-Final Rank Value (860.9) = Starting Rank Value (886.3) + Head To Head Adjustments (-25.4)<br />
+Final Rank Value (860.9) = Starting Rank Value (886.3) + Head To Head Adjustments (-25.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,119 +37,119 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           93 |      116 | 2024-08-01 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -14.35 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           92 |      126 | 2024-08-01 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -16.54 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           91 |      156 | 2024-07-31 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -14.46 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           90 |      174 | 2024-07-31 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |   -15.16 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           89 |      212 | 2024-07-30 | CYBERSHOKE        | W   | 1.000      | 0.426        | 0.039 (0.017)    | -                | 0 (0.000) |    17.15 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           88 |      223 | 2024-07-30 | Monte Gen         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.23 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           87 |      249 | 2024-07-29 | CYBERSHOKE        | L   | 1.000      | -            | -                | -                | -         |   -14.52 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           86 |      271 | 2024-07-28 | CPH Wolves        | W   | 1.000      | 0.435        | -                | 0.365 (0.158)    | 0 (0.000) |    13.11 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           85 |      319 | 2024-07-26 | Endpoint          | W   | 1.000      | 0.435        | -                | 0.522 (0.227)    | 0 (0.000) |    12.80 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           84 |      331 | 2024-07-26 | fnatic            | L   | 1.000      | -            | -                | -                | -         |    -1.32 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           83 |      401 | 2024-07-24 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -12.31 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           82 |      432 | 2024-07-23 | CPH Wolves        | W   | 1.000      | 0.435        | -                | 0.365 (0.158)    | 0 (0.000) |    13.89 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           81 |      472 | 2024-07-22 | INFINITE          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.47 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           80 |      483 | 2024-07-21 | WOPA              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.41 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           79 |      559 | 2024-07-19 | Metizport         | L   | 1.000      | -            | -                | -                | -         |   -18.43 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           78 |      607 | 2024-07-18 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -15.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           77 |      733 | 2024-07-16 | RUBY              | W   | 1.000      | 0.435        | 0.095 (0.041)    | 0.501 (0.218)    | 0 (0.000) |    15.14 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           76 |      748 | 2024-07-16 | Meteor            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.71 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           75 |      798 | 2024-07-14 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -15.78 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
-|           74 |      802 | 2024-07-14 | Portugal          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.70 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
-|           73 |      863 | 2024-07-10 | Hungary           | W   | 1.000      | -            | -                | -                | -         |    11.34 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
-|           72 |      902 | 2024-07-08 | Austria           | W   | 1.000      | -            | -                | -                | -         |     1.92 | fino, M1key, MATYS, sAvana1, The eLiVe      |
-|           71 |     1104 | 2024-06-13 | Rebels            | W   | 0.853      | 0.379        | 0.038 (0.012)    | 0.599 (0.194)    | -         |    18.14 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           70 |     1111 | 2024-06-13 | Sashi             | L   | 0.853      | -            | -                | -                | -         |    -3.53 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           69 |     1135 | 2024-06-12 | Enterprise        | L   | 0.847      | -            | -                | -                | -         |   -11.08 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           68 |     1154 | 2024-06-11 | Astralis Talent   | W   | 0.840      | -            | -                | -                | -         |     8.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           67 |     1164 | 2024-06-11 | Illuminar         | L   | 0.838      | -            | -                | -                | -         |   -12.52 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           66 |     1224 | 2024-06-09 | Aurora Young Blud | L   | 0.826      | -            | -                | -                | -         |   -14.63 | fino, manguss, sAvana1, The eLiVe, Verttzzz |
-|           65 |     1293 | 2024-06-08 | MOUZ NXT          | L   | 0.820      | -            | -                | -                | -         |    -6.59 | fino, manguss, sAvana1, The eLiVe, Verttzzz |
-|           64 |     1312 | 2024-06-08 | CYBERSHOKE        | L   | 0.818      | -            | -                | -                | -         |   -14.79 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           63 |     1414 | 2024-06-06 | Nemiga            | L   | 0.807      | -            | -                | -                | -         |    -6.16 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           62 |     1430 | 2024-06-06 | HAVU              | W   | 0.805      | -            | -                | -                | -         |     6.43 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           61 |     1473 | 2024-06-05 | NAVI Junior       | W   | 0.800      | -            | -                | -                | -         |     2.99 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           60 |     1510 | 2024-06-04 | INFINITE          | W   | 0.794      | -            | -                | -                | -         |     3.02 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           59 |     1530 | 2024-06-04 | DMS               | W   | 0.792      | 0.500        | -                | 0.446 (0.176)    | -         |    14.70 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           58 |     1554 | 2024-06-03 | Rare Atom         | W   | 0.785      | 0.435        | -                | 0.480 (0.164)    | -         |     5.90 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           57 |     1605 | 2024-06-01 | SINNERS           | L   | 0.772      | -            | -                | -                | -         |    -6.48 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           56 |     1626 | 2024-05-31 | ECLOT             | L   | 0.767      | -            | -                | -                | -         |    -5.07 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           55 |     1650 | 2024-05-30 | 3DMAX             | L   | 0.761      | -            | -                | -                | -         |    -0.64 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           54 |     1703 | 2024-05-28 | Enterprise        | L   | 0.747      | -            | -                | -                | -         |   -11.87 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           53 |     1706 | 2024-05-28 | Rhyno             | W   | 0.746      | 0.435        | 0.071 (0.023)    | -                | -         |    14.24 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           52 |     1741 | 2024-05-26 | SINNERS           | L   | 0.733      | -            | -                | -                | -         |    -6.68 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           51 |     1759 | 2024-05-25 | Passion UA        | L   | 0.727      | -            | -                | -                | -         |    -7.48 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           50 |     1790 | 2024-05-23 | GUN5              | W   | 0.714      | 0.435        | 0.073 (0.023)    | 0.570 (0.177)    | -         |    12.24 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           49 |     1825 | 2024-05-22 | VENI VIDI VICI    | W   | 0.708      | -            | -                | -                | -         |     1.24 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           48 |     1914 | 2024-05-20 | Illuminar         | W   | 0.693      | -            | -                | -                | -         |    10.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           47 |     1922 | 2024-05-20 | Verdant           | L   | 0.692      | -            | -                | -                | -         |   -10.54 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           46 |     1977 | 2024-05-18 | DMS               | L   | 0.679      | -            | -                | -                | -         |   -10.80 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           45 |     2040 | 2024-05-16 | MOUZ NXT          | L   | 0.667      | -            | -                | -                | -         |    -6.97 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           44 |     2048 | 2024-05-16 | B8                | L   | 0.665      | -            | -                | -                | -         |    -5.70 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           43 |     2176 | 2024-05-13 | Nexus             | W   | 0.645      | -            | -                | -                | -         |     6.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           42 |     2264 | 2024-05-09 | BLEED             | L   | 0.621      | -            | -                | -                | -         |    -6.20 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           41 |     2341 | 2024-05-05 | RUSH B            | W   | 0.594      | -            | -                | -                | -         |     8.04 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           40 |     2370 | 2024-05-04 | Endpoint          | L   | 0.585      | -            | -                | -                | -         |    -8.95 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           39 |     2402 | 2024-05-02 | Permitta          | W   | 0.573      | 0.435        | -                | 0.876 (0.218)    | -         |     9.35 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           38 |     2429 | 2024-05-01 | ALTERNATE aTTaX   | L   | 0.566      | -            | -                | -                | -         |    -7.62 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           37 |     2436 | 2024-05-01 | ENCE Academy      | W   | 0.565      | -            | -                | -                | -         |     4.13 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           36 |     2441 | 2024-04-30 | GL Academy        | W   | 0.561      | -            | -                | -                | -         |     5.00 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           35 |     2459 | 2024-04-30 | ALTERNATE aTTaX   | L   | 0.559      | -            | -                | -                | -         |    -7.73 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           34 |     2577 | 2024-04-25 | ECLOT             | L   | 0.525      | -            | -                | -                | -         |    -2.95 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           33 |     2596 | 2024-04-24 | Permitta          | W   | 0.518      | 0.371        | -                | 0.876 (0.168)    | -         |     9.28 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           32 |     2615 | 2024-04-23 | ECLOT             | L   | 0.512      | -            | -                | -                | -         |    -2.83 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           31 |     2651 | 2024-04-21 | ALTERNATE aTTaX   | W   | 0.498      | -            | -                | -                | -         |     8.66 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           30 |     2725 | 2024-04-19 | BLEED             | L   | 0.485      | -            | -                | -                | -         |    -5.60 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           29 |     2784 | 2024-04-18 | Permitta          | W   | 0.478      | -            | -                | -                | -         |     8.70 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           28 |     2806 | 2024-04-17 | NOM               | L   | 0.472      | -            | -                | -                | -         |   -13.26 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           27 |     2844 | 2024-04-16 | SAW               | W   | 0.465      | 0.384        | 0.105 (0.019)    | -                | -         |    11.95 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           26 |     2848 | 2024-04-16 | Secret            | W   | 0.465      | -            | -                | -                | -         |     1.74 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           25 |     2858 | 2024-04-15 | ENCE Academy      | L   | 0.460      | -            | -                | -                | -         |   -10.77 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           24 |     2893 | 2024-04-13 | BetBoom           | L   | 0.445      | -            | -                | -                | -         |    -0.84 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           23 |     2937 | 2024-04-11 | PGE Turow         | W   | 0.431      | -            | -                | -                | -         |     2.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           22 |     3110 | 2024-04-06 | Enterprise        | W   | 0.399      | -            | -                | -                | -         |     6.34 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           21 |     3216 | 2024-04-03 | Ninjas in Pyjamas | W   | 0.378      | 0.384        | 0.255 (0.037)    | -                | -         |    11.78 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           20 |     3338 | 2024-03-27 | B8                | L   | 0.334      | -            | -                | -                | -         |    -2.72 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           19 |     3479 | 2024-03-18 | ex-Preasy         | L   | 0.272      | -            | -                | -                | -         |    -5.45 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           18 |     3510 | 2024-03-17 | Passion UA        | W   | 0.265      | 0.371        | 0.172 (0.017)    | -                | -         |     6.00 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           17 |     3518 | 2024-03-16 | SINNERS           | L   | 0.260      | -            | -                | -                | -         |    -1.81 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           16 |     3521 | 2024-03-16 | MOUZ NXT          | W   | 0.258      | 0.371        | 0.139 (0.013)    | -                | -         |     5.57 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           15 |     3536 | 2024-03-15 | ECLOT             | L   | 0.253      | -            | -                | -                | -         |    -1.30 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           14 |     3542 | 2024-03-15 | Permitta          | W   | 0.252      | -            | -                | -                | -         |     4.75 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           13 |     3572 | 2024-03-14 | Passion UA        | L   | 0.246      | -            | -                | -                | -         |    -2.08 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           12 |     3642 | 2024-03-12 | MOUZ NXT          | W   | 0.232      | -            | -                | -                | -         |     5.12 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           11 |     3684 | 2024-03-10 | Sashi             | W   | 0.219      | 0.358        | 0.184 (0.014)    | -                | -         |     5.54 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|           10 |     3710 | 2024-03-09 | Enterprise        | W   | 0.212      | -            | -                | -                | -         |     3.62 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            9 |     3795 | 2024-03-06 | AURA              | W   | 0.192      | -            | -                | -                | -         |     0.62 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            8 |     3841 | 2024-03-04 | Sangal            | L   | 0.179      | -            | -                | -                | -         |    -1.04 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            7 |     3895 | 2024-03-02 | Enterprise        | L   | 0.165      | -            | -                | -                | -         |    -2.36 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            6 |     3933 | 2024-02-28 | Sashi             | L   | 0.146      | -            | -                | -                | -         |    -0.86 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            5 |     3998 | 2024-02-25 | ECLOT             | L   | 0.125      | -            | -                | -                | -         |    -0.54 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            4 |     4044 | 2024-02-23 | Entropiq          | W   | 0.112      | -            | -                | -                | -         |     0.46 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            3 |     4086 | 2024-02-21 | Sashi             | L   | 0.099      | -            | -                | -                | -         |    -0.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            2 |     4190 | 2024-02-17 | Secret            | W   | 0.072      | -            | -                | -                | -         |     0.28 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
-|            1 |     4337 | 2024-02-10 | Zero Tenacity     | W   | 0.027      | -            | -                | -                | -         |     0.66 | fino, sAvana1, T4gg3D, The eLiVe, ZEDKO     |
+|           93 |      117 | 2024-08-01 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -14.35 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           92 |      127 | 2024-08-01 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -16.53 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           91 |      157 | 2024-07-31 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -14.46 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           90 |      175 | 2024-07-31 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |   -15.16 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           89 |      213 | 2024-07-30 | CYBERSHOKE        | W   | 1.000      | 0.426        | 0.039 (0.017)    | -                | 0 (0.000) |    17.15 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           88 |      224 | 2024-07-30 | Monte Gen         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.23 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           87 |      250 | 2024-07-29 | CYBERSHOKE        | L   | 1.000      | -            | -                | -                | -         |   -14.52 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           86 |      272 | 2024-07-28 | CPH Wolves        | W   | 1.000      | 0.435        | -                | 0.365 (0.158)    | 0 (0.000) |    13.10 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           85 |      320 | 2024-07-26 | Endpoint          | W   | 1.000      | 0.435        | -                | 0.522 (0.227)    | 0 (0.000) |    12.80 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           84 |      332 | 2024-07-26 | fnatic            | L   | 1.000      | -            | -                | -                | -         |    -1.32 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           83 |      402 | 2024-07-24 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -12.31 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           82 |      433 | 2024-07-23 | CPH Wolves        | W   | 1.000      | 0.435        | -                | 0.365 (0.158)    | 0 (0.000) |    13.89 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           81 |      473 | 2024-07-22 | INFINITE          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.46 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           80 |      484 | 2024-07-21 | WOPA              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.41 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           79 |      560 | 2024-07-19 | Metizport         | L   | 1.000      | -            | -                | -                | -         |   -18.43 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           78 |      608 | 2024-07-18 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -15.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           77 |      734 | 2024-07-16 | RUBY              | W   | 1.000      | 0.435        | 0.095 (0.041)    | 0.501 (0.218)    | 0 (0.000) |    15.14 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           76 |      749 | 2024-07-16 | Meteor            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.71 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           75 |      799 | 2024-07-14 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -15.78 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
+|           74 |      803 | 2024-07-14 | Portugal          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.70 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
+|           73 |      864 | 2024-07-10 | Hungary           | W   | 1.000      | -            | -                | -                | -         |    11.33 | fino, M1key, sAvana1, T4gg3D, The eLiVe     |
+|           72 |      903 | 2024-07-08 | Austria           | W   | 1.000      | -            | -                | -                | -         |     1.92 | fino, M1key, MATYS, sAvana1, The eLiVe      |
+|           71 |     1105 | 2024-06-13 | Rebels            | W   | 0.853      | 0.379        | 0.038 (0.012)    | 0.600 (0.194)    | -         |    18.14 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           70 |     1112 | 2024-06-13 | Sashi             | L   | 0.852      | -            | -                | -                | -         |    -3.53 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           69 |     1136 | 2024-06-12 | Enterprise        | L   | 0.846      | -            | -                | -                | -         |   -11.07 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           68 |     1155 | 2024-06-11 | Astralis Talent   | W   | 0.840      | -            | -                | -                | -         |     8.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           67 |     1165 | 2024-06-11 | Illuminar         | L   | 0.838      | -            | -                | -                | -         |   -12.51 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           66 |     1225 | 2024-06-09 | Aurora Young Blud | L   | 0.826      | -            | -                | -                | -         |   -14.63 | fino, manguss, sAvana1, The eLiVe, Verttzzz |
+|           65 |     1294 | 2024-06-08 | MOUZ NXT          | L   | 0.820      | -            | -                | -                | -         |    -6.58 | fino, manguss, sAvana1, The eLiVe, Verttzzz |
+|           64 |     1313 | 2024-06-08 | CYBERSHOKE        | L   | 0.818      | -            | -                | -                | -         |   -14.79 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           63 |     1415 | 2024-06-06 | Nemiga            | L   | 0.806      | -            | -                | -                | -         |    -6.14 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           62 |     1431 | 2024-06-06 | HAVU              | W   | 0.805      | -            | -                | -                | -         |     6.42 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           61 |     1474 | 2024-06-05 | NAVI Junior       | W   | 0.800      | -            | -                | -                | -         |     2.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           60 |     1511 | 2024-06-04 | INFINITE          | W   | 0.794      | -            | -                | -                | -         |     3.02 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           59 |     1531 | 2024-06-04 | DMS               | W   | 0.791      | 0.500        | -                | 0.446 (0.176)    | -         |    14.70 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           58 |     1555 | 2024-06-03 | Rare Atom         | W   | 0.784      | 0.435        | -                | 0.480 (0.164)    | -         |     5.89 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           57 |     1606 | 2024-06-01 | SINNERS           | L   | 0.772      | -            | -                | -                | -         |    -6.47 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           56 |     1627 | 2024-05-31 | ECLOT             | L   | 0.767      | -            | -                | -                | -         |    -5.07 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           55 |     1651 | 2024-05-30 | 3DMAX             | L   | 0.760      | -            | -                | -                | -         |    -0.64 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           54 |     1704 | 2024-05-28 | Enterprise        | L   | 0.746      | -            | -                | -                | -         |   -11.87 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           53 |     1707 | 2024-05-28 | Rhyno             | W   | 0.745      | 0.435        | 0.071 (0.023)    | -                | -         |    14.23 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           52 |     1742 | 2024-05-26 | SINNERS           | L   | 0.733      | -            | -                | -                | -         |    -6.67 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           51 |     1760 | 2024-05-25 | Passion UA        | L   | 0.726      | -            | -                | -                | -         |    -7.48 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           50 |     1791 | 2024-05-23 | GUN5              | W   | 0.714      | 0.435        | 0.073 (0.023)    | 0.570 (0.177)    | -         |    12.23 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           49 |     1826 | 2024-05-22 | VENI VIDI VICI    | W   | 0.707      | -            | -                | -                | -         |     1.24 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           48 |     1915 | 2024-05-20 | Illuminar         | W   | 0.693      | -            | -                | -                | -         |    10.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           47 |     1923 | 2024-05-20 | Verdant           | L   | 0.692      | -            | -                | -                | -         |   -10.52 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           46 |     1978 | 2024-05-18 | DMS               | L   | 0.678      | -            | -                | -                | -         |   -10.79 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           45 |     2041 | 2024-05-16 | MOUZ NXT          | L   | 0.666      | -            | -                | -                | -         |    -6.96 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           44 |     2049 | 2024-05-16 | B8                | L   | 0.665      | -            | -                | -                | -         |    -5.70 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           43 |     2177 | 2024-05-13 | Nexus             | W   | 0.645      | -            | -                | -                | -         |     6.98 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           42 |     2265 | 2024-05-09 | BLEED             | L   | 0.621      | -            | -                | -                | -         |    -6.18 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           41 |     2342 | 2024-05-05 | RUSH B            | W   | 0.593      | -            | -                | -                | -         |     8.04 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           40 |     2371 | 2024-05-04 | Endpoint          | L   | 0.585      | -            | -                | -                | -         |    -8.94 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           39 |     2403 | 2024-05-02 | Permitta          | W   | 0.573      | 0.435        | -                | 0.876 (0.218)    | -         |     9.35 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           38 |     2430 | 2024-05-01 | ALTERNATE aTTaX   | L   | 0.565      | -            | -                | -                | -         |    -7.61 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           37 |     2437 | 2024-05-01 | ENCE Academy      | W   | 0.565      | -            | -                | -                | -         |     4.13 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           36 |     2442 | 2024-04-30 | GL Academy        | W   | 0.561      | -            | -                | -                | -         |     5.00 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           35 |     2460 | 2024-04-30 | ALTERNATE aTTaX   | L   | 0.558      | -            | -                | -                | -         |    -7.72 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           34 |     2578 | 2024-04-25 | ECLOT             | L   | 0.524      | -            | -                | -                | -         |    -2.95 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           33 |     2597 | 2024-04-24 | Permitta          | W   | 0.518      | 0.371        | -                | 0.876 (0.168)    | -         |     9.27 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           32 |     2616 | 2024-04-23 | ECLOT             | L   | 0.511      | -            | -                | -                | -         |    -2.83 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           31 |     2652 | 2024-04-21 | ALTERNATE aTTaX   | W   | 0.498      | -            | -                | -                | -         |     8.66 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           30 |     2726 | 2024-04-19 | BLEED             | L   | 0.485      | -            | -                | -                | -         |    -5.58 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           29 |     2785 | 2024-04-18 | Permitta          | W   | 0.478      | -            | -                | -                | -         |     8.69 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           28 |     2807 | 2024-04-17 | NOM               | L   | 0.472      | -            | -                | -                | -         |   -13.25 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           27 |     2845 | 2024-04-16 | SAW               | W   | 0.465      | 0.384        | 0.105 (0.019)    | -                | -         |    11.94 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           26 |     2849 | 2024-04-16 | Secret            | W   | 0.464      | -            | -                | -                | -         |     1.74 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           25 |     2859 | 2024-04-15 | ENCE Academy      | L   | 0.459      | -            | -                | -                | -         |   -10.76 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           24 |     2894 | 2024-04-13 | BetBoom           | L   | 0.445      | -            | -                | -                | -         |    -0.84 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           23 |     2938 | 2024-04-11 | PGE Turow         | W   | 0.431      | -            | -                | -                | -         |     2.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           22 |     3111 | 2024-04-06 | Enterprise        | W   | 0.398      | -            | -                | -                | -         |     6.34 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           21 |     3217 | 2024-04-03 | Ninjas in Pyjamas | W   | 0.378      | 0.384        | 0.254 (0.037)    | -                | -         |    11.77 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           20 |     3339 | 2024-03-27 | B8                | L   | 0.334      | -            | -                | -                | -         |    -2.71 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           19 |     3480 | 2024-03-18 | ex-Preasy         | L   | 0.271      | -            | -                | -                | -         |    -5.45 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           18 |     3511 | 2024-03-17 | Passion UA        | W   | 0.265      | 0.371        | 0.172 (0.017)    | -                | -         |     5.99 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           17 |     3519 | 2024-03-16 | SINNERS           | L   | 0.259      | -            | -                | -                | -         |    -1.80 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           16 |     3522 | 2024-03-16 | MOUZ NXT          | W   | 0.258      | 0.371        | 0.139 (0.013)    | -                | -         |     5.57 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           15 |     3537 | 2024-03-15 | ECLOT             | L   | 0.253      | -            | -                | -                | -         |    -1.30 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           14 |     3543 | 2024-03-15 | Permitta          | W   | 0.251      | -            | -                | -                | -         |     4.74 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           13 |     3573 | 2024-03-14 | Passion UA        | L   | 0.246      | -            | -                | -                | -         |    -2.07 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           12 |     3643 | 2024-03-12 | MOUZ NXT          | W   | 0.231      | -            | -                | -                | -         |     5.12 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           11 |     3685 | 2024-03-10 | Sashi             | W   | 0.218      | 0.358        | 0.184 (0.014)    | -                | -         |     5.53 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|           10 |     3711 | 2024-03-09 | Enterprise        | W   | 0.212      | -            | -                | -                | -         |     3.61 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            9 |     3796 | 2024-03-06 | AURA              | W   | 0.191      | -            | -                | -                | -         |     0.62 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            8 |     3842 | 2024-03-04 | Sangal            | L   | 0.178      | -            | -                | -                | -         |    -1.03 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            7 |     3896 | 2024-03-02 | Enterprise        | L   | 0.165      | -            | -                | -                | -         |    -2.35 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            6 |     3934 | 2024-02-28 | Sashi             | L   | 0.146      | -            | -                | -                | -         |    -0.86 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            5 |     3999 | 2024-02-25 | ECLOT             | L   | 0.125      | -            | -                | -                | -         |    -0.54 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            4 |     4045 | 2024-02-23 | Entropiq          | W   | 0.111      | -            | -                | -                | -         |     0.46 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            3 |     4087 | 2024-02-21 | Sashi             | L   | 0.099      | -            | -                | -                | -         |    -0.55 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            2 |     4191 | 2024-02-17 | Secret            | W   | 0.072      | -            | -                | -                | -         |     0.28 | fino, manguss, sAvana1, The eLiVe, ZEDKO    |
+|            1 |     4338 | 2024-02-10 | Zero Tenacity     | W   | 0.027      | -            | -                | -                | -         |     0.65 | fino, sAvana1, T4gg3D, The eLiVe, ZEDKO     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($8,857.71)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($8,852.55)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-13 |      0.854 | $3,268.00      | $2,791.72       |
-| 2024-06-02 |      0.780 | $653.00        | $509.43         |
-| 2024-05-18 |      0.680 | $1,000.00      | $680.46         |
-| 2024-04-25 |      0.525 | $5,000.00      | $2,623.15       |
-| 2024-04-14 |      0.453 | $1,600.00      | $724.30         |
-| 2024-03-18 |      0.272 | $5,000.00      | $1,357.87       |
-| 2024-03-17 |      0.267 | $639.00        | $170.78         |
+| 2024-06-13 |      0.854 | $3,268.00      | $2,790.74       |
+| 2024-06-02 |      0.780 | $653.00        | $509.23         |
+| 2024-05-18 |      0.680 | $1,000.00      | $680.16         |
+| 2024-04-25 |      0.524 | $5,000.00      | $2,621.64       |
+| 2024-04-14 |      0.452 | $1,600.00      | $723.81         |
+| 2024-03-18 |      0.271 | $5,000.00      | $1,356.37       |
+| 2024-03-17 |      0.267 | $639.00        | $170.59         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

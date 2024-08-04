@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      216 | 2024-07-30 | Lilmix          | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.098 (0.014)    | 0 (0.000) |    25.23 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|           11 |      465 | 2024-07-22 | Into the Breach | L   | 1.000      | -            | -                | -                | -         |   -11.79 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|           10 |      472 | 2024-07-22 | Sampi           | L   | 1.000      | -            | -                | -                | -         |    -5.47 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            9 |      491 | 2024-07-21 | Heimo           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.107 (0.015)    | 0 (0.000) |    17.89 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            8 |      509 | 2024-07-20 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |    -6.26 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            7 |      544 | 2024-07-19 | 777             | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.181 (0.026)    | 0 (0.000) |    20.34 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            6 |      620 | 2024-07-18 | Permitta        | W   | 1.000      | 0.143        | 0.024 (0.003)    | 0.876 (0.125)    | 0 (0.000) |    27.82 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            5 |     1086 | 2024-06-14 | TÓR             | L   | 0.858      | -            | -                | -                | -         |    -3.38 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            4 |     1113 | 2024-06-13 | CPH Wolves      | L   | 0.852      | -            | -                | -                | -         |    -5.66 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            3 |     1510 | 2024-06-04 | Sampi           | L   | 0.794      | -            | -                | -                | -         |    -3.02 | d1maje, mhN1, starplajerz, waZz, zewts   |
-|            2 |     1673 | 2024-05-29 | Illuminar       | W   | 0.754      | 0.379        | 0.012 (0.003)    | 0.352 (0.101)    | 0 (0.000) |    19.83 | d1maje, mhN1, starplajerz, waZz, zewts   |
-|            1 |     1871 | 2024-05-21 | Permitta        | L   | 0.701      | -            | -                | -                | -         |    -2.90 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|           12 |      217 | 2024-07-30 | Lilmix          | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.098 (0.014)    | 0 (0.000) |    25.23 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|           11 |      466 | 2024-07-22 | Into the Breach | L   | 1.000      | -            | -                | -                | -         |   -11.79 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|           10 |      473 | 2024-07-22 | Sampi           | L   | 1.000      | -            | -                | -                | -         |    -5.46 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            9 |      492 | 2024-07-21 | Heimo           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.107 (0.015)    | 0 (0.000) |    17.89 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            8 |      510 | 2024-07-20 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |    -6.26 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            7 |      545 | 2024-07-19 | 777             | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.181 (0.026)    | 0 (0.000) |    20.34 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            6 |      621 | 2024-07-18 | Permitta        | W   | 1.000      | 0.143        | 0.024 (0.003)    | 0.876 (0.125)    | 0 (0.000) |    27.82 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            5 |     1087 | 2024-06-14 | TÓR             | L   | 0.858      | -            | -                | -                | -         |    -3.38 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            4 |     1114 | 2024-06-13 | CPH Wolves      | L   | 0.852      | -            | -                | -                | -         |    -5.66 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            3 |     1511 | 2024-06-04 | Sampi           | L   | 0.794      | -            | -                | -                | -         |    -3.02 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|            2 |     1674 | 2024-05-29 | Illuminar       | W   | 0.754      | 0.379        | 0.012 (0.003)    | 0.352 (0.100)    | 0 (0.000) |    19.83 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|            1 |     1872 | 2024-05-21 | Permitta        | L   | 0.700      | -            | -                | -                | -         |    -2.89 | d1maje, mhN1, starplajerz, waZz, zewts   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

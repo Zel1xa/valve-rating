@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     2705 | 2024-04-19 | ENCE Athena       | L   | 0.487      | -            | -                | -                | -         |    -7.19 | anja, aurora, Ismo, josefine, marie |
-|           11 |     2874 | 2024-04-14 | NAVI Javelins     | L   | 0.453      | -            | -                | -                | -         |    -3.43 | anja, aurora, Ismo, josefine, marie |
-|           10 |     2883 | 2024-04-13 | NIP Impact        | L   | 0.447      | -            | -                | -                | -         |    -4.85 | anja, aurora, Ismo, josefine, marie |
-|            9 |     2902 | 2024-04-12 | Permitta W        | W   | 0.440      | 0.303        | 0.000 (0.000)    | 0.017 (0.002)    | 0 (0.000) |     4.82 | anja, aurora, Ismo, josefine, marie |
-|            8 |     2922 | 2024-04-11 | Imperial fe       | L   | 0.434      | -            | -                | -                | -         |    -1.14 | anja, aurora, Ismo, josefine, marie |
-|            7 |     2971 | 2024-04-10 | Imperial fe       | L   | 0.427      | -            | -                | -                | -         |    -1.13 | anja, aurora, Ismo, josefine, marie |
-|            6 |     3054 | 2024-04-08 | Permitta W        | W   | 0.414      | 0.303        | 0.000 (0.000)    | 0.017 (0.002)    | 0 (0.000) |     4.49 | anja, aurora, Ismo, josefine, marie |
-|            5 |     3197 | 2024-04-03 | NIP Impact        | L   | 0.381      | -            | -                | -                | -         |    -4.48 | anja, aurora, Ismo, josefine, marie |
-|            4 |     3416 | 2024-03-21 | Astralis W        | L   | 0.294      | -            | -                | -                | -         |    -4.17 | anja, aurora, Ismo, josefine, marie |
-|            3 |     3773 | 2024-03-06 | BIG EQUIPA        | L   | 0.194      | -            | -                | -                | -         |    -1.84 | anja, aurora, Ismo, josefine, marie |
-|            2 |     4153 | 2024-02-18 | dream catchers fe | W   | 0.081      | 0.143        | 0.016 (0.000)    | 0.172 (0.002)    | 0 (0.000) |     1.61 | anja, aurora, Ismo, josefine, marie |
-|            1 |     4156 | 2024-02-18 | Spirit fe         | L   | 0.080      | -            | -                | -                | -         |    -1.12 | anja, aurora, Ismo, josefine, marie |
+|           12 |     2706 | 2024-04-19 | ENCE Athena       | L   | 0.487      | -            | -                | -                | -         |    -7.18 | anja, aurora, Ismo, josefine, marie |
+|           11 |     2875 | 2024-04-14 | NAVI Javelins     | L   | 0.453      | -            | -                | -                | -         |    -3.42 | anja, aurora, Ismo, josefine, marie |
+|           10 |     2884 | 2024-04-13 | NIP Impact        | L   | 0.447      | -            | -                | -                | -         |    -4.84 | anja, aurora, Ismo, josefine, marie |
+|            9 |     2903 | 2024-04-12 | Permitta W        | W   | 0.439      | 0.303        | 0.000 (0.000)    | 0.017 (0.002)    | 0 (0.000) |     4.82 | anja, aurora, Ismo, josefine, marie |
+|            8 |     2923 | 2024-04-11 | Imperial fe       | L   | 0.434      | -            | -                | -                | -         |    -1.14 | anja, aurora, Ismo, josefine, marie |
+|            7 |     2972 | 2024-04-10 | Imperial fe       | L   | 0.427      | -            | -                | -                | -         |    -1.13 | anja, aurora, Ismo, josefine, marie |
+|            6 |     3055 | 2024-04-08 | Permitta W        | W   | 0.413      | 0.303        | 0.000 (0.000)    | 0.017 (0.002)    | 0 (0.000) |     4.49 | anja, aurora, Ismo, josefine, marie |
+|            5 |     3198 | 2024-04-03 | NIP Impact        | L   | 0.380      | -            | -                | -                | -         |    -4.47 | anja, aurora, Ismo, josefine, marie |
+|            4 |     3417 | 2024-03-21 | Astralis W        | L   | 0.294      | -            | -                | -                | -         |    -4.16 | anja, aurora, Ismo, josefine, marie |
+|            3 |     3774 | 2024-03-06 | BIG EQUIPA        | L   | 0.194      | -            | -                | -                | -         |    -1.84 | anja, aurora, Ismo, josefine, marie |
+|            2 |     4154 | 2024-02-18 | dream catchers fe | W   | 0.081      | 0.143        | 0.016 (0.000)    | 0.172 (0.002)    | 0 (0.000) |     1.60 | anja, aurora, Ismo, josefine, marie |
+|            1 |     4157 | 2024-02-18 | Spirit fe         | L   | 0.080      | -            | -                | -                | -         |    -1.11 | anja, aurora, Ismo, josefine, marie |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($425.51)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($425.26)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

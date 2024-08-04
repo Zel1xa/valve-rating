@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |       55 | 2024-08-03 | Steel Helmet | W   | 1.000      | 0.380        | 0.006 (0.002)    | 0.000 (0.000)    | 1 (1.000) |     7.55 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            9 |      827 | 2024-07-12 | Alter Ego    | L   | 1.000      | -            | -                | -                | -         |   -24.03 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            8 |      831 | 2024-07-12 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |   -13.19 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            7 |      833 | 2024-07-12 | GR           | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.076 (0.011)    | 0 (0.000) |    11.55 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            6 |     1612 | 2024-05-31 | Aurora       | L   | 0.771      | -            | -                | -                | -         |    -0.29 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            5 |     1661 | 2024-05-30 | OG           | W   | 0.759      | 0.500        | 0.139 (0.053)    | 0.128 (0.048)    | 1 (0.759) |    19.80 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            4 |     1690 | 2024-05-28 | BLEED        | L   | 0.750      | -            | -                | -                | -         |    -0.68 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            3 |     2017 | 2024-05-16 | The MongolZ  | L   | 0.671      | -            | -                | -                | -         |    -0.03 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            2 |     2382 | 2024-05-03 | IHC          | W   | 0.579      | 0.143        | 0.000 (0.000)    | 0.023 (0.002)    | 1 (0.579) |     2.96 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            1 |     2389 | 2024-05-02 | Eruption     | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.577) |     2.45 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|           10 |       56 | 2024-08-03 | Steel Helmet | W   | 1.000      | 0.380        | 0.006 (0.002)    | 0.000 (0.000)    | 1 (1.000) |     7.55 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            9 |      828 | 2024-07-12 | Alter Ego    | L   | 1.000      | -            | -                | -                | -         |   -24.03 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            8 |      832 | 2024-07-12 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |   -13.19 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            7 |      834 | 2024-07-12 | GR           | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.076 (0.011)    | 0 (0.000) |    11.55 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            6 |     1613 | 2024-05-31 | Aurora       | L   | 0.770      | -            | -                | -                | -         |    -0.29 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            5 |     1662 | 2024-05-30 | OG           | W   | 0.759      | 0.500        | 0.139 (0.053)    | 0.127 (0.048)    | 1 (0.759) |    19.80 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            4 |     1691 | 2024-05-28 | BLEED        | L   | 0.750      | -            | -                | -                | -         |    -0.68 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            3 |     2018 | 2024-05-16 | The MongolZ  | L   | 0.671      | -            | -                | -                | -         |    -0.03 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            2 |     2383 | 2024-05-03 | IHC          | W   | 0.579      | 0.143        | 0.000 (0.000)    | 0.023 (0.002)    | 1 (0.579) |     2.96 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            1 |     2390 | 2024-05-02 | Eruption     | W   | 0.577      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.577) |     2.45 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

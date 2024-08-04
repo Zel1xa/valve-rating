@@ -8,7 +8,7 @@ Regional Rank: [19]( ../standings_asia.md)<br />
 <br />
 Final Rank Value:  632.1<br />
 <br />
-Final Rank Value (632.1) = Starting Rank Value (586.3) + Head To Head Adjustments (45.7)<br />
+Final Rank Value (632.1) = Starting Rank Value (586.4) + Head To Head Adjustments (45.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.091<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 586.3
-- 400 + ( ( 0.091 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 586.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 586.4
+- 400 + ( ( 0.091 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 586.4
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      118 | 2024-08-01 | ATOX         | L   | 1.000      | -            | -                | -                | -         |    -6.42 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
-|           10 |      129 | 2024-08-01 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -8.55 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
-|            9 |      246 | 2024-07-29 | Bromo        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.118 (0.017)    | 0 (0.000) |    10.77 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            8 |      247 | 2024-07-29 | -72c         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.039 (0.006)    | 0 (0.000) |    16.00 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            7 |      273 | 2024-07-28 | NE           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.98 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            6 |      305 | 2024-07-27 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -8.60 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            5 |      328 | 2024-07-26 | FengDa       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.05 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            4 |      820 | 2024-07-13 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -7.42 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            3 |      846 | 2024-07-11 | The MongolZ  | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.721 (0.103)    | 0 (0.000) |    31.46 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            2 |      847 | 2024-07-11 | Steel Helmet | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |    14.25 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            1 |      851 | 2024-07-11 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -9.81 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|           11 |      119 | 2024-08-01 | ATOX         | L   | 1.000      | -            | -                | -                | -         |    -6.42 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
+|           10 |      130 | 2024-08-01 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -8.55 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
+|            9 |      247 | 2024-07-29 | Bromo        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.118 (0.017)    | 0 (0.000) |    10.77 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            8 |      248 | 2024-07-29 | -72c         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.039 (0.006)    | 0 (0.000) |    16.00 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            7 |      274 | 2024-07-28 | NE           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.98 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            6 |      306 | 2024-07-27 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -8.60 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            5 |      329 | 2024-07-26 | FengDa       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.05 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            4 |      821 | 2024-07-13 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -7.42 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            3 |      847 | 2024-07-11 | The MongolZ  | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.721 (0.103)    | 0 (0.000) |    31.46 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            2 |      848 | 2024-07-11 | Steel Helmet | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |    14.25 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            1 |      852 | 2024-07-11 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -9.81 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

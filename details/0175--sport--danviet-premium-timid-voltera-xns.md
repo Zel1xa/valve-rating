@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       94 | 2024-08-01 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -4.39 | DANVIET, PremiuM, timid, voltera, xns  |
-|           11 |      561 | 2024-07-19 | Yawara         | L   | 1.000      | -            | -                | -                | -         |   -23.00 | DANVIET, PremiuM, timid, voltera, xns  |
-|           10 |      588 | 2024-07-18 | 9z Academy     | L   | 1.000      | -            | -                | -                | -         |   -23.64 | DANVIET, PremiuM, timid, voltera, xns  |
-|            9 |      661 | 2024-07-17 | W7M            | L   | 1.000      | -            | -                | -                | -         |   -11.83 | DANVIET, PremiuM, timid, voltera, xns  |
-|            8 |      674 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -9.40 | DANVIET, PremiuM, timid, voltera, xns  |
-|            7 |      728 | 2024-07-16 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -9.37 | DANVIET, PremiuM, timid, voltera, xns  |
-|            6 |      823 | 2024-07-12 | BESTIA         | W   | 1.000      | 0.333        | 0.095 (0.032)    | 0.801 (0.267)    | 0 (0.000) |    26.01 | DANVIET, PremiuM, timid, voltera, xns  |
-|            5 |      844 | 2024-07-11 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.59 | DANVIET, PremiuM, timid, voltera, xns  |
-|            4 |      882 | 2024-07-09 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.50 | DANVIET, PremiuM, timid, voltera, xns  |
-|            3 |      898 | 2024-07-08 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -2.44 | DANVIET, PremiuM, timid, voltera, xns  |
-|            2 |      974 | 2024-06-20 | ex-Corinthians | W   | 0.901      | 0.270        | 0.004 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.44 | DANVIET, farias, PremiuM, voltera, xns |
-|            1 |     2827 | 2024-04-16 | ODDIK          | L   | 0.469      | -            | -                | -                | -         |    -3.05 | DANVIET, farias, PremiuM, voltera, xns |
+|           12 |       95 | 2024-08-01 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -4.39 | DANVIET, PremiuM, timid, voltera, xns  |
+|           11 |      562 | 2024-07-19 | Yawara         | L   | 1.000      | -            | -                | -                | -         |   -23.00 | DANVIET, PremiuM, timid, voltera, xns  |
+|           10 |      589 | 2024-07-18 | 9z Academy     | L   | 1.000      | -            | -                | -                | -         |   -23.64 | DANVIET, PremiuM, timid, voltera, xns  |
+|            9 |      662 | 2024-07-17 | W7M            | L   | 1.000      | -            | -                | -                | -         |   -11.83 | DANVIET, PremiuM, timid, voltera, xns  |
+|            8 |      675 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -9.40 | DANVIET, PremiuM, timid, voltera, xns  |
+|            7 |      729 | 2024-07-16 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -9.37 | DANVIET, PremiuM, timid, voltera, xns  |
+|            6 |      824 | 2024-07-12 | BESTIA         | W   | 1.000      | 0.333        | 0.095 (0.032)    | 0.801 (0.267)    | 0 (0.000) |    26.01 | DANVIET, PremiuM, timid, voltera, xns  |
+|            5 |      845 | 2024-07-11 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.59 | DANVIET, PremiuM, timid, voltera, xns  |
+|            4 |      883 | 2024-07-09 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.50 | DANVIET, PremiuM, timid, voltera, xns  |
+|            3 |      899 | 2024-07-08 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -2.44 | DANVIET, PremiuM, timid, voltera, xns  |
+|            2 |      975 | 2024-06-20 | ex-Corinthians | W   | 0.901      | 0.270        | 0.004 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.44 | DANVIET, farias, PremiuM, voltera, xns |
+|            1 |     2828 | 2024-04-16 | ODDIK          | L   | 0.469      | -            | -                | -                | -         |    -3.05 | DANVIET, farias, PremiuM, voltera, xns |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,441.63)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($1,441.15)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

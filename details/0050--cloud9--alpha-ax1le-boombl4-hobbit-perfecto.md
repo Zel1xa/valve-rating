@@ -6,9 +6,9 @@ Global Rank: [50](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [37]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1074.2<br />
+Final Rank Value:  1074.0<br />
 <br />
-Final Rank Value (1074.2) = Starting Rank Value (1036.7) + Head To Head Adjustments (37.5)<br />
+Final Rank Value (1074.0) = Starting Rank Value (1036.5) + Head To Head Adjustments (37.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.311<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1036.7
-- 400 + ( ( 0.311 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1036.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1036.5
+- 400 + ( ( 0.311 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1036.5
 
 
 #### Factors<br />
@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |     2672 | 2024-04-20 | Sashi             | L   | 0.493      | -            | -                | -                | -         |    -6.54 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           18 |     2710 | 2024-04-19 | BetBoom           | W   | 0.487      | 0.143        | 0.251 (0.017)    | 0.541 (0.038)    | -         |    13.31 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           17 |     2720 | 2024-04-19 | Sashi             | L   | 0.486      | -            | -                | -                | -         |    -6.43 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           16 |     2994 | 2024-04-09 | FaZe              | L   | 0.424      | -            | -                | -                | -         |    -0.40 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           15 |     3044 | 2024-04-08 | Wildcard          | W   | 0.417      | 0.624        | 0.048 (0.013)    | 0.438 (0.114)    | 1 (0.417) |     3.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           14 |     3074 | 2024-04-08 | FlyQuest          | L   | 0.411      | -            | -                | -                | -         |    -4.90 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           13 |     3297 | 2024-03-28 | Vitality          | L   | 0.340      | -            | -                | -                | -         |    -0.14 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           12 |     3381 | 2024-03-23 | Natus Vincere     | W   | 0.308      | 1.000        | 1.000 (0.308)    | 0.371 (0.114)    | 1 (0.308) |     9.63 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           11 |     3403 | 2024-03-22 | G2                | W   | 0.299      | 1.000        | 1.000 (0.299)    | 0.498 (0.149)    | 1 (0.299) |     9.37 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           10 |     3414 | 2024-03-21 | Gaimin Gladiators | W   | 0.295      | 1.000        | 0.038 (0.011)    | 0.351 (0.103)    | 1 (0.295) |     3.86 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            9 |     3421 | 2024-03-21 | Spirit            | L   | 0.293      | -            | -                | -                | -         |    -0.08 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            8 |     3471 | 2024-03-18 | SAW               | W   | 0.274      | 0.143        | 0.105 (0.004)    | 0.540 (0.021)    | 1 (0.274) |     5.86 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            7 |     3488 | 2024-03-17 | Legacy            | W   | 0.268      | 0.143        | 0.122 (0.005)    | 0.643 (0.025)    | 1 (0.268) |     4.06 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            6 |     3507 | 2024-03-17 | Gaimin Gladiators | W   | 0.266      | 0.143        | 0.038 (0.001)    | 0.351 (0.013)    | 1 (0.266) |     3.44 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            5 |     3716 | 2024-03-08 | SAW               | L   | 0.208      | -            | -                | -                | -         |    -2.11 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            4 |     3781 | 2024-03-06 | Rare Atom         | W   | 0.193      | -            | -                | -                | -         |     0.36 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            3 |     4113 | 2024-02-20 | Vitality          | W   | 0.093      | 0.143        | 0.649 (0.009)    | 0.383 (0.005)    | 1 (0.093) |     2.89 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            2 |     4131 | 2024-02-19 | Apeks             | W   | 0.088      | -            | -                | -                | 1 (0.088) |     0.88 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            1 |     4140 | 2024-02-19 | PERA              | W   | 0.086      | 0.143        | 0.048 (0.001)    | 0.453 (0.006)    | 1 (0.086) |     0.96 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           19 |     2673 | 2024-04-20 | Sashi             | L   | 0.493      | -            | -                | -                | -         |    -6.53 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           18 |     2711 | 2024-04-19 | BetBoom           | W   | 0.487      | 0.143        | 0.251 (0.017)    | 0.541 (0.038)    | -         |    13.30 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           17 |     2721 | 2024-04-19 | Sashi             | L   | 0.486      | -            | -                | -                | -         |    -6.42 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           16 |     2995 | 2024-04-09 | FaZe              | L   | 0.424      | -            | -                | -                | -         |    -0.40 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           15 |     3045 | 2024-04-08 | Wildcard          | W   | 0.417      | 0.624        | 0.048 (0.012)    | 0.438 (0.114)    | 1 (0.417) |     3.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           14 |     3075 | 2024-04-08 | FlyQuest          | L   | 0.411      | -            | -                | -                | -         |    -4.90 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           13 |     3298 | 2024-03-28 | Vitality          | L   | 0.340      | -            | -                | -                | -         |    -0.14 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           12 |     3382 | 2024-03-23 | Natus Vincere     | W   | 0.307      | 1.000        | 1.000 (0.307)    | 0.371 (0.114)    | 1 (0.307) |     9.63 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           11 |     3404 | 2024-03-22 | G2                | W   | 0.299      | 1.000        | 1.000 (0.299)    | 0.498 (0.149)    | 1 (0.299) |     9.36 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           10 |     3415 | 2024-03-21 | Gaimin Gladiators | W   | 0.294      | 1.000        | 0.038 (0.011)    | 0.350 (0.103)    | 1 (0.294) |     3.85 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            9 |     3422 | 2024-03-21 | Spirit            | L   | 0.293      | -            | -                | -                | -         |    -0.08 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            8 |     3472 | 2024-03-18 | SAW               | W   | 0.273      | 0.143        | 0.105 (0.004)    | 0.540 (0.021)    | 1 (0.273) |     5.85 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            7 |     3489 | 2024-03-17 | Legacy            | W   | 0.268      | 0.143        | 0.122 (0.005)    | 0.643 (0.025)    | 1 (0.268) |     4.05 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            6 |     3508 | 2024-03-17 | Gaimin Gladiators | W   | 0.265      | 0.143        | 0.038 (0.001)    | 0.350 (0.013)    | 1 (0.265) |     3.43 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            5 |     3717 | 2024-03-08 | SAW               | L   | 0.207      | -            | -                | -                | -         |    -2.10 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            4 |     3782 | 2024-03-06 | Rare Atom         | W   | 0.193      | -            | -                | -                | -         |     0.36 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            3 |     4114 | 2024-02-20 | Vitality          | W   | 0.092      | 0.143        | 0.649 (0.009)    | 0.383 (0.005)    | 1 (0.092) |     2.88 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            2 |     4132 | 2024-02-19 | Apeks             | W   | 0.087      | -            | -                | -                | 1 (0.087) |     0.88 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            1 |     4141 | 2024-02-19 | PERA              | W   | 0.086      | 0.143        | 0.048 (0.001)    | 0.453 (0.006)    | 1 (0.086) |     0.96 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($20,151.56)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($20,134.26)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.06) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-04-14 |      0.452 | $5,000.00      | $2,260.07       |
-| 2024-03-31 |      0.361 | $45,000.00     | $16,233.33      |
-| 2024-03-10 |      0.221 | $7,500.00      | $1,658.16       |
+| 2024-04-14 |      0.452 | $5,000.00      | $2,258.56       |
+| 2024-03-31 |      0.360 | $45,000.00     | $16,219.79      |
+| 2024-03-10 |      0.221 | $7,500.00      | $1,655.90       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -8,7 +8,7 @@ Regional Rank: [15]( ../standings_asia.md)<br />
 <br />
 Final Rank Value:  688.2<br />
 <br />
-Final Rank Value (688.2) = Starting Rank Value (666.1) + Head To Head Adjustments (22.1)<br />
+Final Rank Value (688.2) = Starting Rank Value (666.0) + Head To Head Adjustments (22.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.130<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 666.1
-- 400 + ( ( 0.130 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 666.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 666.0
+- 400 + ( ( 0.130 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 666.0
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     2983 | 2024-04-10 | DXA                | W   | 0.425      | 0.333        | 0.002 (0.000)    | 0.226 (0.032)    | 0 (0.000) |     6.47 | Forleks, gump, Sliimey, supar, tucks |
-|           11 |     2987 | 2024-04-10 | DXA                | W   | 0.425      | 0.333        | 0.002 (0.000)    | 0.226 (0.032)    | 0 (0.000) |     6.72 | Forleks, gump, Sliimey, supar, tucks |
-|           10 |     3213 | 2024-04-03 | Canon Event        | W   | 0.379      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.24 | Forleks, gump, Sliimey, supar, tucks |
-|            9 |     3218 | 2024-04-03 | Canon Event        | W   | 0.378      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.33 | Forleks, gump, Sliimey, supar, tucks |
-|            8 |     3342 | 2024-03-27 | Bad News Kangaroos | W   | 0.332      | 0.333        | 0.017 (0.002)    | 0.226 (0.025)    | 0 (0.000) |     7.03 | Forleks, gump, Sliimey, supar, tucks |
-|            7 |     3347 | 2024-03-27 | Bad News Kangaroos | L   | 0.332      | -            | -                | -                | -         |    -3.47 | Forleks, gump, Sliimey, supar, tucks |
-|            6 |     3788 | 2024-03-06 | Rooster            | L   | 0.192      | -            | -                | -                | -         |    -2.06 | Forleks, gump, Sliimey, supar, tucks |
-|            5 |     3794 | 2024-03-06 | Rooster            | L   | 0.192      | -            | -                | -                | -         |    -2.09 | Forleks, gump, Sliimey, supar, tucks |
-|            4 |     4090 | 2024-02-21 | KZG                | W   | 0.099      | 0.333        | 0.005 (0.000)    | 0.112 (0.004)    | 0 (0.000) |     1.71 | Forleks, gump, Sliimey, supar, tucks |
-|            3 |     4095 | 2024-02-21 | KZG                | W   | 0.099      | 0.333        | 0.005 (0.000)    | 0.112 (0.004)    | 0 (0.000) |     1.72 | Forleks, gump, Sliimey, supar, tucks |
-|            2 |     4292 | 2024-02-13 | KZG                | L   | 0.051      | -            | -                | -                | -         |    -0.71 | deStiny, gump, Sliimey, supar, tucks |
-|            1 |     4315 | 2024-02-13 | DEMESIS            | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.26 | deStiny, gump, Sliimey, supar, tucks |
+|           12 |     2984 | 2024-04-10 | DXA                | W   | 0.425      | 0.333        | 0.002 (0.000)    | 0.226 (0.032)    | 0 (0.000) |     6.47 | Forleks, gump, Sliimey, supar, tucks |
+|           11 |     2988 | 2024-04-10 | DXA                | W   | 0.425      | 0.333        | 0.002 (0.000)    | 0.226 (0.032)    | 0 (0.000) |     6.71 | Forleks, gump, Sliimey, supar, tucks |
+|           10 |     3214 | 2024-04-03 | Canon Event        | W   | 0.378      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.24 | Forleks, gump, Sliimey, supar, tucks |
+|            9 |     3219 | 2024-04-03 | Canon Event        | W   | 0.378      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.33 | Forleks, gump, Sliimey, supar, tucks |
+|            8 |     3343 | 2024-03-27 | Bad News Kangaroos | W   | 0.332      | 0.333        | 0.017 (0.002)    | 0.226 (0.025)    | 0 (0.000) |     7.03 | Forleks, gump, Sliimey, supar, tucks |
+|            7 |     3348 | 2024-03-27 | Bad News Kangaroos | L   | 0.332      | -            | -                | -                | -         |    -3.46 | Forleks, gump, Sliimey, supar, tucks |
+|            6 |     3789 | 2024-03-06 | Rooster            | L   | 0.192      | -            | -                | -                | -         |    -2.06 | Forleks, gump, Sliimey, supar, tucks |
+|            5 |     3795 | 2024-03-06 | Rooster            | L   | 0.192      | -            | -                | -                | -         |    -2.09 | Forleks, gump, Sliimey, supar, tucks |
+|            4 |     4091 | 2024-02-21 | KZG                | W   | 0.098      | 0.333        | 0.005 (0.000)    | 0.111 (0.004)    | 0 (0.000) |     1.70 | Forleks, gump, Sliimey, supar, tucks |
+|            3 |     4096 | 2024-02-21 | KZG                | W   | 0.098      | 0.333        | 0.005 (0.000)    | 0.111 (0.004)    | 0 (0.000) |     1.71 | Forleks, gump, Sliimey, supar, tucks |
+|            2 |     4293 | 2024-02-13 | KZG                | L   | 0.051      | -            | -                | -                | -         |    -0.71 | deStiny, gump, Sliimey, supar, tucks |
+|            1 |     4316 | 2024-02-13 | DEMESIS            | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.26 | deStiny, gump, Sliimey, supar, tucks |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,153.70)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($1,153.28)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

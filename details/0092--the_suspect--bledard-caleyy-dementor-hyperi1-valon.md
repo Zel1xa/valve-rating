@@ -6,9 +6,9 @@ Global Rank: [92](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [66]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  877.3<br />
+Final Rank Value:  877.4<br />
 <br />
-Final Rank Value (877.3) = Starting Rank Value (823.1) + Head To Head Adjustments (54.2)<br />
+Final Rank Value (877.4) = Starting Rank Value (823.1) + Head To Head Adjustments (54.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       12 | 2024-08-04 | CPH Wolves      | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.365 (0.052)    | 0 (0.000) |    13.92 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           11 |      123 | 2024-08-01 | Alliance        | L   | 1.000      | -            | -                | -                | -         |   -16.50 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           10 |      795 | 2024-07-14 | ECLOT           | W   | 1.000      | 0.143        | 0.062 (0.009)    | 0.558 (0.080)    | 0 (0.000) |    25.51 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            9 |      797 | 2024-07-14 | ALTERNATE aTTaX | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.560 (0.080)    | 0 (0.000) |    17.94 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            8 |      806 | 2024-07-14 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            7 |      813 | 2024-07-13 | Portugal        | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.120 (0.017)    | 0 (0.000) |     9.08 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            6 |      908 | 2024-07-08 | Latvia          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.139 (0.020)    | 0 (0.000) |    16.80 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            5 |     1278 | 2024-06-08 | M1X KS          | L   | 0.821      | -            | -                | -                | -         |   -11.50 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            4 |     1303 | 2024-06-08 | ALTERNATE aTTaX | W   | 0.819      | 0.337        | 0.031 (0.009)    | 0.560 (0.155)    | 1 (0.819) |    15.48 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            3 |     1350 | 2024-06-07 | plusW KS        | W   | 0.813      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.813) |     2.33 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            2 |     1767 | 2024-05-25 | ex-Guild Eagles | L   | 0.726      | -            | -                | -                | -         |    -9.94 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            1 |     1779 | 2024-05-24 | Zero Tenacity   | L   | 0.720      | -            | -                | -                | -         |    -3.84 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           12 |       13 | 2024-08-04 | CPH Wolves      | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.365 (0.052)    | 0 (0.000) |    13.92 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           11 |      124 | 2024-08-01 | Alliance        | L   | 1.000      | -            | -                | -                | -         |   -16.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           10 |      796 | 2024-07-14 | ECLOT           | W   | 1.000      | 0.143        | 0.062 (0.009)    | 0.558 (0.080)    | 0 (0.000) |    25.51 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            9 |      798 | 2024-07-14 | ALTERNATE aTTaX | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.560 (0.080)    | 0 (0.000) |    17.94 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            8 |      807 | 2024-07-14 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            7 |      814 | 2024-07-13 | Portugal        | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.120 (0.017)    | 0 (0.000) |     9.08 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            6 |      909 | 2024-07-08 | Latvia          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.139 (0.020)    | 0 (0.000) |    16.79 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            5 |     1279 | 2024-06-08 | M1X KS          | L   | 0.820      | -            | -                | -                | -         |   -11.50 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            4 |     1304 | 2024-06-08 | ALTERNATE aTTaX | W   | 0.819      | 0.337        | 0.031 (0.009)    | 0.560 (0.155)    | 1 (0.819) |    15.48 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            3 |     1351 | 2024-06-07 | plusW KS        | W   | 0.813      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.813) |     2.33 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            2 |     1768 | 2024-05-25 | ex-Guild Eagles | L   | 0.725      | -            | -                | -                | -         |    -9.94 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            1 |     1780 | 2024-05-24 | Zero Tenacity   | L   | 0.720      | -            | -                | -                | -         |    -3.83 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,678.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($2,677.02)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

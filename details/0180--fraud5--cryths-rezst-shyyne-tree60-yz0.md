@@ -8,7 +8,7 @@ Regional Rank: [114]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  642.5<br />
 <br />
-Final Rank Value (642.5) = Starting Rank Value (647.3) + Head To Head Adjustments (-4.8)<br />
+Final Rank Value (642.5) = Starting Rank Value (647.2) + Head To Head Adjustments (-4.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.121<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.3
-- 400 + ( ( 0.121 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 647.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 647.2
+- 400 + ( ( 0.121 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 647.2
 
 
 #### Factors<br />
@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     1170 | 2024-06-10 | K10            | L   | 0.834      | -            | -                | -                | -         |   -11.05 | cryths, Rezst, shyyne, Tree60, yz0    |
-|           10 |     1461 | 2024-06-05 | RAPTORS EC     | W   | 0.801      | 0.282        | 0.000 (0.000)    | 0.034 (0.008)    | 0 (0.000) |    10.65 | cryths, Rezst, shyyne, Tree60, yz0    |
-|            9 |     3275 | 2024-03-29 | The Neighbours | L   | 0.348      | -            | -                | -                | -         |    -4.70 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|            8 |     3458 | 2024-03-19 | RAPTORS EC     | W   | 0.281      | 0.143        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     2.54 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
-|            7 |     3699 | 2024-03-09 | Insilio        | L   | 0.213      | -            | -                | -                | -         |    -1.35 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            6 |     3713 | 2024-03-09 | ex-Preasy      | L   | 0.212      | -            | -                | -                | -         |    -2.04 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            5 |     3723 | 2024-03-08 | MOUZ NXT       | L   | 0.207      | -            | -                | -                | -         |    -0.65 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            4 |     3786 | 2024-03-06 | Passion UA     | L   | 0.192      | -            | -                | -                | -         |    -0.47 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            3 |     3837 | 2024-03-04 | Secret         | W   | 0.180      | 0.371        | 0.000 (0.000)    | 0.058 (0.004)    | 0 (0.000) |     2.00 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            2 |     3993 | 2024-02-25 | The Neighbours | L   | 0.126      | -            | -                | -                | -         |    -1.79 | Rezst, shyyne, SLY, Tree60, yz0       |
-|            1 |     4021 | 2024-02-24 | The Neighbours | W   | 0.120      | 0.307        | 0.003 (0.000)    | 0.035 (0.001)    | 1 (0.120) |     2.10 | Rezst, shyyne, SLY, Tree60, yz0       |
+|           11 |     1171 | 2024-06-10 | K10            | L   | 0.834      | -            | -                | -                | -         |   -11.05 | cryths, Rezst, shyyne, Tree60, yz0    |
+|           10 |     1462 | 2024-06-05 | RAPTORS EC     | W   | 0.800      | 0.282        | 0.000 (0.000)    | 0.034 (0.008)    | 0 (0.000) |    10.65 | cryths, Rezst, shyyne, Tree60, yz0    |
+|            9 |     3276 | 2024-03-29 | The Neighbours | L   | 0.348      | -            | -                | -                | -         |    -4.70 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|            8 |     3459 | 2024-03-19 | RAPTORS EC     | W   | 0.281      | 0.143        | 0.000 (0.000)    | 0.010 (0.000)    | 0 (0.000) |     2.54 | Kisynergy, Rezst, shyyne, Tree60, yz0 |
+|            7 |     3700 | 2024-03-09 | Insilio        | L   | 0.213      | -            | -                | -                | -         |    -1.35 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            6 |     3714 | 2024-03-09 | ex-Preasy      | L   | 0.211      | -            | -                | -                | -         |    -2.04 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            5 |     3724 | 2024-03-08 | MOUZ NXT       | L   | 0.206      | -            | -                | -                | -         |    -0.65 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            4 |     3787 | 2024-03-06 | Passion UA     | L   | 0.192      | -            | -                | -                | -         |    -0.47 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            3 |     3838 | 2024-03-04 | Secret         | W   | 0.179      | 0.371        | 0.000 (0.000)    | 0.058 (0.004)    | 0 (0.000) |     2.00 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            2 |     3994 | 2024-02-25 | The Neighbours | L   | 0.126      | -            | -                | -                | -         |    -1.78 | Rezst, shyyne, SLY, Tree60, yz0       |
+|            1 |     4022 | 2024-02-24 | The Neighbours | W   | 0.120      | 0.307        | 0.003 (0.000)    | 0.035 (0.001)    | 1 (0.120) |     2.10 | Rezst, shyyne, SLY, Tree60, yz0       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,277.80)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- First, take the sum of their top 10 scaled winnings ($1,276.86)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-10 |      0.834 | $954.00        | $795.71         |
-| 2024-03-29 |      0.348 | $951.00        | $330.91         |
-| 2024-02-25 |      0.126 | $1,197.00      | $151.18         |
+| 2024-06-10 |      0.834 | $954.00        | $795.42         |
+| 2024-03-29 |      0.348 | $951.00        | $330.63         |
+| 2024-02-25 |      0.126 | $1,197.00      | $150.82         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

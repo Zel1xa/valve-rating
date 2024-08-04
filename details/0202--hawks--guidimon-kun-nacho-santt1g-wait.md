@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      551 | 2024-07-19 | FURIA Academy     | L   | 1.000      | -            | -                | -                | -         |   -15.42 | guidimon, KUN, nacho, santt1g, wait  |
-|            9 |      654 | 2024-07-17 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.69 | guidimon, KUN, nacho, santt1g, wait  |
-|            8 |      768 | 2024-07-15 | Solid             | L   | 1.000      | -            | -                | -                | -         |    -4.64 | guidimon, KUN, nacho, santt1g, wait  |
-|            7 |      841 | 2024-07-11 | Case              | L   | 1.000      | -            | -                | -                | -         |    -4.10 | guidimon, KUN, nacho, santt1g, wait  |
-|            6 |      916 | 2024-07-07 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.64 | F4QQ, guidimon, KUN, santt1g, wait   |
-|            5 |     1560 | 2024-06-02 | Bounty Hunters    | L   | 0.781      | -            | -                | -                | -         |    -3.41 | ABM, christo, guidimon, KUN, santt1g |
-|            4 |     1619 | 2024-05-31 | Vikings KR        | L   | 0.768      | -            | -                | -                | -         |    -4.57 | ABM, christo, guidimon, KUN, santt1g |
-|            3 |     1643 | 2024-05-30 | Galorys           | L   | 0.761      | -            | -                | -                | -         |    -2.92 | ABM, christo, guidimon, KUN, santt1g |
-|            2 |     1724 | 2024-05-27 | Case              | W   | 0.741      | 0.371        | 0.029 (0.008)    | 0.805 (0.221)    | 0 (0.000) |    20.80 | ABM, christo, guidimon, KUN, santt1g |
-|            1 |     4261 | 2024-02-14 | W7M               | L   | 0.056      | -            | -                | -                | -         |    -0.27 | guidimon, KUN, nacho, nasher, PABLEK |
+|           10 |      552 | 2024-07-19 | FURIA Academy     | L   | 1.000      | -            | -                | -                | -         |   -15.42 | guidimon, KUN, nacho, santt1g, wait  |
+|            9 |      655 | 2024-07-17 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.69 | guidimon, KUN, nacho, santt1g, wait  |
+|            8 |      769 | 2024-07-15 | Solid             | L   | 1.000      | -            | -                | -                | -         |    -4.64 | guidimon, KUN, nacho, santt1g, wait  |
+|            7 |      842 | 2024-07-11 | Case              | L   | 1.000      | -            | -                | -                | -         |    -4.10 | guidimon, KUN, nacho, santt1g, wait  |
+|            6 |      917 | 2024-07-07 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.64 | F4QQ, guidimon, KUN, santt1g, wait   |
+|            5 |     1561 | 2024-06-02 | Bounty Hunters    | L   | 0.780      | -            | -                | -                | -         |    -3.41 | ABM, christo, guidimon, KUN, santt1g |
+|            4 |     1620 | 2024-05-31 | Vikings KR        | L   | 0.768      | -            | -                | -                | -         |    -4.56 | ABM, christo, guidimon, KUN, santt1g |
+|            3 |     1644 | 2024-05-30 | Galorys           | L   | 0.761      | -            | -                | -                | -         |    -2.92 | ABM, christo, guidimon, KUN, santt1g |
+|            2 |     1725 | 2024-05-27 | Case              | W   | 0.740      | 0.371        | 0.029 (0.008)    | 0.805 (0.221)    | 0 (0.000) |    20.79 | ABM, christo, guidimon, KUN, santt1g |
+|            1 |     4262 | 2024-02-14 | W7M               | L   | 0.055      | -            | -                | -                | -         |    -0.27 | guidimon, KUN, nacho, nasher, PABLEK |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,118.06)
+- Divide that value by the 5th highest value among all rosters ($324,028.83)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
