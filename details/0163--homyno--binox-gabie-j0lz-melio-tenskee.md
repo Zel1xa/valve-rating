@@ -6,22 +6,22 @@ Global Rank: [163](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [45]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  679.9<br />
+Final Rank Value:  679.4<br />
 <br />
-Final Rank Value (679.9) = Starting Rank Value (700.0) + Head To Head Adjustments (-20.1)<br />
+Final Rank Value (679.4) = Starting Rank Value (699.2) + Head To Head Adjustments (-19.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.319[<sup>1</sup>](#table2)
 - Bounty Collected: 0.248[<sup>2</sup>](#table1)
-- Opponent Network: 0.019[<sup>2</sup>](#table1)
+- Opponent Network: 0.018[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.147<br />
+The average of these factors is 0.146<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 700.0
-- 400 + ( ( 0.147 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 700.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 699.2
+- 400 + ( ( 0.146 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 699.2
 
 
 #### Factors<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |      235 | 2024-07-27 | Revenge Nation | W   | 1.000      | 0.371        | 0.007 (0.003)    | 0.104 (0.038)    | 0 (0.000) |    17.26 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
-|           15 |      940 | 2024-06-15 | E-Xolos LAZER  | L   | 0.876      | -            | -                | -                | -         |    -9.49 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|           14 |      970 | 2024-06-14 | Akimbo         | L   | 0.869      | -            | -                | -                | -         |    -9.12 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|           13 |     1005 | 2024-06-13 | Detonate       | W   | 0.862      | 0.143        | 0.000 (0.000)    | 0.075 (0.009)    | 0 (0.000) |     8.32 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|           12 |     1037 | 2024-06-12 | E-Xolos LAZER  | L   | 0.856      | -            | -                | -                | -         |    -9.77 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|           11 |     1038 | 2024-06-12 | Detonate       | W   | 0.855      | 0.143        | 0.000 (0.000)    | 0.075 (0.009)    | 0 (0.000) |     7.93 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|           10 |     1058 | 2024-06-11 | Final Form     | L   | 0.848      | -            | -                | -                | -         |   -14.86 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            9 |     1085 | 2024-06-10 | E-Xolos LAZER  | L   | 0.840      | -            | -                | -                | -         |   -10.56 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            8 |     1173 | 2024-06-08 | LAG            | L   | 0.829      | -            | -                | -                | -         |    -8.45 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            7 |     1221 | 2024-06-07 | E-Xolos LAZER  | L   | 0.822      | -            | -                | -                | -         |   -11.64 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            6 |     1291 | 2024-06-06 | Limitless      | W   | 0.814      | 0.371        | 0.001 (0.000)    | 0.174 (0.052)    | 0 (0.000) |     9.23 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            5 |     1404 | 2024-06-04 | Wildcard       | L   | 0.802      | -            | -                | -                | -         |    -5.05 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            4 |     1412 | 2024-06-04 | TSM Shimmer    | W   | 0.800      | 0.371        | 0.020 (0.006)    | 0.206 (0.061)    | 0 (0.000) |    12.82 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            3 |     3274 | 2024-03-23 | Revenge Nation | L   | 0.316      | -            | -                | -                | -         |    -4.94 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            2 |     3299 | 2024-03-21 | Final Form     | W   | 0.302      | 0.359        | 0.003 (0.000)    | 0.068 (0.007)    | 0 (0.000) |     4.10 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
-|            1 |     3350 | 2024-03-19 | Akimbo         | W   | 0.289      | 0.359        | 0.003 (0.000)    | 0.078 (0.008)    | 0 (0.000) |     4.10 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           16 |      258 | 2024-07-27 | Revenge Nation | W   | 1.000      | 0.371        | 0.007 (0.003)    | 0.100 (0.037)    | 0 (0.000) |    17.23 | BiNoX, Gabie, J0LZ, Melio, TENSKEE |
+|           15 |      978 | 2024-06-15 | E-Xolos LAZER  | L   | 0.874      | -            | -                | -                | -         |    -9.28 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           14 |     1014 | 2024-06-14 | Akimbo         | L   | 0.867      | -            | -                | -                | -         |    -9.10 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           13 |     1055 | 2024-06-13 | Detonate       | W   | 0.861      | 0.143        | 0.000 (0.000)    | 0.073 (0.009)    | 0 (0.000) |     8.30 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           12 |     1087 | 2024-06-12 | E-Xolos LAZER  | L   | 0.854      | -            | -                | -                | -         |    -9.53 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           11 |     1089 | 2024-06-12 | Detonate       | W   | 0.853      | 0.143        | 0.000 (0.000)    | 0.073 (0.009)    | 0 (0.000) |     7.93 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|           10 |     1110 | 2024-06-11 | Final Form     | L   | 0.846      | -            | -                | -                | -         |   -14.82 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            9 |     1139 | 2024-06-10 | E-Xolos LAZER  | L   | 0.838      | -            | -                | -                | -         |   -10.56 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            8 |     1228 | 2024-06-08 | LAG            | L   | 0.827      | -            | -                | -                | -         |    -8.56 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            7 |     1281 | 2024-06-07 | E-Xolos LAZER  | L   | 0.821      | -            | -                | -                | -         |   -11.65 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            6 |     1351 | 2024-06-06 | Limitless      | W   | 0.813      | 0.371        | 0.001 (0.000)    | 0.168 (0.051)    | 0 (0.000) |     9.24 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            5 |     1464 | 2024-06-04 | Wildcard       | L   | 0.800      | -            | -                | -                | -         |    -5.00 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            4 |     1472 | 2024-06-04 | TSM Shimmer    | W   | 0.799      | 0.371        | 0.020 (0.006)    | 0.199 (0.059)    | 0 (0.000) |    12.80 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            3 |     3343 | 2024-03-23 | Revenge Nation | L   | 0.314      | -            | -                | -                | -         |    -4.92 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            2 |     3370 | 2024-03-21 | Final Form     | W   | 0.301      | 0.359        | 0.003 (0.000)    | 0.066 (0.007)    | 0 (0.000) |     4.08 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
+|            1 |     3421 | 2024-03-19 | Akimbo         | W   | 0.287      | 0.359        | 0.003 (0.000)    | 0.075 (0.008)    | 0 (0.000) |     4.08 | Gabie, J0LZ, Melio, TENSKEE, YuZ   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,410.30)
-- Divide that value by the 5th highest value among all rosters ($325,971.18)
+- First, take the sum of their top 10 scaled winnings ($2,400.79)
+- Divide that value by the 5th highest value among all rosters ($325,463.29)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-10 |      0.842 | $1,250.00      | $1,053.01       |
-| 2024-03-23 |      0.316 | $4,300.00      | $1,357.29       |
+| 2024-06-10 |      0.841 | $1,250.00      | $1,050.87       |
+| 2024-03-23 |      0.314 | $4,300.00      | $1,349.92       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

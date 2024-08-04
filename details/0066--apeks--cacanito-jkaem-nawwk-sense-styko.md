@@ -6,22 +6,22 @@ Global Rank: [66](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [46]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  958.7<br />
+Final Rank Value:  962.8<br />
 <br />
-Final Rank Value (958.7) = Starting Rank Value (902.9) + Head To Head Adjustments (55.8)<br />
+Final Rank Value (962.8) = Starting Rank Value (902.6) + Head To Head Adjustments (60.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.390[<sup>1</sup>](#table2)
-- Bounty Collected: 0.359[<sup>2</sup>](#table1)
+- Bounty Collected: 0.361[<sup>2</sup>](#table1)
 - Opponent Network: 0.047[<sup>2</sup>](#table1)
-- LAN Wins: 0.187[<sup>2</sup>](#table1)
+- LAN Wins: 0.186[<sup>2</sup>](#table1)
 
 The average of these factors is 0.246<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 902.9
-- 400 + ( ( 0.246 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 902.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 902.6
+- 400 + ( ( 0.246 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 902.6
 
 
 #### Factors<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |     2401 | 2024-04-27 | MIBR              | L   | 0.549      | -            | -                | -                | -         |    -1.12 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           34 |     2450 | 2024-04-25 | Aurora            | W   | 0.537      | 0.500        | 0.425 (0.114)    | 0.809 (0.217)    | 1 (0.537) |    16.54 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           33 |     2456 | 2024-04-25 | sunday school     | W   | 0.535      | 0.500        | 0.003 (0.001)    | -                | 1 (0.535) |     2.57 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           32 |     2643 | 2024-04-18 | BetBoom           | L   | 0.487      | -            | -                | -                | -         |    -1.04 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           31 |     2646 | 2024-04-18 | DMS               | W   | 0.487      | 0.143        | -                | 0.462 (0.032)    | 0 (0.000) |     7.08 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           30 |     2659 | 2024-04-18 | AMKAL             | W   | 0.486      | 0.143        | 0.130 (0.009)    | 0.494 (0.034)    | 0 (0.000) |    11.82 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           29 |     2825 | 2024-04-11 | Aurora            | L   | 0.440      | -            | -                | -                | -         |    -0.25 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           28 |     2864 | 2024-04-10 | AMKAL             | L   | 0.434      | -            | -                | -                | -         |    -3.38 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           27 |     2914 | 2024-04-09 | fnatic            | W   | 0.427      | 0.143        | 0.290 (0.018)    | 0.627 (0.038)    | 0 (0.000) |    12.39 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           26 |     2926 | 2024-04-09 | KOI               | W   | 0.426      | 0.143        | 0.040 (0.002)    | 0.319 (0.019)    | 0 (0.000) |     7.19 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           25 |     2948 | 2024-04-08 | fnatic            | L   | 0.420      | -            | -                | -                | -         |    -0.99 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           24 |     2960 | 2024-04-08 | GUN5              | W   | 0.419      | -            | -                | -                | -         |     0.73 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           23 |     3102 | 2024-04-03 | Monte             | L   | 0.386      | -            | -                | -                | -         |    -4.69 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           22 |     3132 | 2024-04-02 | Aurora            | L   | 0.380      | -            | -                | -                | -         |    -0.18 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           21 |     3140 | 2024-04-02 | B8                | W   | 0.379      | 0.143        | 0.166 (0.009)    | 0.945 (0.051)    | -         |     8.83 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           20 |     3165 | 2024-03-31 | B8                | L   | 0.366      | -            | -                | -                | -         |    -3.02 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           19 |     3197 | 2024-03-28 | 3DMAX             | L   | 0.346      | -            | -                | -                | -         |    -0.17 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           18 |     3259 | 2024-03-26 | FORZE             | L   | 0.332      | -            | -                | -                | -         |    -5.04 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           17 |     3357 | 2024-03-19 | Legacy            | L   | 0.286      | -            | -                | -                | -         |    -3.23 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           16 |     3370 | 2024-03-18 | Imperial          | L   | 0.279      | -            | -                | -                | -         |    -1.21 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           15 |     3383 | 2024-03-17 | AMKAL             | W   | 0.274      | 0.143        | 0.130 (0.005)    | 0.494 (0.019)    | 1 (0.274) |     6.72 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           14 |     3399 | 2024-03-17 | paiN              | L   | 0.272      | -            | -                | -                | -         |    -0.63 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           13 |     3527 | 2024-03-12 | Metizport         | L   | 0.239      | -            | -                | -                | -         |    -3.73 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           12 |     3536 | 2024-03-11 | Virtus.pro        | L   | 0.234      | -            | -                | -                | -         |    -0.09 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           11 |     3546 | 2024-03-11 | KOI               | W   | 0.233      | 0.143        | 0.040 (0.001)    | 0.319 (0.011)    | -         |     3.97 | CacaNito, jkaem, nawwk, sense, STYKO |
-|           10 |     3639 | 2024-03-07 | Space             | W   | 0.206      | 0.500        | -                | 0.420 (0.043)    | -         |     2.47 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            9 |     3667 | 2024-03-06 | PARIVISION        | L   | 0.200      | -            | -                | -                | -         |    -1.61 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            8 |     3978 | 2024-02-21 | Gaimin Gladiators | W   | 0.105      | -            | -                | -                | 1 (0.105) |     1.95 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            7 |     4008 | 2024-02-20 | Monte             | W   | 0.098      | -            | -                | -                | 1 (0.098) |     1.95 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            6 |     4021 | 2024-02-19 | Cloud9            | L   | 0.094      | -            | -                | -                | -         |    -0.96 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            5 |     4031 | 2024-02-19 | OG                | W   | 0.092      | 0.143        | 0.140 (0.002)    | -                | 1 (0.092) |     1.80 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            4 |     4215 | 2024-02-11 | Metizport         | L   | 0.041      | -            | -                | -                | -         |    -0.64 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            3 |     4217 | 2024-02-11 | 3DMAX             | W   | 0.040      | 0.143        | 0.504 (0.003)    | 1.000 (0.006)    | -         |     1.24 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            2 |     4230 | 2024-02-10 | Metizport         | W   | 0.033      | -            | -                | -                | -         |     0.52 | CacaNito, jkaem, nawwk, sense, STYKO |
-|            1 |     4233 | 2024-02-10 | ex-Anonymo        | W   | 0.032      | -            | -                | -                | -         |     0.06 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           35 |     2467 | 2024-04-27 | MIBR              | L   | 0.548      | -            | -                | -                | -         |    -1.11 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           34 |     2516 | 2024-04-25 | Aurora            | W   | 0.535      | 0.500        | 0.424 (0.114)    | 0.794 (0.213)    | 1 (0.535) |    16.47 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           33 |     2522 | 2024-04-25 | sunday school     | W   | 0.534      | 0.500        | 0.003 (0.001)    | -                | 1 (0.534) |     2.50 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           32 |     2709 | 2024-04-18 | BetBoom           | L   | 0.485      | -            | -                | -                | -         |    -1.05 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           31 |     2712 | 2024-04-18 | DMS               | W   | 0.485      | 0.143        | -                | 0.446 (0.031)    | 0 (0.000) |     6.95 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           30 |     2725 | 2024-04-18 | AMKAL             | W   | 0.485      | 0.143        | 0.130 (0.009)    | 0.477 (0.033)    | 0 (0.000) |    11.67 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           29 |     2891 | 2024-04-11 | Aurora            | L   | 0.438      | -            | -                | -                | -         |    -0.26 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           28 |     2930 | 2024-04-10 | AMKAL             | L   | 0.432      | -            | -                | -                | -         |    -3.47 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           27 |     2980 | 2024-04-09 | fnatic            | W   | 0.425      | 0.143        | 0.371 (0.023)    | 0.709 (0.043)    | 0 (0.000) |    13.00 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           26 |     2992 | 2024-04-09 | KOI               | W   | 0.424      | 0.143        | 0.059 (0.004)    | 0.376 (0.023)    | 0 (0.000) |     9.54 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           25 |     3014 | 2024-04-08 | fnatic            | L   | 0.419      | -            | -                | -                | -         |    -0.36 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           24 |     3026 | 2024-04-08 | GUN5              | W   | 0.417      | -            | -                | -                | -         |     0.72 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           23 |     3168 | 2024-04-03 | Monte             | L   | 0.384      | -            | -                | -                | -         |    -4.72 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           22 |     3198 | 2024-04-02 | Aurora            | L   | 0.378      | -            | -                | -                | -         |    -0.19 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           21 |     3206 | 2024-04-02 | B8                | W   | 0.377      | 0.143        | 0.165 (0.009)    | 0.913 (0.049)    | -         |     8.76 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           20 |     3231 | 2024-03-31 | B8                | L   | 0.364      | -            | -                | -                | -         |    -3.04 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           19 |     3263 | 2024-03-28 | 3DMAX             | L   | 0.344      | -            | -                | -                | -         |    -0.17 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           18 |     3328 | 2024-03-26 | FORZE             | L   | 0.331      | -            | -                | -                | -         |    -5.03 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           17 |     3428 | 2024-03-19 | Legacy            | L   | 0.284      | -            | -                | -                | -         |    -3.20 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           16 |     3441 | 2024-03-18 | Imperial          | L   | 0.277      | -            | -                | -                | -         |    -1.05 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           15 |     3454 | 2024-03-17 | AMKAL             | W   | 0.272      | 0.143        | 0.130 (0.005)    | 0.477 (0.019)    | 1 (0.272) |     6.64 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           14 |     3470 | 2024-03-17 | paiN              | L   | 0.271      | -            | -                | -                | -         |    -0.49 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           13 |     3600 | 2024-03-12 | Metizport         | L   | 0.238      | -            | -                | -                | -         |    -3.71 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           12 |     3609 | 2024-03-11 | Virtus.pro        | L   | 0.232      | -            | -                | -                | -         |    -0.09 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           11 |     3619 | 2024-03-11 | KOI               | W   | 0.231      | 0.143        | 0.059 (0.002)    | 0.376 (0.012)    | -         |     5.34 | CacaNito, jkaem, nawwk, sense, STYKO |
+|           10 |     3712 | 2024-03-07 | Space             | W   | 0.205      | 0.500        | -                | 0.406 (0.042)    | -         |     2.42 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            9 |     3740 | 2024-03-06 | PARIVISION        | L   | 0.198      | -            | -                | -                | -         |    -1.62 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            8 |     4050 | 2024-02-21 | Gaimin Gladiators | W   | 0.103      | -            | -                | -                | 1 (0.103) |     1.90 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            7 |     4081 | 2024-02-20 | Monte             | W   | 0.097      | -            | -                | -                | 1 (0.097) |     1.91 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            6 |     4094 | 2024-02-19 | Cloud9            | L   | 0.092      | -            | -                | -                | -         |    -0.95 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            5 |     4104 | 2024-02-19 | OG                | W   | 0.090      | 0.143        | 0.140 (0.002)    | -                | 1 (0.090) |     1.79 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            4 |     4288 | 2024-02-11 | Metizport         | L   | 0.039      | -            | -                | -                | -         |    -0.62 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            3 |     4290 | 2024-02-11 | 3DMAX             | W   | 0.038      | 0.143        | 0.505 (0.003)    | 1.000 (0.005)    | -         |     1.19 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            2 |     4303 | 2024-02-10 | Metizport         | W   | 0.031      | -            | -                | -                | -         |     0.49 | CacaNito, jkaem, nawwk, sense, STYKO |
+|            1 |     4306 | 2024-02-10 | ex-Anonymo        | W   | 0.031      | -            | -                | -                | -         |     0.05 | CacaNito, jkaem, nawwk, sense, STYKO |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($8,863.74)
-- Divide that value by the 5th highest value among all rosters ($325,971.18)
+- First, take the sum of their top 10 scaled winnings ($8,828.62)
+- Divide that value by the 5th highest value among all rosters ($325,463.29)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.833 | $500.00        | $416.52         |
-| 2024-04-28 |      0.551 | $10,000.00     | $5,512.04       |
-| 2024-03-20 |      0.294 | $10,000.00     | $2,935.19       |
+| 2024-06-09 |      0.831 | $500.00        | $415.66         |
+| 2024-04-28 |      0.549 | $10,000.00     | $5,494.91       |
+| 2024-03-20 |      0.292 | $10,000.00     | $2,918.06       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

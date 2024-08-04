@@ -6,22 +6,22 @@ Global Rank: [39](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [10]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1117.2<br />
+Final Rank Value:  1132.8<br />
 <br />
-Final Rank Value (1117.2) = Starting Rank Value (1044.4) + Head To Head Adjustments (72.8)<br />
+Final Rank Value (1132.8) = Starting Rank Value (1046.2) + Head To Head Adjustments (86.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.525[<sup>1</sup>](#table2)
-- Bounty Collected: 0.449[<sup>2</sup>](#table1)
-- Opponent Network: 0.286[<sup>2</sup>](#table1)
+- Bounty Collected: 0.450[<sup>2</sup>](#table1)
+- Opponent Network: 0.290[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.315<br />
+The average of these factors is 0.316<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1044.4
-- 400 + ( ( 0.315 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1044.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1046.2
+- 400 + ( ( 0.316 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 1046.2
 
 
 #### Factors<br />
@@ -37,119 +37,119 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          106 |       21 | 2024-08-02 | Legacy         | L   | 1.000      | -            | -                | -                | -         |   -16.57 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          105 |       35 | 2024-08-02 | MIBR           | L   | 1.000      | -            | -                | -                | -         |    -7.74 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          104 |       51 | 2024-08-01 | Intense        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.29 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          103 |       55 | 2024-08-01 | BESTIA         | W   | 1.000      | 0.371        | 0.091 (0.034)    | 0.756 (0.280)    | 0 (0.000) |     9.85 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          102 |       86 | 2024-07-31 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.65 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          101 |       90 | 2024-07-31 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.96 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|          100 |      138 | 2024-07-30 | Bounty Hunters | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.79 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           99 |      179 | 2024-07-29 | Vikings KR     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.75 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           98 |      211 | 2024-07-28 | Intense        | L   | 1.000      | -            | -                | -                | -         |   -26.78 | arT, Lucaozy, nicks, vsm, zevy       |
-|           97 |      253 | 2024-07-26 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -13.87 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           96 |      257 | 2024-07-26 | W7M            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.94 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           95 |      261 | 2024-07-26 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -24.00 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           94 |      284 | 2024-07-25 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.22 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           93 |      289 | 2024-07-25 | Imperium Nexus | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.45 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           92 |      327 | 2024-07-24 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |   -16.81 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           91 |      330 | 2024-07-24 | Solid          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.82 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           90 |      360 | 2024-07-23 | BESTIA         | W   | 1.000      | -            | -                | -                | -         |     9.24 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           89 |      367 | 2024-07-23 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     3.56 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           88 |      370 | 2024-07-23 | Case           | L   | 1.000      | -            | -                | -                | -         |   -25.21 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           87 |      376 | 2024-07-23 | Solid          | W   | 1.000      | -            | -                | -                | -         |     5.45 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           86 |      399 | 2024-07-22 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |   -23.69 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           85 |      420 | 2024-07-21 | paiN           | W   | 1.000      | 0.384        | 0.324 (0.125)    | 0.859 (0.330)    | -         |    22.41 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           84 |      427 | 2024-07-21 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.61 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           83 |      448 | 2024-07-20 | Sharks         | W   | 1.000      | -            | -                | -                | -         |     7.62 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           82 |      461 | 2024-07-20 | ODDIK          | W   | 1.000      | -            | -                | -                | -         |     8.64 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           81 |      483 | 2024-07-19 | Vikings KR     | W   | 1.000      | -            | -                | -                | -         |     4.34 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           80 |      486 | 2024-07-19 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.94 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           79 |      492 | 2024-07-19 | Case           | W   | 1.000      | -            | -                | -                | -         |     5.99 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           78 |      526 | 2024-07-18 | Sharks         | W   | 1.000      | 0.450        | -                | 0.583 (0.262)    | -         |     8.05 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           77 |      528 | 2024-07-18 | Sharks         | W   | 1.000      | 0.450        | -                | 0.583 (0.262)    | -         |     8.63 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           76 |      538 | 2024-07-18 | Galorys        | W   | 1.000      | -            | -                | -                | -         |     3.98 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           75 |      594 | 2024-07-17 | BESTIA         | W   | 1.000      | 0.450        | 0.091 (0.041)    | 0.756 (0.340)    | -         |     9.46 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           74 |      599 | 2024-07-17 | BESTIA         | W   | 1.000      | 0.450        | 0.091 (0.041)    | 0.756 (0.340)    | -         |    10.21 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           73 |      699 | 2024-07-15 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     3.86 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           72 |      704 | 2024-07-15 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     4.02 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           71 |      920 | 2024-06-16 | paiN           | W   | 0.880      | 0.450        | 0.324 (0.128)    | 0.859 (0.340)    | -         |    21.39 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           70 |      943 | 2024-06-15 | inSanitY       | W   | 0.874      | -            | -                | -                | -         |     9.47 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           69 |      973 | 2024-06-14 | Sharks         | W   | 0.868      | 0.450        | -                | 0.583 (0.228)    | -         |    11.77 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           68 |     1174 | 2024-06-08 | KRÜ            | W   | 0.828      | -            | -                | -                | -         |     6.82 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           67 |     1248 | 2024-06-07 | Bounty Hunters | W   | 0.820      | -            | -                | -                | -         |     7.19 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           66 |     1313 | 2024-06-06 | W7M            | W   | 0.813      | -            | -                | -                | -         |     4.47 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           65 |     1353 | 2024-06-05 | paiN           | L   | 0.808      | -            | -                | -                | -         |    -4.80 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           64 |     1405 | 2024-06-04 | 9z             | L   | 0.802      | -            | -                | -                | -         |    -6.47 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           63 |     1724 | 2024-05-22 | BESTIA         | L   | 0.714      | -            | -                | -                | -         |   -12.50 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           62 |     1727 | 2024-05-22 | BESTIA         | L   | 0.714      | -            | -                | -                | -         |   -13.30 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           61 |     1798 | 2024-05-20 | RED Canids     | W   | 0.702      | 0.450        | 0.073 (0.023)    | 0.733 (0.231)    | -         |    11.46 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           60 |     1801 | 2024-05-20 | RED Canids     | L   | 0.701      | -            | -                | -                | -         |   -10.83 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           59 |     1858 | 2024-05-18 | 9z             | L   | 0.687      | -            | -                | -                | -         |    -7.05 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           58 |     1892 | 2024-05-17 | Case           | W   | 0.681      | -            | -                | -                | -         |     5.58 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           57 |     1926 | 2024-05-16 | RED Canids     | L   | 0.674      | -            | -                | -                | -         |   -11.82 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           56 |     1971 | 2024-05-15 | Smoke          | W   | 0.668      | -            | -                | -                | -         |     2.14 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           55 |     1972 | 2024-05-15 | Smoke          | W   | 0.668      | -            | -                | -                | -         |     2.19 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           54 |     1986 | 2024-05-15 | Imperial       | L   | 0.667      | -            | -                | -                | -         |    -6.30 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           53 |     2036 | 2024-05-14 | Sharks         | W   | 0.661      | -            | -                | -                | -         |     7.27 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           52 |     2049 | 2024-05-14 | ODDIK          | W   | 0.659      | 0.384        | 0.098 (0.025)    | -                | -         |     6.92 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           51 |     2069 | 2024-05-13 | Hype           | W   | 0.653      | -            | -                | -                | -         |     4.66 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           50 |     2095 | 2024-05-12 | Vikings KR     | W   | 0.646      | -            | -                | -                | -         |     3.83 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           49 |     2156 | 2024-05-09 | paiN           | W   | 0.629      | 0.450        | 0.324 (0.092)    | 0.859 (0.243)    | -         |    16.45 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           48 |     2161 | 2024-05-09 | paiN           | L   | 0.629      | -            | -                | -                | -         |    -3.27 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           47 |     2633 | 2024-04-18 | paiN           | L   | 0.489      | -            | -                | -                | -         |    -2.56 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           46 |     2640 | 2024-04-18 | Imperial       | L   | 0.488      | -            | -                | -                | -         |    -3.96 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           45 |     2687 | 2024-04-17 | ODDIK          | W   | 0.482      | -            | -                | -                | -         |     5.02 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           44 |     2695 | 2024-04-17 | Solid          | W   | 0.481      | -            | -                | -                | -         |     3.99 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           43 |     2726 | 2024-04-16 | Hype           | W   | 0.475      | -            | -                | -                | -         |     3.83 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           42 |     2785 | 2024-04-13 | Galorys        | L   | 0.453      | -            | -                | -                | -         |   -10.35 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           41 |     2851 | 2024-04-10 | Imperial       | W   | 0.435      | 0.450        | 0.234 (0.046)    | -                | -         |    10.32 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           40 |     2854 | 2024-04-10 | Imperial       | L   | 0.435      | -            | -                | -                | -         |    -3.39 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           39 |     2904 | 2024-04-09 | ODDIK          | W   | 0.428      | -            | -                | -                | -         |     4.58 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           38 |     2909 | 2024-04-09 | ODDIK          | W   | 0.428      | -            | -                | -                | -         |     4.73 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           37 |     2945 | 2024-04-08 | ODDIK          | W   | 0.421      | -            | -                | -                | -         |     4.82 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           36 |     2995 | 2024-04-06 | BESTIA         | L   | 0.408      | -            | -                | -                | -         |    -7.90 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           35 |     2996 | 2024-04-06 | Solid          | W   | 0.408      | -            | -                | -                | -         |     3.68 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           34 |     3011 | 2024-04-05 | MIBR           | L   | 0.402      | -            | -                | -                | -         |    -1.57 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           33 |     3012 | 2024-04-05 | MIBR           | W   | 0.402      | 0.450        | 0.210 (0.038)    | -                | -         |    11.21 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           32 |     3039 | 2024-04-04 | Corinthians    | W   | 0.395      | -            | -                | -                | -         |     0.55 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           31 |     3045 | 2024-04-04 | Corinthians    | W   | 0.395      | -            | -                | -                | -         |     0.55 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           30 |     3059 | 2024-04-04 | RED Canids     | L   | 0.393      | -            | -                | -                | -         |    -6.75 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           29 |     3075 | 2024-04-03 | MIBR           | L   | 0.389      | -            | -                | -                | -         |    -1.43 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           28 |     3086 | 2024-04-03 | BESTIA         | W   | 0.387      | -            | -                | -                | -         |     5.09 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           27 |     3123 | 2024-04-02 | MIBR           | L   | 0.382      | -            | -                | -                | -         |    -1.39 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           26 |     3127 | 2024-04-02 | BESTIA         | W   | 0.381      | -            | -                | -                | -         |     5.11 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           25 |     3211 | 2024-03-27 | Galorys        | L   | 0.342      | -            | -                | -                | -         |    -7.76 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           24 |     3217 | 2024-03-27 | Galorys        | W   | 0.342      | -            | -                | -                | -         |     3.04 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           23 |     3480 | 2024-03-13 | Intense        | W   | 0.248      | -            | -                | -                | -         |     1.22 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           22 |     3493 | 2024-03-13 | Solid          | L   | 0.247      | -            | -                | -                | -         |    -5.54 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           21 |     3519 | 2024-03-12 | MIBR           | W   | 0.241      | -            | -                | -                | -         |     6.72 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           20 |     3550 | 2024-03-11 | Sharks         | W   | 0.233      | -            | -                | -                | -         |     2.92 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           19 |     3593 | 2024-03-09 | Corinthians    | W   | 0.219      | -            | -                | -                | -         |     0.32 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           18 |     3628 | 2024-03-07 | Case           | L   | 0.208      | -            | -                | -                | -         |    -4.35 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           17 |     3653 | 2024-03-06 | Solid          | L   | 0.202      | -            | -                | -                | -         |    -4.55 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           16 |     3654 | 2024-03-06 | Solid          | W   | 0.202      | -            | -                | -                | -         |     1.83 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           15 |     3720 | 2024-03-04 | Case           | W   | 0.189      | -            | -                | -                | -         |     2.07 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           14 |     3721 | 2024-03-04 | Case           | W   | 0.188      | -            | -                | -                | -         |     2.10 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           13 |     3878 | 2024-02-25 | Imperial       | W   | 0.134      | -            | -                | -                | -         |     3.15 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           12 |     3908 | 2024-02-24 | Sharks         | W   | 0.128      | -            | -                | -                | -         |     1.60 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           11 |     3958 | 2024-02-21 | W7M            | L   | 0.109      | -            | -                | -                | -         |    -2.61 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           10 |     3963 | 2024-02-21 | W7M            | W   | 0.108      | -            | -                | -                | -         |     0.81 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            9 |     3967 | 2024-02-21 | Solid          | W   | 0.107      | -            | -                | -                | -         |     1.02 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            8 |     3995 | 2024-02-20 | Solid          | L   | 0.101      | -            | -                | -                | -         |    -2.23 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            7 |     4091 | 2024-02-16 | 9z             | W   | 0.074      | -            | -                | -                | -         |     1.69 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            6 |     4118 | 2024-02-15 | Imperial       | L   | 0.068      | -            | -                | -                | -         |    -0.55 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            5 |     4120 | 2024-02-15 | W7M            | W   | 0.068      | -            | -                | -                | -         |     0.52 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            4 |     4125 | 2024-02-15 | Sharks         | W   | 0.067      | -            | -                | -                | -         |     0.84 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            3 |     4126 | 2024-02-15 | Sharks         | W   | 0.067      | -            | -                | -                | -         |     0.84 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            2 |     4149 | 2024-02-14 | Intense        | W   | 0.062      | -            | -                | -                | -         |     0.32 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|            1 |     4214 | 2024-02-12 | Flamengo       | W   | 0.046      | -            | -                | -                | -         |     0.06 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|          106 |       25 | 2024-08-02 | Legacy         | L   | 1.000      | -            | -                | -                | -         |   -17.48 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          105 |       43 | 2024-08-02 | MIBR           | L   | 1.000      | -            | -                | -                | -         |    -7.84 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          104 |       70 | 2024-08-01 | Intense        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.08 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          103 |       74 | 2024-08-01 | BESTIA         | W   | 1.000      | 0.371        | 0.095 (0.035)    | 0.799 (0.296)    | 0 (0.000) |     9.81 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          102 |      108 | 2024-07-31 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.64 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          101 |      112 | 2024-07-31 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.95 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|          100 |      161 | 2024-07-30 | Bounty Hunters | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.47 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           99 |      202 | 2024-07-29 | Vikings KR     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.52 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           98 |      234 | 2024-07-28 | Intense        | L   | 1.000      | -            | -                | -                | -         |   -27.04 | arT, Lucaozy, nicks, vsm, zevy       |
+|           97 |      276 | 2024-07-26 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -13.87 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           96 |      280 | 2024-07-26 | W7M            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.73 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           95 |      285 | 2024-07-26 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -24.43 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           94 |      307 | 2024-07-25 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.19 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           93 |      312 | 2024-07-25 | Imperium Nexus | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.41 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           92 |      350 | 2024-07-24 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |   -15.46 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           91 |      353 | 2024-07-24 | Solid          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.42 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           90 |      383 | 2024-07-23 | BESTIA         | W   | 1.000      | -            | -                | -                | -         |     9.24 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           89 |      390 | 2024-07-23 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     3.40 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           88 |      393 | 2024-07-23 | Case           | L   | 1.000      | -            | -                | -                | -         |   -25.51 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           87 |      400 | 2024-07-23 | Solid          | W   | 1.000      | -            | -                | -                | -         |     5.01 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           86 |      423 | 2024-07-22 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |   -23.72 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           85 |      443 | 2024-07-21 | paiN           | W   | 1.000      | 0.384        | 0.328 (0.126)    | 0.865 (0.332)    | -         |    22.56 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           84 |      450 | 2024-07-21 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.46 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           83 |      471 | 2024-07-20 | Sharks         | W   | 1.000      | -            | -                | -                | -         |     7.58 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           82 |      484 | 2024-07-20 | ODDIK          | W   | 1.000      | -            | -                | -                | -         |     8.93 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           81 |      506 | 2024-07-19 | Vikings KR     | W   | 1.000      | -            | -                | -                | -         |     4.10 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           80 |      509 | 2024-07-19 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.76 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           79 |      515 | 2024-07-19 | Case           | W   | 1.000      | -            | -                | -                | -         |     5.59 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           78 |      549 | 2024-07-18 | Sharks         | W   | 1.000      | 0.450        | -                | 0.564 (0.254)    | -         |     8.00 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           77 |      551 | 2024-07-18 | Sharks         | W   | 1.000      | 0.450        | -                | 0.564 (0.254)    | -         |     8.57 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           76 |      564 | 2024-07-18 | Galorys        | W   | 1.000      | -            | -                | -                | -         |     3.89 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           75 |      617 | 2024-07-17 | BESTIA         | W   | 1.000      | 0.450        | 0.095 (0.043)    | 0.799 (0.360)    | -         |     9.40 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           74 |      622 | 2024-07-17 | BESTIA         | W   | 1.000      | 0.450        | 0.095 (0.043)    | 0.799 (0.360)    | -         |    10.14 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           73 |      725 | 2024-07-15 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     3.67 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           72 |      730 | 2024-07-15 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     3.81 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           71 |      956 | 2024-06-16 | paiN           | W   | 0.879      | 0.450        | 0.328 (0.130)    | 0.865 (0.342)    | -         |    21.52 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           70 |      984 | 2024-06-15 | inSanitY       | W   | 0.873      | -            | -                | -                | -         |     9.03 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           69 |     1020 | 2024-06-14 | Sharks         | W   | 0.866      | 0.450        | -                | 0.564 (0.220)    | -         |    11.68 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           68 |     1230 | 2024-06-08 | KRÜ            | W   | 0.827      | -            | -                | -                | -         |     6.37 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           67 |     1308 | 2024-06-07 | Bounty Hunters | W   | 0.818      | -            | -                | -                | -         |     6.77 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           66 |     1373 | 2024-06-06 | W7M            | W   | 0.812      | -            | -                | -                | -         |     4.23 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           65 |     1413 | 2024-06-05 | paiN           | L   | 0.806      | -            | -                | -                | -         |    -4.42 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           64 |     1465 | 2024-06-04 | 9z             | L   | 0.800      | -            | -                | -                | -         |    -2.49 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           63 |     1788 | 2024-05-22 | BESTIA         | L   | 0.713      | -            | -                | -                | -         |   -12.41 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           62 |     1791 | 2024-05-22 | BESTIA         | L   | 0.712      | -            | -                | -                | -         |   -13.20 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           61 |     1862 | 2024-05-20 | RED Canids     | W   | 0.700      | 0.450        | 0.077 (0.024)    | 0.743 (0.234)    | -         |    12.82 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           60 |     1865 | 2024-05-20 | RED Canids     | L   | 0.700      | -            | -                | -                | -         |    -9.33 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           59 |     1923 | 2024-05-18 | 9z             | L   | 0.685      | -            | -                | -                | -         |    -2.29 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           58 |     1957 | 2024-05-17 | Case           | W   | 0.679      | -            | -                | -                | -         |     5.54 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           57 |     1991 | 2024-05-16 | RED Canids     | L   | 0.673      | -            | -                | -                | -         |   -10.20 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           56 |     2036 | 2024-05-15 | Smoke          | W   | 0.667      | -            | -                | -                | -         |     2.08 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           55 |     2037 | 2024-05-15 | Smoke          | W   | 0.666      | -            | -                | -                | -         |     2.12 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           54 |     2051 | 2024-05-15 | Imperial       | L   | 0.665      | -            | -                | -                | -         |    -5.75 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           53 |     2101 | 2024-05-14 | Sharks         | W   | 0.659      | -            | -                | -                | -         |     7.26 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           52 |     2114 | 2024-05-14 | ODDIK          | W   | 0.658      | 0.384        | 0.098 (0.025)    | -                | -         |     6.98 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           51 |     2134 | 2024-05-13 | Hype           | W   | 0.652      | -            | -                | -                | -         |     4.61 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           50 |     2161 | 2024-05-12 | Vikings KR     | W   | 0.644      | -            | -                | -                | -         |     3.80 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           49 |     2221 | 2024-05-09 | paiN           | W   | 0.627      | 0.450        | 0.328 (0.093)    | 0.865 (0.244)    | -         |    16.84 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           48 |     2226 | 2024-05-09 | paiN           | L   | 0.627      | -            | -                | -                | -         |    -2.83 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           47 |     2699 | 2024-04-18 | paiN           | L   | 0.487      | -            | -                | -                | -         |    -2.16 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           46 |     2706 | 2024-04-18 | Imperial       | L   | 0.486      | -            | -                | -                | -         |    -3.60 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           45 |     2753 | 2024-04-17 | ODDIK          | W   | 0.480      | -            | -                | -                | -         |     5.10 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           44 |     2761 | 2024-04-17 | Solid          | W   | 0.479      | -            | -                | -                | -         |     3.89 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           43 |     2792 | 2024-04-16 | Hype           | W   | 0.474      | -            | -                | -                | -         |     3.81 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           42 |     2851 | 2024-04-13 | Galorys        | L   | 0.451      | -            | -                | -                | -         |   -10.20 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           41 |     2917 | 2024-04-10 | Imperial       | W   | 0.433      | 0.450        | 0.238 (0.046)    | -                | -         |    10.58 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           40 |     2920 | 2024-04-10 | Imperial       | L   | 0.433      | -            | -                | -                | -         |    -3.07 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           39 |     2970 | 2024-04-09 | ODDIK          | W   | 0.427      | -            | -                | -                | -         |     4.67 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           38 |     2975 | 2024-04-09 | ODDIK          | W   | 0.426      | -            | -                | -                | -         |     4.83 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           37 |     3011 | 2024-04-08 | ODDIK          | W   | 0.419      | -            | -                | -                | -         |     4.92 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           36 |     3061 | 2024-04-06 | BESTIA         | L   | 0.407      | -            | -                | -                | -         |    -7.77 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           35 |     3062 | 2024-04-06 | Solid          | W   | 0.406      | -            | -                | -                | -         |     3.59 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           34 |     3077 | 2024-04-05 | MIBR           | L   | 0.400      | -            | -                | -                | -         |    -1.62 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           33 |     3078 | 2024-04-05 | MIBR           | W   | 0.400      | 0.450        | 0.210 (0.038)    | -                | -         |    11.11 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           32 |     3105 | 2024-04-04 | Corinthians    | W   | 0.393      | -            | -                | -                | -         |     0.56 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           31 |     3111 | 2024-04-04 | Corinthians    | W   | 0.393      | -            | -                | -                | -         |     0.57 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           30 |     3125 | 2024-04-04 | RED Canids     | L   | 0.391      | -            | -                | -                | -         |    -5.44 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           29 |     3141 | 2024-04-03 | MIBR           | L   | 0.387      | -            | -                | -                | -         |    -1.47 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           28 |     3152 | 2024-04-03 | BESTIA         | W   | 0.386      | -            | -                | -                | -         |     5.18 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           27 |     3189 | 2024-04-02 | MIBR           | L   | 0.380      | -            | -                | -                | -         |    -1.43 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           26 |     3193 | 2024-04-02 | BESTIA         | W   | 0.379      | -            | -                | -                | -         |     5.20 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           25 |     3277 | 2024-03-27 | Galorys        | L   | 0.340      | -            | -                | -                | -         |    -7.60 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           24 |     3283 | 2024-03-27 | Galorys        | W   | 0.340      | -            | -                | -                | -         |     3.15 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           23 |     3552 | 2024-03-13 | Intense        | W   | 0.246      | -            | -                | -                | -         |     1.20 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           22 |     3565 | 2024-03-13 | Solid          | L   | 0.245      | -            | -                | -                | -         |    -5.54 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           21 |     3591 | 2024-03-12 | MIBR           | W   | 0.239      | -            | -                | -                | -         |     6.65 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           20 |     3623 | 2024-03-11 | Sharks         | W   | 0.231      | -            | -                | -                | -         |     2.89 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           19 |     3666 | 2024-03-09 | Corinthians    | W   | 0.217      | -            | -                | -                | -         |     0.32 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           18 |     3701 | 2024-03-07 | Case           | L   | 0.206      | -            | -                | -                | -         |    -4.36 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           17 |     3726 | 2024-03-06 | Solid          | L   | 0.200      | -            | -                | -                | -         |    -4.50 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           16 |     3727 | 2024-03-06 | Solid          | W   | 0.200      | -            | -                | -                | -         |     1.83 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           15 |     3793 | 2024-03-04 | Case           | W   | 0.187      | -            | -                | -                | -         |     2.01 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           14 |     3794 | 2024-03-04 | Case           | W   | 0.187      | -            | -                | -                | -         |     2.04 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           13 |     3951 | 2024-02-25 | Imperial       | W   | 0.133      | -            | -                | -                | -         |     3.23 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           12 |     3981 | 2024-02-24 | Sharks         | W   | 0.126      | -            | -                | -                | -         |     1.58 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           11 |     4031 | 2024-02-21 | W7M            | L   | 0.107      | -            | -                | -                | -         |    -2.58 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           10 |     4036 | 2024-02-21 | W7M            | W   | 0.107      | -            | -                | -                | -         |     0.80 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            9 |     4040 | 2024-02-21 | Solid          | W   | 0.105      | -            | -                | -                | -         |     1.01 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            8 |     4068 | 2024-02-20 | Solid          | L   | 0.099      | -            | -                | -                | -         |    -2.19 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            7 |     4164 | 2024-02-16 | 9z             | W   | 0.072      | -            | -                | -                | -         |     2.15 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            6 |     4191 | 2024-02-15 | Imperial       | L   | 0.066      | -            | -                | -                | -         |    -0.47 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            5 |     4193 | 2024-02-15 | W7M            | W   | 0.066      | -            | -                | -                | -         |     0.50 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            4 |     4198 | 2024-02-15 | Sharks         | W   | 0.065      | -            | -                | -                | -         |     0.82 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            3 |     4199 | 2024-02-15 | Sharks         | W   | 0.065      | -            | -                | -                | -         |     0.82 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            2 |     4222 | 2024-02-14 | Intense        | W   | 0.060      | -            | -                | -                | -         |     0.31 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|            1 |     4287 | 2024-02-12 | Flamengo       | W   | 0.044      | -            | -                | -                | -         |     0.06 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($40,592.22)
-- Divide that value by the 5th highest value among all rosters ($325,971.18)
+- First, take the sum of their top 10 scaled winnings ($40,482.59)
+- Divide that value by the 5th highest value among all rosters ($325,463.29)
 - The final value (0.12) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -158,11 +158,11 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-02 |      1.000 | $1,500.00      | $1,500.00       |
 | 2024-07-22 |      1.000 | $5,000.00      | $5,000.00       |
-| 2024-06-16 |      0.880 | $30,000.00     | $26,409.72      |
-| 2024-06-09 |      0.834 | $2,000.00      | $1,668.80       |
-| 2024-05-19 |      0.694 | $2,000.00      | $1,387.31       |
-| 2024-03-14 |      0.254 | $5,000.00      | $1,271.06       |
-| 2024-02-25 |      0.134 | $25,000.00     | $3,355.32       |
+| 2024-06-16 |      0.879 | $30,000.00     | $26,358.33      |
+| 2024-06-09 |      0.833 | $2,000.00      | $1,665.37       |
+| 2024-05-19 |      0.692 | $2,000.00      | $1,383.89       |
+| 2024-03-14 |      0.253 | $5,000.00      | $1,262.50       |
+| 2024-02-25 |      0.133 | $25,000.00     | $3,312.50       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

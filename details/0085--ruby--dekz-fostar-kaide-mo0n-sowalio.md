@@ -6,22 +6,22 @@ Global Rank: [85](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [63]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  912.0<br />
+Final Rank Value:  908.0<br />
 <br />
-Final Rank Value (912.0) = Starting Rank Value (933.7) + Head To Head Adjustments (-21.7)<br />
+Final Rank Value (908.0) = Starting Rank Value (931.0) + Head To Head Adjustments (-23.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.495[<sup>1</sup>](#table2)
 - Bounty Collected: 0.377[<sup>2</sup>](#table1)
-- Opponent Network: 0.172[<sup>2</sup>](#table1)
+- Opponent Network: 0.168[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.261<br />
+The average of these factors is 0.260<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 933.7
-- 400 + ( ( 0.261 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 933.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 931.0
+- 400 + ( ( 0.260 - 0.000 ) / ( 0.783 - 0.000 ) ) * 1600 = 931.0
 
 
 #### Factors<br />
@@ -37,69 +37,70 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           46 |      303 | 2024-07-25 | 9z              | L   | 1.000      | -            | -                | -                | -         |    -4.09 | dekz, fostar, Kaide, mo0N, sowalio |
-|           45 |      382 | 2024-07-23 | Metizport       | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.433 (0.188)    | 0 (0.000) |    17.04 | dekz, fostar, Kaide, mo0N, sowalio |
-|           44 |      478 | 2024-07-20 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |    -9.61 | dekz, fostar, Kaide, mo0N, sowalio |
-|           43 |      629 | 2024-07-17 | VP.Prodigy      | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.416 (0.181)    | 0 (0.000) |    14.30 | dekz, fostar, Kaide, mo0N, sowalio |
-|           42 |      673 | 2024-07-16 | Sampi           | L   | 1.000      | -            | -                | -                | -         |   -15.69 | dekz, fostar, Kaide, mo0N, sowalio |
-|           41 |      931 | 2024-06-16 | ARCRED          | W   | 0.879      | 0.450        | 0.041 (0.016)    | 0.356 (0.141)    | 0 (0.000) |    15.86 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           40 |      947 | 2024-06-15 | System5         | L   | 0.873      | -            | -                | -                | -         |   -21.44 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           39 |      959 | 2024-06-15 | Spirit Academy  | W   | 0.873      | 0.450        | 0.013 (0.005)    | -                | 0 (0.000) |     7.87 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           38 |      989 | 2024-06-14 | LEON            | W   | 0.866      | -            | -                | -                | 0 (0.000) |     6.57 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           37 |     1127 | 2024-06-09 | Insilio         | L   | 0.833      | -            | -                | -                | -         |   -10.83 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           36 |     1268 | 2024-06-07 | SINNERS         | L   | 0.818      | -            | -                | -                | -         |   -10.22 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           35 |     1382 | 2024-06-05 | ARCRED          | L   | 0.806      | -            | -                | -                | -         |   -13.12 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           34 |     1397 | 2024-06-05 | Rare Atom       | L   | 0.804      | -            | -                | -                | -         |   -20.41 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           33 |     1445 | 2024-06-03 | Insilio         | W   | 0.794      | 0.372        | 0.023 (0.007)    | 0.581 (0.172)    | 0 (0.000) |    12.45 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           32 |     1454 | 2024-06-03 | HAVU            | L   | 0.793      | -            | -                | -                | -         |   -19.64 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           31 |     1487 | 2024-06-01 | Zero Tenacity   | W   | 0.781      | 0.372        | 0.137 (0.040)    | 1.000 (0.291)    | 0 (0.000) |    17.60 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           30 |     1549 | 2024-05-30 | Portugal        | W   | 0.767      | -            | -                | -                | 0 (0.000) |     4.59 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           29 |     1562 | 2024-05-30 | FURIA           | L   | 0.765      | -            | -                | -                | -         |    -0.63 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           28 |     1606 | 2024-05-28 | MOUZ NXT        | L   | 0.753      | -            | -                | -                | -         |    -8.09 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           27 |     1646 | 2024-05-26 | Zero Tenacity   | L   | 0.739      | -            | -                | -                | -         |    -6.89 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           26 |     1656 | 2024-05-25 | B8              | L   | 0.734      | -            | -                | -                | -         |    -5.33 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           25 |     1694 | 2024-05-23 | Nexus           | W   | 0.720      | 0.435        | 0.014 (0.004)    | 0.441 (0.138)    | 0 (0.000) |     6.55 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           24 |     1787 | 2024-05-21 | Endpoint        | W   | 0.704      | 0.435        | -                | 0.540 (0.165)    | 0 (0.000) |    10.40 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           23 |     2124 | 2024-05-11 | 9 Pandas        | L   | 0.640      | -            | -                | -                | -         |    -8.42 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           22 |     2150 | 2024-05-10 | Nemiga          | W   | 0.631      | 0.435        | 0.318 (0.087)    | 0.719 (0.197)    | -         |    15.29 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           21 |     2206 | 2024-05-07 | Insilio         | W   | 0.613      | 0.435        | 0.023 (0.006)    | 0.581 (0.155)    | -         |     9.70 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           20 |     2249 | 2024-05-05 | HAVU            | W   | 0.599      | -            | -                | -                | -         |     4.20 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           19 |     2279 | 2024-05-03 | V1dar           | W   | 0.585      | -            | -                | -                | -         |     1.87 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           18 |     2336 | 2024-05-01 | GL Academy      | L   | 0.571      | -            | -                | -                | -         |   -13.13 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           17 |     2378 | 2024-04-29 | Permitta        | L   | 0.558      | -            | -                | -                | -         |    -8.63 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           16 |     2409 | 2024-04-27 | Astralis Talent | W   | 0.546      | -            | -                | -                | -         |     0.78 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           15 |     2568 | 2024-04-20 | Zero Tenacity   | L   | 0.499      | -            | -                | -                | -         |    -5.37 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           14 |     2648 | 2024-04-18 | Sashi           | L   | 0.487      | -            | -                | -                | -         |    -4.16 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           13 |     2658 | 2024-04-18 | Aurora          | W   | 0.486      | 0.143        | 0.425 (0.030)    | -                | -         |    15.02 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           12 |     2665 | 2024-04-18 | NOM             | W   | 0.486      | -            | -                | -                | -         |     1.62 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           11 |     2718 | 2024-04-17 | JANO            | W   | 0.478      | -            | -                | -                | -         |     2.95 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|           10 |     3353 | 2024-03-19 | Sashi           | L   | 0.287      | -            | -                | -                | -         |    -2.25 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            9 |     3410 | 2024-03-16 | Permitta        | W   | 0.266      | 0.372        | -                | 0.887 (0.088)    | -         |     4.59 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            8 |     3544 | 2024-03-11 | Nexus           | L   | 0.233      | -            | -                | -                | -         |    -4.65 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            7 |     3581 | 2024-03-09 | Spirit Academy  | W   | 0.220      | -            | -                | -                | -         |     0.75 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            6 |     3607 | 2024-03-08 | ARCRED          | W   | 0.213      | -            | -                | -                | -         |     2.77 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            5 |     3837 | 2024-02-27 | Spirit Academy  | L   | 0.147      | -            | -                | -                | -         |    -4.17 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            4 |     3841 | 2024-02-27 | ALTERNATE aTTaX | W   | 0.147      | -            | -                | -                | -         |     2.65 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            3 |     4245 | 2024-02-09 | FORZE           | L   | 0.026      | -            | -                | -                | -         |    -0.46 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            2 |     4256 | 2024-02-08 | AMKAL           | L   | 0.020      | -            | -                | -                | -         |    -0.15 | dekz, Kaide, mo0N, sowalio, w1nt3r |
-|            1 |     4259 | 2024-02-08 | ex-Guild Eagles | W   | 0.019      | -            | -                | -                | -         |     0.21 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           47 |      326 | 2024-07-25 | 9z              | L   | 1.000      | -            | -                | -                | -         |    -1.27 | dekz, fostar, Kaide, mo0N, sowalio |
+|           46 |      406 | 2024-07-23 | Metizport       | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.418 (0.182)    | 0 (0.000) |    17.37 | dekz, fostar, Kaide, mo0N, sowalio |
+|           45 |      501 | 2024-07-20 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |    -9.04 | dekz, fostar, Kaide, mo0N, sowalio |
+|           44 |      654 | 2024-07-17 | VP.Prodigy      | W   | 1.000      | 0.435        | 0.026 (0.011)    | 0.402 (0.175)    | 0 (0.000) |    14.58 | dekz, fostar, Kaide, mo0N, sowalio |
+|           43 |      699 | 2024-07-16 | Sampi           | L   | 1.000      | -            | -                | -                | -         |   -15.32 | dekz, fostar, Kaide, mo0N, sowalio |
+|           42 |      968 | 2024-06-16 | ARCRED          | W   | 0.877      | 0.450        | 0.041 (0.016)    | 0.344 (0.136)    | 0 (0.000) |    16.06 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           41 |      988 | 2024-06-15 | System5         | L   | 0.872      | -            | -                | -                | -         |   -21.19 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           40 |     1001 | 2024-06-15 | Spirit Academy  | W   | 0.871      | 0.450        | 0.013 (0.005)    | -                | 0 (0.000) |     8.11 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           39 |     1032 | 2024-06-14 | Zero Tenacity   | L   | 0.865      | -            | -                | -                | -         |    -7.33 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           38 |     1039 | 2024-06-14 | LEON            | W   | 0.864      | -            | -                | -                | 0 (0.000) |     6.39 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           37 |     1181 | 2024-06-09 | Insilio         | L   | 0.831      | -            | -                | -                | -         |   -10.81 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           36 |     1328 | 2024-06-07 | SINNERS         | L   | 0.817      | -            | -                | -                | -         |   -10.06 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           35 |     1441 | 2024-06-05 | ARCRED          | L   | 0.804      | -            | -                | -                | -         |   -13.11 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           34 |     1457 | 2024-06-05 | Rare Atom       | L   | 0.802      | -            | -                | -                | -         |   -20.29 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           33 |     1506 | 2024-06-03 | Insilio         | W   | 0.792      | 0.372        | 0.023 (0.007)    | 0.561 (0.166)    | 0 (0.000) |    12.42 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           32 |     1515 | 2024-06-03 | HAVU            | L   | 0.791      | -            | -                | -                | -         |   -19.59 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           31 |     1549 | 2024-06-01 | Zero Tenacity   | W   | 0.779      | 0.372        | 0.137 (0.040)    | 1.000 (0.290)    | 0 (0.000) |    17.75 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           30 |     1612 | 2024-05-30 | Portugal        | W   | 0.765      | -            | -                | -                | 0 (0.000) |     4.61 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           29 |     1625 | 2024-05-30 | FURIA           | L   | 0.764      | -            | -                | -                | -         |    -0.61 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           28 |     1669 | 2024-05-28 | MOUZ NXT        | L   | 0.751      | -            | -                | -                | -         |    -7.96 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           27 |     1710 | 2024-05-26 | Zero Tenacity   | L   | 0.737      | -            | -                | -                | -         |    -6.76 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           26 |     1720 | 2024-05-25 | B8              | L   | 0.732      | -            | -                | -                | -         |    -5.24 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           25 |     1758 | 2024-05-23 | Nexus           | W   | 0.718      | 0.435        | 0.014 (0.004)    | 0.465 (0.145)    | 0 (0.000) |     6.55 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           24 |     1851 | 2024-05-21 | Endpoint        | W   | 0.703      | 0.435        | -                | 0.522 (0.160)    | 0 (0.000) |    10.38 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           23 |     2189 | 2024-05-11 | 9 Pandas        | L   | 0.638      | -            | -                | -                | -         |    -8.26 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           22 |     2215 | 2024-05-10 | Nemiga          | W   | 0.629      | 0.435        | 0.318 (0.087)    | 0.695 (0.190)    | -         |    15.28 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           21 |     2272 | 2024-05-07 | Insilio         | W   | 0.611      | 0.435        | 0.023 (0.006)    | 0.561 (0.149)    | -         |     9.68 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           20 |     2315 | 2024-05-05 | HAVU            | W   | 0.597      | -            | -                | -                | -         |     4.22 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           19 |     2345 | 2024-05-03 | V1dar           | W   | 0.584      | -            | -                | -                | -         |     1.89 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           18 |     2402 | 2024-05-01 | GL Academy      | L   | 0.569      | -            | -                | -                | -         |   -13.06 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           17 |     2444 | 2024-04-29 | Permitta        | L   | 0.556      | -            | -                | -                | -         |    -8.57 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           16 |     2475 | 2024-04-27 | Astralis Talent | W   | 0.544      | -            | -                | -                | -         |     0.79 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           15 |     2634 | 2024-04-20 | Zero Tenacity   | L   | 0.497      | -            | -                | -                | -         |    -5.30 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           14 |     2714 | 2024-04-18 | Sashi           | L   | 0.485      | -            | -                | -                | -         |    -4.24 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           13 |     2724 | 2024-04-18 | Aurora          | W   | 0.485      | 0.143        | 0.424 (0.029)    | -                | -         |    14.97 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           12 |     2731 | 2024-04-18 | NOM             | W   | 0.484      | -            | -                | -                | -         |     1.63 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           11 |     2784 | 2024-04-17 | JANO            | W   | 0.476      | -            | -                | -                | -         |     2.97 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|           10 |     3424 | 2024-03-19 | Sashi           | L   | 0.285      | -            | -                | -                | -         |    -2.24 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            9 |     3481 | 2024-03-16 | Permitta        | W   | 0.265      | 0.372        | -                | 0.876 (0.086)    | -         |     4.58 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            8 |     3617 | 2024-03-11 | Nexus           | L   | 0.232      | -            | -                | -                | -         |    -4.62 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            7 |     3654 | 2024-03-09 | Spirit Academy  | W   | 0.218      | -            | -                | -                | -         |     0.75 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            6 |     3680 | 2024-03-08 | ARCRED          | W   | 0.212      | -            | -                | -                | -         |     2.75 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            5 |     3910 | 2024-02-27 | Spirit Academy  | L   | 0.145      | -            | -                | -                | -         |    -4.11 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            4 |     3914 | 2024-02-27 | ALTERNATE aTTaX | W   | 0.145      | -            | -                | -                | -         |     2.63 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            3 |     4318 | 2024-02-09 | FORZE           | L   | 0.024      | -            | -                | -                | -         |    -0.43 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            2 |     4329 | 2024-02-08 | AMKAL           | L   | 0.019      | -            | -                | -                | -         |    -0.14 | dekz, Kaide, mo0N, sowalio, w1nt3r |
+|            1 |     4332 | 2024-02-08 | ex-Guild Eagles | W   | 0.018      | -            | -                | -                | -         |     0.19 | dekz, Kaide, mo0N, sowalio, w1nt3r |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($31,079.41)
-- Divide that value by the 5th highest value among all rosters ($325,971.18)
+- First, take the sum of their top 10 scaled winnings ($31,015.51)
+- Divide that value by the 5th highest value among all rosters ($325,463.29)
 - The final value (0.10) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.879 | $30,000.00     | $26,359.72      |
-| 2024-06-10 |      0.840 | $3,300.00      | $2,773.53       |
-| 2024-05-12 |      0.647 | $2,000.00      | $1,293.29       |
-| 2024-03-25 |      0.326 | $2,000.00      | $652.87         |
+| 2024-06-16 |      0.877 | $30,000.00     | $26,308.33      |
+| 2024-06-10 |      0.839 | $3,300.00      | $2,767.88       |
+| 2024-05-12 |      0.645 | $2,000.00      | $1,289.86       |
+| 2024-03-25 |      0.325 | $2,000.00      | $649.44         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
