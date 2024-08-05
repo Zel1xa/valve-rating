@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |      158 | 2024-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -1.05 | DJF, Seb, Tender, wiz, Wolffe |
-|           27 |      164 | 2024-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -1.06 | DJF, Seb, Tender, wiz, Wolffe |
-|           26 |      404 | 2024-07-24 | LAG              | L   | 1.000      | -            | -                | -                | -         |    -9.57 | DJF, Seb, Tender, wiz, Wolffe |
-|           25 |      407 | 2024-07-24 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -10.33 | DJF, Seb, Tender, wiz, Wolffe |
-|           24 |      437 | 2024-07-23 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.25 | DJF, Seb, Tender, wiz, Wolffe |
-|           23 |      439 | 2024-07-23 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.51 | DJF, Seb, Tender, wiz, Wolffe |
-|           22 |      670 | 2024-07-17 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -10.33 | DJF, Seb, Tender, wiz, Wolffe |
-|           21 |      673 | 2024-07-17 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -11.18 | DJF, Seb, Tender, wiz, Wolffe |
-|           20 |      728 | 2024-07-16 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.13 | DJF, Seb, Tender, wiz, Wolffe |
-|           19 |      734 | 2024-07-16 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.49 | DJF, Seb, Tender, wiz, Wolffe |
-|           18 |      778 | 2024-07-15 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.52 | DJF, Seb, Tender, wiz, Wolffe |
-|           17 |      781 | 2024-07-15 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.03 | DJF, Seb, Tender, wiz, Wolffe |
-|           16 |     1125 | 2024-06-13 | E-Xolos LAZER    | L   | 0.847      | -            | -                | -                | -         |   -11.89 | Lake, micro, Seb, Tender, wiz |
-|           15 |     1478 | 2024-06-05 | LAG              | L   | 0.795      | -            | -                | -                | -         |   -10.44 | Lake, micro, Seb, Tender, wiz |
-|           14 |     1520 | 2024-06-04 | LAG              | L   | 0.789      | -            | -                | -                | -         |   -11.11 | Lake, micro, Seb, Tender, wiz |
-|           13 |     1834 | 2024-05-22 | MIGHT            | W   | 0.702      | 0.477        | 0.000 (0.000)    | 0.058 (0.019)    | 0 (0.000) |     4.05 | Lake, micro, Seb, Tender, wiz |
-|           12 |     1839 | 2024-05-22 | MIGHT            | W   | 0.702      | 0.477        | 0.000 (0.000)    | 0.058 (0.019)    | 0 (0.000) |     4.21 | Lake, micro, Seb, Tender, wiz |
-|           11 |     1887 | 2024-05-21 | Legacy           | L   | 0.695      | -            | -                | -                | -         |    -4.69 | Lake, micro, Seb, Tender, wiz |
-|           10 |     1889 | 2024-05-21 | Wildcard         | L   | 0.695      | -            | -                | -                | -         |    -7.18 | Lake, micro, Seb, Tender, wiz |
-|            9 |     1893 | 2024-05-21 | Wildcard         | L   | 0.694      | -            | -                | -                | -         |    -7.58 | Lake, micro, Seb, Tender, wiz |
-|            8 |     1918 | 2024-05-20 | BOSS             | W   | 0.689      | 0.477        | 0.014 (0.005)    | 0.327 (0.107)    | 0 (0.000) |    10.83 | Lake, micro, Seb, Tender, wiz |
-|            7 |     1922 | 2024-05-20 | BOSS             | L   | 0.689      | -            | -                | -                | -         |   -11.08 | Lake, micro, Seb, Tender, wiz |
-|            6 |     2045 | 2024-05-16 | Take Flyte       | W   | 0.662      | 0.477        | 0.002 (0.001)    | 0.237 (0.075)    | 0 (0.000) |     7.48 | Lake, micro, Seb, Tender, wiz |
-|            5 |     2046 | 2024-05-16 | Take Flyte       | W   | 0.662      | 0.477        | 0.002 (0.001)    | 0.237 (0.075)    | 0 (0.000) |     7.90 | Lake, micro, Seb, Tender, wiz |
-|            4 |     2083 | 2024-05-15 | Nouns            | W   | 0.656      | 0.477        | 0.057 (0.018)    | 0.553 (0.173)    | 0 (0.000) |    14.22 | Lake, micro, Seb, Tender, wiz |
-|            3 |     2088 | 2024-05-15 | Nouns            | W   | 0.656      | 0.477        | 0.057 (0.018)    | 0.553 (0.173)    | 0 (0.000) |    14.92 | Lake, micro, Seb, Tender, wiz |
-|            2 |     2139 | 2024-05-14 | LAG              | L   | 0.649      | -            | -                | -                | -         |    -8.53 | Lake, micro, Seb, Tender, wiz |
-|            1 |     2145 | 2024-05-14 | LAG              | W   | 0.649      | 0.477        | 0.012 (0.004)    | 0.347 (0.107)    | 0 (0.000) |    12.22 | Lake, micro, Seb, Tender, wiz |
+|           28 |      159 | 2024-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -1.05 | DJF, Seb, Tender, wiz, Wolffe |
+|           27 |      165 | 2024-07-31 | M80              | L   | 1.000      | -            | -                | -                | -         |    -1.06 | DJF, Seb, Tender, wiz, Wolffe |
+|           26 |      405 | 2024-07-24 | LAG              | L   | 1.000      | -            | -                | -                | -         |    -9.57 | DJF, Seb, Tender, wiz, Wolffe |
+|           25 |      408 | 2024-07-24 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -10.33 | DJF, Seb, Tender, wiz, Wolffe |
+|           24 |      438 | 2024-07-23 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.25 | DJF, Seb, Tender, wiz, Wolffe |
+|           23 |      440 | 2024-07-23 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -5.52 | DJF, Seb, Tender, wiz, Wolffe |
+|           22 |      671 | 2024-07-17 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -10.33 | DJF, Seb, Tender, wiz, Wolffe |
+|           21 |      674 | 2024-07-17 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -11.18 | DJF, Seb, Tender, wiz, Wolffe |
+|           20 |      729 | 2024-07-16 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.13 | DJF, Seb, Tender, wiz, Wolffe |
+|           19 |      735 | 2024-07-16 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.49 | DJF, Seb, Tender, wiz, Wolffe |
+|           18 |      779 | 2024-07-15 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.52 | DJF, Seb, Tender, wiz, Wolffe |
+|           17 |      782 | 2024-07-15 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.03 | DJF, Seb, Tender, wiz, Wolffe |
+|           16 |     1126 | 2024-06-13 | E-Xolos LAZER    | L   | 0.846      | -            | -                | -                | -         |   -11.88 | Lake, micro, Seb, Tender, wiz |
+|           15 |     1479 | 2024-06-05 | LAG              | L   | 0.794      | -            | -                | -                | -         |   -10.44 | Lake, micro, Seb, Tender, wiz |
+|           14 |     1521 | 2024-06-04 | LAG              | L   | 0.789      | -            | -                | -                | -         |   -11.11 | Lake, micro, Seb, Tender, wiz |
+|           13 |     1835 | 2024-05-22 | MIGHT            | W   | 0.702      | 0.477        | 0.000 (0.000)    | 0.058 (0.019)    | 0 (0.000) |     4.05 | Lake, micro, Seb, Tender, wiz |
+|           12 |     1840 | 2024-05-22 | MIGHT            | W   | 0.702      | 0.477        | 0.000 (0.000)    | 0.058 (0.019)    | 0 (0.000) |     4.21 | Lake, micro, Seb, Tender, wiz |
+|           11 |     1888 | 2024-05-21 | Legacy           | L   | 0.695      | -            | -                | -                | -         |    -4.69 | Lake, micro, Seb, Tender, wiz |
+|           10 |     1890 | 2024-05-21 | Wildcard         | L   | 0.694      | -            | -                | -                | -         |    -7.17 | Lake, micro, Seb, Tender, wiz |
+|            9 |     1894 | 2024-05-21 | Wildcard         | L   | 0.694      | -            | -                | -                | -         |    -7.58 | Lake, micro, Seb, Tender, wiz |
+|            8 |     1919 | 2024-05-20 | BOSS             | W   | 0.688      | 0.477        | 0.014 (0.005)    | 0.327 (0.107)    | 0 (0.000) |    10.82 | Lake, micro, Seb, Tender, wiz |
+|            7 |     1923 | 2024-05-20 | BOSS             | L   | 0.688      | -            | -                | -                | -         |   -11.07 | Lake, micro, Seb, Tender, wiz |
+|            6 |     2046 | 2024-05-16 | Take Flyte       | W   | 0.662      | 0.477        | 0.002 (0.001)    | 0.236 (0.075)    | 0 (0.000) |     7.48 | Lake, micro, Seb, Tender, wiz |
+|            5 |     2047 | 2024-05-16 | Take Flyte       | W   | 0.662      | 0.477        | 0.002 (0.001)    | 0.236 (0.075)    | 0 (0.000) |     7.89 | Lake, micro, Seb, Tender, wiz |
+|            4 |     2084 | 2024-05-15 | Nouns            | W   | 0.655      | 0.477        | 0.057 (0.018)    | 0.553 (0.173)    | 0 (0.000) |    14.21 | Lake, micro, Seb, Tender, wiz |
+|            3 |     2089 | 2024-05-15 | Nouns            | W   | 0.655      | 0.477        | 0.057 (0.018)    | 0.553 (0.173)    | 0 (0.000) |    14.91 | Lake, micro, Seb, Tender, wiz |
+|            2 |     2140 | 2024-05-14 | LAG              | L   | 0.649      | -            | -                | -                | -         |    -8.52 | Lake, micro, Seb, Tender, wiz |
+|            1 |     2146 | 2024-05-14 | LAG              | W   | 0.648      | 0.477        | 0.012 (0.004)    | 0.347 (0.107)    | 0 (0.000) |    12.21 | Lake, micro, Seb, Tender, wiz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,643.89)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- First, take the sum of their top 10 scaled winnings ($1,643.06)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

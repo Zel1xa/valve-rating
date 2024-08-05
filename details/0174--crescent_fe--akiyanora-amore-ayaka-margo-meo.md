@@ -37,38 +37,38 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1305 | 2024-06-08 | NOFEAR5           | L   | 0.813      | -            | -                | -                | -         |   -12.12 | akiyanora, amore, ayaka, Margo, meo |
-|           14 |     1327 | 2024-06-08 | ENCE Athena       | W   | 0.812      | 0.270        | 0.002 (0.001)    | 0.034 (0.008)    | 0 (0.000) |    11.66 | akiyanora, amore, ayaka, Margo, meo |
-|           13 |     1764 | 2024-05-26 | NIP Impact        | W   | 0.727      | 0.250        | 0.005 (0.001)    | 0.225 (0.041)    | 0 (0.000) |    14.05 | akiyanora, amore, ayaka, Margo, meo |
-|           12 |     1990 | 2024-05-18 | Imperial fe       | L   | 0.673      | -            | -                | -                | -         |    -1.98 | akiyanora, amore, ayaka, Margo, meo |
-|           11 |     2372 | 2024-05-05 | Imperial fe       | L   | 0.586      | -            | -                | -                | -         |    -1.76 | akiyanora, amore, ayaka, Margo, meo |
-|           10 |     2733 | 2024-04-19 | NAVI Javelins     | L   | 0.480      | -            | -                | -                | -         |    -3.83 | akiyanora, amore, ayaka, Margo, meo |
-|            9 |     2947 | 2024-04-11 | Fearless Cheetahs | L   | 0.427      | -            | -                | -                | -         |    -5.86 | akiyanora, amore, ayaka, Margo, meo |
-|            8 |     3000 | 2024-04-10 | Permitta W        | L   | 0.419      | -            | -                | -                | -         |    -9.42 | akiyanora, amore, ayaka, Margo, meo |
-|            7 |     3083 | 2024-04-08 | Imperial fe       | L   | 0.406      | -            | -                | -                | -         |    -1.38 | akiyanora, amore, ayaka, Margo, meo |
-|            6 |     3318 | 2024-03-28 | 1WIN Gang         | W   | 0.334      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     5.17 | akiyanora, amore, ayaka, Margo, meo |
-|            5 |     3470 | 2024-03-20 | Spirit fe         | L   | 0.280      | -            | -                | -                | -         |    -4.34 | akiyanora, amore, ayaka, Margo, meo |
-|            4 |     3624 | 2024-03-13 | Let Her Cook      | L   | 0.234      | -            | -                | -                | -         |    -1.37 | akiyanora, amore, ayaka, Margo, meo |
-|            3 |     3625 | 2024-03-13 | Let Her Cook      | L   | 0.234      | -            | -                | -                | -         |    -1.35 | akiyanora, amore, ayaka, Margo, meo |
-|            2 |     4052 | 2024-02-24 | NAVI Javelins     | L   | 0.112      | -            | -                | -                | -         |    -1.06 | akiyanora, amore, ayaka, Margo, meo |
-|            1 |     4183 | 2024-02-18 | dream catchers fe | W   | 0.073      | 0.143        | 0.016 (0.000)    | 0.170 (0.002)    | 0 (0.000) |     1.33 | akiyanora, amore, ayaka, Margo, meo |
+|           15 |     1306 | 2024-06-08 | NOFEAR5           | L   | 0.813      | -            | -                | -                | -         |   -12.11 | akiyanora, amore, ayaka, Margo, meo |
+|           14 |     1328 | 2024-06-08 | ENCE Athena       | W   | 0.812      | 0.270        | 0.002 (0.001)    | 0.034 (0.007)    | 0 (0.000) |    11.66 | akiyanora, amore, ayaka, Margo, meo |
+|           13 |     1765 | 2024-05-26 | NIP Impact        | W   | 0.726      | 0.250        | 0.005 (0.001)    | 0.225 (0.041)    | 0 (0.000) |    14.05 | akiyanora, amore, ayaka, Margo, meo |
+|           12 |     1991 | 2024-05-18 | Imperial fe       | L   | 0.673      | -            | -                | -                | -         |    -1.98 | akiyanora, amore, ayaka, Margo, meo |
+|           11 |     2373 | 2024-05-05 | Imperial fe       | L   | 0.585      | -            | -                | -                | -         |    -1.75 | akiyanora, amore, ayaka, Margo, meo |
+|           10 |     2734 | 2024-04-19 | NAVI Javelins     | L   | 0.480      | -            | -                | -                | -         |    -3.82 | akiyanora, amore, ayaka, Margo, meo |
+|            9 |     2948 | 2024-04-11 | Fearless Cheetahs | L   | 0.426      | -            | -                | -                | -         |    -5.86 | akiyanora, amore, ayaka, Margo, meo |
+|            8 |     3001 | 2024-04-10 | Permitta W        | L   | 0.419      | -            | -                | -                | -         |    -9.41 | akiyanora, amore, ayaka, Margo, meo |
+|            7 |     3084 | 2024-04-08 | Imperial fe       | L   | 0.405      | -            | -                | -                | -         |    -1.37 | akiyanora, amore, ayaka, Margo, meo |
+|            6 |     3319 | 2024-03-28 | 1WIN Gang         | W   | 0.333      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     5.16 | akiyanora, amore, ayaka, Margo, meo |
+|            5 |     3471 | 2024-03-20 | Spirit fe         | L   | 0.280      | -            | -                | -                | -         |    -4.34 | akiyanora, amore, ayaka, Margo, meo |
+|            4 |     3625 | 2024-03-13 | Let Her Cook      | L   | 0.233      | -            | -                | -                | -         |    -1.36 | akiyanora, amore, ayaka, Margo, meo |
+|            3 |     3626 | 2024-03-13 | Let Her Cook      | L   | 0.233      | -            | -                | -                | -         |    -1.35 | akiyanora, amore, ayaka, Margo, meo |
+|            2 |     4053 | 2024-02-24 | NAVI Javelins     | L   | 0.112      | -            | -                | -                | -         |    -1.05 | akiyanora, amore, ayaka, Margo, meo |
+|            1 |     4184 | 2024-02-18 | dream catchers fe | W   | 0.073      | 0.143        | 0.016 (0.000)    | 0.170 (0.002)    | 0 (0.000) |     1.32 | akiyanora, amore, ayaka, Margo, meo |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,453.66)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- First, take the sum of their top 10 scaled winnings ($1,452.68)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-08 |      0.813 | $300.00        | $244.04         |
-| 2024-05-26 |      0.727 | $750.00        | $545.02         |
-| 2024-05-05 |      0.586 | $250.00        | $146.46         |
-| 2024-04-21 |      0.493 | $1,050.00      | $518.15         |
+| 2024-06-08 |      0.813 | $300.00        | $243.92         |
+| 2024-05-26 |      0.726 | $750.00        | $544.70         |
+| 2024-05-05 |      0.585 | $250.00        | $146.35         |
+| 2024-04-21 |      0.493 | $1,050.00      | $517.71         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

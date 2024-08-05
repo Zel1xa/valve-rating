@@ -19,11 +19,11 @@
 | 14       |   1024 | Sharks            | doc, gafolo, koala, pepe, rdnzao                 | [details](details/0055--sharks--doc-gafolo-koala-pepe-rdnzao.md)                       |
 | 15       |    999 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0061--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |
 | 16       |    990 | NRG               | autimatic, Brehze, HexT, nitr0, oSee             | [details](details/0065--nrg--autimatic-brehze-hext-nitr0-osee.md)                      |
-| 17       |    968 | inSanitY          | cass1n, f4stzin, iDk, pesadelo, shz              | [details](details/0067--insanity--cass1n-f4stzin-idk-pesadelo-shz.md)                  |
-| 18       |    967 | Party Astronauts  | ben1337, cxzi, FaNg, Infinite, WolfY             | [details](details/0068--party_astronauts--ben1337-cxzi-fang-infinite-wolfy.md)         |
-| 19       |    959 | Solid             | ALLE, destiny, gbb, Lcm, xureba                  | [details](details/0069--solid--alle-destiny-gbb-lcm-xureba.md)                         |
-| 20       |    952 | Wildcard          | JBa, MarKE, phzy, Sonic, susp                    | [details](details/0072--wildcard--jba-marke-phzy-sonic-susp.md)                        |
-| 21       |    946 | Wildcard          | JBa, motm, SLIGHT, Sonic, stanislaw              | [details](details/0075--wildcard--jba-motm-slight-sonic-stanislaw.md)                  |
+| 17       |    968 | inSanitY          | cass1n, f4stzin, iDk, pesadelo, shz              | [details](details/0068--insanity--cass1n-f4stzin-idk-pesadelo-shz.md)                  |
+| 18       |    967 | Party Astronauts  | ben1337, cxzi, FaNg, Infinite, WolfY             | [details](details/0069--party_astronauts--ben1337-cxzi-fang-infinite-wolfy.md)         |
+| 19       |    959 | Solid             | ALLE, destiny, gbb, Lcm, xureba                  | [details](details/0070--solid--alle-destiny-gbb-lcm-xureba.md)                         |
+| 20       |    952 | Wildcard          | JBa, MarKE, phzy, Sonic, susp                    | [details](details/0073--wildcard--jba-marke-phzy-sonic-susp.md)                        |
+| 21       |    946 | Wildcard          | JBa, motm, SLIGHT, Sonic, stanislaw              | [details](details/0077--wildcard--jba-motm-slight-sonic-stanislaw.md)                  |
 | 22       |    918 | Bounty Hunters    | bnc, KAISER, piriajr, reix, SHOOWTiME            | [details](details/0088--bounty_hunters--bnc-kaiser-piriajr-reix-shoowtime.md)          |
 | 23       |    908 | Elevate           | dare, intra, Peeping, shane, snav                | [details](details/0090--elevate--dare-intra-peeping-shane-snav.md)                     |
 | 24       |    895 | Case              | bsd, nyezin, RICIOLI, urban0, yepz               | [details](details/0092--case--bsd-nyezin-ricioli-urban0-yepz.md)                       |
@@ -49,8 +49,8 @@
 | 44       |    693 | TSM Shimmer       | empathy, Juli, Lx, madss, phoebe                 | [details](details/0157--tsm_shimmer--empathy-juli-lx-madss-phoebe.md)                  |
 | 45       |    670 | 2GAME             | beg0d, dok, dzt, santos, vhz                     | [details](details/0166--2game--beg0d-dok-dzt-santos-vhz.md)                            |
 | 46       |    668 | Limitless         | DJF, Seb, Tender, wiz, Wolffe                    | [details](details/0167--limitless--djf-seb-tender-wiz-wolffe.md)                       |
-| 47       |    666 | Homyno            | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE            | [details](details/0168--homyno--binox-j0lz-melio-sup3rant-tenskee.md)                  |
-| 48       |    665 | Carpe Diem        | arcade, Lake, micro, Seb, wiz                    | [details](details/0170--carpe_diem--arcade-lake-micro-seb-wiz.md)                      |
+| 47       |    666 | Homyno            | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE            | [details](details/0169--homyno--binox-j0lz-melio-sup3rant-tenskee.md)                  |
+| 48       |    665 | Carpe Diem        | arcade, Lake, micro, Seb, wiz                    | [details](details/0171--carpe_diem--arcade-lake-micro-seb-wiz.md)                      |
 | 49       |    660 | SPORT             | DANVIET, PremiuM, timid, voltera, xns            | [details](details/0173--sport--danviet-premium-timid-voltera-xns.md)                   |
 | 50       |    640 | Take Flyte        | cbass, Grave, jchancE, serv0, z0mb1e             | [details](details/0181--take_flyte--cbass-grave-jchance-serv0-z0mb1e.md)               |
 | 51       |    624 | adalYamigos       | delboNi, f4stzin, piriajr, shz, zqkS             | [details](details/0184--adalyamigos--delboni-f4stzin-piriajr-shz-zqks.md)              |

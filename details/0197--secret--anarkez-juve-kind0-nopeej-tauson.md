@@ -6,9 +6,9 @@ Global Rank: [197](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [125]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  534.1<br />
+Final Rank Value:  534.2<br />
 <br />
-Final Rank Value (534.1) = Starting Rank Value (538.4) + Head To Head Adjustments (-4.3)<br />
+Final Rank Value (534.2) = Starting Rank Value (538.4) + Head To Head Adjustments (-4.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |     2179 | 2024-05-14 | WOPA          | L   | 0.645      | -            | -                | -                | -         |    -7.90 | anarkez, Juve, Kind0, NOPEEJ, Tauson   |
-|           19 |     2191 | 2024-05-13 | LEON          | L   | 0.641      | -            | -                | -                | -         |    -6.24 | anarkez, Juve, Kind0, NOPEEJ, Tauson   |
-|           18 |     2735 | 2024-04-19 | Portugal      | L   | 0.480      | -            | -                | -                | -         |    -4.84 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           17 |     2790 | 2024-04-18 | Nemiga        | L   | 0.473      | -            | -                | -                | -         |    -0.47 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           16 |     2801 | 2024-04-18 | 500           | W   | 0.472      | 0.143        | 0.001 (0.000)    | 0.094 (0.006)    | 0 (0.000) |    11.10 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           15 |     2824 | 2024-04-17 | Illuminar     | L   | 0.467      | -            | -                | -                | -         |    -7.97 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           14 |     2874 | 2024-04-16 | Sampi         | L   | 0.458      | -            | -                | -                | -         |    -1.73 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           13 |     2889 | 2024-04-15 | PGE Turow     | W   | 0.452      | 0.371        | 0.001 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     9.20 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           12 |     2961 | 2024-04-11 | ENCE Academy  | L   | 0.425      | -            | -                | -                | -         |    -3.73 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           11 |     3148 | 2024-04-05 | 9 Pandas      | W   | 0.385      | 0.384        | 0.081 (0.012)    | 0.718 (0.106)    | 0 (0.000) |    11.34 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|           10 |     3667 | 2024-03-12 | Endpoint      | L   | 0.225      | -            | -                | -                | -         |    -0.87 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
-|            9 |     3752 | 2024-03-08 | Metizport     | L   | 0.199      | -            | -                | -                | -         |    -0.95 | anarkez, innocent, Kind0, Maze, Tauson |
-|            8 |     3782 | 2024-03-07 | ex-Preasy     | L   | 0.191      | -            | -                | -                | -         |    -1.18 | anarkez, innocent, Kind0, Maze, Tauson |
-|            7 |     3863 | 2024-03-04 | Fraud5        | L   | 0.172      | -            | -                | -                | -         |    -1.93 | anarkez, innocent, Kind0, Maze, Tauson |
-|            6 |     3899 | 2024-03-03 | Zero Tenacity | L   | 0.165      | -            | -                | -                | -         |    -0.21 | anarkez, innocent, Kind0, Maze, Tauson |
-|            5 |     3919 | 2024-03-02 | Zero Tenacity | L   | 0.158      | -            | -                | -                | -         |    -0.20 | anarkez, innocent, Kind0, Maze, Tauson |
-|            4 |     3961 | 2024-02-28 | Permitta      | W   | 0.139      | 0.143        | 0.024 (0.000)    | 0.863 (0.017)    | 0 (0.000) |     3.98 | anarkez, innocent, Kind0, Maze, Tauson |
-|            3 |     4020 | 2024-02-25 | Entropiq      | L   | 0.119      | -            | -                | -                | -         |    -1.83 | anarkez, innocent, Kind0, Maze, Tauson |
-|            2 |     4216 | 2024-02-17 | Sampi         | L   | 0.065      | -            | -                | -                | -         |    -0.26 | anarkez, innocent, Kind0, Maze, Tauson |
-|            1 |     4371 | 2024-02-10 | 500           | W   | 0.019      | 0.358        | 0.001 (0.000)    | 0.094 (0.001)    | 0 (0.000) |     0.42 | anarkez, innocent, Kind0, Maze, Tauson |
+|           20 |     2180 | 2024-05-14 | WOPA          | L   | 0.645      | -            | -                | -                | -         |    -7.89 | anarkez, Juve, Kind0, NOPEEJ, Tauson   |
+|           19 |     2192 | 2024-05-13 | LEON          | L   | 0.640      | -            | -                | -                | -         |    -6.24 | anarkez, Juve, Kind0, NOPEEJ, Tauson   |
+|           18 |     2736 | 2024-04-19 | Portugal      | L   | 0.480      | -            | -                | -                | -         |    -4.84 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           17 |     2791 | 2024-04-18 | Nemiga        | L   | 0.472      | -            | -                | -                | -         |    -0.47 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           16 |     2802 | 2024-04-18 | 500           | W   | 0.471      | 0.143        | 0.001 (0.000)    | 0.094 (0.006)    | 0 (0.000) |    11.08 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           15 |     2825 | 2024-04-17 | Illuminar     | L   | 0.467      | -            | -                | -                | -         |    -7.96 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           14 |     2875 | 2024-04-16 | Sampi         | L   | 0.457      | -            | -                | -                | -         |    -1.72 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           13 |     2890 | 2024-04-15 | PGE Turow     | W   | 0.451      | 0.371        | 0.001 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     9.19 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           12 |     2962 | 2024-04-11 | ENCE Academy  | L   | 0.425      | -            | -                | -                | -         |    -3.73 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           11 |     3149 | 2024-04-05 | 9 Pandas      | W   | 0.385      | 0.384        | 0.081 (0.012)    | 0.717 (0.106)    | 0 (0.000) |    11.32 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|           10 |     3668 | 2024-03-12 | Endpoint      | L   | 0.224      | -            | -                | -                | -         |    -0.87 | anarkez, Kind0, Maze, NOPEEJ, Tauson   |
+|            9 |     3753 | 2024-03-08 | Metizport     | L   | 0.198      | -            | -                | -                | -         |    -0.95 | anarkez, innocent, Kind0, Maze, Tauson |
+|            8 |     3783 | 2024-03-07 | ex-Preasy     | L   | 0.191      | -            | -                | -                | -         |    -1.18 | anarkez, innocent, Kind0, Maze, Tauson |
+|            7 |     3864 | 2024-03-04 | Fraud5        | L   | 0.172      | -            | -                | -                | -         |    -1.92 | anarkez, innocent, Kind0, Maze, Tauson |
+|            6 |     3900 | 2024-03-03 | Zero Tenacity | L   | 0.164      | -            | -                | -                | -         |    -0.21 | anarkez, innocent, Kind0, Maze, Tauson |
+|            5 |     3920 | 2024-03-02 | Zero Tenacity | L   | 0.158      | -            | -                | -                | -         |    -0.20 | anarkez, innocent, Kind0, Maze, Tauson |
+|            4 |     3962 | 2024-02-28 | Permitta      | W   | 0.138      | 0.143        | 0.024 (0.000)    | 0.902 (0.018)    | 0 (0.000) |     4.00 | anarkez, innocent, Kind0, Maze, Tauson |
+|            3 |     4021 | 2024-02-25 | Entropiq      | L   | 0.118      | -            | -                | -                | -         |    -1.82 | anarkez, innocent, Kind0, Maze, Tauson |
+|            2 |     4217 | 2024-02-17 | Sampi         | L   | 0.065      | -            | -                | -                | -         |    -0.26 | anarkez, innocent, Kind0, Maze, Tauson |
+|            1 |     4372 | 2024-02-10 | 500           | W   | 0.018      | 0.358        | 0.001 (0.000)    | 0.094 (0.001)    | 0 (0.000) |     0.41 | anarkez, innocent, Kind0, Maze, Tauson |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

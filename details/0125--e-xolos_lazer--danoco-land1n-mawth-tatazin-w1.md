@@ -8,7 +8,7 @@ Regional Rank: [33]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  799.9<br />
 <br />
-Final Rank Value (799.9) = Starting Rank Value (776.8) + Head To Head Adjustments (23.1)<br />
+Final Rank Value (799.9) = Starting Rank Value (776.8) + Head To Head Adjustments (23.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,50 +37,50 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |       53 | 2024-08-03 | undefined        | L   | 1.000      | -            | -                | -                | -         |   -24.90 | danoco, land1n, mawth, tatazin, w1   |
-|           28 |      157 | 2024-07-31 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.347 (0.165)    | 0 (0.000) |    13.26 | danoco, land1n, mawth, tatazin, w1   |
-|           27 |      162 | 2024-07-31 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.347 (0.165)    | 0 (0.000) |    14.46 | danoco, land1n, mawth, tatazin, w1   |
-|           26 |      208 | 2024-07-30 | M80              | L   | 1.000      | -            | -                | -                | -         |    -2.11 | danoco, land1n, mawth, tatazin, w1   |
-|           25 |      212 | 2024-07-30 | M80              | L   | 1.000      | -            | -                | -                | -         |    -2.16 | danoco, land1n, mawth, tatazin, w1   |
-|           24 |      338 | 2024-07-26 | Vibe             | W   | 1.000      | 0.371        | -                | 0.070 (0.026)    | 0 (0.000) |     3.03 | danoco, land1n, mawth, tatazin, w1   |
-|           23 |      403 | 2024-07-24 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | 0.003 (0.001)    | 0.310 (0.148)    | 0 (0.000) |    12.62 | danoco, land1n, mawth, tatazin, w1   |
-|           22 |      406 | 2024-07-24 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |   -19.16 | danoco, land1n, mawth, tatazin, w1   |
-|           21 |      598 | 2024-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.38 | danoco, land1n, mawth, tatazin, w1   |
-|           20 |      602 | 2024-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.99 | danoco, land1n, mawth, tatazin, w1   |
-|           19 |      724 | 2024-07-16 | Nouns            | W   | 1.000      | 0.477        | 0.057 (0.027)    | 0.553 (0.264)    | 0 (0.000) |    23.06 | danoco, land1n, mawth, tatazin, w1   |
-|           18 |      730 | 2024-07-16 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -7.95 | danoco, land1n, mawth, tatazin, w1   |
-|           17 |     1011 | 2024-06-16 | Akimbo           | W   | 0.869      | 0.143        | 0.015 (0.002)    | 0.270 (0.033)    | 0 (0.000) |    12.78 | land1n, mawth, RenanZin, tatazin, w1 |
-|           16 |     1039 | 2024-06-15 | Homyno           | W   | 0.862      | 0.143        | 0.007 (0.001)    | -                | 0 (0.000) |     9.11 | land1n, mawth, RenanZin, tatazin, w1 |
-|           15 |     1074 | 2024-06-14 | Take Flyte       | L   | 0.856      | -            | -                | -                | -         |   -18.18 | land1n, mawth, RenanZin, tatazin, w1 |
-|           14 |     1125 | 2024-06-13 | Limitless        | W   | 0.847      | 0.371        | 0.005 (0.002)    | 0.131 (0.041)    | 0 (0.000) |    11.89 | land1n, mawth, RenanZin, tatazin, w1 |
-|           13 |     1148 | 2024-06-12 | Homyno           | W   | 0.842      | -            | -                | -                | 0 (0.000) |     9.34 | land1n, mawth, RenanZin, tatazin, w1 |
-|           12 |     1149 | 2024-06-12 | Limitless        | W   | 0.841      | -            | -                | -                | 0 (0.000) |     7.28 | land1n, mawth, RenanZin, tatazin, w1 |
-|           11 |     1200 | 2024-06-10 | Homyno           | W   | 0.827      | 0.371        | 0.007 (0.002)    | 0.156 (0.048)    | -         |    10.33 | land1n, mawth, RenanZin, tatazin, w1 |
-|           10 |     1224 | 2024-06-09 | Akimbo           | L   | 0.822      | -            | -                | -                | -         |   -12.56 | land1n, mawth, RenanZin, tatazin, w1 |
-|            9 |     1286 | 2024-06-08 | straykids        | W   | 0.816      | 0.368        | 0.005 (0.002)    | -                | -         |     9.04 | land1n, mawth, RenanZin, tatazin, w1 |
-|            8 |     1295 | 2024-06-08 | Akimbo           | W   | 0.814      | 0.371        | -                | 0.073 (0.022)    | -         |     9.17 | land1n, mawth, RenanZin, tatazin, w1 |
-|            7 |     1342 | 2024-06-07 | Homyno           | W   | 0.809      | 0.368        | 0.007 (0.002)    | 0.156 (0.047)    | -         |    11.38 | land1n, mawth, RenanZin, tatazin, w1 |
-|            6 |     1404 | 2024-06-06 | Final Form       | L   | 0.802      | -            | -                | -                | -         |   -19.40 | land1n, mawth, RenanZin, tatazin, w1 |
-|            5 |     1420 | 2024-06-06 | Party Astronauts | L   | 0.800      | -            | -                | -                | -         |    -6.81 | land1n, mawth, RenanZin, tatazin, w1 |
-|            4 |     1521 | 2024-06-04 | Legacy           | L   | 0.789      | -            | -                | -                | -         |    -5.49 | land1n, mawth, RenanZin, tatazin, w1 |
-|            3 |     1562 | 2024-06-03 | Perseverance     | W   | 0.781      | -            | -                | -                | -         |     4.79 | land1n, mawth, RenanZin, tatazin, w1 |
-|            2 |     1930 | 2024-05-20 | M80              | L   | 0.688      | -            | -                | -                | -         |    -1.47 | land1n, mawth, RenanZin, tatazin, w1 |
-|            1 |     4223 | 2024-02-16 | Mythic           | L   | 0.062      | -            | -                | -                | -         |    -0.93 | land1n, mawth, RenanZin, tatazin, w1 |
+|           29 |       54 | 2024-08-03 | undefined        | L   | 1.000      | -            | -                | -                | -         |   -24.90 | danoco, land1n, mawth, tatazin, w1   |
+|           28 |      158 | 2024-07-31 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.347 (0.165)    | 0 (0.000) |    13.26 | danoco, land1n, mawth, tatazin, w1   |
+|           27 |      163 | 2024-07-31 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.347 (0.165)    | 0 (0.000) |    14.46 | danoco, land1n, mawth, tatazin, w1   |
+|           26 |      209 | 2024-07-30 | M80              | L   | 1.000      | -            | -                | -                | -         |    -2.11 | danoco, land1n, mawth, tatazin, w1   |
+|           25 |      213 | 2024-07-30 | M80              | L   | 1.000      | -            | -                | -                | -         |    -2.16 | danoco, land1n, mawth, tatazin, w1   |
+|           24 |      339 | 2024-07-26 | Vibe             | W   | 1.000      | 0.371        | -                | 0.070 (0.026)    | 0 (0.000) |     3.03 | danoco, land1n, mawth, tatazin, w1   |
+|           23 |      404 | 2024-07-24 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | 0.003 (0.001)    | 0.310 (0.148)    | 0 (0.000) |    12.62 | danoco, land1n, mawth, tatazin, w1   |
+|           22 |      407 | 2024-07-24 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |   -19.16 | danoco, land1n, mawth, tatazin, w1   |
+|           21 |      599 | 2024-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.38 | danoco, land1n, mawth, tatazin, w1   |
+|           20 |      603 | 2024-07-18 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.99 | danoco, land1n, mawth, tatazin, w1   |
+|           19 |      725 | 2024-07-16 | Nouns            | W   | 1.000      | 0.477        | 0.057 (0.027)    | 0.553 (0.264)    | 0 (0.000) |    23.06 | danoco, land1n, mawth, tatazin, w1   |
+|           18 |      731 | 2024-07-16 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -7.95 | danoco, land1n, mawth, tatazin, w1   |
+|           17 |     1012 | 2024-06-16 | Akimbo           | W   | 0.868      | 0.143        | 0.015 (0.002)    | 0.270 (0.033)    | 0 (0.000) |    12.77 | land1n, mawth, RenanZin, tatazin, w1 |
+|           16 |     1040 | 2024-06-15 | Homyno           | W   | 0.862      | 0.143        | 0.007 (0.001)    | -                | 0 (0.000) |     9.11 | land1n, mawth, RenanZin, tatazin, w1 |
+|           15 |     1075 | 2024-06-14 | Take Flyte       | L   | 0.855      | -            | -                | -                | -         |   -18.17 | land1n, mawth, RenanZin, tatazin, w1 |
+|           14 |     1126 | 2024-06-13 | Limitless        | W   | 0.846      | 0.371        | 0.005 (0.002)    | 0.131 (0.041)    | 0 (0.000) |    11.88 | land1n, mawth, RenanZin, tatazin, w1 |
+|           13 |     1149 | 2024-06-12 | Homyno           | W   | 0.842      | -            | -                | -                | 0 (0.000) |     9.34 | land1n, mawth, RenanZin, tatazin, w1 |
+|           12 |     1150 | 2024-06-12 | Limitless        | W   | 0.841      | -            | -                | -                | 0 (0.000) |     7.28 | land1n, mawth, RenanZin, tatazin, w1 |
+|           11 |     1201 | 2024-06-10 | Homyno           | W   | 0.826      | 0.371        | 0.007 (0.002)    | 0.156 (0.048)    | -         |    10.33 | land1n, mawth, RenanZin, tatazin, w1 |
+|           10 |     1225 | 2024-06-09 | Akimbo           | L   | 0.822      | -            | -                | -                | -         |   -12.55 | land1n, mawth, RenanZin, tatazin, w1 |
+|            9 |     1287 | 2024-06-08 | straykids        | W   | 0.815      | 0.368        | 0.005 (0.002)    | -                | -         |     9.04 | land1n, mawth, RenanZin, tatazin, w1 |
+|            8 |     1296 | 2024-06-08 | Akimbo           | W   | 0.814      | 0.371        | -                | 0.073 (0.022)    | -         |     9.16 | land1n, mawth, RenanZin, tatazin, w1 |
+|            7 |     1343 | 2024-06-07 | Homyno           | W   | 0.809      | 0.368        | 0.007 (0.002)    | 0.156 (0.047)    | -         |    11.37 | land1n, mawth, RenanZin, tatazin, w1 |
+|            6 |     1405 | 2024-06-06 | Final Form       | L   | 0.801      | -            | -                | -                | -         |   -19.39 | land1n, mawth, RenanZin, tatazin, w1 |
+|            5 |     1421 | 2024-06-06 | Party Astronauts | L   | 0.800      | -            | -                | -                | -         |    -6.81 | land1n, mawth, RenanZin, tatazin, w1 |
+|            4 |     1522 | 2024-06-04 | Legacy           | L   | 0.789      | -            | -                | -                | -         |    -5.49 | land1n, mawth, RenanZin, tatazin, w1 |
+|            3 |     1563 | 2024-06-03 | Perseverance     | W   | 0.781      | -            | -                | -                | -         |     4.79 | land1n, mawth, RenanZin, tatazin, w1 |
+|            2 |     1931 | 2024-05-20 | M80              | L   | 0.687      | -            | -                | -                | -         |    -1.47 | land1n, mawth, RenanZin, tatazin, w1 |
+|            1 |     4224 | 2024-02-16 | Mythic           | L   | 0.061      | -            | -                | -                | -         |    -0.92 | land1n, mawth, RenanZin, tatazin, w1 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,387.56)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- First, take the sum of their top 10 scaled winnings ($3,385.88)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.869 | $750.00        | $651.77         |
-| 2024-06-10 |      0.829 | $3,300.00      | $2,735.79       |
+| 2024-06-16 |      0.869 | $750.00        | $651.46         |
+| 2024-06-10 |      0.829 | $3,300.00      | $2,734.42       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

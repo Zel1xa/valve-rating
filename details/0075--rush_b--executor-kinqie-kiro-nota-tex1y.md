@@ -1,0 +1,91 @@
+### Roster Details<br />
+Team Name: RUSH B<br />
+Roster: executor, kinqie, Kiro, nota, tex1y<br />
+Global Rank: [75](../standings_global.md)<br />
+<br />
+Region: [Europe]( ../standings_europe.md)<br />
+Regional Rank: [54]( ../standings_europe.md)<br />
+<br />
+Final Rank Value:  946.8<br />
+<br />
+Final Rank Value (946.8) = Starting Rank Value (861.3) + Head To Head Adjustments (85.4)<br />
+
+#### Starting Rank Value<br />
+To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
+- Bounty Offered: 0.387[<sup>1</sup>](#table2)
+- Bounty Collected: 0.361[<sup>2</sup>](#table1)
+- Opponent Network: 0.152[<sup>2</sup>](#table1)
+- LAN Wins: 0.000[<sup>2</sup>](#table1)
+
+The average of these factors is 0.225<br />
+<br />
+Next, take the maximum and minimum average across all teams and compute the following:<br />
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 861.3
+- 400 + ( ( 0.225 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 861.3
+
+
+#### Factors<br />
+Below you can see a table of all of the matches that contributed to this roster's Final Rank Value.<br />
+Note:<br />
+
+- For Bounty Collected, Opponent Network, and LAN Wins, we consider only the ten best results over the past 6 months.
+- Raw values for those factors are multiplied by Age Weight. Bounty and Opponent Network values are also multiplied by Event Weight. The adjusted value is shown in parenthesis.
+- The final value for a factor is the total of its adjusted values divided by 10. Bounty Collected is further scaled by the curve function[<sup>3</sup>](#curveFunction)
+- Head to head adjustments are based on rosters' starting rank values. The results shown below are adjusted by Age Weight and not Event Weight
+<span id="table1"></span><br />
+
+
+| Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
+| -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
+|           31 |       39 | 2024-08-04 | BC.Game         | L   | 1.000      | -            | -                | -                | -         |   -16.04 | executor, kinqie, Kiro, nota, tex1y |
+|           30 |       77 | 2024-08-03 | Alliance        | W   | 1.000      | 0.342        | 0.017 (0.006)    | 0.292 (0.100)    | 0 (0.000) |    11.47 | executor, kinqie, Kiro, nota, tex1y |
+|           29 |      115 | 2024-08-02 | Astralis Talent | W   | 1.000      | 0.342        | -                | 0.160 (0.055)    | 0 (0.000) |     6.59 | executor, kinqie, Kiro, nota, tex1y |
+|           28 |      226 | 2024-07-30 | Rebels          | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.591 (0.296)    | 0 (0.000) |    19.57 | executor, kinqie, Kiro, nota, tex1y |
+|           27 |      457 | 2024-07-23 | SINNERS         | W   | 1.000      | 0.500        | 0.037 (0.019)    | 0.809 (0.404)    | 0 (0.000) |    19.05 | executor, kinqie, Kiro, nota, tex1y |
+|           26 |      581 | 2024-07-19 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -5.28 | executor, kinqie, Kiro, nota, tex1y |
+|           25 |      699 | 2024-07-17 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |   -19.04 | executor, kinqie, Kiro, nota, tex1y |
+|           24 |      800 | 2024-07-15 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -5.32 | executor, kinqie, Kiro, nota, tex1y |
+|           23 |     1210 | 2024-06-10 | PARIVISION      | L   | 0.825      | -            | -                | -                | -         |    -8.07 | executor, kinqie, Kiro, nota, tex1y |
+|           22 |     1218 | 2024-06-10 | SAW             | L   | 0.825      | -            | -                | -                | -         |    -5.80 | executor, kinqie, Kiro, nota, tex1y |
+|           21 |     1223 | 2024-06-10 | Monte           | W   | 0.824      | 0.143        | 0.080 (0.009)    | 0.611 (0.072)    | 0 (0.000) |    16.06 | executor, kinqie, Kiro, nota, tex1y |
+|           20 |     1252 | 2024-06-09 | 9 Pandas        | W   | 0.819      | 0.143        | 0.081 (0.009)    | 0.717 (0.084)    | 0 (0.000) |    17.80 | executor, kinqie, Kiro, nota, tex1y |
+|           19 |     1261 | 2024-06-09 | Aurora          | W   | 0.818      | 0.143        | 0.422 (0.049)    | 0.778 (0.091)    | 0 (0.000) |    24.68 | executor, kinqie, Kiro, nota, tex1y |
+|           18 |     1268 | 2024-06-09 | SINNERS         | W   | 0.818      | 0.143        | 0.037 (0.004)    | 0.809 (0.095)    | 0 (0.000) |    18.21 | executor, kinqie, Kiro, nota, tex1y |
+|           17 |     1279 | 2024-06-09 | 3DMAX           | L   | 0.818      | -            | -                | -                | -         |    -0.86 | executor, kinqie, Kiro, nota, tex1y |
+|           16 |     1430 | 2024-06-06 | Aurora          | L   | 0.800      | -            | -                | -                | -         |    -0.66 | executor, kinqie, Kiro, nota, tex1y |
+|           15 |     1493 | 2024-06-05 | SINNERS         | L   | 0.793      | -            | -                | -                | -         |    -7.65 | executor, kinqie, Kiro, nota, tex1y |
+|           14 |     1541 | 2024-06-04 | SAW             | W   | 0.786      | 0.500        | 0.104 (0.041)    | 0.530 (0.208)    | 0 (0.000) |    21.22 | executor, kinqie, Kiro, nota, tex1y |
+|           13 |     2339 | 2024-05-07 | MOUZ NXT        | L   | 0.598      | -            | -                | -                | -         |    -5.32 | executor, kinqie, Kiro, nota, tex1y |
+|           12 |     2368 | 2024-05-05 | Sampi           | L   | 0.586      | -            | -                | -                | -         |    -7.96 | executor, kinqie, Kiro, nota, tex1y |
+|           11 |     2389 | 2024-05-04 | HAVU            | W   | 0.579      | -            | -                | -                | 0 (0.000) |     5.20 | executor, kinqie, Kiro, nota, tex1y |
+|           10 |     2434 | 2024-05-02 | EYEBALLERS      | L   | 0.565      | -            | -                | -                | -         |    -8.38 | executor, kinqie, Kiro, nota, tex1y |
+|            9 |     2491 | 2024-04-29 | ENCE Academy    | W   | 0.547      | -            | -                | -                | -         |     5.09 | executor, kinqie, Kiro, nota, tex1y |
+|            8 |     2994 | 2024-04-10 | KOI             | L   | 0.420      | -            | -                | -                | -         |    -3.22 | executor, kinqie, Kiro, nota, tex1y |
+|            7 |     3048 | 2024-04-09 | PARIVISION      | W   | 0.413      | 0.500        | 0.017 (0.004)    | 0.565 (0.117)    | -         |    10.20 | executor, kinqie, Kiro, nota, tex1y |
+|            6 |     3283 | 2024-04-01 | PERA            | L   | 0.359      | -            | -                | -                | -         |    -4.95 | executor, kinqie, Kiro, nota, tex1y |
+|            5 |     3292 | 2024-03-31 | Monte           | W   | 0.353      | 0.500        | 0.057 (0.010)    | -                | -         |     7.35 | executor, kinqie, Kiro, nota, tex1y |
+|            4 |     3304 | 2024-03-29 | System5         | W   | 0.340      | -            | -                | -                | -         |     2.80 | executor, kinqie, Kiro, nota, tex1y |
+|            3 |     3621 | 2024-03-13 | Betera          | W   | 0.233      | -            | -                | -                | -         |     2.09 | executor, kinqie, Kiro, nota, tex1y |
+|            2 |     3886 | 2024-03-03 | Metizport       | L   | 0.166      | -            | -                | -                | -         |    -2.81 | executor, kinqie, Kiro, nota, tex1y |
+|            1 |     3997 | 2024-02-26 | SAW             | L   | 0.127      | -            | -                | -                | -         |    -0.62 | executor, kinqie, Kiro, nota, tex1y |
+
+<br />
+<span id="table2"></span><br />
+To calculate a roster's Bounty Offered:<br />
+
+- First, take the sum of their top 10 scaled winnings ($8,325.03)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+
+Top ten winnings for this roster:<br />
+
+| Event Date | Age Weight | Prize Winnings | Scaled Winnings |
+| :- | -: | :- | :- |
+| 2024-08-04 |      1.000 | $3,000.00      | $3,000.00       |
+| 2024-06-09 |      0.819 | $6,500.00      | $5,325.03       |
+
+
+<span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
+
+---
+_Event data for Regional Standings provided by HLTV.org_<br />

@@ -37,32 +37,32 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      827 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.19 | Frip, keen, prelideN, rud, shadiy    |
-|            9 |      890 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.106 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
-|            8 |      926 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.508 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.05 | Frip, keen, prelideN, rud, shadiy    |
-|            7 |      934 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.77 | Frip, keen, prelideN, rud, shadiy    |
-|            6 |     1281 | 2024-06-09 | Esprots         | L   | 0.818      | -            | -                | -                | -         |   -18.01 | Frip, keen, prelideN, raw, shadiy    |
-|            5 |     1299 | 2024-06-08 | hypewrld        | W   | 0.814      | 0.334        | 0.002 (0.001)    | 0.027 (0.007)    | 1 (0.814) |     5.93 | Frip, keen, prelideN, raw, shadiy    |
-|            4 |     2363 | 2024-05-05 | hypewrld        | W   | 0.587      | 0.257        | 0.002 (0.000)    | 0.027 (0.004)    | 1 (0.587) |     4.49 | flairr, Frip, Mairel, rud, shadiy    |
-|            3 |     2370 | 2024-05-05 | MightyWolves    | W   | 0.586      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.586) |     1.28 | flairr, Frip, Mairel, rud, shadiy    |
-|            2 |     4045 | 2024-02-24 | hypewrld        | W   | 0.114      | 0.262        | 0.002 (0.000)    | 0.027 (0.001)    | 1 (0.114) |     0.88 | EIZA, keen, prelideN, shadiy, shield |
-|            1 |     4050 | 2024-02-24 | kloogarand      | W   | 0.113      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.113) |     0.41 | EIZA, keen, prelideN, shadiy, shield |
+|           10 |      828 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.17 | Frip, keen, prelideN, rud, shadiy    |
+|            9 |      891 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.106 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
+|            8 |      927 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.508 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.06 | Frip, keen, prelideN, rud, shadiy    |
+|            7 |      935 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.77 | Frip, keen, prelideN, rud, shadiy    |
+|            6 |     1282 | 2024-06-09 | Esprots         | L   | 0.817      | -            | -                | -                | -         |   -18.00 | Frip, keen, prelideN, raw, shadiy    |
+|            5 |     1300 | 2024-06-08 | hypewrld        | W   | 0.813      | 0.334        | 0.002 (0.001)    | 0.027 (0.007)    | 1 (0.813) |     5.93 | Frip, keen, prelideN, raw, shadiy    |
+|            4 |     2364 | 2024-05-05 | hypewrld        | W   | 0.586      | 0.257        | 0.002 (0.000)    | 0.027 (0.004)    | 1 (0.586) |     4.48 | flairr, Frip, Mairel, rud, shadiy    |
+|            3 |     2371 | 2024-05-05 | MightyWolves    | W   | 0.585      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.585) |     1.28 | flairr, Frip, Mairel, rud, shadiy    |
+|            2 |     4046 | 2024-02-24 | hypewrld        | W   | 0.113      | 0.262        | 0.002 (0.000)    | 0.027 (0.001)    | 1 (0.113) |     0.87 | EIZA, keen, prelideN, shadiy, shield |
+|            1 |     4051 | 2024-02-24 | kloogarand      | W   | 0.112      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.112) |     0.41 | EIZA, keen, prelideN, shadiy, shield |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,813.99)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- First, take the sum of their top 10 scaled winnings ($1,812.67)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.819 | $1,340.00      | $1,096.85       |
-| 2024-05-05 |      0.587 | $1,077.00      | $631.94         |
-| 2024-02-24 |      0.114 | $750.00        | $85.21          |
+| 2024-06-09 |      0.818 | $1,340.00      | $1,096.29       |
+| 2024-05-05 |      0.586 | $1,077.00      | $631.49         |
+| 2024-02-24 |      0.113 | $750.00        | $84.90          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

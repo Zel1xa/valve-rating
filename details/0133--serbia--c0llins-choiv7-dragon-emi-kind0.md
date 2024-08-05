@@ -6,22 +6,22 @@ Global Rank: [133](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [92]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  778.2<br />
+Final Rank Value:  778.8<br />
 <br />
-Final Rank Value (778.2) = Starting Rank Value (761.3) + Head To Head Adjustments (16.9)<br />
+Final Rank Value (778.8) = Starting Rank Value (761.8) + Head To Head Adjustments (16.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.344[<sup>1</sup>](#table2)
 - Bounty Collected: 0.288[<sup>2</sup>](#table1)
-- Opponent Network: 0.073[<sup>2</sup>](#table1)
+- Opponent Network: 0.074[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.176<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 761.3
-- 400 + ( ( 0.176 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 761.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 761.8
+- 400 + ( ( 0.176 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 761.8
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      841 | 2024-07-13 | Nexus           | L   | 1.000      | -            | -                | -                | -         |   -18.02 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           13 |      892 | 2024-07-10 | Israel          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.039 (0.006)    | 0 (0.000) |     3.16 | c0llins, Dragon, emi, Kind0, VLDN   |
-|           12 |      903 | 2024-07-09 | North Macedonia | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.14 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           11 |      910 | 2024-07-09 | Turkey          | L   | 1.000      | -            | -                | -                | -         |   -25.65 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           10 |     1463 | 2024-06-06 | Passion UA      | L   | 0.797      | -            | -                | -                | -         |    -5.11 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            9 |     1500 | 2024-06-05 | Enterprise      | W   | 0.792      | 0.371        | 0.039 (0.012)    | 0.616 (0.181)    | 0 (0.000) |    16.76 | aidKiT, c0llins, Dragon, emi, VLDN  |
-|            8 |     1554 | 2024-06-04 | Passion UA      | L   | 0.785      | -            | -                | -                | -         |    -4.57 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            7 |     1599 | 2024-06-02 | brazylijski luz | W   | 0.772      | 0.371        | 0.008 (0.002)    | 0.257 (0.073)    | 0 (0.000) |    13.63 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            6 |     1688 | 2024-05-30 | Permitta        | W   | 0.752      | 0.371        | 0.024 (0.007)    | 0.863 (0.240)    | 0 (0.000) |    16.23 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            5 |     1787 | 2024-05-25 | Zero Tenacity   | L   | 0.719      | -            | -                | -                | -         |    -3.25 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            4 |     1795 | 2024-05-25 | UNiTY           | W   | 0.718      | 0.371        | 0.025 (0.007)    | 0.300 (0.080)    | 0 (0.000) |    16.65 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            3 |     1807 | 2024-05-24 | ex-Guild Eagles | L   | 0.712      | -            | -                | -                | -         |    -9.27 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            2 |     1909 | 2024-05-21 | kONO            | W   | 0.692      | 0.371        | 0.028 (0.007)    | 0.566 (0.145)    | 0 (0.000) |    13.54 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            1 |     2782 | 2024-04-18 | BetBoom         | L   | 0.473      | -            | -                | -                | -         |    -0.39 | aidKiT, c0llins, Dragon, emi, xicoz |
+|           14 |      842 | 2024-07-13 | Nexus           | L   | 1.000      | -            | -                | -                | -         |   -18.01 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           13 |      893 | 2024-07-10 | Israel          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.039 (0.006)    | 0 (0.000) |     3.15 | c0llins, Dragon, emi, Kind0, VLDN   |
+|           12 |      904 | 2024-07-09 | North Macedonia | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.13 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           11 |      911 | 2024-07-09 | Turkey          | L   | 1.000      | -            | -                | -                | -         |   -25.66 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           10 |     1464 | 2024-06-06 | Passion UA      | L   | 0.797      | -            | -                | -                | -         |    -5.10 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            9 |     1501 | 2024-06-05 | Enterprise      | W   | 0.792      | 0.371        | 0.039 (0.012)    | 0.616 (0.181)    | 0 (0.000) |    16.77 | aidKiT, c0llins, Dragon, emi, VLDN  |
+|            8 |     1555 | 2024-06-04 | Passion UA      | L   | 0.785      | -            | -                | -                | -         |    -4.56 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            7 |     1600 | 2024-06-02 | brazylijski luz | W   | 0.771      | 0.371        | 0.008 (0.002)    | 0.257 (0.073)    | 0 (0.000) |    13.60 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            6 |     1689 | 2024-05-30 | Permitta        | W   | 0.751      | 0.371        | 0.024 (0.007)    | 0.902 (0.251)    | 0 (0.000) |    16.37 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            5 |     1788 | 2024-05-25 | Zero Tenacity   | L   | 0.719      | -            | -                | -                | -         |    -3.25 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            4 |     1796 | 2024-05-25 | UNiTY           | W   | 0.718      | 0.371        | 0.025 (0.007)    | 0.300 (0.080)    | 0 (0.000) |    16.63 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            3 |     1808 | 2024-05-24 | ex-Guild Eagles | L   | 0.712      | -            | -                | -                | -         |    -9.27 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            2 |     1910 | 2024-05-21 | kONO            | W   | 0.691      | 0.371        | 0.028 (0.007)    | 0.566 (0.145)    | 0 (0.000) |    13.52 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            1 |     2783 | 2024-04-18 | BetBoom         | L   | 0.473      | -            | -                | -                | -         |    -0.39 | aidKiT, c0llins, Dragon, emi, xicoz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,987.50)
-- Divide that value by the 5th highest value among all rosters ($322,004.12)
+- First, take the sum of their top 10 scaled winnings ($3,985.42)
+- Divide that value by the 5th highest value among all rosters ($321,880.58)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
