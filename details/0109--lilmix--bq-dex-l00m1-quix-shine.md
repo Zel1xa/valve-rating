@@ -6,22 +6,22 @@ Global Rank: [109](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [78]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  841.0<br />
+Final Rank Value:  841.4<br />
 <br />
-Final Rank Value (841.0) = Starting Rank Value (867.3) + Head To Head Adjustments (-26.3)<br />
+Final Rank Value (841.4) = Starting Rank Value (867.8) + Head To Head Adjustments (-26.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.378[<sup>1</sup>](#table2)
 - Bounty Collected: 0.255[<sup>2</sup>](#table1)
-- Opponent Network: 0.012[<sup>2</sup>](#table1)
-- LAN Wins: 0.268[<sup>2</sup>](#table1)
+- Opponent Network: 0.011[<sup>2</sup>](#table1)
+- LAN Wins: 0.267[<sup>2</sup>](#table1)
 
 The average of these factors is 0.228<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 867.3
-- 400 + ( ( 0.228 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 867.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 867.8
+- 400 + ( ( 0.228 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 867.8
 
 
 #### Factors<br />
@@ -37,32 +37,32 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      234 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.22 | bq, dex, L00m1, quix, SHiNE |
-|            9 |      420 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.86 | bq, dex, L00m1, quix, SHiNE |
-|            8 |      651 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.574 (0.082)    | 0 (0.000) |    13.36 | bq, dex, L00m1, quix, SHiNE |
-|            7 |     1053 | 2024-06-15 | Johnny Speeds   | L   | 0.860      | -            | -                | -                | -         |    -2.95 | bq, dex, poiii, quix, zyyx  |
-|            6 |     1076 | 2024-06-14 | Young Gods      | W   | 0.855      | 0.377        | 0.007 (0.002)    | 0.034 (0.011)    | 1 (0.855) |     8.02 | bq, dex, poiii, quix, zyyx  |
-|            5 |     1095 | 2024-06-14 | Johnny Speeds   | L   | 0.853      | -            | -                | -                | -         |    -2.90 | bq, dex, poiii, quix, zyyx  |
-|            4 |     1127 | 2024-06-13 | Young Gods      | W   | 0.847      | 0.377        | 0.007 (0.002)    | 0.034 (0.011)    | 1 (0.847) |     8.12 | bq, dex, poiii, quix, zyyx  |
-|            3 |     1262 | 2024-06-09 | Alliance        | L   | 0.820      | -            | -                | -                | -         |   -13.42 | bq, dex, poiii, quix, zyyx  |
-|            2 |     2238 | 2024-05-11 | Johnny Speeds   | L   | 0.628      | -            | -                | -                | -         |    -1.77 | bq, dex, poiii, quix, zyyx  |
-|            1 |     2247 | 2024-05-11 | AURA            | W   | 0.627      | 0.319        | 0.017 (0.003)    | 0.059 (0.012)    | 1 (0.627) |     7.32 | bq, dex, poiii, quix, zyyx  |
+|           10 |      242 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.23 | bq, dex, L00m1, quix, SHiNE |
+|            9 |      428 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.84 | bq, dex, L00m1, quix, SHiNE |
+|            8 |      659 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.566 (0.081)    | 0 (0.000) |    13.36 | bq, dex, L00m1, quix, SHiNE |
+|            7 |     1061 | 2024-06-15 | Johnny Speeds   | L   | 0.859      | -            | -                | -                | -         |    -2.97 | bq, dex, poiii, quix, zyyx  |
+|            6 |     1084 | 2024-06-14 | Young Gods      | W   | 0.854      | 0.377        | 0.007 (0.002)    | 0.033 (0.011)    | 1 (0.854) |     8.01 | bq, dex, poiii, quix, zyyx  |
+|            5 |     1103 | 2024-06-14 | Johnny Speeds   | L   | 0.852      | -            | -                | -                | -         |    -2.91 | bq, dex, poiii, quix, zyyx  |
+|            4 |     1135 | 2024-06-13 | Young Gods      | W   | 0.846      | 0.377        | 0.007 (0.002)    | 0.033 (0.011)    | 1 (0.846) |     8.10 | bq, dex, poiii, quix, zyyx  |
+|            3 |     1270 | 2024-06-09 | Alliance        | L   | 0.818      | -            | -                | -                | -         |   -13.41 | bq, dex, poiii, quix, zyyx  |
+|            2 |     2246 | 2024-05-11 | Johnny Speeds   | L   | 0.627      | -            | -                | -                | -         |    -1.77 | bq, dex, poiii, quix, zyyx  |
+|            1 |     2255 | 2024-05-11 | AURA            | W   | 0.626      | 0.319        | 0.017 (0.003)    | 0.058 (0.012)    | 1 (0.626) |     7.30 | bq, dex, poiii, quix, zyyx  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($7,343.85)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($7,333.74)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-15 |      0.860 | $5,808.00      | $4,996.76       |
-| 2024-06-09 |      0.821 | $1,445.00      | $1,185.70       |
-| 2024-05-11 |      0.628 | $1,850.00      | $1,161.39       |
+| 2024-06-15 |      0.859 | $5,808.00      | $4,990.31       |
+| 2024-06-09 |      0.819 | $1,445.00      | $1,184.10       |
+| 2024-05-11 |      0.627 | $1,850.00      | $1,159.33       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

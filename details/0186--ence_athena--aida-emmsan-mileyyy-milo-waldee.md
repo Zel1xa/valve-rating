@@ -6,9 +6,9 @@ Global Rank: [186](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [117]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  618.1<br />
+Final Rank Value:  618.4<br />
 <br />
-Final Rank Value (618.1) = Starting Rank Value (638.8) + Head To Head Adjustments (-20.6)<br />
+Final Rank Value (618.4) = Starting Rank Value (639.0) + Head To Head Adjustments (-20.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.117<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 638.8
-- 400 + ( ( 0.117 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 638.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 639.0
+- 400 + ( ( 0.117 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 639.0
 
 
 #### Factors<br />
@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1319 | 2024-06-08 | Crescent fe       | L   | 0.813      | -            | -                | -                | -         |   -11.68 | Aida, Emmsan, Mileyyy, miLo, Waldee |
-|           11 |     2535 | 2024-04-27 | NIP Impact        | L   | 0.533      | -            | -                | -                | -         |    -6.36 | Aida, Emmsan, miLo, Waldee, xia     |
-|           10 |     2723 | 2024-04-19 | Astralis W        | W   | 0.481      | 0.331        | 0.001 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     7.10 | Aida, Emmsan, miLo, Waldee, xia     |
-|            9 |     3102 | 2024-04-07 | dream catchers fe | L   | 0.402      | -            | -                | -                | -         |    -4.93 | Aida, Emmsan, miLo, Waldee, xia     |
-|            8 |     3126 | 2024-04-06 | Imperial fe       | L   | 0.393      | -            | -                | -                | -         |    -1.20 | Aida, Emmsan, miLo, Waldee, xia     |
-|            7 |     3175 | 2024-04-04 | BIG EQUIPA        | L   | 0.381      | -            | -                | -                | -         |    -3.95 | Aida, Emmsan, miLo, Waldee, xia     |
-|            6 |     3347 | 2024-03-27 | Imperial fe       | L   | 0.328      | -            | -                | -                | -         |    -1.03 | Aida, Emmsan, miLo, Waldee, xia     |
-|            5 |     3463 | 2024-03-20 | NIP Impact        | L   | 0.282      | -            | -                | -                | -         |    -3.70 | Aida, Emmsan, miLo, Waldee, xia     |
-|            4 |     3615 | 2024-03-13 | Astralis W        | W   | 0.235      | 0.331        | 0.002 (0.000)    | 0.063 (0.005)    | 0 (0.000) |     3.88 | Aida, Emmsan, miLo, Waldee, xia     |
-|            3 |     4015 | 2024-02-25 | NAVI Javelins     | L   | 0.119      | -            | -                | -                | -         |    -1.01 | Aida, Emmsan, miLo, Waldee, xia     |
-|            2 |     4045 | 2024-02-24 | Spirit fe         | W   | 0.113      | 0.238        | 0.005 (0.000)    | 0.140 (0.004)    | 0 (0.000) |     1.92 | Aida, Emmsan, miLo, Waldee, xia     |
-|            1 |     4287 | 2024-02-14 | more whiskey      | W   | 0.049      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.32 | Aida, Emmsan, miLo, Waldee, xia     |
+|           12 |     1327 | 2024-06-08 | Crescent fe       | L   | 0.812      | -            | -                | -                | -         |   -11.66 | Aida, Emmsan, Mileyyy, miLo, Waldee |
+|           11 |     2543 | 2024-04-27 | NIP Impact        | L   | 0.532      | -            | -                | -                | -         |    -6.35 | Aida, Emmsan, miLo, Waldee, xia     |
+|           10 |     2731 | 2024-04-19 | Astralis W        | W   | 0.480      | 0.331        | 0.001 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     7.08 | Aida, Emmsan, miLo, Waldee, xia     |
+|            9 |     3110 | 2024-04-07 | dream catchers fe | L   | 0.400      | -            | -                | -                | -         |    -4.92 | Aida, Emmsan, miLo, Waldee, xia     |
+|            8 |     3134 | 2024-04-06 | Imperial fe       | L   | 0.392      | -            | -                | -                | -         |    -1.19 | Aida, Emmsan, miLo, Waldee, xia     |
+|            7 |     3183 | 2024-04-04 | BIG EQUIPA        | L   | 0.380      | -            | -                | -                | -         |    -3.94 | Aida, Emmsan, miLo, Waldee, xia     |
+|            6 |     3355 | 2024-03-27 | Imperial fe       | L   | 0.327      | -            | -                | -                | -         |    -1.03 | Aida, Emmsan, miLo, Waldee, xia     |
+|            5 |     3471 | 2024-03-20 | NIP Impact        | L   | 0.280      | -            | -                | -                | -         |    -3.68 | Aida, Emmsan, miLo, Waldee, xia     |
+|            4 |     3623 | 2024-03-13 | Astralis W        | W   | 0.234      | 0.331        | 0.002 (0.000)    | 0.062 (0.005)    | 0 (0.000) |     3.86 | Aida, Emmsan, miLo, Waldee, xia     |
+|            3 |     4023 | 2024-02-25 | NAVI Javelins     | L   | 0.118      | -            | -                | -                | -         |    -1.00 | Aida, Emmsan, miLo, Waldee, xia     |
+|            2 |     4053 | 2024-02-24 | Spirit fe         | W   | 0.112      | 0.238        | 0.005 (0.000)    | 0.139 (0.004)    | 0 (0.000) |     1.90 | Aida, Emmsan, miLo, Waldee, xia     |
+|            1 |     4295 | 2024-02-14 | more whiskey      | W   | 0.048      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.31 | Aida, Emmsan, miLo, Waldee, xia     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($758.29)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($756.62)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-08 |      0.815 | $100.00        | $81.46          |
-| 2024-04-27 |      0.534 | $107.00        | $57.12          |
-| 2024-04-21 |      0.495 | $1,050.00      | $519.31         |
-| 2024-04-07 |      0.402 | $250.00        | $100.40         |
+| 2024-06-08 |      0.813 | $100.00        | $81.35          |
+| 2024-04-27 |      0.533 | $107.00        | $57.00          |
+| 2024-04-21 |      0.493 | $1,050.00      | $518.15         |
+| 2024-04-07 |      0.400 | $250.00        | $100.12         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

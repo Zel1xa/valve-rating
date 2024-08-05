@@ -6,9 +6,9 @@ Global Rank: [117](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [7]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  824.4<br />
+Final Rank Value:  824.7<br />
 <br />
-Final Rank Value (824.4) = Starting Rank Value (803.5) + Head To Head Adjustments (20.9)<br />
+Final Rank Value (824.7) = Starting Rank Value (803.9) + Head To Head Adjustments (20.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.197<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 803.5
-- 400 + ( ( 0.197 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 803.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 803.9
+- 400 + ( ( 0.197 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 803.9
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |        9 | 2024-08-05 | Lynn Vision  | W   | 1.000      | 0.380        | 0.086 (0.033)    | 0.190 (0.072)    | 1 (1.000) |    24.88 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|           10 |       72 | 2024-08-03 | Steel Helmet | W   | 1.000      | 0.380        | 0.006 (0.002)    | 0.000 (0.000)    | 1 (1.000) |     5.73 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            9 |      845 | 2024-07-12 | Alter Ego    | L   | 1.000      | -            | -                | -                | -         |   -25.85 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            8 |      849 | 2024-07-12 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |   -13.38 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            7 |      851 | 2024-07-12 | GR           | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.075 (0.011)    | 0 (0.000) |     9.07 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            6 |     1630 | 2024-05-31 | Aurora       | L   | 0.765      | -            | -                | -                | -         |    -0.42 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            5 |     1679 | 2024-05-30 | OG           | W   | 0.753      | 0.500        | 0.138 (0.052)    | 0.126 (0.047)    | 1 (0.753) |    18.12 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            4 |     1708 | 2024-05-28 | BLEED        | L   | 0.744      | -            | -                | -                | -         |    -0.98 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            3 |     2035 | 2024-05-16 | The MongolZ  | L   | 0.665      | -            | -                | -                | -         |    -0.05 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            2 |     2400 | 2024-05-03 | IHC          | W   | 0.573      | 0.143        | 0.000 (0.000)    | 0.023 (0.002)    | 1 (0.573) |     2.07 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
-|            1 |     2407 | 2024-05-02 | Eruption     | W   | 0.571      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.571) |     1.69 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|           11 |       17 | 2024-08-05 | Lynn Vision  | W   | 1.000      | 0.380        | 0.086 (0.033)    | 0.187 (0.071)    | 1 (1.000) |    24.87 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|           10 |       81 | 2024-08-03 | Steel Helmet | W   | 1.000      | 0.380        | 0.006 (0.002)    | 0.000 (0.000)    | 1 (1.000) |     5.73 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            9 |      853 | 2024-07-12 | Alter Ego    | L   | 1.000      | -            | -                | -                | -         |   -25.86 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            8 |      857 | 2024-07-12 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |   -13.38 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            7 |      859 | 2024-07-12 | GR           | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.074 (0.011)    | 0 (0.000) |     9.07 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            6 |     1638 | 2024-05-31 | Aurora       | L   | 0.764      | -            | -                | -                | -         |    -0.41 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            5 |     1687 | 2024-05-30 | OG           | W   | 0.752      | 0.500        | 0.138 (0.052)    | 0.124 (0.047)    | 1 (0.752) |    18.08 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            4 |     1716 | 2024-05-28 | BLEED        | L   | 0.743      | -            | -                | -                | -         |    -0.97 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            3 |     2043 | 2024-05-16 | The MongolZ  | L   | 0.664      | -            | -                | -                | -         |    -0.05 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            2 |     2408 | 2024-05-03 | IHC          | W   | 0.572      | 0.143        | 0.000 (0.000)    | 0.022 (0.002)    | 1 (0.572) |     2.06 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
+|            1 |     2415 | 2024-05-02 | Eruption     | W   | 0.570      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.570) |     1.69 | fury5k, NEUZ, starDUST, xerolte, Zilkenberg |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

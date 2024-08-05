@@ -6,9 +6,9 @@ Global Rank: [26](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [20]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1296.3<br />
+Final Rank Value:  1297.9<br />
 <br />
-Final Rank Value (1296.3) = Starting Rank Value (1413.3) + Head To Head Adjustments (-116.9)<br />
+Final Rank Value (1297.9) = Starting Rank Value (1414.8) + Head To Head Adjustments (-116.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.495<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1413.3
-- 400 + ( ( 0.495 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 1413.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1414.8
+- 400 + ( ( 0.495 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1414.8
 
 
 #### Factors<br />
@@ -37,56 +37,56 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |       82 | 2024-08-02 | Cloud9            | L   | 1.000      | -            | -                | -                | -         |   -29.98 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           31 |       93 | 2024-08-02 | 3DMAX             | L   | 1.000      | -            | -                | -                | -         |   -11.50 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           30 |      182 | 2024-07-31 | AMKAL             | W   | 1.000      | 0.143        | 0.130 (0.019)    | -                | 0 (0.000) |    10.24 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           29 |      338 | 2024-07-26 | PARIVISION        | W   | 1.000      | 0.650        | 0.017 (0.011)    | 0.532 (0.346)    | 1 (1.000) |     6.64 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           28 |      355 | 2024-07-26 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -9.99 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           27 |      388 | 2024-07-25 | The MongolZ       | W   | 1.000      | 0.650        | 1.000 (0.650)    | 0.719 (0.468)    | 1 (1.000) |    28.54 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           26 |      417 | 2024-07-24 | True Rippers      | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.20 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           25 |      423 | 2024-07-24 | ENCE              | L   | 1.000      | -            | -                | -                | -         |   -12.84 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           24 |      550 | 2024-07-20 | MOUZ NXT          | L   | 1.000      | -            | -                | -                | -         |   -24.59 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           23 |      682 | 2024-07-17 | Nemiga            | W   | 1.000      | 0.500        | 0.316 (0.158)    | 0.731 (0.365)    | 0 (0.000) |     9.41 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           22 |      804 | 2024-07-15 | Aurora Young Blud | W   | 1.000      | 0.500        | -                | 0.499 (0.249)    | 0 (0.000) |     2.49 | CYPHER, hampus, jkaem, nawwk, nexa  |
-|           21 |     1049 | 2024-06-15 | Monte             | L   | 0.861      | -            | -                | -                | -         |   -22.64 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           20 |     1060 | 2024-06-15 | 3DMAX             | L   | 0.859      | -            | -                | -                | -         |   -10.21 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           19 |     1102 | 2024-06-14 | Monte             | W   | 0.853      | -            | -                | -                | 0 (0.000) |     3.94 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           18 |     1132 | 2024-06-13 | Aurora Young Blud | W   | 0.846      | -            | -                | -                | -         |     1.56 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           17 |     1158 | 2024-06-12 | B8                | W   | 0.840      | 0.143        | 0.165 (0.020)    | -                | -         |     5.92 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           16 |     1204 | 2024-06-10 | Nemiga            | L   | 0.826      | -            | -                | -                | -         |   -19.86 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           15 |     1254 | 2024-06-09 | MOUZ NXT          | W   | 0.820      | 0.500        | 0.139 (0.057)    | 1.000 (0.410)    | -         |     4.76 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           14 |     1295 | 2024-06-08 | 9INE              | W   | 0.815      | 0.500        | -                | 0.539 (0.219)    | -         |     1.87 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           13 |     1352 | 2024-06-07 | Rebels            | L   | 0.808      | -            | -                | -                | -         |   -22.43 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           12 |     1501 | 2024-06-05 | Nexus             | W   | 0.793      | -            | -                | -                | -         |     0.74 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           11 |     1592 | 2024-06-02 | The MongolZ       | L   | 0.773      | -            | -                | -                | -         |    -1.29 | CYPHER, faveN, hampus, jkaem, nawwk |
-|           10 |     1596 | 2024-06-01 | Aurora            | W   | 0.771      | 0.500        | 0.422 (0.163)    | 0.788 (0.304)    | 1 (0.771) |    17.40 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            9 |     1626 | 2024-06-01 | The MongolZ       | L   | 0.766      | -            | -                | -                | -         |    -1.18 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            8 |     1684 | 2024-05-29 | ATOX              | W   | 0.751      | -            | -                | -                | 1 (0.751) |     1.46 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            7 |     1708 | 2024-05-28 | Chinggis Warriors | W   | 0.744      | -            | -                | -                | 1 (0.744) |     0.98 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            6 |     1897 | 2024-05-21 | Zero Tenacity     | L   | 0.694      | -            | -                | -                | -         |   -18.11 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            5 |     1930 | 2024-05-20 | 9 Pandas          | W   | 0.687      | 0.500        | 0.081 (0.028)    | 0.727 (0.250)    | -         |     2.62 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            4 |     1967 | 2024-05-19 | MOUZ NXT          | W   | 0.679      | 0.500        | 0.139 (0.047)    | 1.000 (0.339)    | -         |     3.01 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            3 |     2021 | 2024-05-17 | Monte             | L   | 0.667      | -            | -                | -                | -         |   -18.74 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            2 |     2110 | 2024-05-15 | Gaimin Gladiators | L   | 0.653      | -            | -                | -                | -         |   -18.70 | CYPHER, faveN, hampus, jkaem, nawwk |
-|            1 |     2121 | 2024-05-15 | MOUZ NXT          | W   | 0.652      | 0.500        | 0.139 (0.045)    | 1.000 (0.326)    | -         |     2.31 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           32 |       89 | 2024-08-02 | Cloud9            | L   | 1.000      | -            | -                | -                | -         |   -29.99 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           31 |      101 | 2024-08-02 | 3DMAX             | L   | 1.000      | -            | -                | -                | -         |   -11.52 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           30 |      189 | 2024-07-31 | AMKAL             | W   | 1.000      | 0.143        | 0.130 (0.019)    | -                | 0 (0.000) |    10.18 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           29 |      346 | 2024-07-26 | PARIVISION        | W   | 1.000      | 0.650        | 0.017 (0.011)    | 0.565 (0.367)    | 1 (1.000) |     6.64 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           28 |      363 | 2024-07-26 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -9.98 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           27 |      396 | 2024-07-25 | The MongolZ       | W   | 1.000      | 0.650        | 1.000 (0.650)    | 0.710 (0.462)    | 1 (1.000) |    28.51 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           26 |      425 | 2024-07-24 | True Rippers      | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.19 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           25 |      431 | 2024-07-24 | ENCE              | L   | 1.000      | -            | -                | -                | -         |   -12.81 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           24 |      558 | 2024-07-20 | MOUZ NXT          | L   | 1.000      | -            | -                | -                | -         |   -24.62 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           23 |      690 | 2024-07-17 | Nemiga            | W   | 1.000      | 0.500        | 0.316 (0.158)    | 0.722 (0.361)    | 0 (0.000) |     9.39 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           22 |      812 | 2024-07-15 | Aurora Young Blud | W   | 1.000      | 0.500        | -                | 0.532 (0.266)    | 0 (0.000) |     2.71 | CYPHER, hampus, jkaem, nawwk, nexa  |
+|           21 |     1057 | 2024-06-15 | Monte             | L   | 0.859      | -            | -                | -                | -         |   -22.64 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           20 |     1068 | 2024-06-15 | 3DMAX             | L   | 0.858      | -            | -                | -                | -         |   -10.21 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           19 |     1110 | 2024-06-14 | Monte             | W   | 0.851      | -            | -                | -                | 0 (0.000) |     3.91 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           18 |     1140 | 2024-06-13 | Aurora Young Blud | W   | 0.845      | -            | -                | -                | -         |     1.72 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           17 |     1166 | 2024-06-12 | B8                | W   | 0.839      | 0.143        | 0.165 (0.020)    | -                | -         |     5.89 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           16 |     1212 | 2024-06-10 | Nemiga            | L   | 0.825      | -            | -                | -                | -         |   -19.86 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           15 |     1262 | 2024-06-09 | MOUZ NXT          | W   | 0.819      | 0.500        | 0.139 (0.057)    | 0.987 (0.404)    | -         |     4.74 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           14 |     1303 | 2024-06-08 | 9INE              | W   | 0.814      | 0.500        | -                | 0.533 (0.217)    | -         |     1.86 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           13 |     1360 | 2024-06-07 | Rebels            | L   | 0.807      | -            | -                | -                | -         |   -22.43 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           12 |     1509 | 2024-06-05 | Nexus             | W   | 0.792      | -            | -                | -                | -         |     0.74 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           11 |     1600 | 2024-06-02 | The MongolZ       | L   | 0.772      | -            | -                | -                | -         |    -1.30 | CYPHER, faveN, hampus, jkaem, nawwk |
+|           10 |     1604 | 2024-06-01 | Aurora            | W   | 0.770      | 0.500        | 0.422 (0.162)    | 0.779 (0.300)    | 1 (0.770) |    17.40 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            9 |     1634 | 2024-06-01 | The MongolZ       | L   | 0.765      | -            | -                | -                | -         |    -1.19 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            8 |     1692 | 2024-05-29 | ATOX              | W   | 0.750      | -            | -                | -                | 1 (0.750) |     1.44 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            7 |     1716 | 2024-05-28 | Chinggis Warriors | W   | 0.743      | -            | -                | -                | 1 (0.743) |     0.97 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            6 |     1905 | 2024-05-21 | Zero Tenacity     | L   | 0.693      | -            | -                | -                | -         |   -18.11 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            5 |     1938 | 2024-05-20 | 9 Pandas          | W   | 0.686      | 0.500        | 0.081 (0.028)    | 0.718 (0.246)    | -         |     2.61 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            4 |     1975 | 2024-05-19 | MOUZ NXT          | W   | 0.678      | 0.500        | 0.139 (0.047)    | 0.987 (0.335)    | -         |     2.99 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            3 |     2029 | 2024-05-17 | Monte             | L   | 0.666      | -            | -                | -                | -         |   -18.73 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            2 |     2118 | 2024-05-15 | Gaimin Gladiators | L   | 0.652      | -            | -                | -                | -         |   -18.68 | CYPHER, faveN, hampus, jkaem, nawwk |
+|            1 |     2129 | 2024-05-15 | MOUZ NXT          | W   | 0.651      | 0.500        | 0.139 (0.045)    | 0.987 (0.321)    | -         |     2.30 | CYPHER, faveN, hampus, jkaem, nawwk |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($40,568.17)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($40,509.84)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.13) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.868 | $2,000.00      | $1,735.00       |
-| 2024-06-11 |      0.834 | $12,500.00     | $10,423.61      |
-| 2024-06-02 |      0.773 | $25,000.00     | $19,315.39      |
-| 2024-05-22 |      0.701 | $12,500.00     | $8,756.94       |
-| 2024-05-18 |      0.674 | $500.00        | $337.22         |
+| 2024-06-16 |      0.866 | $2,000.00      | $1,732.78       |
+| 2024-06-11 |      0.833 | $12,500.00     | $10,409.72      |
+| 2024-06-02 |      0.772 | $25,000.00     | $19,287.62      |
+| 2024-05-22 |      0.699 | $12,500.00     | $8,743.06       |
+| 2024-05-18 |      0.673 | $500.00        | $336.67         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

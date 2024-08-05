@@ -6,22 +6,22 @@ Global Rank: [140](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [94]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  755.8<br />
+Final Rank Value:  756.0<br />
 <br />
-Final Rank Value (755.8) = Starting Rank Value (766.8) + Head To Head Adjustments (-11.0)<br />
+Final Rank Value (756.0) = Starting Rank Value (767.1) + Head To Head Adjustments (-11.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.362[<sup>1</sup>](#table2)
 - Bounty Collected: 0.254[<sup>2</sup>](#table1)
-- Opponent Network: 0.014[<sup>2</sup>](#table1)
+- Opponent Network: 0.013[<sup>2</sup>](#table1)
 - LAN Wins: 0.087[<sup>2</sup>](#table1)
 
 The average of these factors is 0.179<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 766.8
-- 400 + ( ( 0.179 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 766.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 767.1
+- 400 + ( ( 0.179 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 767.1
 
 
 #### Factors<br />
@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      546 | 2024-07-20 | dream catchers fe | L   | 1.000      | -            | -                | -                | -         |   -18.16 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           17 |     1597 | 2024-06-01 | HSG fe            | L   | 0.770      | -            | -                | -                | -         |   -10.05 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           16 |     1635 | 2024-05-31 | Imperial fe       | L   | 0.762      | -            | -                | -                | -         |    -4.66 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           15 |     1647 | 2024-05-31 | FlyQuest RED      | W   | 0.761      | 0.524        | 0.017 (0.007)    | 0.142 (0.057)    | 1 (0.761) |    11.66 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           14 |     1963 | 2024-05-19 | NAVI Javelins     | L   | 0.679      | -            | -                | -                | -         |    -8.74 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           13 |     1988 | 2024-05-18 | Nemesis fe        | W   | 0.674      | 0.281        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.20 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           12 |     2674 | 2024-04-20 | Fearless Cheetahs | W   | 0.488      | 0.331        | 0.003 (0.000)    | 0.064 (0.010)    | 0 (0.000) |     6.13 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           11 |     2722 | 2024-04-19 | NIP Impact        | W   | 0.481      | 0.331        | 0.005 (0.001)    | 0.228 (0.036)    | 0 (0.000) |     6.61 | JennyR, juliano, kyossa, pauliiee, Zana |
-|           10 |     3110 | 2024-04-07 | Imperial fe       | L   | 0.400      | -            | -                | -                | -         |    -2.35 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            9 |     3125 | 2024-04-06 | Spirit fe         | W   | 0.393      | 0.262        | 0.005 (0.001)    | 0.140 (0.014)    | 0 (0.000) |     4.36 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            8 |     3175 | 2024-04-04 | ENCE Athena       | W   | 0.381      | 0.331        | 0.002 (0.000)    | 0.035 (0.004)    | 0 (0.000) |     3.95 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            7 |     3309 | 2024-03-28 | Astralis W        | L   | 0.335      | -            | -                | -                | -         |    -6.86 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            6 |     3584 | 2024-03-14 | Imperial fe       | L   | 0.242      | -            | -                | -                | -         |    -1.45 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            5 |     3791 | 2024-03-06 | Astralis W        | W   | 0.188      | 0.331        | 0.001 (0.000)    | 0.020 (0.001)    | 0 (0.000) |     1.78 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            4 |     3869 | 2024-03-03 | dream catchers fe | W   | 0.168      | 0.250        | 0.016 (0.001)    | 0.172 (0.007)    | 0 (0.000) |     2.24 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            3 |     4010 | 2024-02-25 | NAVI Javelins     | L   | 0.120      | -            | -                | -                | -         |    -1.64 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            2 |     4014 | 2024-02-25 | Let Her Cook      | W   | 0.120      | 0.238        | 0.060 (0.002)    | 0.143 (0.004)    | 0 (0.000) |     2.68 | JennyR, juliano, kyossa, pauliiee, Zana |
-|            1 |     4047 | 2024-02-24 | Astralis W        | W   | 0.113      | 0.238        | 0.002 (0.000)    | 0.063 (0.002)    | 0 (0.000) |     1.27 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           18 |      554 | 2024-07-20 | dream catchers fe | L   | 1.000      | -            | -                | -                | -         |   -18.16 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           17 |     1605 | 2024-06-01 | HSG fe            | L   | 0.769      | -            | -                | -                | -         |   -10.03 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           16 |     1643 | 2024-05-31 | Imperial fe       | L   | 0.761      | -            | -                | -                | -         |    -4.65 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           15 |     1655 | 2024-05-31 | FlyQuest RED      | W   | 0.760      | 0.524        | 0.017 (0.007)    | 0.140 (0.056)    | 1 (0.760) |    11.64 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           14 |     1971 | 2024-05-19 | NAVI Javelins     | L   | 0.678      | -            | -                | -                | -         |    -8.73 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           13 |     1996 | 2024-05-18 | Nemesis fe        | W   | 0.673      | 0.281        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.20 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           12 |     2682 | 2024-04-20 | Fearless Cheetahs | W   | 0.487      | 0.331        | 0.003 (0.000)    | 0.064 (0.010)    | 0 (0.000) |     6.12 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           11 |     2730 | 2024-04-19 | NIP Impact        | W   | 0.480      | 0.331        | 0.005 (0.001)    | 0.225 (0.036)    | 0 (0.000) |     6.59 | JennyR, juliano, kyossa, pauliiee, Zana |
+|           10 |     3118 | 2024-04-07 | Imperial fe       | L   | 0.398      | -            | -                | -                | -         |    -2.34 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            9 |     3133 | 2024-04-06 | Spirit fe         | W   | 0.392      | 0.262        | 0.005 (0.001)    | 0.139 (0.014)    | 0 (0.000) |     4.35 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            8 |     3183 | 2024-04-04 | ENCE Athena       | W   | 0.380      | 0.331        | 0.002 (0.000)    | 0.034 (0.004)    | 0 (0.000) |     3.94 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            7 |     3317 | 2024-03-28 | Astralis W        | L   | 0.334      | -            | -                | -                | -         |    -6.83 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            6 |     3592 | 2024-03-14 | Imperial fe       | L   | 0.240      | -            | -                | -                | -         |    -1.44 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            5 |     3799 | 2024-03-06 | Astralis W        | W   | 0.187      | 0.331        | 0.001 (0.000)    | 0.020 (0.001)    | 0 (0.000) |     1.77 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            4 |     3877 | 2024-03-03 | dream catchers fe | W   | 0.167      | 0.250        | 0.016 (0.001)    | 0.170 (0.007)    | 0 (0.000) |     2.23 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            3 |     4018 | 2024-02-25 | NAVI Javelins     | L   | 0.119      | -            | -                | -                | -         |    -1.62 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            2 |     4022 | 2024-02-25 | Let Her Cook      | W   | 0.118      | 0.238        | 0.060 (0.002)    | 0.141 (0.004)    | 0 (0.000) |     2.66 | JennyR, juliano, kyossa, pauliiee, Zana |
+|            1 |     4055 | 2024-02-24 | Astralis W        | W   | 0.112      | 0.238        | 0.002 (0.000)    | 0.062 (0.002)    | 0 (0.000) |     1.25 | JennyR, juliano, kyossa, pauliiee, Zana |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,555.09)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($5,546.48)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-02 |      0.776 | $7,000.00      | $5,428.89       |
-| 2024-03-03 |      0.168 | $750.00        | $126.20         |
+| 2024-06-02 |      0.774 | $7,000.00      | $5,421.11       |
+| 2024-03-03 |      0.167 | $750.00        | $125.36         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

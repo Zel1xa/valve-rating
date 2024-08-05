@@ -6,22 +6,22 @@ Global Rank: [70](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [49]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  956.8<br />
+Final Rank Value:  958.0<br />
 <br />
-Final Rank Value (956.8) = Starting Rank Value (931.2) + Head To Head Adjustments (25.6)<br />
+Final Rank Value (958.0) = Starting Rank Value (930.6) + Head To Head Adjustments (27.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.431[<sup>1</sup>](#table2)
 - Bounty Collected: 0.371[<sup>2</sup>](#table1)
-- Opponent Network: 0.171[<sup>2</sup>](#table1)
+- Opponent Network: 0.169[<sup>2</sup>](#table1)
 - LAN Wins: 0.065[<sup>2</sup>](#table1)
 
 The average of these factors is 0.259<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 931.2
-- 400 + ( ( 0.259 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 931.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 930.6
+- 400 + ( ( 0.259 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 930.6
 
 
 #### Factors<br />
@@ -37,48 +37,48 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |      170 | 2024-07-31 | B8                | L   | 1.000      | -            | -                | -                | -         |    -7.73 | Aaron, Bibu, DGL, kory, Porya      |
-|           34 |      218 | 2024-07-30 | Space             | W   | 1.000      | 0.500        | 0.006 (0.003)    | 0.445 (0.222)    | 0 (0.000) |    11.55 | Aaron, Bibu, DGL, kory, Porya      |
-|           33 |      254 | 2024-07-29 | ARCRED            | L   | 1.000      | -            | -                | -                | -         |   -16.53 | Aaron, Bibu, DGL, kory, Porya      |
-|           32 |      578 | 2024-07-19 | Nexus             | L   | 1.000      | -            | -                | -                | -         |   -23.84 | Aaron, Bibu, DGL, kory, Porya      |
-|           31 |      616 | 2024-07-18 | Nemiga            | L   | 1.000      | -            | -                | -                | -         |    -8.29 | Aaron, Bibu, DGL, kory, Porya      |
-|           30 |      685 | 2024-07-17 | Verdant           | W   | 1.000      | 0.333        | 0.015 (0.005)    | 0.298 (0.099)    | 0 (0.000) |     8.92 | Aaron, Bibu, DGL, kory, Porya      |
-|           29 |      745 | 2024-07-16 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -2.46 | Aaron, Bibu, DGL, kory, Porya      |
-|           28 |      795 | 2024-07-15 | Betera            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.82 | Aaron, Bibu, DGL, kory, Porya      |
-|           27 |     1113 | 2024-06-13 | Enterprise        | W   | 0.848      | 0.379        | 0.039 (0.013)    | 0.624 (0.200)    | 0 (0.000) |    12.05 | Aaron, Bibu, DGL, kory, Porya      |
-|           26 |     1145 | 2024-06-12 | Rebels            | W   | 0.841      | 0.379        | 0.038 (0.012)    | 0.598 (0.191)    | 0 (0.000) |    15.05 | Aaron, Bibu, DGL, kory, Porya      |
-|           25 |     1167 | 2024-06-11 | ECLOT             | W   | 0.835      | 0.379        | 0.062 (0.020)    | 0.557 (0.176)    | 0 (0.000) |    19.83 | Aaron, Bibu, DGL, kory, Porya      |
-|           24 |     1364 | 2024-06-07 | B8                | L   | 0.807      | -            | -                | -                | -         |    -6.72 | Aaron, Bibu, DGL, kory, Porya      |
-|           23 |     1374 | 2024-06-07 | Aurora            | L   | 0.807      | -            | -                | -                | -         |    -1.02 | Aaron, Bibu, DGL, kory, Porya      |
-|           22 |     1478 | 2024-06-05 | The Prodigies     | W   | 0.795      | -            | -                | -                | 0 (0.000) |     2.67 | Aaron, Bibu, DGL, kory, Porya      |
-|           21 |     1558 | 2024-06-03 | GL Academy        | W   | 0.781      | -            | -                | -                | 0 (0.000) |     6.42 | Aaron, Bibu, DGL, kory, Porya      |
-|           20 |     1667 | 2024-05-30 | Rebels            | L   | 0.755      | -            | -                | -                | -         |   -10.50 | Aaron, Bibu, DGL, kory, Porya      |
-|           19 |     1848 | 2024-05-22 | System5           | W   | 0.701      | -            | -                | -                | 0 (0.000) |     3.87 | Aaron, Bibu, DGL, kory, Porya      |
-|           18 |     1892 | 2024-05-21 | EYEBALLERS        | W   | 0.695      | 0.500        | -                | 0.507 (0.176)    | -         |     8.68 | Aaron, Bibu, DGL, kory, Porya      |
-|           17 |     1931 | 2024-05-20 | Nexus             | W   | 0.687      | 0.379        | 0.014 (0.004)    | 0.464 (0.121)    | -         |     6.52 | Aaron, Bibu, DGL, kory, Porya      |
-|           16 |     2099 | 2024-05-15 | Norway            | W   | 0.655      | 0.500        | 0.006 (0.002)    | -                | -         |     4.32 | Aaron, Bibu, DGL, kory, Porya      |
-|           15 |     2160 | 2024-05-14 | ALTERNATE aTTaX   | W   | 0.648      | 0.500        | 0.031 (0.010)    | 0.557 (0.181)    | -         |    11.70 | Aaron, Bibu, DGL, kory, Porya      |
-|           14 |     2386 | 2024-05-04 | FlyQuest          | L   | 0.580      | -            | -                | -                | -         |    -3.57 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|           13 |     2401 | 2024-05-03 | BIG               | L   | 0.573      | -            | -                | -                | -         |    -2.11 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|           12 |     2422 | 2024-05-02 | Ninjas in Pyjamas | W   | 0.567      | 0.889        | 0.254 (0.128)    | 0.551 (0.278)    | 1 (0.567) |    17.52 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|           11 |     2468 | 2024-04-30 | Complexity        | L   | 0.554      | -            | -                | -                | -         |    -0.28 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|           10 |     2679 | 2024-04-20 | EYEBALLERS        | L   | 0.488      | -            | -                | -                | -         |    -8.48 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|            9 |     3219 | 2024-04-03 | SAW               | L   | 0.374      | -            | -                | -                | -         |    -2.28 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|            8 |     3274 | 2024-04-01 | RUSH B            | W   | 0.361      | 0.500        | 0.026 (0.005)    | 0.385 (0.069)    | -         |     4.95 | Aaron, Bibu, Ciocardau, DGL, Porya |
-|            7 |     3551 | 2024-03-15 | Betera            | L   | 0.248      | -            | -                | -                | -         |    -6.09 | Aaron, DGL, Kamion, msN, Porya     |
-|            6 |     3610 | 2024-03-13 | Monte             | L   | 0.235      | -            | -                | -                | -         |    -3.01 | Aaron, DGL, Kamion, msN, Porya     |
-|            5 |     3989 | 2024-02-26 | System5           | L   | 0.128      | -            | -                | -                | -         |    -3.25 | Aaron, DGL, Kamion, msN, Porya     |
-|            4 |     4127 | 2024-02-20 | ex-Preasy         | L   | 0.088      | -            | -                | -                | -         |    -1.94 | Aaron, DGL, Kamion, msN, Porya     |
-|            3 |     4155 | 2024-02-19 | GamerLegion       | L   | 0.081      | -            | -                | -                | -         |    -1.81 | Aaron, DGL, Kamion, msN, Porya     |
-|            2 |     4158 | 2024-02-19 | Cloud9            | L   | 0.080      | -            | -                | -                | -         |    -0.91 | Aaron, DGL, Kamion, msN, Porya     |
-|            1 |     4226 | 2024-02-16 | SINNERS           | L   | 0.061      | -            | -                | -                | -         |    -0.45 | Aaron, DGL, Kamion, msN, Porya     |
+|           35 |      178 | 2024-07-31 | B8                | L   | 1.000      | -            | -                | -                | -         |    -7.73 | Aaron, Bibu, DGL, kory, Porya      |
+|           34 |      226 | 2024-07-30 | Space             | W   | 1.000      | 0.500        | 0.006 (0.003)    | 0.439 (0.220)    | 0 (0.000) |    11.50 | Aaron, Bibu, DGL, kory, Porya      |
+|           33 |      262 | 2024-07-29 | ARCRED            | L   | 1.000      | -            | -                | -                | -         |   -15.28 | Aaron, Bibu, DGL, kory, Porya      |
+|           32 |      586 | 2024-07-19 | Nexus             | L   | 1.000      | -            | -                | -                | -         |   -23.82 | Aaron, Bibu, DGL, kory, Porya      |
+|           31 |      624 | 2024-07-18 | Nemiga            | L   | 1.000      | -            | -                | -                | -         |    -8.25 | Aaron, Bibu, DGL, kory, Porya      |
+|           30 |      693 | 2024-07-17 | Verdant           | W   | 1.000      | 0.333        | 0.015 (0.005)    | 0.294 (0.098)    | 0 (0.000) |     8.98 | Aaron, Bibu, DGL, kory, Porya      |
+|           29 |      753 | 2024-07-16 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -2.43 | Aaron, Bibu, DGL, kory, Porya      |
+|           28 |      803 | 2024-07-15 | Betera            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.84 | Aaron, Bibu, DGL, kory, Porya      |
+|           27 |     1121 | 2024-06-13 | Enterprise        | W   | 0.847      | 0.379        | 0.039 (0.013)    | 0.616 (0.198)    | 0 (0.000) |    12.13 | Aaron, Bibu, DGL, kory, Porya      |
+|           26 |     1153 | 2024-06-12 | Rebels            | W   | 0.840      | 0.379        | 0.038 (0.012)    | 0.591 (0.188)    | 0 (0.000) |    15.03 | Aaron, Bibu, DGL, kory, Porya      |
+|           25 |     1175 | 2024-06-11 | ECLOT             | W   | 0.834      | 0.379        | 0.062 (0.020)    | 0.550 (0.174)    | 0 (0.000) |    19.83 | Aaron, Bibu, DGL, kory, Porya      |
+|           24 |     1372 | 2024-06-07 | B8                | L   | 0.806      | -            | -                | -                | -         |    -6.70 | Aaron, Bibu, DGL, kory, Porya      |
+|           23 |     1382 | 2024-06-07 | Aurora            | L   | 0.806      | -            | -                | -                | -         |    -1.00 | Aaron, Bibu, DGL, kory, Porya      |
+|           22 |     1486 | 2024-06-05 | The Prodigies     | W   | 0.794      | -            | -                | -                | 0 (0.000) |     2.67 | Aaron, Bibu, DGL, kory, Porya      |
+|           21 |     1566 | 2024-06-03 | GL Academy        | W   | 0.780      | -            | -                | -                | 0 (0.000) |     6.43 | Aaron, Bibu, DGL, kory, Porya      |
+|           20 |     1675 | 2024-05-30 | Rebels            | L   | 0.754      | -            | -                | -                | -         |   -10.49 | Aaron, Bibu, DGL, kory, Porya      |
+|           19 |     1856 | 2024-05-22 | System5           | W   | 0.700      | -            | -                | -                | 0 (0.000) |     3.88 | Aaron, Bibu, DGL, kory, Porya      |
+|           18 |     1900 | 2024-05-21 | EYEBALLERS        | W   | 0.694      | 0.500        | -                | 0.500 (0.174)    | -         |     8.70 | Aaron, Bibu, DGL, kory, Porya      |
+|           17 |     1939 | 2024-05-20 | Nexus             | W   | 0.686      | 0.379        | 0.014 (0.004)    | 0.458 (0.119)    | -         |     6.53 | Aaron, Bibu, DGL, kory, Porya      |
+|           16 |     2107 | 2024-05-15 | Norway            | W   | 0.654      | 0.500        | 0.006 (0.002)    | -                | -         |     4.32 | Aaron, Bibu, DGL, kory, Porya      |
+|           15 |     2168 | 2024-05-14 | ALTERNATE aTTaX   | W   | 0.647      | 0.500        | 0.031 (0.010)    | 0.550 (0.178)    | -         |    11.71 | Aaron, Bibu, DGL, kory, Porya      |
+|           14 |     2394 | 2024-05-04 | FlyQuest          | L   | 0.578      | -            | -                | -                | -         |    -3.56 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|           13 |     2409 | 2024-05-03 | BIG               | L   | 0.572      | -            | -                | -                | -         |    -2.11 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|           12 |     2430 | 2024-05-02 | Ninjas in Pyjamas | W   | 0.566      | 0.889        | 0.254 (0.128)    | 0.544 (0.274)    | 1 (0.566) |    17.48 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|           11 |     2476 | 2024-04-30 | Complexity        | L   | 0.553      | -            | -                | -                | -         |    -0.28 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|           10 |     2687 | 2024-04-20 | EYEBALLERS        | L   | 0.487      | -            | -                | -                | -         |    -8.44 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|            9 |     3227 | 2024-04-03 | SAW               | L   | 0.372      | -            | -                | -                | -         |    -2.28 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|            8 |     3282 | 2024-04-01 | RUSH B            | W   | 0.360      | 0.500        | 0.026 (0.005)    | 0.380 (0.068)    | -         |     4.96 | Aaron, Bibu, Ciocardau, DGL, Porya |
+|            7 |     3559 | 2024-03-15 | Betera            | L   | 0.247      | -            | -                | -                | -         |    -6.06 | Aaron, DGL, Kamion, msN, Porya     |
+|            6 |     3618 | 2024-03-13 | Monte             | L   | 0.234      | -            | -                | -                | -         |    -2.99 | Aaron, DGL, Kamion, msN, Porya     |
+|            5 |     3997 | 2024-02-26 | System5           | L   | 0.127      | -            | -                | -                | -         |    -3.22 | Aaron, DGL, Kamion, msN, Porya     |
+|            4 |     4135 | 2024-02-20 | ex-Preasy         | L   | 0.087      | -            | -                | -                | -         |    -1.91 | Aaron, DGL, Kamion, msN, Porya     |
+|            3 |     4163 | 2024-02-19 | GamerLegion       | L   | 0.080      | -            | -                | -                | -         |    -1.79 | Aaron, DGL, Kamion, msN, Porya     |
+|            2 |     4166 | 2024-02-19 | Cloud9            | L   | 0.079      | -            | -                | -                | -         |    -0.90 | Aaron, DGL, Kamion, msN, Porya     |
+|            1 |     4234 | 2024-02-16 | SINNERS           | L   | 0.060      | -            | -                | -                | -         |    -0.43 | Aaron, DGL, Kamion, msN, Porya     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($15,339.19)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($15,318.75)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.05) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -86,9 +86,9 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-20 |      1.000 | $1,250.00      | $1,250.00       |
-| 2024-06-13 |      0.848 | $10,895.00     | $9,241.58       |
-| 2024-06-09 |      0.821 | $500.00        | $410.38         |
-| 2024-05-12 |      0.634 | $7,000.00      | $4,437.22       |
+| 2024-06-13 |      0.847 | $10,895.00     | $9,229.48       |
+| 2024-06-09 |      0.820 | $500.00        | $409.83         |
+| 2024-05-12 |      0.633 | $7,000.00      | $4,429.44       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,22 +6,22 @@ Global Rank: [99](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [70]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  861.4<br />
+Final Rank Value:  861.8<br />
 <br />
-Final Rank Value (861.4) = Starting Rank Value (860.4) + Head To Head Adjustments (1.0)<br />
+Final Rank Value (861.8) = Starting Rank Value (860.8) + Head To Head Adjustments (1.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.308[<sup>1</sup>](#table2)
 - Bounty Collected: 0.320[<sup>2</sup>](#table1)
 - Opponent Network: 0.017[<sup>2</sup>](#table1)
-- LAN Wins: 0.255[<sup>2</sup>](#table1)
+- LAN Wins: 0.254[<sup>2</sup>](#table1)
 
 The average of these factors is 0.225<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 860.4
-- 400 + ( ( 0.225 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 860.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 860.8
+- 400 + ( ( 0.225 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 860.8
 
 
 #### Factors<br />
@@ -37,32 +37,32 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      819 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.21 | Frip, keen, prelideN, rud, shadiy    |
-|            9 |      882 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.107 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
-|            8 |      918 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.508 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.05 | Frip, keen, prelideN, rud, shadiy    |
-|            7 |      926 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.77 | Frip, keen, prelideN, rud, shadiy    |
-|            6 |     1273 | 2024-06-09 | Esprots         | L   | 0.819      | -            | -                | -                | -         |   -18.04 | Frip, keen, prelideN, raw, shadiy    |
-|            5 |     1291 | 2024-06-08 | hypewrld        | W   | 0.815      | 0.334        | 0.002 (0.001)    | 0.028 (0.008)    | 1 (0.815) |     5.94 | Frip, keen, prelideN, raw, shadiy    |
-|            4 |     2355 | 2024-05-05 | hypewrld        | W   | 0.588      | 0.257        | 0.002 (0.000)    | 0.028 (0.004)    | 1 (0.588) |     4.50 | flairr, Frip, Mairel, rud, shadiy    |
-|            3 |     2362 | 2024-05-05 | MightyWolves    | W   | 0.587      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.587) |     1.29 | flairr, Frip, Mairel, rud, shadiy    |
-|            2 |     4037 | 2024-02-24 | hypewrld        | W   | 0.115      | 0.262        | 0.002 (0.000)    | 0.028 (0.001)    | 1 (0.115) |     0.89 | EIZA, keen, prelideN, shadiy, shield |
-|            1 |     4042 | 2024-02-24 | kloogarand      | W   | 0.114      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.114) |     0.41 | EIZA, keen, prelideN, shadiy, shield |
+|           10 |      827 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.19 | Frip, keen, prelideN, rud, shadiy    |
+|            9 |      890 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.106 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
+|            8 |      926 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.508 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.05 | Frip, keen, prelideN, rud, shadiy    |
+|            7 |      934 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.77 | Frip, keen, prelideN, rud, shadiy    |
+|            6 |     1281 | 2024-06-09 | Esprots         | L   | 0.818      | -            | -                | -                | -         |   -18.01 | Frip, keen, prelideN, raw, shadiy    |
+|            5 |     1299 | 2024-06-08 | hypewrld        | W   | 0.814      | 0.334        | 0.002 (0.001)    | 0.027 (0.007)    | 1 (0.814) |     5.93 | Frip, keen, prelideN, raw, shadiy    |
+|            4 |     2363 | 2024-05-05 | hypewrld        | W   | 0.587      | 0.257        | 0.002 (0.000)    | 0.027 (0.004)    | 1 (0.587) |     4.49 | flairr, Frip, Mairel, rud, shadiy    |
+|            3 |     2370 | 2024-05-05 | MightyWolves    | W   | 0.586      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.586) |     1.28 | flairr, Frip, Mairel, rud, shadiy    |
+|            2 |     4045 | 2024-02-24 | hypewrld        | W   | 0.114      | 0.262        | 0.002 (0.000)    | 0.027 (0.001)    | 1 (0.114) |     0.88 | EIZA, keen, prelideN, shadiy, shield |
+|            1 |     4050 | 2024-02-24 | kloogarand      | W   | 0.113      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.113) |     0.41 | EIZA, keen, prelideN, shadiy, shield |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,817.51)
-- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- First, take the sum of their top 10 scaled winnings ($1,813.99)
+- Divide that value by the 5th highest value among all rosters ($322,004.12)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.820 | $1,340.00      | $1,098.33       |
-| 2024-05-05 |      0.588 | $1,077.00      | $633.14         |
-| 2024-02-24 |      0.115 | $750.00        | $86.04          |
+| 2024-06-09 |      0.819 | $1,340.00      | $1,096.85       |
+| 2024-05-05 |      0.587 | $1,077.00      | $631.94         |
+| 2024-02-24 |      0.114 | $750.00        | $85.21          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
