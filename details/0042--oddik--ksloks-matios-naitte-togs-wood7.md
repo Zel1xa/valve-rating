@@ -6,22 +6,22 @@ Global Rank: [42](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [12]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1105.7<br />
+Final Rank Value:  1105.6<br />
 <br />
-Final Rank Value (1105.7) = Starting Rank Value (996.5) + Head To Head Adjustments (109.3)<br />
+Final Rank Value (1105.6) = Starting Rank Value (996.3) + Head To Head Adjustments (109.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.498[<sup>1</sup>](#table2)
-- Bounty Collected: 0.401[<sup>2</sup>](#table1)
-- Opponent Network: 0.229[<sup>2</sup>](#table1)
+- Bounty Offered: 0.499[<sup>1</sup>](#table2)
+- Bounty Collected: 0.400[<sup>2</sup>](#table1)
+- Opponent Network: 0.228[<sup>2</sup>](#table1)
 - LAN Wins: 0.039[<sup>2</sup>](#table1)
 
-The average of these factors is 0.292<br />
+The average of these factors is 0.291<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 996.5
-- 400 + ( ( 0.292 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 996.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 996.3
+- 400 + ( ( 0.291 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 996.3
 
 
 #### Factors<br />
@@ -37,121 +37,121 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|          108 |       23 | 2024-08-03 | RED Canids        | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.26 | ksloks, matios, naitte, togs, WOOD7    |
-|          107 |       31 | 2024-08-03 | BESTIA            | W   | 1.000      | 0.143        | 0.095 (0.014)    | -                | 0 (0.000) |    12.08 | ksloks, matios, naitte, togs, WOOD7    |
-|          106 |       37 | 2024-08-03 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -4.06 | ksloks, matios, naitte, togs, WOOD7    |
-|          105 |       61 | 2024-08-02 | MIBR              | W   | 1.000      | 0.143        | 0.209 (0.030)    | -                | 0 (0.000) |    25.99 | ksloks, matios, naitte, togs, WOOD7    |
-|          104 |       92 | 2024-08-01 | Case              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.28 | ksloks, matios, naitte, togs, WOOD7    |
-|          103 |      102 | 2024-08-01 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -4.99 | ksloks, matios, naitte, togs, WOOD7    |
-|          102 |      145 | 2024-07-31 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -4.09 | ksloks, matios, naitte, togs, WOOD7    |
-|          101 |      152 | 2024-07-31 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -5.45 | ksloks, matios, naitte, togs, WOOD7    |
-|          100 |      158 | 2024-07-31 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -5.74 | ksloks, matios, naitte, togs, WOOD7    |
-|           99 |      192 | 2024-07-30 | inSanitY          | W   | 1.000      | 0.371        | 0.048 (0.018)    | -                | 0 (0.000) |    12.81 | ksloks, matios, naitte, togs, WOOD7    |
-|           98 |      204 | 2024-07-30 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.02 | lineko, matios, naitte, togs, WOOD7    |
-|           97 |      292 | 2024-07-27 | Galorys           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.44 | ksloks, matios, naitte, togs, WOOD7    |
-|           96 |      312 | 2024-07-26 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.58 | ksloks, matios, naitte, togs, WOOD7    |
-|           95 |      318 | 2024-07-26 | RED Canids        | W   | 1.000      | -            | -                | -                | -         |    22.52 | ksloks, matios, naitte, togs, WOOD7    |
-|           94 |      324 | 2024-07-26 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     6.53 | ksloks, matios, naitte, togs, WOOD7    |
-|           93 |      344 | 2024-07-25 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -22.93 | ksloks, matios, naitte, togs, WOOD7    |
-|           92 |      352 | 2024-07-25 | LaChampionsLiga   | W   | 1.000      | -            | -                | -                | -         |     0.89 | ksloks, matios, naitte, togs, WOOD7    |
-|           91 |      387 | 2024-07-24 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -9.66 | ksloks, matios, naitte, togs, WOOD7    |
-|           90 |      417 | 2024-07-23 | Sharks            | W   | 1.000      | -            | -                | -                | -         |    14.08 | ksloks, matios, naitte, togs, WOOD7    |
-|           89 |      456 | 2024-07-22 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -21.08 | ksloks, matios, naitte, togs, WOOD7    |
-|           88 |      464 | 2024-07-22 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     6.33 | ksloks, matios, naitte, togs, WOOD7    |
-|           87 |      508 | 2024-07-20 | Hype              | W   | 1.000      | -            | -                | -                | -         |    10.34 | ksloks, matios, naitte, togs, WOOD7    |
-|           86 |      519 | 2024-07-20 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.18 | ksloks, matios, naitte, togs, WOOD7    |
-|           85 |      590 | 2024-07-18 | Case              | L   | 1.000      | -            | -                | -                | -         |   -22.30 | ksloks, matios, naitte, togs, WOOD7    |
-|           84 |      601 | 2024-07-18 | Imperial          | W   | 1.000      | 0.143        | 0.236 (0.034)    | -                | -         |    22.53 | ksloks, matios, naitte, togs, WOOD7    |
-|           83 |      605 | 2024-07-18 | BESTIA            | W   | 1.000      | 0.143        | 0.095 (0.014)    | -                | -         |    14.31 | ksloks, matios, naitte, togs, WOOD7    |
-|           82 |      649 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -17.41 | ksloks, matios, naitte, togs, WOOD7    |
-|           81 |      660 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -18.98 | ksloks, matios, naitte, togs, WOOD7    |
-|           80 |      721 | 2024-07-16 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |   -18.49 | ksloks, matios, naitte, togs, WOOD7    |
-|           79 |      730 | 2024-07-16 | BESTIA            | W   | 1.000      | 0.333        | 0.095 (0.032)    | 0.801 (0.267)    | -         |    12.77 | ksloks, matios, naitte, togs, WOOD7    |
-|           78 |      770 | 2024-07-15 | Case              | W   | 1.000      | 0.333        | -                | 0.805 (0.268)    | -         |    10.17 | ksloks, matios, naitte, togs, WOOD7    |
-|           77 |      806 | 2024-07-14 | Legacy            | W   | 1.000      | 0.371        | 0.122 (0.045)    | 0.643 (0.238)    | -         |    17.34 | ksloks, matios, naitte, togs, WOOD7    |
-|           76 |      817 | 2024-07-13 | KRÜ               | W   | 1.000      | -            | -                | -                | -         |    10.13 | ksloks, matios, naitte, togs, WOOD7    |
-|           75 |      818 | 2024-07-13 | KRÜ               | W   | 1.000      | -            | -                | -                | -         |     9.39 | ksloks, matios, naitte, togs, WOOD7    |
-|           74 |      838 | 2024-07-11 | Legacy            | W   | 1.000      | 0.371        | 0.122 (0.045)    | 0.643 (0.238)    | -         |    18.37 | ksloks, matios, naitte, togs, WOOD7    |
-|           73 |      857 | 2024-07-10 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     8.56 | ksloks, matios, naitte, togs, WOOD7    |
-|           72 |      866 | 2024-07-10 | Hype              | W   | 1.000      | -            | -                | -                | -         |    12.82 | ksloks, matios, naitte, togs, WOOD7    |
-|           71 |      907 | 2024-07-08 | Sharks Youngsters | W   | 1.000      | -            | -                | -                | -         |     4.77 | ksloks, matios, naitte, togs, WOOD7    |
-|           70 |      921 | 2024-07-06 | W7M               | W   | 1.000      | -            | -                | -                | -         |     8.22 | ksloks, matios, naitte, togs, WOOD7    |
-|           69 |     1034 | 2024-06-15 | paiN              | L   | 0.866      | -            | -                | -                | -         |    -2.62 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           68 |     1103 | 2024-06-13 | Hype              | W   | 0.853      | -            | -                | -                | -         |    11.71 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           67 |     1173 | 2024-06-10 | W7M               | W   | 0.834      | 0.450        | -                | 0.537 (0.202)    | -         |     7.93 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           66 |     1204 | 2024-06-09 | Galorys           | W   | 0.828      | 0.450        | 0.030 (0.011)    | 0.552 (0.206)    | -         |    10.60 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           65 |     1224 | 2024-06-09 | Imperial          | L   | 0.826      | -            | -                | -                | -         |    -3.07 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           64 |     1263 | 2024-06-08 | W7M               | W   | 0.822      | -            | -                | -                | -         |     8.05 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           63 |     1330 | 2024-06-07 | BESTIA            | L   | 0.814      | -            | -                | -                | -         |    -8.93 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           62 |     1406 | 2024-06-06 | Patins da Ferrari | L   | 0.807      | -            | -                | -                | -         |   -17.84 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           61 |     1503 | 2024-06-04 | paiN              | L   | 0.795      | -            | -                | -                | -         |    -2.48 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           60 |     1873 | 2024-05-21 | Case              | L   | 0.700      | -            | -                | -                | -         |   -12.22 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           59 |     1930 | 2024-05-19 | Case              | W   | 0.688      | -            | -                | -                | -         |     9.47 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           58 |     1955 | 2024-05-18 | RED Canids        | L   | 0.681      | -            | -                | -                | -         |    -6.11 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           57 |     1961 | 2024-05-18 | Galorys           | W   | 0.680      | -            | -                | -                | -         |     8.97 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           56 |     1994 | 2024-05-17 | FURIA Academy     | W   | 0.675      | -            | -                | -                | -         |     1.85 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           55 |     1998 | 2024-05-17 | Sharks            | W   | 0.674      | -            | -                | -                | -         |    12.46 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           54 |     2024 | 2024-05-16 | 9z                | L   | 0.668      | -            | -                | -                | -         |    -0.96 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           53 |     2029 | 2024-05-16 | Solid             | L   | 0.667      | -            | -                | -                | -         |   -12.46 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           52 |     2074 | 2024-05-15 | BESTIA            | L   | 0.662      | -            | -                | -                | -         |   -10.25 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           51 |     2075 | 2024-05-15 | BESTIA            | L   | 0.661      | -            | -                | -                | -         |   -10.87 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           50 |     2121 | 2024-05-14 | Solid             | L   | 0.656      | -            | -                | -                | -         |   -13.27 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           49 |     2124 | 2024-05-14 | Solid             | W   | 0.655      | 0.450        | -                | 0.836 (0.247)    | -         |     7.42 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           48 |     2139 | 2024-05-14 | KRÜ               | W   | 0.654      | -            | -                | -                | -         |     8.40 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           47 |     2150 | 2024-05-14 | Fluxo             | L   | 0.653      | -            | -                | -                | -         |    -6.95 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           46 |     2165 | 2024-05-13 | Solid             | W   | 0.648      | -            | -                | -                | -         |     7.72 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           45 |     2189 | 2024-05-12 | Intense           | W   | 0.641      | -            | -                | -                | -         |     4.47 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           44 |     2211 | 2024-05-11 | ex-Corinthians    | W   | 0.635      | -            | -                | -                | -         |     1.74 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           43 |     2267 | 2024-05-09 | inSanitY          | L   | 0.620      | -            | -                | -                | -         |   -11.07 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           42 |     2302 | 2024-05-07 | Imperial          | L   | 0.608      | -            | -                | -                | -         |    -2.94 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           41 |     2335 | 2024-05-05 | Case              | W   | 0.595      | 0.435        | -                | 0.805 (0.208)    | -         |     7.79 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           40 |     2393 | 2024-05-02 | Case              | L   | 0.575      | -            | -                | -                | -         |   -10.86 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           39 |     2394 | 2024-05-02 | Case              | W   | 0.575      | 0.450        | -                | 0.805 (0.208)    | -         |     7.36 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           38 |     2531 | 2024-04-26 | W7M               | W   | 0.535      | -            | -                | -                | -         |     5.15 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           37 |     2532 | 2024-04-26 | W7M               | W   | 0.534      | -            | -                | -                | -         |     5.36 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           36 |     2582 | 2024-04-24 | paiN              | L   | 0.522      | -            | -                | -                | -         |    -1.37 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           35 |     2583 | 2024-04-24 | paiN              | W   | 0.522      | 0.450        | 0.327 (0.077)    | 0.867 (0.203)    | -         |    15.21 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           34 |     2790 | 2024-04-17 | Fluxo             | L   | 0.475      | -            | -                | -                | -         |    -5.06 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           33 |     2796 | 2024-04-17 | W7M               | W   | 0.475      | -            | -                | -                | -         |     5.13 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           32 |     2828 | 2024-04-16 | SPORT             | W   | 0.469      | -            | -                | -                | -         |     3.05 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           31 |     2881 | 2024-04-13 | paiN              | L   | 0.448      | -            | -                | -                | -         |    -0.99 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           30 |     2902 | 2024-04-12 | Solid             | W   | 0.439      | -            | -                | -                | -         |     5.81 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           29 |     2949 | 2024-04-10 | Sharks            | L   | 0.429      | -            | -                | -                | -         |    -9.94 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           28 |     2953 | 2024-04-10 | Sharks            | W   | 0.428      | -            | -                | -                | -         |     3.59 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           27 |     3007 | 2024-04-09 | Fluxo             | L   | 0.422      | -            | -                | -                | -         |    -4.63 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           26 |     3012 | 2024-04-09 | Fluxo             | L   | 0.422      | -            | -                | -                | -         |    -4.78 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           25 |     3048 | 2024-04-08 | Fluxo             | L   | 0.414      | -            | -                | -                | -         |    -4.87 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           24 |     3101 | 2024-04-06 | Sharks            | L   | 0.401      | -            | -                | -                | -         |    -9.76 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           23 |     3104 | 2024-04-06 | LA RUGONETA       | W   | 0.399      | -            | -                | -                | -         |     1.05 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           22 |     3118 | 2024-04-05 | MIBR              | L   | 0.394      | -            | -                | -                | -         |    -0.99 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           21 |     3143 | 2024-04-04 | Imperial          | L   | 0.388      | -            | -                | -                | -         |    -1.93 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           20 |     3149 | 2024-04-04 | Imperial          | L   | 0.388      | -            | -                | -                | -         |    -1.97 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           19 |     3182 | 2024-04-03 | RED Canids        | L   | 0.382      | -            | -                | -                | -         |    -4.25 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           18 |     3185 | 2024-04-03 | RED Canids        | L   | 0.382      | -            | -                | -                | -         |    -4.38 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           17 |     3361 | 2024-03-26 | MIBR              | L   | 0.329      | -            | -                | -                | -         |    -0.91 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           16 |     3363 | 2024-03-26 | MIBR              | L   | 0.328      | -            | -                | -                | -         |    -0.92 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           15 |     3470 | 2024-03-18 | RED Canids        | L   | 0.274      | -            | -                | -                | -         |    -3.25 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           14 |     3495 | 2024-03-17 | Case              | W   | 0.267      | -            | -                | -                | -         |     3.38 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           13 |     3513 | 2024-03-16 | RED Canids        | L   | 0.261      | -            | -                | -                | -         |    -3.13 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           12 |     3528 | 2024-03-15 | 2GAME             | W   | 0.255      | -            | -                | -                | -         |     1.21 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           11 |     3529 | 2024-03-15 | 2GAME             | W   | 0.255      | -            | -                | -                | -         |     1.22 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|           10 |     3533 | 2024-03-15 | MIBR Academy      | W   | 0.254      | -            | -                | -                | -         |     0.51 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            9 |     3588 | 2024-03-13 | Sharks            | L   | 0.241      | -            | -                | -                | -         |    -4.03 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            8 |     3605 | 2024-03-13 | Case              | W   | 0.240      | -            | -                | -                | -         |     3.15 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            7 |     3674 | 2024-03-10 | Solid             | W   | 0.220      | -            | -                | -                | -         |     2.57 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            6 |     3680 | 2024-03-10 | LA RUGONETA       | L   | 0.219      | -            | -                | -                | -         |    -6.43 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            5 |     3726 | 2024-03-08 | Galorys           | L   | 0.206      | -            | -                | -                | -         |    -4.19 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            4 |     3837 | 2024-03-04 | paiN              | L   | 0.180      | -            | -                | -                | -         |    -0.53 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            3 |     3853 | 2024-03-03 | RED Canids        | W   | 0.174      | -            | -                | -                | 1 (0.174) |     3.34 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            2 |     3877 | 2024-03-02 | Elevate           | W   | 0.168      | -            | -                | -                | 1 (0.168) |     2.69 | matios, naitte, ponter, Tuurtle, WOOD7 |
-|            1 |     3902 | 2024-03-01 | M80               | L   | 0.161      | -            | -                | -                | -         |    -1.09 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|          108 |       27 | 2024-08-03 | RED Canids        | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.25 | ksloks, matios, naitte, togs, WOOD7    |
+|          107 |       35 | 2024-08-03 | BESTIA            | W   | 1.000      | 0.143        | 0.095 (0.014)    | -                | 0 (0.000) |    12.08 | ksloks, matios, naitte, togs, WOOD7    |
+|          106 |       41 | 2024-08-03 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -4.06 | ksloks, matios, naitte, togs, WOOD7    |
+|          105 |       65 | 2024-08-02 | MIBR              | W   | 1.000      | 0.143        | 0.209 (0.030)    | -                | 0 (0.000) |    25.99 | ksloks, matios, naitte, togs, WOOD7    |
+|          104 |       96 | 2024-08-01 | Case              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.29 | ksloks, matios, naitte, togs, WOOD7    |
+|          103 |      106 | 2024-08-01 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -4.99 | ksloks, matios, naitte, togs, WOOD7    |
+|          102 |      149 | 2024-07-31 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -4.10 | ksloks, matios, naitte, togs, WOOD7    |
+|          101 |      156 | 2024-07-31 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -5.46 | ksloks, matios, naitte, togs, WOOD7    |
+|          100 |      162 | 2024-07-31 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -5.75 | ksloks, matios, naitte, togs, WOOD7    |
+|           99 |      196 | 2024-07-30 | inSanitY          | W   | 1.000      | 0.371        | 0.048 (0.018)    | -                | 0 (0.000) |    12.81 | ksloks, matios, naitte, togs, WOOD7    |
+|           98 |      208 | 2024-07-30 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.03 | lineko, matios, naitte, togs, WOOD7    |
+|           97 |      296 | 2024-07-27 | Galorys           | W   | 1.000      | 0.365        | -                | 0.552 (0.201)    | 0 (0.000) |     7.45 | ksloks, matios, naitte, togs, WOOD7    |
+|           96 |      316 | 2024-07-26 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.59 | ksloks, matios, naitte, togs, WOOD7    |
+|           95 |      322 | 2024-07-26 | RED Canids        | W   | 1.000      | -            | -                | -                | -         |    22.51 | ksloks, matios, naitte, togs, WOOD7    |
+|           94 |      328 | 2024-07-26 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     6.53 | ksloks, matios, naitte, togs, WOOD7    |
+|           93 |      348 | 2024-07-25 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -22.92 | ksloks, matios, naitte, togs, WOOD7    |
+|           92 |      356 | 2024-07-25 | LaChampionsLiga   | W   | 1.000      | -            | -                | -                | -         |     0.89 | ksloks, matios, naitte, togs, WOOD7    |
+|           91 |      391 | 2024-07-24 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -9.67 | ksloks, matios, naitte, togs, WOOD7    |
+|           90 |      421 | 2024-07-23 | Sharks            | W   | 1.000      | -            | -                | -                | -         |    14.08 | ksloks, matios, naitte, togs, WOOD7    |
+|           89 |      460 | 2024-07-22 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -21.07 | ksloks, matios, naitte, togs, WOOD7    |
+|           88 |      468 | 2024-07-22 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     6.33 | ksloks, matios, naitte, togs, WOOD7    |
+|           87 |      512 | 2024-07-20 | Hype              | W   | 1.000      | -            | -                | -                | -         |    10.35 | ksloks, matios, naitte, togs, WOOD7    |
+|           86 |      523 | 2024-07-20 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.19 | ksloks, matios, naitte, togs, WOOD7    |
+|           85 |      594 | 2024-07-18 | Case              | L   | 1.000      | -            | -                | -                | -         |   -22.30 | ksloks, matios, naitte, togs, WOOD7    |
+|           84 |      605 | 2024-07-18 | Imperial          | W   | 1.000      | 0.143        | 0.236 (0.034)    | -                | -         |    22.51 | ksloks, matios, naitte, togs, WOOD7    |
+|           83 |      609 | 2024-07-18 | BESTIA            | W   | 1.000      | 0.143        | 0.095 (0.014)    | -                | -         |    14.30 | ksloks, matios, naitte, togs, WOOD7    |
+|           82 |      653 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -17.42 | ksloks, matios, naitte, togs, WOOD7    |
+|           81 |      664 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -18.99 | ksloks, matios, naitte, togs, WOOD7    |
+|           80 |      725 | 2024-07-16 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |   -18.49 | ksloks, matios, naitte, togs, WOOD7    |
+|           79 |      734 | 2024-07-16 | BESTIA            | W   | 1.000      | 0.333        | 0.095 (0.032)    | 0.802 (0.267)    | -         |    12.77 | ksloks, matios, naitte, togs, WOOD7    |
+|           78 |      774 | 2024-07-15 | Case              | W   | 1.000      | 0.333        | -                | 0.806 (0.269)    | -         |    10.18 | ksloks, matios, naitte, togs, WOOD7    |
+|           77 |      810 | 2024-07-14 | Legacy            | W   | 1.000      | 0.371        | 0.122 (0.045)    | 0.644 (0.238)    | -         |    17.32 | ksloks, matios, naitte, togs, WOOD7    |
+|           76 |      821 | 2024-07-13 | KRÜ               | W   | 1.000      | -            | -                | -                | -         |    10.13 | ksloks, matios, naitte, togs, WOOD7    |
+|           75 |      822 | 2024-07-13 | KRÜ               | W   | 1.000      | -            | -                | -                | -         |     9.40 | ksloks, matios, naitte, togs, WOOD7    |
+|           74 |      842 | 2024-07-11 | Legacy            | W   | 1.000      | 0.371        | 0.122 (0.045)    | 0.644 (0.238)    | -         |    18.35 | ksloks, matios, naitte, togs, WOOD7    |
+|           73 |      861 | 2024-07-10 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     8.56 | ksloks, matios, naitte, togs, WOOD7    |
+|           72 |      870 | 2024-07-10 | Hype              | W   | 1.000      | -            | -                | -                | -         |    12.82 | ksloks, matios, naitte, togs, WOOD7    |
+|           71 |      911 | 2024-07-08 | Sharks Youngsters | W   | 1.000      | -            | -                | -                | -         |     4.77 | ksloks, matios, naitte, togs, WOOD7    |
+|           70 |      925 | 2024-07-06 | W7M               | W   | 1.000      | -            | -                | -                | -         |     8.23 | ksloks, matios, naitte, togs, WOOD7    |
+|           69 |     1038 | 2024-06-15 | paiN              | L   | 0.864      | -            | -                | -                | -         |    -2.62 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           68 |     1107 | 2024-06-13 | Hype              | W   | 0.851      | -            | -                | -                | -         |    11.68 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           67 |     1177 | 2024-06-10 | W7M               | W   | 0.831      | -            | -                | -                | -         |     7.91 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           66 |     1208 | 2024-06-09 | Galorys           | W   | 0.826      | 0.450        | 0.030 (0.011)    | 0.552 (0.205)    | -         |    10.57 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           65 |     1228 | 2024-06-09 | Imperial          | L   | 0.824      | -            | -                | -                | -         |    -3.08 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           64 |     1267 | 2024-06-08 | W7M               | W   | 0.820      | -            | -                | -                | -         |     8.03 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           63 |     1334 | 2024-06-07 | BESTIA            | L   | 0.812      | -            | -                | -                | -         |    -8.92 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           62 |     1410 | 2024-06-06 | Patins da Ferrari | L   | 0.804      | -            | -                | -                | -         |   -17.79 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           61 |     1507 | 2024-06-04 | paiN              | L   | 0.793      | -            | -                | -                | -         |    -2.48 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           60 |     1877 | 2024-05-21 | Case              | L   | 0.698      | -            | -                | -                | -         |   -12.18 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           59 |     1934 | 2024-05-19 | Case              | W   | 0.686      | -            | -                | -                | -         |     9.44 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           58 |     1959 | 2024-05-18 | RED Canids        | L   | 0.679      | -            | -                | -                | -         |    -6.10 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           57 |     1965 | 2024-05-18 | Galorys           | W   | 0.678      | -            | -                | -                | -         |     8.95 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           56 |     1998 | 2024-05-17 | FURIA Academy     | W   | 0.672      | -            | -                | -                | -         |     1.85 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           55 |     2002 | 2024-05-17 | Sharks            | W   | 0.671      | -            | -                | -                | -         |    12.41 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           54 |     2028 | 2024-05-16 | 9z                | L   | 0.666      | -            | -                | -                | -         |    -0.96 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           53 |     2033 | 2024-05-16 | Solid             | L   | 0.665      | -            | -                | -                | -         |   -12.41 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           52 |     2078 | 2024-05-15 | BESTIA            | L   | 0.659      | -            | -                | -                | -         |   -10.21 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           51 |     2079 | 2024-05-15 | BESTIA            | L   | 0.659      | -            | -                | -                | -         |   -10.82 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           50 |     2125 | 2024-05-14 | Solid             | L   | 0.653      | -            | -                | -                | -         |   -13.21 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           49 |     2128 | 2024-05-14 | Solid             | W   | 0.653      | 0.450        | -                | 0.836 (0.246)    | -         |     7.40 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           48 |     2143 | 2024-05-14 | KRÜ               | W   | 0.652      | -            | -                | -                | -         |     8.37 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           47 |     2154 | 2024-05-14 | Fluxo             | L   | 0.651      | -            | -                | -                | -         |    -6.93 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           46 |     2169 | 2024-05-13 | Solid             | W   | 0.645      | -            | -                | -                | -         |     7.69 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           45 |     2193 | 2024-05-12 | Intense           | W   | 0.638      | -            | -                | -                | -         |     4.46 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           44 |     2215 | 2024-05-11 | ex-Corinthians    | W   | 0.632      | -            | -                | -                | -         |     1.73 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           43 |     2271 | 2024-05-09 | inSanitY          | L   | 0.618      | -            | -                | -                | -         |   -11.03 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           42 |     2306 | 2024-05-07 | Imperial          | L   | 0.606      | -            | -                | -                | -         |    -2.94 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           41 |     2339 | 2024-05-05 | Case              | W   | 0.593      | 0.435        | -                | 0.806 (0.208)    | -         |     7.76 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           40 |     2397 | 2024-05-02 | Case              | L   | 0.573      | -            | -                | -                | -         |   -10.81 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           39 |     2398 | 2024-05-02 | Case              | W   | 0.573      | 0.450        | -                | 0.806 (0.208)    | -         |     7.33 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           38 |     2535 | 2024-04-26 | W7M               | W   | 0.532      | -            | -                | -                | -         |     5.13 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           37 |     2536 | 2024-04-26 | W7M               | W   | 0.532      | -            | -                | -                | -         |     5.34 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           36 |     2586 | 2024-04-24 | paiN              | L   | 0.520      | -            | -                | -                | -         |    -1.37 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           35 |     2587 | 2024-04-24 | paiN              | W   | 0.519      | 0.450        | 0.326 (0.076)    | 0.868 (0.203)    | -         |    15.13 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           34 |     2794 | 2024-04-17 | Fluxo             | L   | 0.473      | -            | -                | -                | -         |    -5.04 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           33 |     2800 | 2024-04-17 | W7M               | W   | 0.472      | -            | -                | -                | -         |     5.10 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           32 |     2832 | 2024-04-16 | SPORT             | W   | 0.466      | -            | -                | -                | -         |     3.03 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           31 |     2885 | 2024-04-13 | paiN              | L   | 0.445      | -            | -                | -                | -         |    -0.99 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           30 |     2906 | 2024-04-12 | Solid             | W   | 0.437      | -            | -                | -                | -         |     5.78 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           29 |     2953 | 2024-04-10 | Sharks            | L   | 0.426      | -            | -                | -                | -         |    -9.88 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           28 |     2957 | 2024-04-10 | Sharks            | W   | 0.426      | -            | -                | -                | -         |     3.57 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           27 |     3011 | 2024-04-09 | Fluxo             | L   | 0.419      | -            | -                | -                | -         |    -4.60 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           26 |     3016 | 2024-04-09 | Fluxo             | L   | 0.419      | -            | -                | -                | -         |    -4.76 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           25 |     3052 | 2024-04-08 | Fluxo             | L   | 0.412      | -            | -                | -                | -         |    -4.84 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           24 |     3105 | 2024-04-06 | Sharks            | L   | 0.398      | -            | -                | -                | -         |    -9.70 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           23 |     3108 | 2024-04-06 | LA RUGONETA       | W   | 0.397      | -            | -                | -                | -         |     1.04 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           22 |     3122 | 2024-04-05 | MIBR              | L   | 0.392      | -            | -                | -                | -         |    -0.98 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           21 |     3147 | 2024-04-04 | Imperial          | L   | 0.386      | -            | -                | -                | -         |    -1.93 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           20 |     3153 | 2024-04-04 | Imperial          | L   | 0.386      | -            | -                | -                | -         |    -1.97 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           19 |     3186 | 2024-04-03 | RED Canids        | L   | 0.379      | -            | -                | -                | -         |    -4.23 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           18 |     3189 | 2024-04-03 | RED Canids        | L   | 0.379      | -            | -                | -                | -         |    -4.36 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           17 |     3365 | 2024-03-26 | MIBR              | L   | 0.326      | -            | -                | -                | -         |    -0.91 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           16 |     3367 | 2024-03-26 | MIBR              | L   | 0.326      | -            | -                | -                | -         |    -0.92 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           15 |     3474 | 2024-03-18 | RED Canids        | L   | 0.272      | -            | -                | -                | -         |    -3.22 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           14 |     3499 | 2024-03-17 | Case              | W   | 0.265      | -            | -                | -                | -         |     3.35 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           13 |     3517 | 2024-03-16 | RED Canids        | L   | 0.259      | -            | -                | -                | -         |    -3.10 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           12 |     3532 | 2024-03-15 | 2GAME             | W   | 0.253      | -            | -                | -                | -         |     1.20 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           11 |     3533 | 2024-03-15 | 2GAME             | W   | 0.253      | -            | -                | -                | -         |     1.21 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|           10 |     3537 | 2024-03-15 | MIBR Academy      | W   | 0.251      | -            | -                | -                | -         |     0.51 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            9 |     3592 | 2024-03-13 | Sharks            | L   | 0.239      | -            | -                | -                | -         |    -3.99 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            8 |     3609 | 2024-03-13 | Case              | W   | 0.237      | -            | -                | -                | -         |     3.13 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            7 |     3678 | 2024-03-10 | Solid             | W   | 0.218      | -            | -                | -                | -         |     2.55 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            6 |     3684 | 2024-03-10 | LA RUGONETA       | L   | 0.217      | -            | -                | -                | -         |    -6.36 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            5 |     3730 | 2024-03-08 | Galorys           | L   | 0.204      | -            | -                | -                | -         |    -4.14 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            4 |     3841 | 2024-03-04 | paiN              | L   | 0.177      | -            | -                | -                | -         |    -0.53 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            3 |     3857 | 2024-03-03 | RED Canids        | W   | 0.172      | -            | -                | -                | 1 (0.172) |     3.30 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            2 |     3881 | 2024-03-02 | Elevate           | W   | 0.165      | -            | -                | -                | 1 (0.165) |     2.65 | matios, naitte, ponter, Tuurtle, WOOD7 |
+|            1 |     3906 | 2024-03-01 | M80               | L   | 0.159      | -            | -                | -                | -         |    -1.08 | matios, naitte, ponter, Tuurtle, WOOD7 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($31,922.87)
-- Divide that value by the 5th highest value among all rosters ($324,028.83)
+- First, take the sum of their top 10 scaled winnings ($31,893.66)
+- Divide that value by the 5th highest value among all rosters ($323,321.90)
 - The final value (0.10) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -162,12 +162,12 @@ Top ten winnings for this roster:<br />
 | 2024-07-27 |      1.000 | $9,100.00      | $9,100.00       |
 | 2024-07-22 |      1.000 | $3,000.00      | $3,000.00       |
 | 2024-07-14 |      1.000 | $10,000.00     | $10,000.00      |
-| 2024-06-16 |      0.874 | $5,000.00      | $4,368.87       |
-| 2024-06-10 |      0.835 | $750.00        | $626.28         |
-| 2024-06-09 |      0.828 | $1,500.00      | $1,241.77       |
-| 2024-05-21 |      0.700 | $1,500.00      | $1,050.66       |
-| 2024-05-19 |      0.687 | $2,000.00      | $1,374.21       |
-| 2024-03-18 |      0.274 | $1,500.00      | $411.08         |
+| 2024-06-16 |      0.871 | $5,000.00      | $4,356.94       |
+| 2024-06-10 |      0.833 | $750.00        | $624.50         |
+| 2024-06-09 |      0.825 | $1,500.00      | $1,238.19       |
+| 2024-05-21 |      0.698 | $1,500.00      | $1,047.08       |
+| 2024-05-19 |      0.685 | $2,000.00      | $1,369.44       |
+| 2024-03-18 |      0.272 | $1,500.00      | $407.50         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

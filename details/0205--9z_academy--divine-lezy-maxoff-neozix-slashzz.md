@@ -6,9 +6,9 @@ Global Rank: [205](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [59]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  502.7<br />
+Final Rank Value:  502.8<br />
 <br />
-Final Rank Value (502.7) = Starting Rank Value (509.8) + Head To Head Adjustments (-7.1)<br />
+Final Rank Value (502.8) = Starting Rank Value (509.8) + Head To Head Adjustments (-7.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      167 | 2024-07-31 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.49 | divine, lezy, MaxOff, neozix, slashzz |
-|           13 |      197 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -0.27 | divine, lezy, MaxOff, neozix, slashzz |
-|           12 |      482 | 2024-07-21 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |    -5.82 | divine, lezy, MaxOff, neozix, slashzz |
-|           11 |      539 | 2024-07-19 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.35 | divine, lezy, MaxOff, neozix, slashzz |
-|           10 |      589 | 2024-07-18 | SPORT             | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.114 (0.042)    | 0 (0.000) |    23.64 | divine, lezy, MaxOff, neozix, slashzz |
-|            9 |      766 | 2024-07-15 | Case              | L   | 1.000      | -            | -                | -                | -         |    -2.61 | divine, lezy, MaxOff, neozix, slashzz |
-|            8 |      863 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |    -5.65 | divine, lezy, MaxOff, neozix, slashzz |
-|            7 |      920 | 2024-07-06 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -4.05 | divine, lezy, MaxOff, neozix, slashzz |
-|            6 |     1557 | 2024-06-02 | Dusty Roots       | L   | 0.781      | -            | -                | -                | -         |    -3.37 | divine, lezy, MaxOff, neozix, slashzz |
-|            5 |     1634 | 2024-05-31 | Yawara            | W   | 0.766      | 0.371        | 0.000 (0.000)    | 0.049 (0.014)    | 0 (0.000) |    12.04 | divine, lezy, MaxOff, neozix, slashzz |
-|            4 |     1686 | 2024-05-29 | Corinthians       | L   | 0.753      | -            | -                | -                | -         |   -11.79 | divine, lezy, MaxOff, neozix, slashzz |
-|            3 |     1706 | 2024-05-28 | Solid             | L   | 0.746      | -            | -                | -                | -         |    -2.39 | divine, lezy, MaxOff, neozix, slashzz |
-|            2 |     4236 | 2024-02-15 | Galorys           | L   | 0.061      | -            | -                | -                | -         |    -0.19 | divine, MaxOff, neozix, slashzz, wait |
-|            1 |     4310 | 2024-02-13 | Flamengo          | L   | 0.048      | -            | -                | -                | -         |    -0.78 | divine, MaxOff, neozix, slashzz, wait |
+|           14 |      171 | 2024-07-31 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.49 | divine, lezy, MaxOff, neozix, slashzz |
+|           13 |      201 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -0.27 | divine, lezy, MaxOff, neozix, slashzz |
+|           12 |      486 | 2024-07-21 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |    -5.82 | divine, lezy, MaxOff, neozix, slashzz |
+|           11 |      543 | 2024-07-19 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.35 | divine, lezy, MaxOff, neozix, slashzz |
+|           10 |      593 | 2024-07-18 | SPORT             | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.115 (0.042)    | 0 (0.000) |    23.64 | divine, lezy, MaxOff, neozix, slashzz |
+|            9 |      770 | 2024-07-15 | Case              | L   | 1.000      | -            | -                | -                | -         |    -2.61 | divine, lezy, MaxOff, neozix, slashzz |
+|            8 |      867 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |    -5.65 | divine, lezy, MaxOff, neozix, slashzz |
+|            7 |      924 | 2024-07-06 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -4.06 | divine, lezy, MaxOff, neozix, slashzz |
+|            6 |     1561 | 2024-06-02 | Dusty Roots       | L   | 0.779      | -            | -                | -                | -         |    -3.35 | divine, lezy, MaxOff, neozix, slashzz |
+|            5 |     1638 | 2024-05-31 | Yawara            | W   | 0.764      | 0.371        | 0.000 (0.000)    | 0.049 (0.014)    | 0 (0.000) |    12.00 | divine, lezy, MaxOff, neozix, slashzz |
+|            4 |     1690 | 2024-05-29 | Corinthians       | L   | 0.750      | -            | -                | -                | -         |   -11.75 | divine, lezy, MaxOff, neozix, slashzz |
+|            3 |     1710 | 2024-05-28 | Solid             | L   | 0.744      | -            | -                | -                | -         |    -2.38 | divine, lezy, MaxOff, neozix, slashzz |
+|            2 |     4240 | 2024-02-15 | Galorys           | L   | 0.058      | -            | -                | -                | -         |    -0.18 | divine, MaxOff, neozix, slashzz, wait |
+|            1 |     4314 | 2024-02-13 | Flamengo          | L   | 0.045      | -            | -                | -                | -         |    -0.74 | divine, MaxOff, neozix, slashzz, wait |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($324,028.83)
+- Divide that value by the 5th highest value among all rosters ($323,321.90)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,22 +6,22 @@ Global Rank: [127](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [88]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  787.5<br />
+Final Rank Value:  787.2<br />
 <br />
-Final Rank Value (787.5) = Starting Rank Value (753.4) + Head To Head Adjustments (34.1)<br />
+Final Rank Value (787.2) = Starting Rank Value (753.2) + Head To Head Adjustments (33.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.321[<sup>1</sup>](#table2)
 - Bounty Collected: 0.328[<sup>2</sup>](#table1)
-- Opponent Network: 0.043[<sup>2</sup>](#table1)
+- Opponent Network: 0.042[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.173<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 753.4
-- 400 + ( ( 0.173 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 753.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 753.2
+- 400 + ( ( 0.173 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 753.2
 
 
 #### Factors<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2294 | 2024-05-08 | Sashi             | L   | 0.612      | -            | -                | -                | -         |    -1.68 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            9 |     2318 | 2024-05-07 | Gaimin Gladiators | W   | 0.604      | 0.396        | 0.038 (0.009)    | 0.350 (0.084)    | 0 (0.000) |    14.89 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            8 |     2333 | 2024-05-06 | brazylijski luz   | W   | 0.598      | 0.396        | 0.008 (0.002)    | 0.261 (0.062)    | 0 (0.000) |    11.38 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            7 |     2409 | 2024-05-02 | Endpoint          | L   | 0.572      | -            | -                | -                | -         |    -5.43 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            6 |     2479 | 2024-04-29 | MOUZ NXT          | L   | 0.552      | -            | -                | -                | -         |    -3.16 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            5 |     2498 | 2024-04-28 | Nemiga            | W   | 0.545      | 0.435        | 0.317 (0.075)    | 0.734 (0.174)    | 0 (0.000) |    15.61 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            4 |     2575 | 2024-04-25 | Nexus             | W   | 0.525      | 0.435        | 0.014 (0.003)    | 0.465 (0.106)    | 0 (0.000) |    10.24 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            3 |     2618 | 2024-04-23 | Sangal            | L   | 0.511      | -            | -                | -                | -         |    -1.78 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            2 |     2621 | 2024-04-22 | Zero Tenacity     | L   | 0.507      | -            | -                | -                | -         |    -2.22 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            1 |     2633 | 2024-04-22 | Permitta          | L   | 0.505      | -            | -                | -                | -         |    -3.75 | b0RUP, Kristou, niko, refrezh, TMB  |
+|           10 |     2298 | 2024-05-08 | Sashi             | L   | 0.610      | -            | -                | -                | -         |    -1.67 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            9 |     2322 | 2024-05-07 | Gaimin Gladiators | W   | 0.602      | 0.396        | 0.038 (0.009)    | 0.349 (0.083)    | 0 (0.000) |    14.81 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            8 |     2337 | 2024-05-06 | brazylijski luz   | W   | 0.595      | 0.396        | 0.008 (0.002)    | 0.261 (0.062)    | 0 (0.000) |    11.33 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            7 |     2413 | 2024-05-02 | Endpoint          | L   | 0.570      | -            | -                | -                | -         |    -5.41 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            6 |     2483 | 2024-04-29 | MOUZ NXT          | L   | 0.549      | -            | -                | -                | -         |    -3.14 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            5 |     2502 | 2024-04-28 | Nemiga            | W   | 0.542      | 0.435        | 0.317 (0.075)    | 0.733 (0.173)    | 0 (0.000) |    15.54 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            4 |     2579 | 2024-04-25 | Nexus             | W   | 0.523      | 0.435        | 0.014 (0.003)    | 0.465 (0.106)    | 0 (0.000) |    10.19 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            3 |     2622 | 2024-04-23 | Sangal            | L   | 0.509      | -            | -                | -                | -         |    -1.77 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            2 |     2625 | 2024-04-22 | Zero Tenacity     | L   | 0.504      | -            | -                | -                | -         |    -2.21 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            1 |     2637 | 2024-04-22 | Permitta          | L   | 0.502      | -            | -                | -                | -         |    -3.73 | b0RUP, Kristou, niko, refrezh, TMB  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,475.09)
-- Divide that value by the 5th highest value among all rosters ($324,028.83)
+- First, take the sum of their top 10 scaled winnings ($2,465.56)
+- Divide that value by the 5th highest value among all rosters ($323,321.90)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -6,22 +6,22 @@ Global Rank: [87](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [23]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  908.3<br />
+Final Rank Value:  908.5<br />
 <br />
-Final Rank Value (908.3) = Starting Rank Value (1003.8) + Head To Head Adjustments (-95.4)<br />
+Final Rank Value (908.5) = Starting Rank Value (1003.5) + Head To Head Adjustments (-95.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.389[<sup>1</sup>](#table2)
 - Bounty Collected: 0.326[<sup>2</sup>](#table1)
-- Opponent Network: 0.150[<sup>2</sup>](#table1)
+- Opponent Network: 0.149[<sup>2</sup>](#table1)
 - LAN Wins: 0.316[<sup>2</sup>](#table1)
 
 The average of these factors is 0.295<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1003.8
-- 400 + ( ( 0.295 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1003.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1003.5
+- 400 + ( ( 0.295 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1003.5
 
 
 #### Factors<br />
@@ -37,92 +37,92 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           69 |       22 | 2024-08-03 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.531 (0.161)    | 0 (0.000) |    19.16 | dare, intra, Peeping, shane, snav   |
-|           68 |      135 | 2024-07-31 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -13.84 | dare, dea, Peeping, shane, snav     |
-|           67 |      141 | 2024-07-31 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -15.11 | dare, dea, Peeping, shane, snav     |
-|           66 |      380 | 2024-07-24 | Nouns            | L   | 1.000      | -            | -                | -                | -         |   -12.31 | dare, dea, Peeping, shane, snav     |
-|           65 |      383 | 2024-07-24 | Nouns            | L   | 1.000      | -            | -                | -                | -         |   -13.40 | dare, dea, Peeping, shane, snav     |
-|           64 |      476 | 2024-07-21 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -18.59 | dare, Fr3nk1e, Peeping, shane, snav |
-|           63 |      504 | 2024-07-20 | Phoenix          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.52 | dare, Fr3nk1e, Peeping, shane, snav |
-|           62 |      574 | 2024-07-18 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -21.88 | dare, Fr3nk1e, Peeping, shane, snav |
-|           61 |      576 | 2024-07-18 | BOSS             | W   | 1.000      | 0.477        | 0.014 (0.007)    | 0.332 (0.159)    | 0 (0.000) |     9.16 | dare, Fr3nk1e, Peeping, shane, snav |
-|           60 |      638 | 2024-07-17 | Phoenix          | W   | 1.000      | 0.477        | -                | 0.283 (0.135)    | 0 (0.000) |     5.47 | dare, Fr3nk1e, Peeping, shane, snav |
-|           59 |      642 | 2024-07-17 | Phoenix          | W   | 1.000      | 0.477        | -                | 0.283 (0.135)    | 0 (0.000) |     5.76 | dare, Fr3nk1e, Peeping, shane, snav |
-|           58 |      700 | 2024-07-16 | Mythic           | W   | 1.000      | 0.477        | -                | 0.299 (0.143)    | 0 (0.000) |     8.69 | dare, Fr3nk1e, Peeping, shane, snav |
-|           57 |      707 | 2024-07-16 | Mythic           | W   | 1.000      | 0.477        | -                | 0.299 (0.143)    | 0 (0.000) |     9.34 | dare, Fr3nk1e, Peeping, shane, snav |
-|           56 |      751 | 2024-07-15 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -20.23 | dare, dea, Peeping, shane, snav     |
-|           55 |      755 | 2024-07-15 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -21.89 | dare, dea, Peeping, shane, snav     |
-|           54 |      966 | 2024-06-23 | Locke's Kittens  | W   | 0.923      | -            | -                | -                | 1 (0.923) |     6.84 | dare, dea, Peeping, shane, snav     |
-|           53 |      968 | 2024-06-23 | WICKED           | W   | 0.921      | -            | -                | -                | 1 (0.921) |     3.04 | dare, dea, Peeping, shane, snav     |
-|           52 |      972 | 2024-06-22 | LOCK IN          | W   | 0.915      | -            | -                | -                | 1 (0.915) |     1.12 | dare, dea, Peeping, shane, snav     |
-|           51 |      989 | 2024-06-16 | Legacy           | L   | 0.875      | -            | -                | -                | -         |   -11.30 | dare, dea, Peeping, shane, snav     |
-|           50 |     1012 | 2024-06-15 | BOSS             | W   | 0.869      | -            | -                | -                | -         |     6.54 | dare, dea, Peeping, shane, snav     |
-|           49 |     1047 | 2024-06-14 | FLUFFY AIMERS    | W   | 0.863      | -            | -                | -                | -         |     4.83 | dare, dea, Peeping, shane, snav     |
-|           48 |     1325 | 2024-06-07 | Nouns            | L   | 0.815      | -            | -                | -                | -         |   -13.00 | dare, dea, Peeping, shane, snav     |
-|           47 |     1328 | 2024-06-07 | Nouns            | W   | 0.814      | 0.143        | 0.057 (0.007)    | -                | -         |    12.82 | dare, dea, Peeping, shane, snav     |
-|           46 |     1333 | 2024-06-07 | Legacy           | L   | 0.814      | -            | -                | -                | -         |   -11.16 | dare, dea, Peeping, shane, snav     |
-|           45 |     1374 | 2024-06-06 | Nouns            | L   | 0.809      | -            | -                | -                | -         |   -12.84 | dare, dea, Peeping, shane, snav     |
-|           44 |     1384 | 2024-06-06 | FlyQuest RED     | W   | 0.808      | 0.384        | 0.017 (0.005)    | -                | -         |     5.28 | dare, dea, Peeping, shane, snav     |
-|           43 |     1445 | 2024-06-05 | Mythic           | W   | 0.802      | 0.477        | -                | 0.299 (0.114)    | -         |     7.08 | dare, dea, Peeping, shane, snav     |
-|           42 |     1497 | 2024-06-04 | Party Astronauts | L   | 0.796      | -            | -                | -                | -         |   -13.95 | dare, dea, Peeping, shane, snav     |
-|           41 |     1805 | 2024-05-22 | NRG              | W   | 0.709      | 0.477        | 0.020 (0.007)    | 0.521 (0.176)    | -         |     8.83 | dare, dea, Peeping, shane, snav     |
-|           40 |     1811 | 2024-05-22 | NRG              | W   | 0.709      | 0.477        | 0.020 (0.007)    | 0.521 (0.176)    | -         |     9.38 | dare, dea, Peeping, shane, snav     |
-|           39 |     1854 | 2024-05-21 | Take Flyte       | W   | 0.703      | -            | -                | -                | -         |     3.34 | dare, dea, Peeping, shane, snav     |
-|           38 |     1858 | 2024-05-21 | Take Flyte       | W   | 0.702      | -            | -                | -                | -         |     3.45 | dare, dea, Peeping, shane, snav     |
-|           37 |     1899 | 2024-05-20 | Mythic           | L   | 0.695      | -            | -                | -                | -         |   -16.36 | dare, dea, Peeping, shane, snav     |
-|           36 |     1985 | 2024-05-17 | FLUFFY AIMERS    | W   | 0.676      | -            | -                | -                | -         |     3.99 | dare, dea, Peeping, shane, snav     |
-|           35 |     1986 | 2024-05-17 | FLUFFY AIMERS    | W   | 0.676      | -            | -                | -                | -         |     4.14 | dare, dea, Peeping, shane, snav     |
-|           34 |     2057 | 2024-05-15 | Limitless        | W   | 0.663      | -            | -                | -                | -         |     2.62 | dare, dea, Peeping, shane, snav     |
-|           33 |     2064 | 2024-05-15 | Limitless        | W   | 0.662      | -            | -                | -                | -         |     2.69 | dare, dea, Peeping, shane, snav     |
-|           32 |     2110 | 2024-05-14 | M80              | L   | 0.656      | -            | -                | -                | -         |    -3.60 | dare, dea, Peeping, shane, snav     |
-|           31 |     2117 | 2024-05-14 | M80              | L   | 0.656      | -            | -                | -                | -         |    -3.72 | dare, dea, Peeping, shane, snav     |
-|           30 |     2126 | 2024-05-14 | Phoenix          | W   | 0.655      | -            | -                | -                | -         |     4.34 | dare, dea, Peeping, shane, snav     |
-|           29 |     2129 | 2024-05-14 | Phoenix          | W   | 0.655      | -            | -                | -                | -         |     4.51 | dare, dea, Peeping, shane, snav     |
-|           28 |     2185 | 2024-05-12 | NRG              | L   | 0.641      | -            | -                | -                | -         |   -12.82 | dare, dea, intra, Peeping, snav     |
-|           27 |     2205 | 2024-05-11 | Nouns            | W   | 0.636      | 0.270        | 0.057 (0.010)    | -                | -         |     8.95 | dare, dea, intra, Peeping, snav     |
-|           26 |     2206 | 2024-05-11 | Wildcard         | W   | 0.635      | 0.270        | 0.048 (0.008)    | -                | -         |     7.62 | dare, dea, intra, Peeping, snav     |
-|           25 |     2209 | 2024-05-11 | Nouns            | L   | 0.635      | -            | -                | -                | -         |   -10.69 | dare, dea, intra, Peeping, snav     |
-|           24 |     2276 | 2024-05-08 | MIGHT            | W   | 0.616      | -            | -                | -                | -         |     1.48 | dare, dea, Peeping, shane, snav     |
-|           23 |     2278 | 2024-05-08 | MIGHT            | W   | 0.616      | -            | -                | -                | -         |     1.50 | dare, dea, Peeping, shane, snav     |
-|           22 |     2300 | 2024-05-07 | Party Astronauts | W   | 0.610      | 0.477        | 0.041 (0.012)    | 0.531 (0.154)    | -         |     8.82 | dare, dea, Peeping, shane, snav     |
-|           21 |     2301 | 2024-05-07 | Party Astronauts | L   | 0.609      | -            | -                | -                | -         |   -10.63 | dare, dea, Peeping, shane, snav     |
-|           20 |     2598 | 2024-04-23 | Wildcard         | L   | 0.516      | -            | -                | -                | -         |   -10.51 | dare, dea, Peeping, shane, snav     |
-|           19 |     2600 | 2024-04-23 | Wildcard         | W   | 0.516      | 0.477        | 0.048 (0.012)    | -                | -         |     5.81 | dare, dea, Peeping, shane, snav     |
-|           18 |     2737 | 2024-04-18 | Legacy           | L   | 0.483      | -            | -                | -                | -         |    -6.87 | dare, dea, Peeping, shane, snav     |
-|           17 |     2742 | 2024-04-18 | M80              | L   | 0.481      | -            | -                | -                | -         |    -3.35 | dare, dea, Peeping, shane, snav     |
-|           16 |     2787 | 2024-04-17 | Nouns            | W   | 0.475      | -            | -                | -                | -         |     6.48 | dare, dea, Peeping, shane, snav     |
-|           15 |     2792 | 2024-04-17 | Wildcard         | W   | 0.475      | -            | -                | -                | -         |     5.50 | dare, dea, Peeping, shane, snav     |
-|           14 |     2940 | 2024-04-10 | Nouns            | L   | 0.429      | -            | -                | -                | -         |    -7.89 | dare, dea, Peeping, shane, snav     |
-|           13 |     2946 | 2024-04-10 | Nouns            | L   | 0.429      | -            | -                | -                | -         |    -8.18 | dare, dea, Peeping, shane, snav     |
-|           12 |     3175 | 2024-04-03 | LAG              | W   | 0.383      | -            | -                | -                | -         |     3.67 | dare, dea, Peeping, shane, snav     |
-|           11 |     3177 | 2024-04-03 | LAG              | L   | 0.382      | -            | -                | -                | -         |    -8.55 | dare, dea, Peeping, shane, snav     |
-|           10 |     3352 | 2024-03-26 | BOSS             | W   | 0.330      | -            | -                | -                | -         |     2.59 | dare, dea, Peeping, shane, snav     |
-|            9 |     3357 | 2024-03-26 | BOSS             | W   | 0.329      | -            | -                | -                | -         |     2.65 | dare, dea, Peeping, shane, snav     |
-|            8 |     3524 | 2024-03-15 | Carpe Diem       | W   | 0.256      | -            | -                | -                | -         |     1.18 | dare, dea, Peeping, shane, snav     |
-|            7 |     3526 | 2024-03-15 | Carpe Diem       | W   | 0.256      | -            | -                | -                | -         |     1.20 | dare, dea, Peeping, shane, snav     |
-|            6 |     3625 | 2024-03-12 | Party Astronauts | L   | 0.236      | -            | -                | -                | -         |    -4.46 | dare, dea, Peeping, shane, snav     |
-|            5 |     3725 | 2024-03-08 | Spirit           | L   | 0.206      | -            | -                | -                | -         |    -0.04 | dare, MRC9, Peeping, shane, snav    |
-|            4 |     3877 | 2024-03-02 | ODDIK            | L   | 0.168      | -            | -                | -                | -         |    -2.69 | dare, nbgee12, Peeping, shane, snav |
-|            3 |     3905 | 2024-03-01 | Complexity       | L   | 0.161      | -            | -                | -                | -         |    -0.13 | dare, nbgee12, Peeping, shane, snav |
-|            2 |     4294 | 2024-02-13 | Mythic           | L   | 0.050      | -            | -                | -                | -         |    -1.20 | dare, dea, Peeping, shane, snav     |
-|            1 |     4297 | 2024-02-13 | Mythic           | W   | 0.049      | -            | -                | -                | -         |     0.36 | dare, dea, Peeping, shane, snav     |
+|           69 |       26 | 2024-08-03 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.531 (0.161)    | 0 (0.000) |    19.17 | dare, intra, Peeping, shane, snav   |
+|           68 |      139 | 2024-07-31 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -13.84 | dare, dea, Peeping, shane, snav     |
+|           67 |      145 | 2024-07-31 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -15.11 | dare, dea, Peeping, shane, snav     |
+|           66 |      384 | 2024-07-24 | Nouns            | L   | 1.000      | -            | -                | -                | -         |   -12.31 | dare, dea, Peeping, shane, snav     |
+|           65 |      387 | 2024-07-24 | Nouns            | L   | 1.000      | -            | -                | -                | -         |   -13.41 | dare, dea, Peeping, shane, snav     |
+|           64 |      480 | 2024-07-21 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -18.59 | dare, Fr3nk1e, Peeping, shane, snav |
+|           63 |      508 | 2024-07-20 | Phoenix          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.53 | dare, Fr3nk1e, Peeping, shane, snav |
+|           62 |      578 | 2024-07-18 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -21.88 | dare, Fr3nk1e, Peeping, shane, snav |
+|           61 |      580 | 2024-07-18 | BOSS             | W   | 1.000      | 0.477        | 0.014 (0.007)    | 0.332 (0.158)    | 0 (0.000) |     9.16 | dare, Fr3nk1e, Peeping, shane, snav |
+|           60 |      642 | 2024-07-17 | Phoenix          | W   | 1.000      | 0.477        | -                | 0.283 (0.135)    | 0 (0.000) |     5.48 | dare, Fr3nk1e, Peeping, shane, snav |
+|           59 |      646 | 2024-07-17 | Phoenix          | W   | 1.000      | 0.477        | -                | 0.283 (0.135)    | 0 (0.000) |     5.77 | dare, Fr3nk1e, Peeping, shane, snav |
+|           58 |      704 | 2024-07-16 | Mythic           | W   | 1.000      | 0.477        | -                | 0.299 (0.142)    | 0 (0.000) |     8.70 | dare, Fr3nk1e, Peeping, shane, snav |
+|           57 |      711 | 2024-07-16 | Mythic           | W   | 1.000      | 0.477        | -                | 0.299 (0.142)    | 0 (0.000) |     9.35 | dare, Fr3nk1e, Peeping, shane, snav |
+|           56 |      755 | 2024-07-15 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -20.24 | dare, dea, Peeping, shane, snav     |
+|           55 |      759 | 2024-07-15 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -21.89 | dare, dea, Peeping, shane, snav     |
+|           54 |      970 | 2024-06-23 | Locke's Kittens  | W   | 0.920      | -            | -                | -                | 1 (0.920) |     6.82 | dare, dea, Peeping, shane, snav     |
+|           53 |      972 | 2024-06-23 | WICKED           | W   | 0.919      | -            | -                | -                | 1 (0.919) |     3.03 | dare, dea, Peeping, shane, snav     |
+|           52 |      976 | 2024-06-22 | LOCK IN          | W   | 0.913      | -            | -                | -                | 1 (0.913) |     1.12 | dare, dea, Peeping, shane, snav     |
+|           51 |      993 | 2024-06-16 | Legacy           | L   | 0.873      | -            | -                | -                | -         |   -11.29 | dare, dea, Peeping, shane, snav     |
+|           50 |     1016 | 2024-06-15 | BOSS             | W   | 0.867      | -            | -                | -                | -         |     6.53 | dare, dea, Peeping, shane, snav     |
+|           49 |     1051 | 2024-06-14 | FLUFFY AIMERS    | W   | 0.860      | -            | -                | -                | -         |     4.88 | dare, dea, Peeping, shane, snav     |
+|           48 |     1329 | 2024-06-07 | Nouns            | L   | 0.812      | -            | -                | -                | -         |   -12.97 | dare, dea, Peeping, shane, snav     |
+|           47 |     1332 | 2024-06-07 | Nouns            | W   | 0.812      | 0.143        | 0.057 (0.007)    | -                | -         |    12.78 | dare, dea, Peeping, shane, snav     |
+|           46 |     1337 | 2024-06-07 | Legacy           | L   | 0.812      | -            | -                | -                | -         |   -11.15 | dare, dea, Peeping, shane, snav     |
+|           45 |     1378 | 2024-06-06 | Nouns            | L   | 0.807      | -            | -                | -                | -         |   -12.80 | dare, dea, Peeping, shane, snav     |
+|           44 |     1388 | 2024-06-06 | FlyQuest RED     | W   | 0.806      | 0.384        | 0.017 (0.005)    | -                | -         |     5.26 | dare, dea, Peeping, shane, snav     |
+|           43 |     1449 | 2024-06-05 | Mythic           | W   | 0.800      | 0.477        | -                | 0.299 (0.114)    | -         |     7.07 | dare, dea, Peeping, shane, snav     |
+|           42 |     1501 | 2024-06-04 | Party Astronauts | L   | 0.793      | -            | -                | -                | -         |   -13.90 | dare, dea, Peeping, shane, snav     |
+|           41 |     1809 | 2024-05-22 | NRG              | W   | 0.707      | 0.477        | 0.020 (0.007)    | 0.521 (0.176)    | -         |     8.81 | dare, dea, Peeping, shane, snav     |
+|           40 |     1815 | 2024-05-22 | NRG              | W   | 0.707      | 0.477        | 0.020 (0.007)    | 0.521 (0.176)    | -         |     9.36 | dare, dea, Peeping, shane, snav     |
+|           39 |     1858 | 2024-05-21 | Take Flyte       | W   | 0.700      | -            | -                | -                | -         |     3.33 | dare, dea, Peeping, shane, snav     |
+|           38 |     1862 | 2024-05-21 | Take Flyte       | W   | 0.700      | -            | -                | -                | -         |     3.44 | dare, dea, Peeping, shane, snav     |
+|           37 |     1903 | 2024-05-20 | Mythic           | L   | 0.693      | -            | -                | -                | -         |   -16.29 | dare, dea, Peeping, shane, snav     |
+|           36 |     1989 | 2024-05-17 | FLUFFY AIMERS    | W   | 0.674      | -            | -                | -                | -         |     4.05 | dare, dea, Peeping, shane, snav     |
+|           35 |     1990 | 2024-05-17 | FLUFFY AIMERS    | W   | 0.673      | -            | -                | -                | -         |     4.20 | dare, dea, Peeping, shane, snav     |
+|           34 |     2061 | 2024-05-15 | Limitless        | W   | 0.660      | -            | -                | -                | -         |     2.62 | dare, dea, Peeping, shane, snav     |
+|           33 |     2068 | 2024-05-15 | Limitless        | W   | 0.660      | -            | -                | -                | -         |     2.68 | dare, dea, Peeping, shane, snav     |
+|           32 |     2114 | 2024-05-14 | M80              | L   | 0.654      | -            | -                | -                | -         |    -3.60 | dare, dea, Peeping, shane, snav     |
+|           31 |     2121 | 2024-05-14 | M80              | L   | 0.653      | -            | -                | -                | -         |    -3.72 | dare, dea, Peeping, shane, snav     |
+|           30 |     2130 | 2024-05-14 | Phoenix          | W   | 0.653      | -            | -                | -                | -         |     4.33 | dare, dea, Peeping, shane, snav     |
+|           29 |     2133 | 2024-05-14 | Phoenix          | W   | 0.653      | -            | -                | -                | -         |     4.50 | dare, dea, Peeping, shane, snav     |
+|           28 |     2189 | 2024-05-12 | NRG              | L   | 0.639      | -            | -                | -                | -         |   -12.76 | dare, dea, intra, Peeping, snav     |
+|           27 |     2209 | 2024-05-11 | Nouns            | W   | 0.633      | 0.270        | 0.057 (0.010)    | -                | -         |     8.92 | dare, dea, intra, Peeping, snav     |
+|           26 |     2210 | 2024-05-11 | Wildcard         | W   | 0.633      | 0.270        | 0.048 (0.008)    | -                | -         |     7.59 | dare, dea, intra, Peeping, snav     |
+|           25 |     2213 | 2024-05-11 | Nouns            | L   | 0.633      | -            | -                | -                | -         |   -10.66 | dare, dea, intra, Peeping, snav     |
+|           24 |     2280 | 2024-05-08 | MIGHT            | W   | 0.614      | -            | -                | -                | -         |     1.47 | dare, dea, Peeping, shane, snav     |
+|           23 |     2282 | 2024-05-08 | MIGHT            | W   | 0.613      | -            | -                | -                | -         |     1.50 | dare, dea, Peeping, shane, snav     |
+|           22 |     2304 | 2024-05-07 | Party Astronauts | W   | 0.607      | 0.477        | 0.041 (0.012)    | 0.531 (0.154)    | -         |     8.80 | dare, dea, Peeping, shane, snav     |
+|           21 |     2305 | 2024-05-07 | Party Astronauts | L   | 0.607      | -            | -                | -                | -         |   -10.57 | dare, dea, Peeping, shane, snav     |
+|           20 |     2602 | 2024-04-23 | Wildcard         | L   | 0.514      | -            | -                | -                | -         |   -10.47 | dare, dea, Peeping, shane, snav     |
+|           19 |     2604 | 2024-04-23 | Wildcard         | W   | 0.513      | 0.477        | 0.048 (0.012)    | -                | -         |     5.78 | dare, dea, Peeping, shane, snav     |
+|           18 |     2741 | 2024-04-18 | Legacy           | L   | 0.480      | -            | -                | -                | -         |    -6.85 | dare, dea, Peeping, shane, snav     |
+|           17 |     2746 | 2024-04-18 | M80              | L   | 0.479      | -            | -                | -                | -         |    -3.34 | dare, dea, Peeping, shane, snav     |
+|           16 |     2791 | 2024-04-17 | Nouns            | W   | 0.473      | -            | -                | -                | -         |     6.45 | dare, dea, Peeping, shane, snav     |
+|           15 |     2796 | 2024-04-17 | Wildcard         | W   | 0.473      | -            | -                | -                | -         |     5.46 | dare, dea, Peeping, shane, snav     |
+|           14 |     2944 | 2024-04-10 | Nouns            | L   | 0.427      | -            | -                | -                | -         |    -7.85 | dare, dea, Peeping, shane, snav     |
+|           13 |     2950 | 2024-04-10 | Nouns            | L   | 0.427      | -            | -                | -                | -         |    -8.14 | dare, dea, Peeping, shane, snav     |
+|           12 |     3179 | 2024-04-03 | LAG              | W   | 0.380      | -            | -                | -                | -         |     3.65 | dare, dea, Peeping, shane, snav     |
+|           11 |     3181 | 2024-04-03 | LAG              | L   | 0.380      | -            | -                | -                | -         |    -8.50 | dare, dea, Peeping, shane, snav     |
+|           10 |     3356 | 2024-03-26 | BOSS             | W   | 0.327      | -            | -                | -                | -         |     2.57 | dare, dea, Peeping, shane, snav     |
+|            9 |     3361 | 2024-03-26 | BOSS             | W   | 0.327      | -            | -                | -                | -         |     2.63 | dare, dea, Peeping, shane, snav     |
+|            8 |     3528 | 2024-03-15 | Carpe Diem       | W   | 0.254      | -            | -                | -                | -         |     1.17 | dare, dea, Peeping, shane, snav     |
+|            7 |     3530 | 2024-03-15 | Carpe Diem       | W   | 0.254      | -            | -                | -                | -         |     1.18 | dare, dea, Peeping, shane, snav     |
+|            6 |     3629 | 2024-03-12 | Party Astronauts | L   | 0.233      | -            | -                | -                | -         |    -4.41 | dare, dea, Peeping, shane, snav     |
+|            5 |     3729 | 2024-03-08 | Spirit           | L   | 0.204      | -            | -                | -                | -         |    -0.04 | dare, MRC9, Peeping, shane, snav    |
+|            4 |     3881 | 2024-03-02 | ODDIK            | L   | 0.165      | -            | -                | -                | -         |    -2.65 | dare, nbgee12, Peeping, shane, snav |
+|            3 |     3909 | 2024-03-01 | Complexity       | L   | 0.158      | -            | -                | -                | -         |    -0.13 | dare, nbgee12, Peeping, shane, snav |
+|            2 |     4298 | 2024-02-13 | Mythic           | L   | 0.047      | -            | -                | -                | -         |    -1.14 | dare, dea, Peeping, shane, snav     |
+|            1 |     4301 | 2024-02-13 | Mythic           | W   | 0.047      | -            | -                | -                | -         |     0.34 | dare, dea, Peeping, shane, snav     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($8,708.41)
-- Divide that value by the 5th highest value among all rosters ($324,028.83)
+- First, take the sum of their top 10 scaled winnings ($8,675.63)
+- Divide that value by the 5th highest value among all rosters ($323,321.90)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-23 |      0.923 | $3,000.00      | $2,768.40       |
-| 2024-06-16 |      0.876 | $1,500.00      | $1,313.78       |
-| 2024-06-09 |      0.829 | $4,250.00      | $3,522.29       |
-| 2024-03-10 |      0.221 | $5,000.00      | $1,103.94       |
+| 2024-06-23 |      0.920 | $3,000.00      | $2,761.25       |
+| 2024-06-16 |      0.873 | $1,500.00      | $1,310.21       |
+| 2024-06-09 |      0.826 | $4,250.00      | $3,512.15       |
+| 2024-03-10 |      0.218 | $5,000.00      | $1,092.01       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

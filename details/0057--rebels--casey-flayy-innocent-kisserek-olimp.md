@@ -6,22 +6,22 @@ Global Rank: [57](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [41]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1013.0<br />
+Final Rank Value:  1012.7<br />
 <br />
-Final Rank Value (1013.0) = Starting Rank Value (991.2) + Head To Head Adjustments (21.8)<br />
+Final Rank Value (1012.7) = Starting Rank Value (990.9) + Head To Head Adjustments (21.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.414[<sup>1</sup>](#table2)
-- Bounty Collected: 0.393[<sup>2</sup>](#table1)
-- Opponent Network: 0.229[<sup>2</sup>](#table1)
+- Bounty Collected: 0.392[<sup>2</sup>](#table1)
+- Opponent Network: 0.228[<sup>2</sup>](#table1)
 - LAN Wins: 0.121[<sup>2</sup>](#table1)
 
 The average of these factors is 0.289<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 991.2
-- 400 + ( ( 0.289 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 991.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 990.9
+- 400 + ( ( 0.289 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 990.9
 
 
 #### Factors<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           44 |      200 | 2024-07-30 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |   -19.58 | casey, Flayy, innocent, kisserek, olimp |
-|           43 |      398 | 2024-07-24 | SAW               | W   | 1.000      | 0.500        | 0.105 (0.053)    | 0.540 (0.270)    | 0 (0.000) |    22.60 | casey, Flayy, innocent, kisserek, olimp |
-|           42 |      409 | 2024-07-24 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -18.30 | casey, Flayy, innocent, kisserek, olimp |
-|           41 |      452 | 2024-07-23 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.625 (0.232)    | 0 (0.000) |    11.79 | casey, Flayy, innocent, kisserek, olimp |
-|           40 |      469 | 2024-07-22 | Insilio           | W   | 1.000      | 0.371        | -                | 0.561 (0.208)    | 0 (0.000) |    13.74 | casey, Flayy, innocent, kisserek, olimp |
-|           39 |      570 | 2024-07-19 | B8                | L   | 1.000      | -            | -                | -                | -         |    -9.16 | casey, Flayy, innocent, kisserek, olimp |
-|           38 |      635 | 2024-07-18 | Illuminar         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.83 | casey, Flayy, innocent, kisserek, olimp |
-|           37 |      696 | 2024-07-17 | 9INE              | W   | 1.000      | 0.500        | 0.022 (0.011)    | 0.537 (0.269)    | 0 (0.000) |    11.95 | casey, Flayy, innocent, kisserek, olimp |
-|           36 |      784 | 2024-07-15 | brazylijski luz   | L   | 1.000      | -            | -                | -                | -         |   -22.91 | casey, Flayy, innocent, kisserek, olimp |
-|           35 |      791 | 2024-07-15 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -7.96 | casey, Flayy, innocent, kisserek, olimp |
-|           34 |      831 | 2024-07-12 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.625 (0.232)    | 0 (0.000) |    12.88 | casey, Flayy, innocent, kisserek, olimp |
-|           33 |      868 | 2024-07-10 | Belarus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.09 | casey, Flayy, innocent, kisserek, olimp |
-|           32 |      880 | 2024-07-09 | 500               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.06 | casey, Flayy, innocent, kisserek, olimp |
-|           31 |      916 | 2024-07-08 | Verdant           | W   | 1.000      | -            | -                | -                | -         |     9.69 | casey, Flayy, innocent, kisserek, olimp |
-|           30 |     1105 | 2024-06-13 | Sampi             | L   | 0.853      | -            | -                | -                | -         |   -18.14 | casey, Flayy, innocent, kisserek, olimp |
-|           29 |     1128 | 2024-06-12 | PERA              | L   | 0.847      | -            | -                | -                | -         |   -15.19 | casey, Flayy, innocent, kisserek, olimp |
-|           28 |     1172 | 2024-06-10 | Permitta          | W   | 0.834      | 0.379        | -                | 0.876 (0.277)    | -         |    10.19 | casey, Flayy, innocent, kisserek, olimp |
-|           27 |     1210 | 2024-06-09 | Rhyno             | L   | 0.827      | -            | -                | -                | -         |   -14.42 | casey, Flayy, kisserek, olimp, SZPERO   |
-|           26 |     1335 | 2024-06-07 | BLEED             | W   | 0.814      | 0.500        | 0.126 (0.051)    | 0.517 (0.210)    | -         |    22.54 | casey, Flayy, innocent, kisserek, olimp |
-|           25 |     1460 | 2024-06-05 | 9INE              | W   | 0.800      | 0.500        | -                | 0.537 (0.215)    | -         |     9.27 | casey, Flayy, innocent, kisserek, olimp |
-|           24 |     1650 | 2024-05-30 | PERA              | W   | 0.761      | 0.379        | 0.048 (0.014)    | -                | -         |    10.54 | casey, Flayy, innocent, kisserek, olimp |
-|           23 |     1687 | 2024-05-29 | UNiTY             | L   | 0.752      | -            | -                | -                | -         |   -14.07 | casey, Flayy, innocent, kisserek, olimp |
-|           22 |     1774 | 2024-05-25 | kONO              | W   | 0.724      | -            | -                | -                | -         |     6.72 | casey, Flayy, innocent, kisserek, olimp |
-|           21 |     1888 | 2024-05-21 | UNiTY             | L   | 0.698      | -            | -                | -                | -         |   -12.39 | casey, Flayy, innocent, kisserek, olimp |
-|           20 |     1911 | 2024-05-20 | The Prodigies     | W   | 0.694      | -            | -                | -                | -         |     1.45 | casey, Flayy, innocent, kisserek, olimp |
-|           19 |     1979 | 2024-05-18 | B8                | L   | 0.678      | -            | -                | -                | -         |    -7.20 | casey, Flayy, innocent, kisserek, olimp |
-|           18 |     2007 | 2024-05-17 | Gaimin Gladiators | W   | 0.672      | -            | -                | -                | -         |    10.70 | casey, Flayy, innocent, kisserek, olimp |
-|           17 |     2502 | 2024-04-27 | Aurora            | L   | 0.544      | -            | -                | -                | -         |    -0.56 | casey, Flayy, innocent, kisserek, olimp |
-|           16 |     2552 | 2024-04-26 | MIBR              | W   | 0.531      | 0.500        | 0.209 (0.056)    | 0.659 (0.175)    | 1 (0.531) |    15.52 | casey, Flayy, innocent, kisserek, olimp |
-|           15 |     2554 | 2024-04-25 | Rooster           | W   | 0.530      | -            | -                | -                | 1 (0.530) |     4.28 | casey, Flayy, innocent, kisserek, olimp |
-|           14 |     2702 | 2024-04-19 | brazylijski luz   | L   | 0.487      | -            | -                | -                | -         |   -11.11 | casey, Flayy, innocent, kisserek, olimp |
-|           13 |     2887 | 2024-04-13 | Monte             | L   | 0.446      | -            | -                | -                | -         |    -7.15 | casey, Flayy, innocent, kisserek, olimp |
-|           12 |     3021 | 2024-04-09 | B8                | W   | 0.420      | 0.500        | 0.165 (0.035)    | 0.951 (0.200)    | -         |     7.86 | casey, Flayy, innocent, kisserek, olimp |
-|           11 |     3163 | 2024-04-04 | ALTERNATE aTTaX   | W   | 0.386      | -            | -                | -                | -         |     5.68 | casey, Flayy, innocent, kisserek, olimp |
-|           10 |     3213 | 2024-04-03 | SINNERS           | L   | 0.378      | -            | -                | -                | -         |    -3.61 | casey, Flayy, innocent, kisserek, olimp |
-|            9 |     3294 | 2024-03-28 | ex-Sprout         | W   | 0.340      | -            | -                | -                | -         |     0.67 | casey, Flayy, innocent, kisserek, olimp |
-|            8 |     3328 | 2024-03-27 | B8                | L   | 0.334      | -            | -                | -                | -         |    -3.85 | casey, Flayy, innocent, kisserek, olimp |
-|            7 |     3337 | 2024-03-27 | Sashi             | W   | 0.334      | -            | -                | -                | -         |     7.34 | casey, Flayy, innocent, kisserek, olimp |
-|            6 |     3367 | 2024-03-25 | Aurora            | L   | 0.320      | -            | -                | -                | -         |    -0.23 | casey, Flayy, innocent, kisserek, olimp |
-|            5 |     3566 | 2024-03-14 | brazylijski luz   | L   | 0.247      | -            | -                | -                | -         |    -5.84 | casey, Flayy, kisserek, olimp, SZPERO   |
-|            4 |     3834 | 2024-03-04 | BLEED             | L   | 0.181      | -            | -                | -                | -         |    -3.12 | casey, Flayy, kisserek, olimp, sNx      |
-|            3 |     3868 | 2024-03-03 | Sangal            | W   | 0.173      | 0.500        | 0.219 (0.019)    | -                | -         |     3.87 | casey, Flayy, kisserek, olimp, sNx      |
-|            2 |     3883 | 2024-03-02 | Aurora            | L   | 0.167      | -            | -                | -                | -         |    -0.12 | casey, Flayy, kisserek, olimp, sNx      |
-|            1 |     3916 | 2024-02-29 | Sangal            | W   | 0.153      | 0.500        | 0.219 (0.017)    | -                | -         |     3.46 | casey, Flayy, kisserek, olimp, sNx      |
+|           44 |      204 | 2024-07-30 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |   -19.58 | casey, Flayy, innocent, kisserek, olimp |
+|           43 |      402 | 2024-07-24 | SAW               | W   | 1.000      | 0.500        | 0.105 (0.052)    | 0.539 (0.270)    | 0 (0.000) |    22.58 | casey, Flayy, innocent, kisserek, olimp |
+|           42 |      413 | 2024-07-24 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -18.29 | casey, Flayy, innocent, kisserek, olimp |
+|           41 |      456 | 2024-07-23 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.625 (0.232)    | 0 (0.000) |    11.79 | casey, Flayy, innocent, kisserek, olimp |
+|           40 |      473 | 2024-07-22 | Insilio           | W   | 1.000      | 0.371        | -                | 0.561 (0.208)    | 0 (0.000) |    13.73 | casey, Flayy, innocent, kisserek, olimp |
+|           39 |      574 | 2024-07-19 | B8                | L   | 1.000      | -            | -                | -                | -         |    -9.16 | casey, Flayy, innocent, kisserek, olimp |
+|           38 |      639 | 2024-07-18 | Illuminar         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.84 | casey, Flayy, innocent, kisserek, olimp |
+|           37 |      700 | 2024-07-17 | 9INE              | W   | 1.000      | 0.500        | 0.022 (0.011)    | 0.539 (0.269)    | 0 (0.000) |    11.96 | casey, Flayy, innocent, kisserek, olimp |
+|           36 |      788 | 2024-07-15 | brazylijski luz   | L   | 1.000      | -            | -                | -                | -         |   -22.91 | casey, Flayy, innocent, kisserek, olimp |
+|           35 |      795 | 2024-07-15 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -7.95 | casey, Flayy, innocent, kisserek, olimp |
+|           34 |      835 | 2024-07-12 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.625 (0.232)    | 0 (0.000) |    12.88 | casey, Flayy, innocent, kisserek, olimp |
+|           33 |      872 | 2024-07-10 | Belarus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.09 | casey, Flayy, innocent, kisserek, olimp |
+|           32 |      884 | 2024-07-09 | 500               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.06 | casey, Flayy, innocent, kisserek, olimp |
+|           31 |      920 | 2024-07-08 | Verdant           | W   | 1.000      | -            | -                | -                | -         |     9.71 | casey, Flayy, innocent, kisserek, olimp |
+|           30 |     1109 | 2024-06-13 | Sampi             | L   | 0.851      | -            | -                | -                | -         |   -18.08 | casey, Flayy, innocent, kisserek, olimp |
+|           29 |     1132 | 2024-06-12 | PERA              | L   | 0.845      | -            | -                | -                | -         |   -15.14 | casey, Flayy, innocent, kisserek, olimp |
+|           28 |     1176 | 2024-06-10 | Permitta          | W   | 0.831      | 0.379        | -                | 0.876 (0.276)    | -         |    10.17 | casey, Flayy, innocent, kisserek, olimp |
+|           27 |     1214 | 2024-06-09 | Rhyno             | L   | 0.825      | -            | -                | -                | -         |   -14.38 | casey, Flayy, kisserek, olimp, SZPERO   |
+|           26 |     1339 | 2024-06-07 | BLEED             | W   | 0.811      | 0.500        | 0.126 (0.051)    | 0.518 (0.210)    | -         |    22.48 | casey, Flayy, innocent, kisserek, olimp |
+|           25 |     1464 | 2024-06-05 | 9INE              | W   | 0.798      | 0.500        | -                | 0.539 (0.215)    | -         |     9.26 | casey, Flayy, innocent, kisserek, olimp |
+|           24 |     1654 | 2024-05-30 | PERA              | W   | 0.758      | 0.379        | 0.048 (0.014)    | -                | -         |    10.51 | casey, Flayy, innocent, kisserek, olimp |
+|           23 |     1691 | 2024-05-29 | UNiTY             | L   | 0.750      | -            | -                | -                | -         |   -14.03 | casey, Flayy, innocent, kisserek, olimp |
+|           22 |     1778 | 2024-05-25 | kONO              | W   | 0.722      | -            | -                | -                | -         |     6.70 | casey, Flayy, innocent, kisserek, olimp |
+|           21 |     1892 | 2024-05-21 | UNiTY             | L   | 0.695      | -            | -                | -                | -         |   -12.35 | casey, Flayy, innocent, kisserek, olimp |
+|           20 |     1915 | 2024-05-20 | The Prodigies     | W   | 0.691      | -            | -                | -                | -         |     1.45 | casey, Flayy, innocent, kisserek, olimp |
+|           19 |     1983 | 2024-05-18 | B8                | L   | 0.676      | -            | -                | -                | -         |    -7.18 | casey, Flayy, innocent, kisserek, olimp |
+|           18 |     2011 | 2024-05-17 | Gaimin Gladiators | W   | 0.670      | -            | -                | -                | -         |    10.64 | casey, Flayy, innocent, kisserek, olimp |
+|           17 |     2506 | 2024-04-27 | Aurora            | L   | 0.542      | -            | -                | -                | -         |    -0.55 | casey, Flayy, innocent, kisserek, olimp |
+|           16 |     2556 | 2024-04-26 | MIBR              | W   | 0.529      | 0.500        | 0.209 (0.055)    | 0.659 (0.174)    | 1 (0.529) |    15.45 | casey, Flayy, innocent, kisserek, olimp |
+|           15 |     2558 | 2024-04-25 | Rooster           | W   | 0.528      | -            | -                | -                | 1 (0.528) |     4.26 | casey, Flayy, innocent, kisserek, olimp |
+|           14 |     2706 | 2024-04-19 | brazylijski luz   | L   | 0.485      | -            | -                | -                | -         |   -11.05 | casey, Flayy, innocent, kisserek, olimp |
+|           13 |     2891 | 2024-04-13 | Monte             | L   | 0.444      | -            | -                | -                | -         |    -7.12 | casey, Flayy, innocent, kisserek, olimp |
+|           12 |     3025 | 2024-04-09 | B8                | W   | 0.418      | 0.500        | 0.165 (0.034)    | 0.951 (0.199)    | -         |     7.81 | casey, Flayy, innocent, kisserek, olimp |
+|           11 |     3167 | 2024-04-04 | ALTERNATE aTTaX   | W   | 0.384      | -            | -                | -                | -         |     5.65 | casey, Flayy, innocent, kisserek, olimp |
+|           10 |     3217 | 2024-04-03 | SINNERS           | L   | 0.376      | -            | -                | -                | -         |    -3.59 | casey, Flayy, innocent, kisserek, olimp |
+|            9 |     3298 | 2024-03-28 | ex-Sprout         | W   | 0.338      | -            | -                | -                | -         |     0.66 | casey, Flayy, innocent, kisserek, olimp |
+|            8 |     3332 | 2024-03-27 | B8                | L   | 0.332      | -            | -                | -                | -         |    -3.83 | casey, Flayy, innocent, kisserek, olimp |
+|            7 |     3341 | 2024-03-27 | Sashi             | W   | 0.331      | -            | -                | -                | -         |     7.29 | casey, Flayy, innocent, kisserek, olimp |
+|            6 |     3371 | 2024-03-25 | Aurora            | L   | 0.318      | -            | -                | -                | -         |    -0.22 | casey, Flayy, innocent, kisserek, olimp |
+|            5 |     3570 | 2024-03-14 | brazylijski luz   | L   | 0.245      | -            | -                | -                | -         |    -5.79 | casey, Flayy, kisserek, olimp, SZPERO   |
+|            4 |     3838 | 2024-03-04 | BLEED             | L   | 0.178      | -            | -                | -                | -         |    -3.08 | casey, Flayy, kisserek, olimp, sNx      |
+|            3 |     3872 | 2024-03-03 | Sangal            | W   | 0.171      | 0.500        | 0.219 (0.019)    | -                | -         |     3.82 | casey, Flayy, kisserek, olimp, sNx      |
+|            2 |     3887 | 2024-03-02 | Aurora            | L   | 0.164      | -            | -                | -                | -         |    -0.11 | casey, Flayy, kisserek, olimp, sNx      |
+|            1 |     3920 | 2024-02-29 | Sangal            | W   | 0.151      | 0.500        | 0.219 (0.017)    | -                | -         |     3.41 | casey, Flayy, kisserek, olimp, sNx      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($12,389.78)
-- Divide that value by the 5th highest value among all rosters ($324,028.83)
+- First, take the sum of their top 10 scaled winnings ($12,353.80)
+- Divide that value by the 5th highest value among all rosters ($323,321.90)
 - The final value (0.04) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -95,10 +95,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-25 |      1.000 | $3,000.00      | $3,000.00       |
-| 2024-06-13 |      0.854 | $1,089.00      | $929.96         |
-| 2024-06-09 |      0.826 | $2,000.00      | $1,652.96       |
-| 2024-05-18 |      0.680 | $2,000.00      | $1,360.32       |
-| 2024-04-28 |      0.545 | $10,000.00     | $5,446.53       |
+| 2024-06-13 |      0.852 | $1,089.00      | $927.36         |
+| 2024-06-09 |      0.824 | $2,000.00      | $1,648.19       |
+| 2024-05-18 |      0.678 | $2,000.00      | $1,355.56       |
+| 2024-04-28 |      0.542 | $10,000.00     | $5,422.69       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
