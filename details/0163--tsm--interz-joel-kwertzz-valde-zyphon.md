@@ -6,22 +6,22 @@ Global Rank: [163](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [106]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  678.2<br />
+Final Rank Value:  678.0<br />
 <br />
-Final Rank Value (678.2) = Starting Rank Value (669.9) + Head To Head Adjustments (8.3)<br />
+Final Rank Value (678.0) = Starting Rank Value (669.7) + Head To Head Adjustments (8.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.305[<sup>1</sup>](#table2)
-- Bounty Collected: 0.214[<sup>2</sup>](#table1)
+- Bounty Collected: 0.213[<sup>2</sup>](#table1)
 - Opponent Network: 0.009[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.132<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 669.9
-- 400 + ( ( 0.132 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 669.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 669.7
+- 400 + ( ( 0.132 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 669.7
 
 
 #### Factors<br />
@@ -35,36 +35,35 @@ Note:<br />
 <span id="table1"></span><br />
 
 
-| Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
+| Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     2707 | 2024-04-19 | Sangal            | L   | 0.485      | -            | -                | -                | -         |    -1.10 | interz, joel, KWERTZZ, valde, Zyphon |
-|           12 |     2969 | 2024-04-10 | FORZE             | L   | 0.425      | -            | -                | -                | -         |    -2.61 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           11 |     3028 | 2024-04-09 | Betera            | W   | 0.418      | 0.500        | 0.005 (0.001)    | 0.038 (0.008)    | 0 (0.000) |     7.20 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|           10 |     3157 | 2024-04-04 | 9 Pandas          | L   | 0.385      | -            | -                | -                | -         |    -1.60 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            9 |     3236 | 2024-04-02 | KOI               | L   | 0.371      | -            | -                | -                | -         |    -1.15 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            8 |     3294 | 2024-03-28 | 9INE              | W   | 0.338      | 0.500        | 0.000 (0.000)    | 0.067 (0.011)    | 0 (0.000) |     3.20 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            7 |     3455 | 2024-03-20 | VP.Prodigy        | L   | 0.283      | -            | -                | -                | -         |    -2.29 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            6 |     3569 | 2024-03-14 | EYEBALLERS        | W   | 0.245      | 0.500        | 0.005 (0.001)    | 0.509 (0.062)    | 0 (0.000) |     6.05 | interz, joel, MoDo, valde, Zyphon    |
-|            5 |     3776 | 2024-03-06 | Sangal            | L   | 0.192      | -            | -                | -                | -         |    -0.38 | interz, JACKZ, joel, poizon, valde   |
-|            4 |     3858 | 2024-03-03 | The Chosen Few    | L   | 0.172      | -            | -                | -                | -         |    -2.71 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            3 |     3869 | 2024-03-03 | Nexus             | W   | 0.171      | 0.143        | 0.014 (0.000)    | 0.465 (0.011)    | 0 (0.000) |     3.85 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            2 |     4380 | 2024-02-08 | ex-Preasy         | L   | 0.009      | -            | -                | -                | -         |    -0.10 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            1 |     4384 | 2024-02-07 | Gaimin Gladiators | L   | 0.003      | -            | -                | -                | -         |    -0.01 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           12 |     2720 | 2024-04-19 | Sangal         | L   | 0.481      | -            | -                | -                | -         |    -1.09 | interz, joel, KWERTZZ, valde, Zyphon |
+|           11 |     2982 | 2024-04-10 | FORZE          | L   | 0.421      | -            | -                | -                | -         |    -2.60 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|           10 |     3041 | 2024-04-09 | Betera         | W   | 0.415      | 0.500        | 0.005 (0.001)    | 0.038 (0.008)    | 0 (0.000) |     7.14 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            9 |     3170 | 2024-04-04 | 9 Pandas       | L   | 0.381      | -            | -                | -                | -         |    -1.59 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            8 |     3249 | 2024-04-02 | KOI            | L   | 0.368      | -            | -                | -                | -         |    -1.14 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            7 |     3307 | 2024-03-28 | 9INE           | W   | 0.335      | 0.500        | 0.000 (0.000)    | 0.067 (0.011)    | 0 (0.000) |     3.17 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            6 |     3468 | 2024-03-20 | VP.Prodigy     | L   | 0.279      | -            | -                | -                | -         |    -2.27 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            5 |     3582 | 2024-03-14 | EYEBALLERS     | W   | 0.242      | 0.500        | 0.005 (0.001)    | 0.507 (0.061)    | 0 (0.000) |     5.96 | interz, joel, MoDo, valde, Zyphon    |
+|            4 |     3789 | 2024-03-06 | Sangal         | L   | 0.188      | -            | -                | -                | -         |    -0.38 | interz, JACKZ, joel, poizon, valde   |
+|            3 |     3871 | 2024-03-03 | The Chosen Few | L   | 0.168      | -            | -                | -                | -         |    -2.66 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            2 |     3882 | 2024-03-03 | Nexus          | W   | 0.168      | 0.143        | 0.014 (0.000)    | 0.464 (0.011)    | 0 (0.000) |     3.78 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            1 |     4393 | 2024-02-08 | ex-Preasy      | L   | 0.006      | -            | -                | -                | -         |    -0.06 | joel, KWERTZZ, MoDo, valde, Zyphon   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,694.86)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($1,678.19)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.824 | $2,000.00      | $1,648.19       |
-| 2024-02-09 |      0.016 | $3,000.00      | $46.67          |
+| 2024-06-09 |      0.821 | $2,000.00      | $1,641.53       |
+| 2024-02-09 |      0.012 | $3,000.00      | $36.67          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

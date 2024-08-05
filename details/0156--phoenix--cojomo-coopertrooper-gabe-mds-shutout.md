@@ -6,22 +6,22 @@ Global Rank: [156](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [43]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  695.7<br />
+Final Rank Value:  695.5<br />
 <br />
-Final Rank Value (695.7) = Starting Rank Value (736.7) + Head To Head Adjustments (-41.0)<br />
+Final Rank Value (695.5) = Starting Rank Value (736.5) + Head To Head Adjustments (-41.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.295[<sup>1</sup>](#table2)
 - Bounty Collected: 0.284[<sup>2</sup>](#table1)
-- Opponent Network: 0.079[<sup>2</sup>](#table1)
+- Opponent Network: 0.078[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.165<br />
+The average of these factors is 0.164<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 736.7
-- 400 + ( ( 0.165 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 736.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 736.5
+- 400 + ( ( 0.164 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 736.5
 
 
 #### Factors<br />
@@ -37,61 +37,61 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           48 |       24 | 2024-08-03 | Detonate         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.70 | CoJoMo, CooperTrooper, Gabe, mds, shutout |
-|           47 |      390 | 2024-07-24 | Victorum         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.28 | CoJoMo, Gabe, mds, nooz, shutout          |
-|           46 |      508 | 2024-07-20 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.53 | CoJoMo, Gabe, mds, nooz, shutout          |
-|           45 |      642 | 2024-07-17 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.48 | CoJoMo, Gabe, mds, shutout, xaler         |
-|           44 |      646 | 2024-07-17 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.77 | CoJoMo, Gabe, mds, shutout, xaler         |
-|           43 |      706 | 2024-07-16 | Take Flyte       | L   | 1.000      | -            | -                | -                | -         |   -15.59 | CoJoMo, Gabe, mds, shutout, xaler         |
-|           42 |      712 | 2024-07-16 | Take Flyte       | L   | 1.000      | -            | -                | -                | -         |   -17.03 | CoJoMo, Gabe, mds, shutout, xaler         |
-|           41 |     1059 | 2024-06-14 | Akimbo           | L   | 0.859      | -            | -                | -                | -         |   -11.52 | CoJoMo, Gabe, mds, shutout, xaler         |
-|           40 |     1511 | 2024-06-04 | Mythic           | L   | 0.792      | -            | -                | -                | -         |   -10.55 | CoJoMo, Gabe, Louie, mds, shutout         |
-|           39 |     1812 | 2024-05-22 | BOSS             | L   | 0.707      | -            | -                | -                | -         |   -10.69 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           38 |     1816 | 2024-05-22 | BOSS             | W   | 0.707      | 0.477        | 0.014 (0.005)    | 0.332 (0.112)    | 0 (0.000) |    11.81 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           37 |     1861 | 2024-05-21 | NRG              | W   | 0.700      | 0.477        | 0.020 (0.007)    | 0.521 (0.174)    | 0 (0.000) |    16.27 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           36 |     1863 | 2024-05-21 | NRG              | L   | 0.700      | -            | -                | -                | -         |    -5.69 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           35 |     1896 | 2024-05-20 | FLUFFY AIMERS    | L   | 0.693      | -            | -                | -                | -         |   -11.95 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           34 |     1900 | 2024-05-20 | FLUFFY AIMERS    | W   | 0.693      | 0.477        | 0.003 (0.001)    | 0.314 (0.104)    | 0 (0.000) |    10.03 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           33 |     2063 | 2024-05-15 | Mythic           | L   | 0.660      | -            | -                | -                | -         |    -9.55 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           32 |     2069 | 2024-05-15 | Mythic           | W   | 0.660      | 0.477        | 0.010 (0.003)    | 0.299 (0.094)    | 0 (0.000) |    11.51 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           31 |     2130 | 2024-05-14 | Elevate          | L   | 0.653      | -            | -                | -                | -         |    -4.33 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           30 |     2133 | 2024-05-14 | Elevate          | L   | 0.653      | -            | -                | -                | -         |    -4.50 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           29 |     2187 | 2024-05-12 | NRG              | L   | 0.640      | -            | -                | -                | -         |    -6.28 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           28 |     2194 | 2024-05-12 | Mythic           | W   | 0.638      | 0.270        | 0.010 (0.002)    | 0.299 (0.052)    | 0 (0.000) |    11.15 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           27 |     2214 | 2024-05-11 | BOSS             | W   | 0.632      | 0.270        | 0.014 (0.002)    | 0.332 (0.057)    | 0 (0.000) |    11.90 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           26 |     2217 | 2024-05-11 | NRG              | L   | 0.632      | -            | -                | -                | -         |    -6.26 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           25 |     2220 | 2024-05-11 | Party Astronauts | W   | 0.632      | 0.270        | 0.041 (0.007)    | 0.531 (0.091)    | 0 (0.000) |    15.36 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           24 |     2283 | 2024-05-08 | Nouns            | L   | 0.613      | -            | -                | -                | -         |    -4.63 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           23 |     2285 | 2024-05-08 | Nouns            | L   | 0.613      | -            | -                | -                | -         |    -4.82 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           22 |     2795 | 2024-04-17 | Nouns            | L   | 0.473      | -            | -                | -                | -         |    -3.60 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           21 |     2947 | 2024-04-10 | MIGHT            | L   | 0.427      | -            | -                | -                | -         |   -10.37 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           20 |     2952 | 2024-04-10 | MIGHT            | W   | 0.427      | -            | -                | -                | 0 (0.000) |     3.08 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           19 |     3130 | 2024-04-04 | Carpe Diem       | W   | 0.387      | 0.477        | 0.005 (0.001)    | -                | -         |     4.94 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           18 |     3135 | 2024-04-04 | Carpe Diem       | W   | 0.387      | 0.477        | 0.005 (0.001)    | -                | -         |     5.10 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           17 |     3178 | 2024-04-03 | Limitless        | W   | 0.380      | 0.477        | -                | 0.167 (0.030)    | -         |     4.72 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           16 |     3180 | 2024-04-03 | Limitless        | W   | 0.380      | 0.477        | -                | 0.167 (0.030)    | -         |     4.87 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           15 |     3228 | 2024-04-02 | Party Astronauts | L   | 0.374      | -            | -                | -                | -         |    -2.85 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           14 |     3232 | 2024-04-02 | BOSS             | L   | 0.372      | -            | -                | -                | -         |    -4.74 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           13 |     3315 | 2024-03-27 | M80              | L   | 0.333      | -            | -                | -                | -         |    -0.65 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           12 |     3321 | 2024-03-27 | M80              | L   | 0.333      | -            | -                | -                | -         |    -0.66 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|           11 |     3440 | 2024-03-20 | LAG              | W   | 0.287      | 0.477        | 0.012 (0.002)    | 0.353 (0.048)    | -         |     5.93 | BeaKie, CoJoMo, Gabe, mds, X-23           |
-|           10 |     3442 | 2024-03-20 | LAG              | L   | 0.287      | -            | -                | -                | -         |    -3.14 | BeaKie, CoJoMo, Gabe, mds, X-23           |
-|            9 |     3458 | 2024-03-19 | Party Astronauts | L   | 0.281      | -            | -                | -                | -         |    -2.15 | BeaKie, CoJoMo, Gabe, mds, X-23           |
-|            8 |     3460 | 2024-03-19 | Party Astronauts | L   | 0.280      | -            | -                | -                | -         |    -2.18 | BeaKie, CoJoMo, Gabe, mds, X-23           |
-|            7 |     3555 | 2024-03-14 | Wildcard         | L   | 0.247      | -            | -                | -                | -         |    -2.38 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            6 |     3558 | 2024-03-14 | Wildcard         | L   | 0.246      | -            | -                | -                | -         |    -2.42 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            5 |     3587 | 2024-03-13 | Mythic           | W   | 0.239      | -            | -                | -                | -         |     4.31 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            4 |     3630 | 2024-03-12 | bubibabu         | W   | 0.233      | -            | -                | -                | -         |     0.98 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            3 |     4056 | 2024-02-22 | MIGHT            | L   | 0.106      | -            | -                | -                | -         |    -2.55 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            2 |     4300 | 2024-02-13 | Take Flyte       | L   | 0.047      | -            | -                | -                | -         |    -0.80 | BeaKie, CoJoMo, Gabe, mds, shutout        |
-|            1 |     4303 | 2024-02-13 | Take Flyte       | W   | 0.047      | -            | -                | -                | -         |     0.69 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           48 |       37 | 2024-08-03 | Detonate         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.71 | CoJoMo, CooperTrooper, Gabe, mds, shutout |
+|           47 |      403 | 2024-07-24 | Victorum         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.29 | CoJoMo, Gabe, mds, nooz, shutout          |
+|           46 |      521 | 2024-07-20 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.53 | CoJoMo, Gabe, mds, nooz, shutout          |
+|           45 |      655 | 2024-07-17 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.49 | CoJoMo, Gabe, mds, shutout, xaler         |
+|           44 |      659 | 2024-07-17 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -5.78 | CoJoMo, Gabe, mds, shutout, xaler         |
+|           43 |      719 | 2024-07-16 | Take Flyte       | L   | 1.000      | -            | -                | -                | -         |   -15.59 | CoJoMo, Gabe, mds, shutout, xaler         |
+|           42 |      725 | 2024-07-16 | Take Flyte       | L   | 1.000      | -            | -                | -                | -         |   -17.02 | CoJoMo, Gabe, mds, shutout, xaler         |
+|           41 |     1072 | 2024-06-14 | Akimbo           | L   | 0.855      | -            | -                | -                | -         |   -11.48 | CoJoMo, Gabe, mds, shutout, xaler         |
+|           40 |     1524 | 2024-06-04 | Mythic           | L   | 0.788      | -            | -                | -                | -         |   -10.51 | CoJoMo, Gabe, Louie, mds, shutout         |
+|           39 |     1825 | 2024-05-22 | BOSS             | L   | 0.704      | -            | -                | -                | -         |   -10.64 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           38 |     1829 | 2024-05-22 | BOSS             | W   | 0.703      | 0.477        | 0.014 (0.005)    | 0.331 (0.111)    | 0 (0.000) |    11.76 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           37 |     1874 | 2024-05-21 | NRG              | W   | 0.697      | 0.477        | 0.020 (0.007)    | 0.520 (0.173)    | 0 (0.000) |    16.19 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           36 |     1876 | 2024-05-21 | NRG              | L   | 0.697      | -            | -                | -                | -         |    -5.67 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           35 |     1909 | 2024-05-20 | FLUFFY AIMERS    | L   | 0.690      | -            | -                | -                | -         |   -11.89 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           34 |     1913 | 2024-05-20 | FLUFFY AIMERS    | W   | 0.690      | 0.477        | 0.003 (0.001)    | 0.314 (0.103)    | 0 (0.000) |     9.99 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           33 |     2076 | 2024-05-15 | Mythic           | L   | 0.657      | -            | -                | -                | -         |    -9.50 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           32 |     2082 | 2024-05-15 | Mythic           | W   | 0.657      | 0.477        | 0.010 (0.003)    | 0.297 (0.093)    | 0 (0.000) |    11.45 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           31 |     2143 | 2024-05-14 | Elevate          | L   | 0.650      | -            | -                | -                | -         |    -4.31 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           30 |     2146 | 2024-05-14 | Elevate          | L   | 0.649      | -            | -                | -                | -         |    -4.48 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           29 |     2200 | 2024-05-12 | NRG              | L   | 0.636      | -            | -                | -                | -         |    -6.25 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           28 |     2207 | 2024-05-12 | Mythic           | W   | 0.635      | 0.270        | 0.010 (0.002)    | 0.297 (0.051)    | 0 (0.000) |    11.09 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           27 |     2227 | 2024-05-11 | BOSS             | W   | 0.629      | 0.270        | 0.014 (0.002)    | 0.331 (0.056)    | 0 (0.000) |    11.83 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           26 |     2230 | 2024-05-11 | NRG              | L   | 0.629      | -            | -                | -                | -         |    -6.23 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           25 |     2233 | 2024-05-11 | Party Astronauts | W   | 0.628      | 0.270        | 0.041 (0.007)    | 0.529 (0.090)    | 0 (0.000) |    15.27 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           24 |     2296 | 2024-05-08 | Nouns            | L   | 0.610      | -            | -                | -                | -         |    -4.61 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           23 |     2298 | 2024-05-08 | Nouns            | L   | 0.610      | -            | -                | -                | -         |    -4.80 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           22 |     2808 | 2024-04-17 | Nouns            | L   | 0.469      | -            | -                | -                | -         |    -3.58 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           21 |     2960 | 2024-04-10 | MIGHT            | L   | 0.424      | -            | -                | -                | -         |   -10.29 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           20 |     2965 | 2024-04-10 | MIGHT            | W   | 0.423      | -            | -                | -                | 0 (0.000) |     3.06 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           19 |     3143 | 2024-04-04 | Carpe Diem       | W   | 0.384      | 0.477        | 0.005 (0.001)    | -                | -         |     4.90 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           18 |     3148 | 2024-04-04 | Carpe Diem       | W   | 0.383      | 0.477        | 0.005 (0.001)    | -                | -         |     5.06 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           17 |     3191 | 2024-04-03 | Limitless        | W   | 0.377      | 0.477        | -                | 0.166 (0.030)    | -         |     4.68 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           16 |     3193 | 2024-04-03 | Limitless        | W   | 0.377      | 0.477        | -                | 0.166 (0.030)    | -         |     4.83 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           15 |     3241 | 2024-04-02 | Party Astronauts | L   | 0.370      | -            | -                | -                | -         |    -2.83 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           14 |     3245 | 2024-04-02 | BOSS             | L   | 0.369      | -            | -                | -                | -         |    -4.70 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           13 |     3328 | 2024-03-27 | M80              | L   | 0.330      | -            | -                | -                | -         |    -0.65 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           12 |     3334 | 2024-03-27 | M80              | L   | 0.330      | -            | -                | -                | -         |    -0.65 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|           11 |     3453 | 2024-03-20 | LAG              | W   | 0.284      | 0.477        | 0.012 (0.002)    | 0.351 (0.047)    | -         |     5.86 | BeaKie, CoJoMo, Gabe, mds, X-23           |
+|           10 |     3455 | 2024-03-20 | LAG              | L   | 0.283      | -            | -                | -                | -         |    -3.11 | BeaKie, CoJoMo, Gabe, mds, X-23           |
+|            9 |     3471 | 2024-03-19 | Party Astronauts | L   | 0.277      | -            | -                | -                | -         |    -2.13 | BeaKie, CoJoMo, Gabe, mds, X-23           |
+|            8 |     3473 | 2024-03-19 | Party Astronauts | L   | 0.277      | -            | -                | -                | -         |    -2.16 | BeaKie, CoJoMo, Gabe, mds, X-23           |
+|            7 |     3568 | 2024-03-14 | Wildcard         | L   | 0.243      | -            | -                | -                | -         |    -2.35 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            6 |     3571 | 2024-03-14 | Wildcard         | L   | 0.243      | -            | -                | -                | -         |    -2.40 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            5 |     3600 | 2024-03-13 | Mythic           | W   | 0.236      | -            | -                | -                | -         |     4.25 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            4 |     3643 | 2024-03-12 | bubibabu         | W   | 0.230      | -            | -                | -                | -         |     0.97 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            3 |     4069 | 2024-02-22 | MIGHT            | L   | 0.103      | -            | -                | -                | -         |    -2.47 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            2 |     4313 | 2024-02-13 | Take Flyte       | L   | 0.044      | -            | -                | -                | -         |    -0.74 | BeaKie, CoJoMo, Gabe, mds, shutout        |
+|            1 |     4316 | 2024-02-13 | Take Flyte       | W   | 0.044      | -            | -                | -                | -         |     0.64 | BeaKie, CoJoMo, Gabe, mds, shutout        |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,322.22)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($1,316.89)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

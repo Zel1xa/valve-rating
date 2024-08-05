@@ -6,22 +6,22 @@ Global Rank: [176](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [17]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  646.1<br />
+Final Rank Value:  646.3<br />
 <br />
-Final Rank Value (646.1) = Starting Rank Value (697.1) + Head To Head Adjustments (-50.9)<br />
+Final Rank Value (646.3) = Starting Rank Value (696.9) + Head To Head Adjustments (-50.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.275[<sup>1</sup>](#table2)
 - Bounty Collected: 0.251[<sup>2</sup>](#table1)
-- Opponent Network: 0.021[<sup>2</sup>](#table1)
-- LAN Wins: 0.035[<sup>2</sup>](#table1)
+- Opponent Network: 0.020[<sup>2</sup>](#table1)
+- LAN Wins: 0.034[<sup>2</sup>](#table1)
 
 The average of these factors is 0.145<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 697.1
-- 400 + ( ( 0.145 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 697.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 696.9
+- 400 + ( ( 0.145 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 696.9
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |      185 | 2024-07-31 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -10.96 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           33 |      223 | 2024-07-30 | Fresh Food People  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.03 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           32 |      447 | 2024-07-23 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -14.49 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           31 |      451 | 2024-07-23 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -15.83 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           30 |      630 | 2024-07-18 | Rooster            | L   | 1.000      | -            | -                | -                | -         |    -8.63 | Kiyo, lucas222, rocky, Roflko, Zuko    |
-|           29 |      635 | 2024-07-18 | Rooster            | W   | 1.000      | 0.333        | 0.010 (0.003)    | 0.251 (0.084)    | 0 (0.000) |    23.40 | Kiyo, lucas222, rocky, Roflko, Zuko    |
-|           28 |      747 | 2024-07-16 | Bad News Kangaroos | W   | 1.000      | 0.333        | 0.017 (0.006)    | 0.226 (0.075)    | 0 (0.000) |    21.59 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           27 |      749 | 2024-07-16 | Bad News Kangaroos | L   | 1.000      | -            | -                | -                | -         |    -9.48 | Kiyo, lucas222, prakM, Roflko, Zuko    |
-|           26 |     1846 | 2024-05-22 | Canon Event        | W   | 0.703      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.91 | cray, Kiyo, lucas222, rocky, Roflko    |
-|           25 |     1851 | 2024-05-22 | Canon Event        | W   | 0.702      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.20 | cray, Kiyo, lucas222, rocky, Roflko    |
-|           24 |     2102 | 2024-05-15 | KZG                | L   | 0.656      | -            | -                | -                | -         |    -9.68 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           23 |     2109 | 2024-05-15 | KZG                | L   | 0.656      | -            | -                | -                | -         |   -10.25 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           22 |     2318 | 2024-05-07 | Arcade             | W   | 0.603      | 0.333        | 0.002 (0.000)    | 0.136 (0.027)    | 0 (0.000) |     9.79 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           21 |     2321 | 2024-05-07 | Arcade             | L   | 0.603      | -            | -                | -                | -         |    -9.39 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           20 |     2790 | 2024-04-18 | Mindfreak          | L   | 0.475      | -            | -                | -                | -         |    -6.81 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           19 |     2824 | 2024-04-17 | Blitz              | W   | 0.469      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     2.69 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           18 |     2988 | 2024-04-10 | Mindfreak          | L   | 0.422      | -            | -                | -                | -         |    -6.44 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           17 |     2992 | 2024-04-10 | Mindfreak          | L   | 0.422      | -            | -                | -                | -         |    -6.68 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           16 |     3219 | 2024-04-03 | Bad News Kangaroos | L   | 0.376      | -            | -                | -                | -         |    -4.19 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           15 |     3224 | 2024-04-03 | Bad News Kangaroos | L   | 0.376      | -            | -                | -                | -         |    -4.32 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           14 |     3344 | 2024-03-27 | RKON               | L   | 0.329      | -            | -                | -                | -         |    -7.67 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           13 |     3349 | 2024-03-27 | RKON               | W   | 0.329      | 0.333        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |     2.73 | Kiyo, lucas222, motion, rocky, Roflko  |
-|           12 |     3395 | 2024-03-23 | Bad News Kangaroos | L   | 0.302      | -            | -                | -                | -         |    -3.59 | gump, Kiyo, lucas222, motion, Roflko   |
-|           11 |     3397 | 2024-03-23 | KZG                | W   | 0.302      | 0.315        | 0.005 (0.001)    | 0.111 (0.011)    | 1 (0.302) |     4.72 | gump, Kiyo, lucas222, motion, Roflko   |
-|           10 |     3616 | 2024-03-13 | Vantage            | W   | 0.236      | 0.333        | 0.002 (0.000)    | 0.069 (0.005)    | 0 (0.000) |     3.33 | Kiyo, lucas222, motion, rocky, Roflko  |
-|            9 |     3622 | 2024-03-13 | Vantage            | L   | 0.236      | -            | -                | -                | -         |    -4.17 | Kiyo, lucas222, motion, rocky, Roflko  |
-|            8 |     3795 | 2024-03-06 | FlyQuest           | L   | 0.189      | -            | -                | -                | -         |    -0.41 | Kiyo, lucas222, motion, rocky, Roflko  |
-|            7 |     3797 | 2024-03-06 | FlyQuest           | L   | 0.189      | -            | -                | -                | -         |    -0.42 | Kiyo, lucas222, motion, rocky, Roflko  |
-|            6 |     4097 | 2024-02-21 | Rooster            | L   | 0.096      | -            | -                | -                | -         |    -1.16 | Falcon, Kiyo, lucas222, motion, Roflko |
-|            5 |     4101 | 2024-02-21 | Rooster            | L   | 0.096      | -            | -                | -                | -         |    -1.16 | Falcon, Kiyo, lucas222, motion, Roflko |
-|            4 |     4254 | 2024-02-15 | Vantage            | L   | 0.056      | -            | -                | -                | -         |    -0.98 | HUGH, Kiyo, lucas222, motion, Roflko   |
-|            3 |     4257 | 2024-02-14 | sunday school      | L   | 0.055      | -            | -                | -                | -         |    -1.02 | HUGH, Kiyo, lucas222, motion, Roflko   |
-|            2 |     4319 | 2024-02-13 | MAKING HISTORY     | W   | 0.042      | 0.143        | -                | 0.002 (0.000)    | -         |     0.21 | HUGH, Kiyo, lucas222, motion, Roflko   |
-|            1 |     4323 | 2024-02-13 | Underground        | W   | 0.042      | -            | -                | -                | -         |     0.21 | HUGH, Kiyo, lucas222, motion, Roflko   |
+|           34 |      198 | 2024-07-31 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -10.98 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           33 |      236 | 2024-07-30 | Fresh Food People  | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.03 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           32 |      460 | 2024-07-23 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -14.49 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           31 |      464 | 2024-07-23 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -15.83 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           30 |      643 | 2024-07-18 | Rooster            | L   | 1.000      | -            | -                | -                | -         |    -8.66 | Kiyo, lucas222, rocky, Roflko, Zuko    |
+|           29 |      648 | 2024-07-18 | Rooster            | W   | 1.000      | 0.333        | 0.010 (0.003)    | 0.250 (0.083)    | 0 (0.000) |    23.37 | Kiyo, lucas222, rocky, Roflko, Zuko    |
+|           28 |      760 | 2024-07-16 | Bad News Kangaroos | W   | 1.000      | 0.333        | 0.017 (0.006)    | 0.225 (0.075)    | 0 (0.000) |    21.55 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           27 |      762 | 2024-07-16 | Bad News Kangaroos | L   | 1.000      | -            | -                | -                | -         |    -9.51 | Kiyo, lucas222, prakM, Roflko, Zuko    |
+|           26 |     1859 | 2024-05-22 | Canon Event        | W   | 0.699      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.88 | cray, Kiyo, lucas222, rocky, Roflko    |
+|           25 |     1864 | 2024-05-22 | Canon Event        | W   | 0.699      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.18 | cray, Kiyo, lucas222, rocky, Roflko    |
+|           24 |     2115 | 2024-05-15 | KZG                | L   | 0.653      | -            | -                | -                | -         |    -9.63 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           23 |     2122 | 2024-05-15 | KZG                | L   | 0.652      | -            | -                | -                | -         |   -10.20 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           22 |     2331 | 2024-05-07 | Arcade             | W   | 0.599      | 0.333        | 0.002 (0.000)    | 0.136 (0.027)    | 0 (0.000) |     9.72 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           21 |     2334 | 2024-05-07 | Arcade             | L   | 0.599      | -            | -                | -                | -         |    -9.35 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           20 |     2803 | 2024-04-18 | Mindfreak          | L   | 0.472      | -            | -                | -                | -         |    -6.77 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           19 |     2837 | 2024-04-17 | Blitz              | W   | 0.466      | 0.143        | 0.000 (0.000)    | -                | 0 (0.000) |     2.67 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           18 |     3001 | 2024-04-10 | Mindfreak          | L   | 0.419      | -            | -                | -                | -         |    -6.39 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           17 |     3005 | 2024-04-10 | Mindfreak          | L   | 0.419      | -            | -                | -                | -         |    -6.63 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           16 |     3232 | 2024-04-03 | Bad News Kangaroos | L   | 0.372      | -            | -                | -                | -         |    -4.17 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           15 |     3237 | 2024-04-03 | Bad News Kangaroos | L   | 0.372      | -            | -                | -                | -         |    -4.29 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           14 |     3357 | 2024-03-27 | RKON               | L   | 0.326      | -            | -                | -                | -         |    -7.60 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           13 |     3362 | 2024-03-27 | RKON               | W   | 0.326      | 0.333        | 0.000 (0.000)    | 0.031 (0.003)    | 0 (0.000) |     2.70 | Kiyo, lucas222, motion, rocky, Roflko  |
+|           12 |     3408 | 2024-03-23 | Bad News Kangaroos | L   | 0.299      | -            | -                | -                | -         |    -3.56 | gump, Kiyo, lucas222, motion, Roflko   |
+|           11 |     3410 | 2024-03-23 | KZG                | W   | 0.298      | 0.315        | 0.005 (0.001)    | 0.111 (0.010)    | 1 (0.298) |     4.67 | gump, Kiyo, lucas222, motion, Roflko   |
+|           10 |     3629 | 2024-03-13 | Vantage            | W   | 0.233      | 0.333        | 0.002 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     3.28 | Kiyo, lucas222, motion, rocky, Roflko  |
+|            9 |     3635 | 2024-03-13 | Vantage            | L   | 0.233      | -            | -                | -                | -         |    -4.12 | Kiyo, lucas222, motion, rocky, Roflko  |
+|            8 |     3808 | 2024-03-06 | FlyQuest           | L   | 0.186      | -            | -                | -                | -         |    -0.41 | Kiyo, lucas222, motion, rocky, Roflko  |
+|            7 |     3810 | 2024-03-06 | FlyQuest           | L   | 0.186      | -            | -                | -                | -         |    -0.41 | Kiyo, lucas222, motion, rocky, Roflko  |
+|            6 |     4110 | 2024-02-21 | Rooster            | L   | 0.093      | -            | -                | -                | -         |    -1.12 | Falcon, Kiyo, lucas222, motion, Roflko |
+|            5 |     4114 | 2024-02-21 | Rooster            | L   | 0.092      | -            | -                | -                | -         |    -1.12 | Falcon, Kiyo, lucas222, motion, Roflko |
+|            4 |     4267 | 2024-02-15 | Vantage            | L   | 0.052      | -            | -                | -                | -         |    -0.92 | HUGH, Kiyo, lucas222, motion, Roflko   |
+|            3 |     4270 | 2024-02-14 | sunday school      | L   | 0.051      | -            | -                | -                | -         |    -0.95 | HUGH, Kiyo, lucas222, motion, Roflko   |
+|            2 |     4332 | 2024-02-13 | MAKING HISTORY     | W   | 0.039      | 0.143        | -                | 0.002 (0.000)    | -         |     0.20 | HUGH, Kiyo, lucas222, motion, Roflko   |
+|            1 |     4336 | 2024-02-13 | Underground        | W   | 0.039      | -            | -                | -                | -         |     0.20 | HUGH, Kiyo, lucas222, motion, Roflko   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($746.41)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($739.89)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-08 |      0.821 | $300.00        | $246.42         |
-| 2024-03-23 |      0.302 | $1,654.00      | $499.99         |
+| 2024-06-08 |      0.818 | $300.00        | $245.42         |
+| 2024-03-23 |      0.299 | $1,654.00      | $494.48         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

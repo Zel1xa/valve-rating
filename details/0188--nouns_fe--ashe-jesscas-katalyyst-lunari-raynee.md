@@ -6,9 +6,9 @@ Global Rank: [188](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [52]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  608.3<br />
+Final Rank Value:  608.4<br />
 <br />
-Final Rank Value (608.3) = Starting Rank Value (644.2) + Head To Head Adjustments (-35.9)<br />
+Final Rank Value (608.4) = Starting Rank Value (644.3) + Head To Head Adjustments (-35.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.119<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 644.2
-- 400 + ( ( 0.119 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 644.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 644.3
+- 400 + ( ( 0.119 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 644.3
 
 
 #### Factors<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      264 | 2024-07-28 | TSM Shimmer      | L   | 1.000      | -            | -                | -                | -         |   -12.61 | ashe, jesscas, katalyyst, lunari, raynee |
-|            9 |      936 | 2024-06-30 | Lotus fe         | L   | 0.966      | -            | -                | -                | -         |   -15.00 | ashe, daria, jesscas, katalyyst, raynee  |
-|            8 |     2695 | 2024-04-19 | FlyQuest RED     | L   | 0.486      | -            | -                | -                | -         |    -5.29 | ashe, katalyyst, Knopk@, lunari, tokkis  |
-|            7 |     2917 | 2024-04-11 | Limitless Angels | L   | 0.433      | -            | -                | -                | -         |    -6.92 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            6 |     3141 | 2024-04-04 | cleanup crew fe  | W   | 0.386      | 0.322        | 0.002 (0.000)    | 0.021 (0.003)    | 0 (0.000) |     5.80 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            5 |     3316 | 2024-03-27 | Karma            | L   | 0.333      | -            | -                | -                | -         |    -5.19 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            4 |     3413 | 2024-03-21 | COVEN            | W   | 0.293      | 0.322        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.16 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            3 |     3556 | 2024-03-14 | TSM Shimmer      | L   | 0.247      | -            | -                | -                | -         |    -3.26 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            2 |     3767 | 2024-03-06 | WG Bandits       | W   | 0.193      | 0.322        | 0.002 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     2.89 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            1 |     4310 | 2024-02-13 | COVEN            | W   | 0.046      | 0.143        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.51 | ashe, jesscas, katalyyst, lunari, Rice   |
+|           10 |      277 | 2024-07-28 | TSM Shimmer      | L   | 1.000      | -            | -                | -                | -         |   -12.61 | ashe, jesscas, katalyyst, lunari, raynee |
+|            9 |      949 | 2024-06-30 | Lotus fe         | L   | 0.963      | -            | -                | -                | -         |   -14.94 | ashe, daria, jesscas, katalyyst, raynee  |
+|            8 |     2708 | 2024-04-19 | FlyQuest RED     | L   | 0.483      | -            | -                | -                | -         |    -5.26 | ashe, katalyyst, Knopk@, lunari, tokkis  |
+|            7 |     2930 | 2024-04-11 | Limitless Angels | L   | 0.430      | -            | -                | -                | -         |    -6.87 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            6 |     3154 | 2024-04-04 | cleanup crew fe  | W   | 0.383      | 0.322        | 0.002 (0.000)    | 0.021 (0.003)    | 0 (0.000) |     5.75 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            5 |     3329 | 2024-03-27 | Karma            | L   | 0.330      | -            | -                | -                | -         |    -5.14 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            4 |     3426 | 2024-03-21 | COVEN            | W   | 0.290      | 0.322        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.12 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            3 |     3569 | 2024-03-14 | TSM Shimmer      | L   | 0.243      | -            | -                | -                | -         |    -3.21 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            2 |     3780 | 2024-03-06 | WG Bandits       | W   | 0.190      | 0.322        | 0.002 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     2.84 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            1 |     4323 | 2024-02-13 | COVEN            | W   | 0.043      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.47 | ashe, jesscas, katalyyst, lunari, Rice   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,123.87)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($1,118.70)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -61,8 +61,8 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $250.00        | $250.00         |
-| 2024-06-30 |      0.966 | $250.00        | $241.56         |
-| 2024-04-19 |      0.486 | $1,300.00      | $632.31         |
+| 2024-06-30 |      0.963 | $250.00        | $240.73         |
+| 2024-04-19 |      0.483 | $1,300.00      | $627.97         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,14 +6,14 @@ Global Rank: [165](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [107]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  671.1<br />
+Final Rank Value:  671.2<br />
 <br />
-Final Rank Value (671.1) = Starting Rank Value (680.4) + Head To Head Adjustments (-9.3)<br />
+Final Rank Value (671.2) = Starting Rank Value (680.4) + Head To Head Adjustments (-9.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.258[<sup>1</sup>](#table2)
-- Bounty Collected: 0.274[<sup>2</sup>](#table1)
+- Bounty Collected: 0.273[<sup>2</sup>](#table1)
 - Opponent Network: 0.017[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
@@ -21,7 +21,7 @@ The average of these factors is 0.137<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 680.4
-- 400 + ( ( 0.137 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 680.4
+- 400 + ( ( 0.137 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 680.4
 
 
 #### Factors<br />
@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1576 | 2024-06-02 | FAVBET            | L   | 0.776      | -            | -                | -                | -         |    -8.61 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
-|           14 |     1680 | 2024-05-29 | Zero Tenacity     | L   | 0.752      | -            | -                | -                | -         |    -1.93 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
-|           13 |     2513 | 2024-04-27 | Sashi             | L   | 0.538      | -            | -                | -                | -         |    -1.03 | allu, doto, Jerppa, juho, Sm1llee      |
-|           12 |     2688 | 2024-04-20 | Sangal            | L   | 0.489      | -            | -                | -                | -         |    -1.13 | allu, doto, Jerppa, juho, Sm1llee      |
-|           11 |     2720 | 2024-04-19 | NOM               | W   | 0.484      | 0.143        | 0.000 (0.000)    | 0.110 (0.008)    | 0 (0.000) |     5.00 | allu, doto, Jerppa, juho, Sm1llee      |
-|           10 |     2825 | 2024-04-17 | RUBY              | L   | 0.469      | -            | -                | -                | -         |    -3.00 | allu, doto, Jerppa, juho, Sm1llee      |
-|            9 |     2830 | 2024-04-17 | MOUZ NXT          | L   | 0.468      | -            | -                | -                | -         |    -1.72 | allu, doto, Jerppa, juho, Sm1llee      |
-|            8 |     2911 | 2024-04-12 | Zero Tenacity     | W   | 0.435      | 0.371        | 0.137 (0.022)    | 1.000 (0.161)    | 0 (0.000) |    12.32 | allu, doto, Jerppa, juho, Sm1llee      |
-|            7 |     3077 | 2024-04-08 | Permitta          | L   | 0.409      | -            | -                | -                | -         |    -2.27 | allu, doto, Jerppa, juho, Sm1llee      |
-|            6 |     3110 | 2024-04-06 | Johnny Speeds     | L   | 0.397      | -            | -                | -                | -         |    -0.38 | allu, doto, Jerppa, juho, Sm1llee      |
-|            5 |     3175 | 2024-04-04 | Gaimin Gladiators | L   | 0.382      | -            | -                | -                | -         |    -1.70 | allu, doto, Jerppa, juho, Sm1llee      |
-|            4 |     3644 | 2024-03-12 | kONO              | L   | 0.230      | -            | -                | -                | -         |    -2.42 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            3 |     3733 | 2024-03-08 | INGLORIOUS        | W   | 0.203      | 0.143        | 0.000 (0.000)    | 0.015 (0.000)    | 0 (0.000) |     2.06 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            2 |     3843 | 2024-03-04 | Endpoint          | L   | 0.177      | -            | -                | -                | -         |    -4.20 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            1 |     3928 | 2024-02-29 | Sashi             | L   | 0.149      | -            | -                | -                | -         |    -0.32 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|           15 |     1589 | 2024-06-02 | FAVBET            | L   | 0.773      | -            | -                | -                | -         |    -8.56 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
+|           14 |     1693 | 2024-05-29 | Zero Tenacity     | L   | 0.748      | -            | -                | -                | -         |    -1.91 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
+|           13 |     2526 | 2024-04-27 | Sashi             | L   | 0.534      | -            | -                | -                | -         |    -1.02 | allu, doto, Jerppa, juho, Sm1llee      |
+|           12 |     2701 | 2024-04-20 | Sangal            | L   | 0.485      | -            | -                | -                | -         |    -1.12 | allu, doto, Jerppa, juho, Sm1llee      |
+|           11 |     2733 | 2024-04-19 | NOM               | W   | 0.480      | 0.143        | 0.000 (0.000)    | 0.110 (0.008)    | 0 (0.000) |     4.98 | allu, doto, Jerppa, juho, Sm1llee      |
+|           10 |     2838 | 2024-04-17 | RUBY              | L   | 0.466      | -            | -                | -                | -         |    -2.98 | allu, doto, Jerppa, juho, Sm1llee      |
+|            9 |     2843 | 2024-04-17 | MOUZ NXT          | L   | 0.465      | -            | -                | -                | -         |    -1.69 | allu, doto, Jerppa, juho, Sm1llee      |
+|            8 |     2924 | 2024-04-12 | Zero Tenacity     | W   | 0.432      | 0.371        | 0.137 (0.022)    | 1.000 (0.160)    | 0 (0.000) |    12.23 | allu, doto, Jerppa, juho, Sm1llee      |
+|            7 |     3090 | 2024-04-08 | Permitta          | L   | 0.405      | -            | -                | -                | -         |    -2.25 | allu, doto, Jerppa, juho, Sm1llee      |
+|            6 |     3123 | 2024-04-06 | Johnny Speeds     | L   | 0.393      | -            | -                | -                | -         |    -0.37 | allu, doto, Jerppa, juho, Sm1llee      |
+|            5 |     3188 | 2024-04-04 | Gaimin Gladiators | L   | 0.379      | -            | -                | -                | -         |    -1.71 | allu, doto, Jerppa, juho, Sm1llee      |
+|            4 |     3657 | 2024-03-12 | kONO              | L   | 0.227      | -            | -                | -                | -         |    -2.38 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            3 |     3746 | 2024-03-08 | INGLORIOUS        | W   | 0.199      | 0.143        | 0.000 (0.000)    | 0.015 (0.000)    | 0 (0.000) |     2.03 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            2 |     3856 | 2024-03-04 | Endpoint          | L   | 0.174      | -            | -                | -                | -         |    -4.13 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            1 |     3941 | 2024-02-29 | Sashi             | L   | 0.146      | -            | -                | -                | -         |    -0.31 | allu, doto, Jelo, Jerppa, Sm1llee      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($427.98)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($425.33)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

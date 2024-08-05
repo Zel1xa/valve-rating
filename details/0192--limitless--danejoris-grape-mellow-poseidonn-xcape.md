@@ -6,22 +6,22 @@ Global Rank: [192](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [53]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  581.7<br />
+Final Rank Value:  581.9<br />
 <br />
-Final Rank Value (581.7) = Starting Rank Value (656.6) + Head To Head Adjustments (-74.9)<br />
+Final Rank Value (581.9) = Starting Rank Value (656.6) + Head To Head Adjustments (-74.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.251[<sup>1</sup>](#table2)
 - Bounty Collected: 0.232[<sup>2</sup>](#table1)
-- Opponent Network: 0.019[<sup>2</sup>](#table1)
+- Opponent Network: 0.018[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.125<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 656.6
-- 400 + ( ( 0.125 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 656.6
+- 400 + ( ( 0.125 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 656.6
 
 
 #### Factors<br />
@@ -37,53 +37,53 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |     1097 | 2024-06-13 | Nouns            | L   | 0.852      | -            | -                | -                | -         |    -2.60 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           39 |     1126 | 2024-06-12 | Detonate         | L   | 0.847      | -            | -                | -                | -         |   -15.89 | Danejoris, DooM, grape, PoseidoNN, xCAPE    |
-|           38 |     1128 | 2024-06-12 | E-Xolos LAZER    | L   | 0.846      | -            | -                | -                | -         |    -7.31 | Coastal, Danejoris, grape, PoseidoNN, xCAPE |
-|           37 |     1155 | 2024-06-11 | Perseverance     | W   | 0.838      | 0.371        | 0.000 (0.000)    | 0.064 (0.020)    | 0 (0.000) |    10.76 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           36 |     1173 | 2024-06-10 | Final Form       | L   | 0.832      | -            | -                | -                | -         |   -15.02 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           35 |     1324 | 2024-06-07 | Vibe             | W   | 0.813      | 0.371        | 0.000 (0.000)    | 0.071 (0.021)    | 0 (0.000) |     6.38 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           34 |     1391 | 2024-06-06 | Homyno           | L   | 0.805      | -            | -                | -                | -         |    -9.15 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           33 |     1551 | 2024-06-03 | Asian Kings      | W   | 0.784      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.74 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
-|           32 |     1814 | 2024-05-22 | LAG              | L   | 0.707      | -            | -                | -                | -         |    -5.58 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           31 |     1817 | 2024-05-22 | LAG              | L   | 0.707      | -            | -                | -                | -         |    -5.85 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           30 |     1857 | 2024-05-21 | Party Astronauts | L   | 0.700      | -            | -                | -                | -         |    -3.20 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           29 |     1860 | 2024-05-21 | Party Astronauts | L   | 0.700      | -            | -                | -                | -         |    -3.30 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           28 |     1931 | 2024-05-19 | Wildcard         | L   | 0.686      | -            | -                | -                | -         |    -3.86 | CAJUN, Danejoris, Mellow, PoseidoNN, xCAPE  |
-|           27 |     2061 | 2024-05-15 | Elevate          | L   | 0.660      | -            | -                | -                | -         |    -2.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           26 |     2068 | 2024-05-15 | Elevate          | L   | 0.660      | -            | -                | -                | -         |    -2.68 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           25 |     2243 | 2024-05-10 | M80              | L   | 0.627      | -            | -                | -                | -         |    -0.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           24 |     2244 | 2024-05-10 | M80              | L   | 0.627      | -            | -                | -                | -         |    -0.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           23 |     2257 | 2024-05-09 | FLUFFY AIMERS    | L   | 0.621      | -            | -                | -                | -         |    -7.01 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           22 |     2260 | 2024-05-09 | FLUFFY AIMERS    | W   | 0.620      | 0.477        | 0.010 (0.003)    | 0.101 (0.030)    | 0 (0.000) |    12.86 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           21 |     2278 | 2024-05-08 | Wildcard         | L   | 0.614      | -            | -                | -                | -         |    -3.65 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           20 |     2281 | 2024-05-08 | Wildcard         | L   | 0.613      | -            | -                | -                | -         |    -3.77 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           19 |     2855 | 2024-04-15 | Nouns            | L   | 0.461      | -            | -                | -                | -         |    -2.32 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           18 |     2856 | 2024-04-15 | Nouns            | L   | 0.460      | -            | -                | -                | -         |    -2.37 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           17 |     2914 | 2024-04-11 | BOSS             | L   | 0.434      | -            | -                | -                | -         |    -3.72 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           16 |     2916 | 2024-04-11 | BOSS             | L   | 0.433      | -            | -                | -                | -         |    -3.83 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           15 |     3132 | 2024-04-04 | Take Flyte       | L   | 0.387      | -            | -                | -                | -         |    -5.36 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           14 |     3136 | 2024-04-04 | Take Flyte       | W   | 0.387      | 0.477        | 0.002 (0.000)    | 0.240 (0.044)    | 0 (0.000) |     6.98 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           13 |     3178 | 2024-04-03 | Phoenix          | L   | 0.380      | -            | -                | -                | -         |    -4.72 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           12 |     3180 | 2024-04-03 | Phoenix          | L   | 0.380      | -            | -                | -                | -         |    -4.87 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           11 |     3307 | 2024-03-27 | MIGHT            | W   | 0.334      | 0.477        | 0.000 (0.000)    | 0.059 (0.009)    | 0 (0.000) |     3.57 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|           10 |     3313 | 2024-03-27 | MIGHT            | W   | 0.334      | 0.477        | 0.000 (0.000)    | 0.059 (0.009)    | 0 (0.000) |     3.66 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|            9 |     3357 | 2024-03-26 | Mythic           | L   | 0.327      | -            | -                | -                | -         |    -3.27 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|            8 |     3362 | 2024-03-26 | Mythic           | W   | 0.327      | 0.477        | 0.010 (0.002)    | 0.299 (0.047)    | 0 (0.000) |     7.16 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|            7 |     3549 | 2024-03-14 | NRG              | L   | 0.247      | -            | -                | -                | -         |    -1.92 | Danejoris, grape, Mellow, PoseidoNN, RiFT   |
-|            6 |     3553 | 2024-03-14 | NRG              | L   | 0.247      | -            | -                | -                | -         |    -1.95 | Danejoris, grape, Mellow, PoseidoNN, RiFT   |
-|            5 |     3762 | 2024-03-06 | Carpe Diem       | L   | 0.194      | -            | -                | -                | -         |    -2.86 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|            4 |     3765 | 2024-03-06 | Carpe Diem       | L   | 0.194      | -            | -                | -                | -         |    -2.90 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
-|            3 |     4010 | 2024-02-24 | NRG              | L   | 0.120      | -            | -                | -                | -         |    -0.94 | Danejoris, DooM, grape, Mellow, RiFT        |
-|            2 |     4014 | 2024-02-24 | LAG              | W   | 0.119      | 0.143        | 0.012 (0.000)    | 0.353 (0.006)    | 0 (0.000) |     2.77 | Danejoris, DooM, grape, Mellow, RiFT        |
-|            1 |     4231 | 2024-02-15 | OMiT             | L   | 0.060      | -            | -                | -                | -         |    -1.06 | Danejoris, DooM, grape, Mellow, RiFT        |
+|           40 |     1110 | 2024-06-13 | Nouns            | L   | 0.849      | -            | -                | -                | -         |    -2.60 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           39 |     1139 | 2024-06-12 | Detonate         | L   | 0.843      | -            | -                | -                | -         |   -15.84 | Danejoris, DooM, grape, PoseidoNN, xCAPE    |
+|           38 |     1141 | 2024-06-12 | E-Xolos LAZER    | L   | 0.843      | -            | -                | -                | -         |    -7.29 | Coastal, Danejoris, grape, PoseidoNN, xCAPE |
+|           37 |     1168 | 2024-06-11 | Perseverance     | W   | 0.835      | 0.371        | 0.000 (0.000)    | 0.064 (0.020)    | 0 (0.000) |    10.71 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           36 |     1186 | 2024-06-10 | Final Form       | L   | 0.829      | -            | -                | -                | -         |   -14.97 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           35 |     1337 | 2024-06-07 | Vibe             | W   | 0.810      | 0.371        | 0.000 (0.000)    | 0.070 (0.021)    | 0 (0.000) |     6.34 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           34 |     1404 | 2024-06-06 | Homyno           | L   | 0.802      | -            | -                | -                | -         |    -9.13 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           33 |     1564 | 2024-06-03 | Asian Kings      | W   | 0.781      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.71 | Danejoris, grape, Mellow, PoseidoNN, xCAPE  |
+|           32 |     1827 | 2024-05-22 | LAG              | L   | 0.704      | -            | -                | -                | -         |    -5.56 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           31 |     1830 | 2024-05-22 | LAG              | L   | 0.703      | -            | -                | -                | -         |    -5.83 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           30 |     1870 | 2024-05-21 | Party Astronauts | L   | 0.697      | -            | -                | -                | -         |    -3.19 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           29 |     1873 | 2024-05-21 | Party Astronauts | L   | 0.697      | -            | -                | -                | -         |    -3.29 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           28 |     1944 | 2024-05-19 | Wildcard         | L   | 0.683      | -            | -                | -                | -         |    -3.85 | CAJUN, Danejoris, Mellow, PoseidoNN, xCAPE  |
+|           27 |     2074 | 2024-05-15 | Elevate          | L   | 0.657      | -            | -                | -                | -         |    -2.61 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           26 |     2081 | 2024-05-15 | Elevate          | L   | 0.657      | -            | -                | -                | -         |    -2.67 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           25 |     2256 | 2024-05-10 | M80              | L   | 0.624      | -            | -                | -                | -         |    -0.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           24 |     2257 | 2024-05-10 | M80              | L   | 0.623      | -            | -                | -                | -         |    -0.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           23 |     2270 | 2024-05-09 | FLUFFY AIMERS    | L   | 0.617      | -            | -                | -                | -         |    -6.98 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           22 |     2273 | 2024-05-09 | FLUFFY AIMERS    | W   | 0.617      | 0.477        | 0.010 (0.003)    | 0.100 (0.029)    | 0 (0.000) |    12.78 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           21 |     2291 | 2024-05-08 | Wildcard         | L   | 0.610      | -            | -                | -                | -         |    -3.65 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           20 |     2294 | 2024-05-08 | Wildcard         | L   | 0.610      | -            | -                | -                | -         |    -3.77 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           19 |     2868 | 2024-04-15 | Nouns            | L   | 0.457      | -            | -                | -                | -         |    -2.31 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           18 |     2869 | 2024-04-15 | Nouns            | L   | 0.457      | -            | -                | -                | -         |    -2.36 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           17 |     2927 | 2024-04-11 | BOSS             | L   | 0.430      | -            | -                | -                | -         |    -3.70 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           16 |     2929 | 2024-04-11 | BOSS             | L   | 0.430      | -            | -                | -                | -         |    -3.81 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           15 |     3145 | 2024-04-04 | Take Flyte       | L   | 0.384      | -            | -                | -                | -         |    -5.31 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           14 |     3149 | 2024-04-04 | Take Flyte       | W   | 0.383      | 0.477        | 0.002 (0.000)    | 0.239 (0.044)    | 0 (0.000) |     6.92 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           13 |     3191 | 2024-04-03 | Phoenix          | L   | 0.377      | -            | -                | -                | -         |    -4.68 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           12 |     3193 | 2024-04-03 | Phoenix          | L   | 0.377      | -            | -                | -                | -         |    -4.83 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           11 |     3320 | 2024-03-27 | MIGHT            | W   | 0.331      | 0.477        | 0.000 (0.000)    | 0.059 (0.009)    | 0 (0.000) |     3.52 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|           10 |     3326 | 2024-03-27 | MIGHT            | W   | 0.330      | 0.477        | 0.000 (0.000)    | 0.059 (0.009)    | 0 (0.000) |     3.62 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|            9 |     3370 | 2024-03-26 | Mythic           | L   | 0.324      | -            | -                | -                | -         |    -3.25 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|            8 |     3375 | 2024-03-26 | Mythic           | W   | 0.324      | 0.477        | 0.010 (0.001)    | 0.297 (0.046)    | 0 (0.000) |     7.08 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|            7 |     3562 | 2024-03-14 | NRG              | L   | 0.244      | -            | -                | -                | -         |    -1.89 | Danejoris, grape, Mellow, PoseidoNN, RiFT   |
+|            6 |     3566 | 2024-03-14 | NRG              | L   | 0.244      | -            | -                | -                | -         |    -1.92 | Danejoris, grape, Mellow, PoseidoNN, RiFT   |
+|            5 |     3775 | 2024-03-06 | Carpe Diem       | L   | 0.191      | -            | -                | -                | -         |    -2.81 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|            4 |     3778 | 2024-03-06 | Carpe Diem       | L   | 0.190      | -            | -                | -                | -         |    -2.85 | Danejoris, DooM, grape, Mellow, PoseidoNN   |
+|            3 |     4023 | 2024-02-24 | NRG              | L   | 0.116      | -            | -                | -                | -         |    -0.92 | Danejoris, DooM, grape, Mellow, RiFT        |
+|            2 |     4027 | 2024-02-24 | LAG              | W   | 0.116      | 0.143        | 0.012 (0.000)    | 0.351 (0.006)    | 0 (0.000) |     2.69 | Danejoris, DooM, grape, Mellow, RiFT        |
+|            1 |     4244 | 2024-02-15 | OMiT             | L   | 0.057      | -            | -                | -                | -         |    -1.00 | Danejoris, DooM, grape, Mellow, RiFT        |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($330.56)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($329.22)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

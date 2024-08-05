@@ -6,22 +6,22 @@ Global Rank: [53](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [3]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  1051.7<br />
+Final Rank Value:  1034.9<br />
 <br />
-Final Rank Value (1051.7) = Starting Rank Value (1045.5) + Head To Head Adjustments (6.2)<br />
+Final Rank Value (1034.9) = Starting Rank Value (1049.9) + Head To Head Adjustments (-15.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.474[<sup>1</sup>](#table2)
+- Bounty Offered: 0.484[<sup>1</sup>](#table2)
 - Bounty Collected: 0.312[<sup>2</sup>](#table1)
 - Opponent Network: 0.063[<sup>2</sup>](#table1)
-- LAN Wins: 0.412[<sup>2</sup>](#table1)
+- LAN Wins: 0.411[<sup>2</sup>](#table1)
 
-The average of these factors is 0.316<br />
+The average of these factors is 0.317<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1045.5
-- 400 + ( ( 0.316 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 1045.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1049.9
+- 400 + ( ( 0.317 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 1049.9
 
 
 #### Factors<br />
@@ -37,51 +37,53 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |       23 | 2024-08-04 | Bad News Kangaroos | W   | 1.000      | 0.380        | 0.017 (0.006)    | 0.226 (0.086)    | 1 (1.000) |     5.63 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
-|           27 |     1251 | 2024-06-09 | ATOX               | W   | 0.823      | 0.416        | 0.020 (0.007)    | 0.219 (0.075)    | 0 (0.000) |     8.03 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           26 |     1309 | 2024-06-08 | TYLOO              | W   | 0.816      | 0.416        | 0.013 (0.004)    | 0.292 (0.099)    | 0 (0.000) |     5.70 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           25 |     1431 | 2024-06-06 | ATOX               | L   | 0.803      | -            | -                | -                | -         |   -17.73 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           24 |     1486 | 2024-06-05 | TYLOO              | W   | 0.796      | 0.416        | 0.013 (0.004)    | 0.292 (0.097)    | -         |     5.01 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           23 |     1608 | 2024-06-01 | Aurora             | L   | 0.770      | -            | -                | -                | -         |    -1.41 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           22 |     1618 | 2024-05-31 | ATOX               | W   | 0.767      | 0.500        | 0.020 (0.008)    | 0.219 (0.084)    | 1 (0.767) |     6.86 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           21 |     1670 | 2024-05-30 | Gaimin Gladiators  | W   | 0.755      | 0.500        | 0.038 (0.014)    | 0.349 (0.132)    | 1 (0.755) |    10.49 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           20 |     1715 | 2024-05-28 | Aurora             | L   | 0.742      | -            | -                | -                | -         |    -1.24 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           19 |     2774 | 2024-04-18 | Rare Atom          | L   | 0.477      | -            | -                | -                | -         |   -13.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           18 |     2785 | 2024-04-18 | TYLOO              | L   | 0.476      | -            | -                | -                | -         |   -12.53 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           17 |     3042 | 2024-04-09 | G2                 | L   | 0.416      | -            | -                | -                | -         |    -0.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           16 |     3070 | 2024-04-08 | TYLOO              | W   | 0.410      | 0.624        | 0.019 (0.005)    | 0.091 (0.023)    | 1 (0.410) |     2.05 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           15 |     3081 | 2024-04-07 | FURIA              | L   | 0.408      | -            | -                | -                | -         |    -0.35 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           14 |     3213 | 2024-04-03 | The MongolZ        | L   | 0.377      | -            | -                | -                | -         |    -0.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           13 |     3251 | 2024-04-02 | LYG                | W   | 0.370      | -            | -                | -                | -         |     1.57 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           12 |     3257 | 2024-04-02 | ATOX               | W   | 0.369      | 0.143        | 0.020 (0.001)    | 0.219 (0.012)    | -         |     3.04 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           11 |     3472 | 2024-03-19 | The MongolZ        | L   | 0.276      | -            | -                | -                | -         |    -0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           10 |     3481 | 2024-03-18 | Gaimin Gladiators  | L   | 0.270      | -            | -                | -                | -         |    -5.12 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            9 |     3488 | 2024-03-17 | FURIA              | W   | 0.266      | 0.143        | 0.284 (0.011)    | 0.490 (0.019)    | 1 (0.266) |     8.17 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            8 |     3507 | 2024-03-17 | HEROIC             | L   | 0.264      | -            | -                | -                | -         |    -0.45 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            7 |     3945 | 2024-02-27 | FlyQuest           | W   | 0.142      | 0.143        | 0.104 (0.002)    | 0.293 (0.006)    | 1 (0.142) |     2.92 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            6 |     3947 | 2024-02-27 | The MongolZ        | L   | 0.140      | -            | -                | -                | -         |    -0.03 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            5 |     3982 | 2024-02-25 | TYLOO              | W   | 0.128      | -            | -                | -                | 1 (0.128) |     0.69 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            4 |     3985 | 2024-02-25 | Twisted Minds      | W   | 0.127      | -            | -                | -                | 1 (0.127) |     0.11 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            3 |     4194 | 2024-02-17 | Newhappy           | L   | 0.070      | -            | -                | -                | -         |    -2.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            2 |     4223 | 2024-02-16 | Newhappy           | W   | 0.063      | -            | -                | -                | -         |     0.09 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            1 |     4229 | 2024-02-16 | MAG                | W   | 0.062      | -            | -                | -                | -         |     0.08 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           29 |        9 | 2024-08-05 | Chinggis Warriors  | L   | 1.000      | -            | -                | -                | -         |   -24.88 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
+|           28 |       35 | 2024-08-04 | Bad News Kangaroos | W   | 1.000      | 0.380        | 0.017 (0.006)    | 0.225 (0.086)    | 1 (1.000) |     5.41 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
+|           27 |     1264 | 2024-06-09 | ATOX               | W   | 0.819      | 0.416        | 0.020 (0.007)    | 0.218 (0.074)    | 0 (0.000) |     7.75 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           26 |     1322 | 2024-06-08 | TYLOO              | W   | 0.813      | 0.416        | 0.013 (0.004)    | 0.292 (0.099)    | 0 (0.000) |     7.19 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           25 |     1444 | 2024-06-06 | ATOX               | L   | 0.800      | -            | -                | -                | -         |   -17.86 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           24 |     1499 | 2024-06-05 | TYLOO              | W   | 0.793      | 0.416        | 0.013 (0.004)    | 0.292 (0.096)    | -         |     6.54 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           23 |     1621 | 2024-06-01 | Aurora             | L   | 0.767      | -            | -                | -                | -         |    -1.44 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           22 |     1631 | 2024-05-31 | ATOX               | W   | 0.764      | 0.500        | 0.020 (0.008)    | 0.218 (0.083)    | 1 (0.764) |     6.68 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           21 |     1683 | 2024-05-30 | Gaimin Gladiators  | W   | 0.752      | 0.500        | 0.037 (0.014)    | 0.346 (0.130)    | 1 (0.752) |    10.20 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           20 |     1728 | 2024-05-28 | Aurora             | L   | 0.738      | -            | -                | -                | -         |    -1.26 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           19 |     2787 | 2024-04-18 | Rare Atom          | L   | 0.473      | -            | -                | -                | -         |   -10.96 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           18 |     2798 | 2024-04-18 | TYLOO              | L   | 0.472      | -            | -                | -                | -         |   -12.48 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           17 |     3055 | 2024-04-09 | G2                 | L   | 0.413      | -            | -                | -                | -         |    -0.08 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           16 |     3083 | 2024-04-08 | TYLOO              | W   | 0.407      | 0.624        | 0.019 (0.005)    | 0.090 (0.023)    | 1 (0.407) |     2.00 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           15 |     3094 | 2024-04-07 | FURIA              | L   | 0.405      | -            | -                | -                | -         |    -0.35 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           14 |     3226 | 2024-04-03 | The MongolZ        | L   | 0.373      | -            | -                | -                | -         |    -0.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           13 |     3264 | 2024-04-02 | LYG                | W   | 0.367      | -            | -                | -                | -         |     1.53 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           12 |     3270 | 2024-04-02 | ATOX               | W   | 0.365      | 0.143        | 0.020 (0.001)    | 0.218 (0.011)    | -         |     2.96 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           11 |     3485 | 2024-03-19 | The MongolZ        | L   | 0.273      | -            | -                | -                | -         |    -0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           10 |     3494 | 2024-03-18 | Gaimin Gladiators  | L   | 0.267      | -            | -                | -                | -         |    -5.13 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            9 |     3501 | 2024-03-17 | FURIA              | W   | 0.262      | 0.143        | 0.284 (0.011)    | 0.487 (0.018)    | 1 (0.262) |     8.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            8 |     3520 | 2024-03-17 | HEROIC             | L   | 0.260      | -            | -                | -                | -         |    -0.45 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            7 |     3958 | 2024-02-27 | FlyQuest           | W   | 0.139      | 0.143        | 0.104 (0.002)    | 0.290 (0.006)    | 1 (0.139) |     2.82 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            6 |     3960 | 2024-02-27 | The MongolZ        | L   | 0.137      | -            | -                | -                | -         |    -0.03 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            5 |     3995 | 2024-02-25 | TYLOO              | W   | 0.125      | -            | -                | -                | 1 (0.125) |     0.66 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            4 |     3998 | 2024-02-25 | Twisted Minds      | W   | 0.124      | -            | -                | -                | 1 (0.124) |     0.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            3 |     4207 | 2024-02-17 | Newhappy           | L   | 0.067      | -            | -                | -                | -         |    -2.00 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            2 |     4236 | 2024-02-16 | Newhappy           | W   | 0.060      | -            | -                | -                | -         |     0.08 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            1 |     4242 | 2024-02-16 | MAG                | W   | 0.059      | -            | -                | -                | -         |     0.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($25,189.47)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
-- The final value (0.08) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
+- First, take the sum of their top 10 scaled winnings ($27,812.13)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
+- The final value (0.09) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.823 | $15,000.00     | $12,337.50      |
-| 2024-06-02 |      0.776 | $10,000.00     | $7,759.49       |
-| 2024-04-14 |      0.449 | $5,000.00      | $2,246.64       |
-| 2024-03-20 |      0.285 | $10,000.00     | $2,845.83       |
+| 2024-08-05 |      1.000 | $2,756.00      | $2,756.00       |
+| 2024-06-09 |      0.819 | $15,000.00     | $12,287.50      |
+| 2024-06-02 |      0.773 | $10,000.00     | $7,726.16       |
+| 2024-04-14 |      0.446 | $5,000.00      | $2,229.98       |
+| 2024-03-20 |      0.281 | $10,000.00     | $2,812.50       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

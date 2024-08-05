@@ -21,7 +21,7 @@ The average of these factors is 0.061<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 525.3
-- 400 + ( ( 0.061 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 525.3
+- 400 + ( ( 0.061 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 525.3
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1029 | 2024-06-15 | FAVBET        | L   | 0.864      | -            | -                | -                | -         |    -4.69 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|           11 |     1066 | 2024-06-14 | EYEBALLERS    | L   | 0.858      | -            | -                | -                | -         |    -3.69 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|           10 |     1101 | 2024-06-13 | Permitta      | W   | 0.851      | 0.143        | 0.024 (0.003)    | 0.876 (0.107)    | 0 (0.000) |    23.97 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            9 |     1137 | 2024-06-12 | Zero Tenacity | L   | 0.844      | -            | -                | -                | -         |    -1.12 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            8 |     1156 | 2024-06-11 | Verdant       | W   | 0.838      | 0.143        | 0.015 (0.002)    | 0.299 (0.036)    | 0 (0.000) |    23.47 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            7 |     2096 | 2024-05-15 | EYEBALLERS    | L   | 0.657      | -            | -                | -                | -         |    -2.42 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            6 |     2679 | 2024-04-20 | System5       | L   | 0.490      | -            | -                | -                | -         |    -4.66 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            5 |     3198 | 2024-04-03 | KOI           | L   | 0.378      | -            | -                | -                | -         |    -0.51 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            4 |     3210 | 2024-04-03 | 9 Pandas      | L   | 0.377      | -            | -                | -                | -         |    -0.73 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            3 |     3294 | 2024-03-28 | TSM           | L   | 0.338      | -            | -                | -                | -         |    -3.20 | KEi, KukuBambo, mynio, nawrot, tomiko     |
-|            2 |     3775 | 2024-03-06 | EYEBALLERS    | L   | 0.192      | -            | -                | -                | -         |    -0.65 | KEi, KukuBambo, mynio, nawrot, tomiko     |
-|            1 |     3948 | 2024-02-27 | Sangal        | L   | 0.138      | -            | -                | -                | -         |    -0.12 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|           12 |     1042 | 2024-06-15 | FAVBET        | L   | 0.861      | -            | -                | -                | -         |    -4.66 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|           11 |     1079 | 2024-06-14 | EYEBALLERS    | L   | 0.854      | -            | -                | -                | -         |    -3.67 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|           10 |     1114 | 2024-06-13 | Permitta      | W   | 0.848      | 0.143        | 0.024 (0.003)    | 0.873 (0.106)    | 0 (0.000) |    23.89 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            9 |     1150 | 2024-06-12 | Zero Tenacity | L   | 0.841      | -            | -                | -                | -         |    -1.11 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            8 |     1169 | 2024-06-11 | Verdant       | W   | 0.834      | 0.143        | 0.015 (0.002)    | 0.298 (0.036)    | 0 (0.000) |    23.39 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            7 |     2109 | 2024-05-15 | EYEBALLERS    | L   | 0.653      | -            | -                | -                | -         |    -2.41 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            6 |     2692 | 2024-04-20 | System5       | L   | 0.487      | -            | -                | -                | -         |    -4.63 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            5 |     3211 | 2024-04-03 | KOI           | L   | 0.375      | -            | -                | -                | -         |    -0.51 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            4 |     3223 | 2024-04-03 | 9 Pandas      | L   | 0.373      | -            | -                | -                | -         |    -0.73 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            3 |     3307 | 2024-03-28 | TSM           | L   | 0.335      | -            | -                | -                | -         |    -3.17 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|            2 |     3788 | 2024-03-06 | EYEBALLERS    | L   | 0.188      | -            | -                | -                | -         |    -0.64 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|            1 |     3961 | 2024-02-27 | Sangal        | L   | 0.135      | -            | -                | -                | -         |    -0.12 | KEi, KukuBambo, mynio, nawrot, tomiko     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

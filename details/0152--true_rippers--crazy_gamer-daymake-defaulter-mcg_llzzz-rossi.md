@@ -6,22 +6,22 @@ Global Rank: [152](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [14]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  720.0<br />
+Final Rank Value:  719.4<br />
 <br />
-Final Rank Value (720.0) = Starting Rank Value (690.9) + Head To Head Adjustments (29.1)<br />
+Final Rank Value (719.4) = Starting Rank Value (690.3) + Head To Head Adjustments (29.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.306[<sup>1</sup>](#table2)
-- Bounty Collected: 0.255[<sup>2</sup>](#table1)
+- Bounty Offered: 0.305[<sup>1</sup>](#table2)
+- Bounty Collected: 0.254[<sup>2</sup>](#table1)
 - Opponent Network: 0.006[<sup>2</sup>](#table1)
 - LAN Wins: 0.002[<sup>2</sup>](#table1)
 
 The average of these factors is 0.142<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 690.9
-- 400 + ( ( 0.142 - 0.000 ) / ( 0.782 - 0.000 ) ) * 1600 = 690.9
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 690.3
+- 400 + ( ( 0.142 - 0.000 ) / ( 0.781 - 0.000 ) ) * 1600 = 690.3
 
 
 #### Factors<br />
@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |      330 | 2024-07-26 | ENCE        | L   | 1.000      | -            | -                | -                | -         |    -0.81 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           18 |      338 | 2024-07-26 | PARIVISION  | L   | 1.000      | -            | -                | -                | -         |    -3.60 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           17 |      368 | 2024-07-25 | Aurora      | L   | 1.000      | -            | -                | -                | -         |    -0.52 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           16 |      404 | 2024-07-24 | BLEED       | L   | 1.000      | -            | -                | -                | -         |    -1.22 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           15 |      455 | 2024-07-23 | The MongolZ | L   | 1.000      | -            | -                | -                | -         |    -0.10 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           14 |      942 | 2024-06-30 | Gods Reign  | L   | 0.962      | -            | -                | -                | -         |   -12.99 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           13 |      943 | 2024-06-29 | NE          | W   | 0.961      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.94 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           12 |      948 | 2024-06-29 | Gods Reign  | W   | 0.957      | 0.143        | 0.040 (0.006)    | 0.203 (0.028)    | 0 (0.000) |    17.49 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           11 |      954 | 2024-06-28 | Marcos      | W   | 0.950      | 0.143        | 0.000 (0.000)    | 0.037 (0.005)    | 0 (0.000) |     6.99 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|           10 |      960 | 2024-06-27 | Gods Reign  | W   | 0.943      | 0.143        | 0.040 (0.005)    | 0.203 (0.027)    | 0 (0.000) |    18.56 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|            9 |     1755 | 2024-05-26 | Gods Reign  | L   | 0.729      | -            | -                | -                | -         |    -8.42 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|            8 |     1759 | 2024-05-25 | Carnival    | W   | 0.728      | 0.262        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.53 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
-|            7 |     2488 | 2024-04-29 | Carnival    | W   | 0.548      | 0.262        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.17 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|            6 |     3273 | 2024-03-31 | Gods Reign  | L   | 0.355      | -            | -                | -                | -         |    -4.16 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|            5 |     3279 | 2024-03-30 | Marcos      | W   | 0.349      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     4.34 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|            4 |     3287 | 2024-03-29 | Grayfox     | W   | 0.343      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     3.98 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
-|            3 |     3382 | 2024-03-23 | Marcos      | L   | 0.308      | -            | -                | -                | -         |    -5.85 | Anasasis, Crazy_Gamer, DEFAULTER, Mcg!LLzZz, Rossi |
-|            2 |     4338 | 2024-02-10 | Marcos      | L   | 0.028      | -            | -                | -                | -         |    -0.52 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
-|            1 |     4353 | 2024-02-09 | Marcos      | W   | 0.021      | 0.435        | 0.002 (0.000)    | 0.003 (0.000)    | 1 (0.021) |     0.27 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
+|           19 |      343 | 2024-07-26 | ENCE        | L   | 1.000      | -            | -                | -                | -         |    -0.80 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           18 |      351 | 2024-07-26 | PARIVISION  | L   | 1.000      | -            | -                | -                | -         |    -3.56 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           17 |      381 | 2024-07-25 | Aurora      | L   | 1.000      | -            | -                | -                | -         |    -0.51 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           16 |      417 | 2024-07-24 | BLEED       | L   | 1.000      | -            | -                | -                | -         |    -1.20 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           15 |      468 | 2024-07-23 | The MongolZ | L   | 1.000      | -            | -                | -                | -         |    -0.10 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           14 |      955 | 2024-06-30 | Gods Reign  | L   | 0.958      | -            | -                | -                | -         |   -12.95 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           13 |      956 | 2024-06-29 | NE          | W   | 0.958      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.94 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           12 |      961 | 2024-06-29 | Gods Reign  | W   | 0.953      | 0.143        | 0.040 (0.005)    | 0.202 (0.028)    | 0 (0.000) |    17.43 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           11 |      967 | 2024-06-28 | Marcos      | W   | 0.946      | 0.143        | 0.000 (0.000)    | 0.037 (0.005)    | 0 (0.000) |     6.98 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|           10 |      973 | 2024-06-27 | Gods Reign  | W   | 0.940      | 0.143        | 0.040 (0.005)    | 0.202 (0.027)    | 0 (0.000) |    18.50 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|            9 |     1768 | 2024-05-26 | Gods Reign  | L   | 0.726      | -            | -                | -                | -         |    -8.38 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|            8 |     1772 | 2024-05-25 | Carnival    | W   | 0.725      | 0.262        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.52 | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi  |
+|            7 |     2501 | 2024-04-29 | Carnival    | W   | 0.545      | 0.262        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     5.15 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|            6 |     3286 | 2024-03-31 | Gods Reign  | L   | 0.352      | -            | -                | -                | -         |    -4.13 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|            5 |     3292 | 2024-03-30 | Marcos      | W   | 0.345      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | 0 (0.000) |     4.31 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|            4 |     3300 | 2024-03-29 | Grayfox     | W   | 0.340      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 0 (0.000) |     3.94 | Crazy_Gamer, DEFAULTER, Gh0sTTTT, Mcg!LLzZz, Rossi |
+|            3 |     3395 | 2024-03-23 | Marcos      | L   | 0.305      | -            | -                | -                | -         |    -5.78 | Anasasis, Crazy_Gamer, DEFAULTER, Mcg!LLzZz, Rossi |
+|            2 |     4351 | 2024-02-10 | Marcos      | L   | 0.025      | -            | -                | -                | -         |    -0.47 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
+|            1 |     4366 | 2024-02-09 | Marcos      | W   | 0.018      | 0.435        | 0.002 (0.000)    | 0.002 (0.000)    | 1 (0.018) |     0.22 | DEFAULTER, Gh0sTTTT, kennyS, Mcg!LLzZz, Rossi      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,730.47)
-- Divide that value by the 5th highest value among all rosters ($323,321.90)
+- First, take the sum of their top 10 scaled winnings ($1,683.81)
+- Divide that value by the 5th highest value among all rosters ($322,333.56)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-30 |      0.962 | $500.00        | $480.88         |
-| 2024-05-26 |      0.729 | $500.00        | $364.43         |
-| 2024-04-29 |      0.548 | $1,000.00      | $548.50         |
-| 2024-02-10 |      0.028 | $12,000.00     | $336.67         |
+| 2024-06-30 |      0.958 | $500.00        | $479.21         |
+| 2024-05-26 |      0.726 | $500.00        | $362.77         |
+| 2024-04-29 |      0.545 | $1,000.00      | $545.16         |
+| 2024-02-10 |      0.025 | $12,000.00     | $296.67         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
