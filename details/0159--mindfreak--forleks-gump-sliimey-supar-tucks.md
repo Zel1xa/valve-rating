@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.009[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.130<br />
+The average of these factors is 0.129<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
 - 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 666.4
-- 400 + ( ( 0.130 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 666.4
+- 400 + ( ( 0.129 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 666.4
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3030 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.30 | Forleks, gump, Sliimey, supar, tucks |
-|           11 |     3034 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.53 | Forleks, gump, Sliimey, supar, tucks |
-|           10 |     3260 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.15 | Forleks, gump, Sliimey, supar, tucks |
-|            9 |     3265 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.23 | Forleks, gump, Sliimey, supar, tucks |
-|            8 |     3389 | 2024-03-27 | Bad News Kangaroos | W   | 0.319      | 0.333        | 0.016 (0.002)    | 0.217 (0.023)    | 0 (0.000) |     6.72 | Forleks, gump, Sliimey, supar, tucks |
-|            7 |     3394 | 2024-03-27 | Bad News Kangaroos | L   | 0.319      | -            | -                | -                | -         |    -3.36 | Forleks, gump, Sliimey, supar, tucks |
-|            6 |     3835 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.93 | Forleks, gump, Sliimey, supar, tucks |
-|            5 |     3841 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.95 | Forleks, gump, Sliimey, supar, tucks |
-|            4 |     4137 | 2024-02-21 | KZG                | W   | 0.086      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
-|            3 |     4142 | 2024-02-21 | KZG                | W   | 0.085      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
-|            2 |     4339 | 2024-02-13 | KZG                | L   | 0.038      | -            | -                | -                | -         |    -0.53 | deStiny, gump, Sliimey, supar, tucks |
-|            1 |     4362 | 2024-02-13 | DEMESIS            | W   | 0.032      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.18 | deStiny, gump, Sliimey, supar, tucks |
+|           12 |     3031 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.29 | Forleks, gump, Sliimey, supar, tucks |
+|           11 |     3035 | 2024-04-10 | DXA                | W   | 0.411      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.53 | Forleks, gump, Sliimey, supar, tucks |
+|           10 |     3261 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.15 | Forleks, gump, Sliimey, supar, tucks |
+|            9 |     3266 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.23 | Forleks, gump, Sliimey, supar, tucks |
+|            8 |     3390 | 2024-03-27 | Bad News Kangaroos | W   | 0.319      | 0.333        | 0.016 (0.002)    | 0.217 (0.023)    | 0 (0.000) |     6.72 | Forleks, gump, Sliimey, supar, tucks |
+|            7 |     3395 | 2024-03-27 | Bad News Kangaroos | L   | 0.318      | -            | -                | -                | -         |    -3.36 | Forleks, gump, Sliimey, supar, tucks |
+|            6 |     3836 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.92 | Forleks, gump, Sliimey, supar, tucks |
+|            5 |     3842 | 2024-03-06 | Rooster            | L   | 0.178      | -            | -                | -                | -         |    -1.95 | Forleks, gump, Sliimey, supar, tucks |
+|            4 |     4138 | 2024-02-21 | KZG                | W   | 0.085      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.47 | Forleks, gump, Sliimey, supar, tucks |
+|            3 |     4143 | 2024-02-21 | KZG                | W   | 0.085      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
+|            2 |     4340 | 2024-02-13 | KZG                | L   | 0.038      | -            | -                | -                | -         |    -0.53 | deStiny, gump, Sliimey, supar, tucks |
+|            1 |     4363 | 2024-02-13 | DEMESIS            | W   | 0.031      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.18 | deStiny, gump, Sliimey, supar, tucks |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,135.17)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($1,134.78)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

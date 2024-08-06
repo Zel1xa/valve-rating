@@ -6,16 +6,16 @@ Global Rank: [139](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [37]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  757.8<br />
+Final Rank Value:  757.7<br />
 <br />
-Final Rank Value (757.8) = Starting Rank Value (837.3) + Head To Head Adjustments (-79.6)<br />
+Final Rank Value (757.7) = Starting Rank Value (837.3) + Head To Head Adjustments (-79.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.343[<sup>1</sup>](#table2)
 - Bounty Collected: 0.312[<sup>2</sup>](#table1)
 - Opponent Network: 0.107[<sup>2</sup>](#table1)
-- LAN Wins: 0.089[<sup>2</sup>](#table1)
+- LAN Wins: 0.088[<sup>2</sup>](#table1)
 
 The average of these factors is 0.213<br />
 <br />
@@ -37,77 +37,77 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           56 |       19 | 2024-08-05 | jahsdnmasjdm     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.51 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           55 |      178 | 2024-07-31 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -13.22 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           54 |      183 | 2024-07-31 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -14.42 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           53 |      274 | 2024-07-29 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -19.48 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           52 |      399 | 2024-07-25 | DETONATE         | L   | 1.000      | -            | -                | -                | -         |   -25.98 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           51 |      425 | 2024-07-24 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |     9.59 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           50 |      428 | 2024-07-24 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |    10.35 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           49 |      548 | 2024-07-20 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -8.79 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           48 |      682 | 2024-07-17 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -16.32 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           47 |      689 | 2024-07-17 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -17.82 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           46 |      750 | 2024-07-16 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -17.94 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           45 |      756 | 2024-07-16 | Wildcard         | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.231 (0.110)    | 0 (0.000) |    13.36 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           44 |      797 | 2024-07-15 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    20.24 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           43 |      801 | 2024-07-15 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    21.89 | Experative, nicx, Nyyx, ogwizard, Weeza |
-|           42 |     1138 | 2024-06-13 | Mythic           | L   | 0.843      | -            | -                | -                | -         |   -13.59 | based, Experative, nicx, Nyyx, ogwizard |
-|           41 |     1310 | 2024-06-08 | Homyno           | W   | 0.809      | 0.371        | 0.007 (0.002)    | -                | 0 (0.000) |     8.70 | based, Experative, nicx, Nyyx, ogwizard |
-|           40 |     1365 | 2024-06-07 | Wildcard         | L   | 0.803      | -            | -                | -                | -         |    -8.63 | based, Experative, nicx, Nyyx, ogwizard |
-|           39 |     1447 | 2024-06-06 | Vibe             | W   | 0.794      | -            | -                | -                | -         |     2.29 | based, Experative, nicx, Nyyx, ogwizard |
-|           38 |     1489 | 2024-06-05 | NRG              | L   | 0.790      | -            | -                | -                | -         |   -10.02 | based, Experative, nicx, Nyyx, ogwizard |
-|           37 |     1499 | 2024-06-05 | Limitless        | W   | 0.789      | -            | -                | -                | -         |    10.39 | based, Experative, nicx, Nyyx, ogwizard |
-|           36 |     1541 | 2024-06-04 | Limitless        | W   | 0.783      | -            | -                | -                | -         |    11.05 | based, Experative, nicx, Nyyx, ogwizard |
-|           35 |     1551 | 2024-06-04 | Retirement Home  | W   | 0.782      | -            | -                | -                | -         |     2.23 | based, Experative, nicx, Nyyx, ogwizard |
-|           34 |     1856 | 2024-05-22 | Limitless        | W   | 0.696      | -            | -                | -                | -         |     5.54 | based, Experative, nicx, Nyyx, ogwizard |
-|           33 |     1859 | 2024-05-22 | Limitless        | W   | 0.696      | -            | -                | -                | -         |     5.81 | based, Experative, nicx, Nyyx, ogwizard |
-|           32 |     1864 | 2024-05-22 | Wildcard         | L   | 0.696      | -            | -                | -                | -         |    -7.52 | based, Experative, nicx, Nyyx, ogwizard |
-|           31 |     2107 | 2024-05-15 | NRG              | L   | 0.650      | -            | -                | -                | -         |    -7.28 | based, Experative, nicx, Nyyx, ogwizard |
-|           30 |     2114 | 2024-05-15 | NRG              | L   | 0.649      | -            | -                | -                | -         |    -7.68 | based, Experative, nicx, Nyyx, ogwizard |
-|           29 |     2160 | 2024-05-14 | Limitless        | W   | 0.643      | -            | -                | -                | -         |     8.47 | based, Experative, nicx, Nyyx, ogwizard |
-|           28 |     2166 | 2024-05-14 | Limitless        | L   | 0.643      | -            | -                | -                | -         |   -12.08 | based, Experative, nicx, Nyyx, ogwizard |
-|           27 |     2301 | 2024-05-09 | M80              | L   | 0.610      | -            | -                | -                | -         |    -1.69 | based, Experative, nicx, Nyyx, ogwizard |
-|           26 |     2306 | 2024-05-09 | M80              | L   | 0.609      | -            | -                | -                | -         |    -1.72 | based, Experative, nicx, Nyyx, ogwizard |
-|           25 |     2321 | 2024-05-08 | Party Astronauts | L   | 0.603      | -            | -                | -                | -         |    -6.66 | based, Experative, nicx, Nyyx, ogwizard |
-|           24 |     2326 | 2024-05-08 | Party Astronauts | L   | 0.603      | -            | -                | -                | -         |    -7.00 | based, Experative, nicx, Nyyx, ogwizard |
-|           23 |     2988 | 2024-04-10 | Mythic           | W   | 0.416      | 0.477        | 0.010 (0.002)    | 0.285 (0.057)    | -         |     5.47 | based, Experative, nicx, Nyyx, ogwizard |
-|           22 |     2993 | 2024-04-10 | Mythic           | W   | 0.416      | 0.477        | -                | 0.285 (0.057)    | -         |     5.67 | based, Experative, nicx, Nyyx, ogwizard |
-|           21 |     3044 | 2024-04-09 | BOSS             | L   | 0.410      | -            | -                | -                | -         |    -6.93 | based, Experative, nicx, Nyyx, ogwizard |
-|           20 |     3047 | 2024-04-09 | BOSS             | L   | 0.409      | -            | -                | -                | -         |    -7.18 | based, Experative, nicx, Nyyx, ogwizard |
-|           19 |     3175 | 2024-04-04 | Nouns            | W   | 0.376      | 0.477        | 0.057 (0.010)    | 0.541 (0.097)    | -         |     7.23 | based, Experative, nicx, Nyyx, ogwizard |
-|           18 |     3179 | 2024-04-04 | Nouns            | L   | 0.376      | -            | -                | -                | -         |    -4.70 | based, Experative, nicx, Nyyx, ogwizard |
-|           17 |     3221 | 2024-04-03 | Elevate          | L   | 0.370      | -            | -                | -                | -         |    -3.53 | based, Experative, nicx, Nyyx, ogwizard |
-|           16 |     3223 | 2024-04-03 | Elevate          | W   | 0.369      | 0.477        | 0.027 (0.005)    | 0.501 (0.088)    | -         |     8.28 | based, Experative, nicx, Nyyx, ogwizard |
-|           15 |     3397 | 2024-03-26 | Wildcard         | L   | 0.317      | -            | -                | -                | -         |    -4.49 | based, Experative, nicx, Nyyx, ogwizard |
-|           14 |     3402 | 2024-03-26 | Wildcard         | W   | 0.316      | 0.477        | 0.048 (0.007)    | 0.418 (0.063)    | -         |     5.59 | based, Experative, nicx, Nyyx, ogwizard |
-|           13 |     3482 | 2024-03-20 | Phoenix          | L   | 0.276      | -            | -                | -                | -         |    -5.70 | based, Experative, nicx, Nyyx, ogwizard |
-|           12 |     3484 | 2024-03-20 | Phoenix          | W   | 0.276      | -            | -                | -                | -         |     3.05 | based, Experative, nicx, Nyyx, ogwizard |
-|           11 |     3527 | 2024-03-17 | Akimbo           | W   | 0.257      | -            | -                | -                | 1 (0.257) |     3.17 | based, Experative, nicx, Nyyx, ogwizard |
-|           10 |     3529 | 2024-03-17 | Akimbo           | W   | 0.256      | -            | -                | -                | 1 (0.256) |     2.26 | based, Experative, nicx, Nyyx, ogwizard |
-|            9 |     3539 | 2024-03-17 | WICKED           | W   | 0.254      | -            | -                | -                | 1 (0.254) |     1.62 | based, Experative, nicx, Nyyx, ogwizard |
-|            8 |     3777 | 2024-03-07 | FLUFFY AIMERS    | W   | 0.190      | -            | -                | -                | -         |     2.42 | based, Experative, nicx, Nyyx, ogwizard |
-|            7 |     3778 | 2024-03-07 | FLUFFY AIMERS    | L   | 0.190      | -            | -                | -                | -         |    -3.62 | based, Experative, nicx, Nyyx, ogwizard |
-|            6 |     3805 | 2024-03-06 | MIGHT            | W   | 0.183      | -            | -                | -                | -         |     0.95 | based, Experative, nicx, Nyyx, ogwizard |
-|            5 |     3806 | 2024-03-06 | MIGHT            | L   | 0.183      | -            | -                | -                | -         |    -4.85 | based, Experative, nicx, Nyyx, ogwizard |
-|            4 |     3843 | 2024-03-05 | Take Flyte       | W   | 0.177      | -            | -                | -                | -         |     1.84 | based, Experative, nicx, Nyyx, ogwizard |
-|            3 |     3845 | 2024-03-05 | Take Flyte       | W   | 0.176      | -            | -                | -                | -         |     1.86 | based, Experative, nicx, Nyyx, ogwizard |
-|            2 |     4056 | 2024-02-24 | Limitless        | L   | 0.109      | -            | -                | -                | -         |    -2.51 | based, Experative, nicx, Nyyx, ogwizard |
-|            1 |     4246 | 2024-02-16 | FLUFFY AIMERS    | L   | 0.056      | -            | -                | -                | -         |    -1.07 | based, Experative, nicx, Nyyx, ogwizard |
+|           56 |       20 | 2024-08-05 | jahsdnmasjdm     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.52 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           55 |      179 | 2024-07-31 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -13.22 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           54 |      184 | 2024-07-31 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -14.42 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           53 |      275 | 2024-07-29 | Revenge Nation   | L   | 1.000      | -            | -                | -                | -         |   -19.48 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           52 |      400 | 2024-07-25 | DETONATE         | L   | 1.000      | -            | -                | -                | -         |   -25.98 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           51 |      426 | 2024-07-24 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |     9.59 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           50 |      429 | 2024-07-24 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |    10.35 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           49 |      549 | 2024-07-20 | Nouns            | L   | 1.000      | -            | -                | -                | -         |    -8.79 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           48 |      683 | 2024-07-17 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -16.32 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           47 |      690 | 2024-07-17 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -17.82 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           46 |      751 | 2024-07-16 | Wildcard         | L   | 1.000      | -            | -                | -                | -         |   -17.94 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           45 |      757 | 2024-07-16 | Wildcard         | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.231 (0.110)    | 0 (0.000) |    13.36 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           44 |      798 | 2024-07-15 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    20.24 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           43 |      802 | 2024-07-15 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    21.89 | Experative, nicx, Nyyx, ogwizard, Weeza |
+|           42 |     1139 | 2024-06-13 | Mythic           | L   | 0.842      | -            | -                | -                | -         |   -13.59 | based, Experative, nicx, Nyyx, ogwizard |
+|           41 |     1311 | 2024-06-08 | Homyno           | W   | 0.809      | 0.371        | 0.007 (0.002)    | -                | 0 (0.000) |     8.69 | based, Experative, nicx, Nyyx, ogwizard |
+|           40 |     1366 | 2024-06-07 | Wildcard         | L   | 0.802      | -            | -                | -                | -         |    -8.63 | based, Experative, nicx, Nyyx, ogwizard |
+|           39 |     1448 | 2024-06-06 | Vibe             | W   | 0.794      | -            | -                | -                | -         |     2.29 | based, Experative, nicx, Nyyx, ogwizard |
+|           38 |     1490 | 2024-06-05 | NRG              | L   | 0.789      | -            | -                | -                | -         |   -10.02 | based, Experative, nicx, Nyyx, ogwizard |
+|           37 |     1500 | 2024-06-05 | Limitless        | W   | 0.788      | -            | -                | -                | -         |    10.38 | based, Experative, nicx, Nyyx, ogwizard |
+|           36 |     1542 | 2024-06-04 | Limitless        | W   | 0.783      | -            | -                | -                | -         |    11.04 | based, Experative, nicx, Nyyx, ogwizard |
+|           35 |     1552 | 2024-06-04 | Retirement Home  | W   | 0.782      | -            | -                | -                | -         |     2.23 | based, Experative, nicx, Nyyx, ogwizard |
+|           34 |     1857 | 2024-05-22 | Limitless        | W   | 0.696      | -            | -                | -                | -         |     5.54 | based, Experative, nicx, Nyyx, ogwizard |
+|           33 |     1860 | 2024-05-22 | Limitless        | W   | 0.696      | -            | -                | -                | -         |     5.81 | based, Experative, nicx, Nyyx, ogwizard |
+|           32 |     1865 | 2024-05-22 | Wildcard         | L   | 0.695      | -            | -                | -                | -         |    -7.52 | based, Experative, nicx, Nyyx, ogwizard |
+|           31 |     2108 | 2024-05-15 | NRG              | L   | 0.649      | -            | -                | -                | -         |    -7.28 | based, Experative, nicx, Nyyx, ogwizard |
+|           30 |     2115 | 2024-05-15 | NRG              | L   | 0.649      | -            | -                | -                | -         |    -7.68 | based, Experative, nicx, Nyyx, ogwizard |
+|           29 |     2161 | 2024-05-14 | Limitless        | W   | 0.643      | -            | -                | -                | -         |     8.47 | based, Experative, nicx, Nyyx, ogwizard |
+|           28 |     2167 | 2024-05-14 | Limitless        | L   | 0.642      | -            | -                | -                | -         |   -12.07 | based, Experative, nicx, Nyyx, ogwizard |
+|           27 |     2302 | 2024-05-09 | M80              | L   | 0.609      | -            | -                | -                | -         |    -1.69 | based, Experative, nicx, Nyyx, ogwizard |
+|           26 |     2307 | 2024-05-09 | M80              | L   | 0.609      | -            | -                | -                | -         |    -1.72 | based, Experative, nicx, Nyyx, ogwizard |
+|           25 |     2322 | 2024-05-08 | Party Astronauts | L   | 0.603      | -            | -                | -                | -         |    -6.66 | based, Experative, nicx, Nyyx, ogwizard |
+|           24 |     2327 | 2024-05-08 | Party Astronauts | L   | 0.603      | -            | -                | -                | -         |    -6.99 | based, Experative, nicx, Nyyx, ogwizard |
+|           23 |     2989 | 2024-04-10 | Mythic           | W   | 0.416      | 0.477        | 0.010 (0.002)    | 0.285 (0.056)    | -         |     5.47 | based, Experative, nicx, Nyyx, ogwizard |
+|           22 |     2994 | 2024-04-10 | Mythic           | W   | 0.416      | 0.477        | -                | 0.285 (0.056)    | -         |     5.67 | based, Experative, nicx, Nyyx, ogwizard |
+|           21 |     3045 | 2024-04-09 | BOSS             | L   | 0.409      | -            | -                | -                | -         |    -6.92 | based, Experative, nicx, Nyyx, ogwizard |
+|           20 |     3048 | 2024-04-09 | BOSS             | L   | 0.409      | -            | -                | -                | -         |    -7.17 | based, Experative, nicx, Nyyx, ogwizard |
+|           19 |     3176 | 2024-04-04 | Nouns            | W   | 0.376      | 0.477        | 0.057 (0.010)    | 0.541 (0.097)    | -         |     7.22 | based, Experative, nicx, Nyyx, ogwizard |
+|           18 |     3180 | 2024-04-04 | Nouns            | L   | 0.376      | -            | -                | -                | -         |    -4.70 | based, Experative, nicx, Nyyx, ogwizard |
+|           17 |     3222 | 2024-04-03 | Elevate          | L   | 0.369      | -            | -                | -                | -         |    -3.53 | based, Experative, nicx, Nyyx, ogwizard |
+|           16 |     3224 | 2024-04-03 | Elevate          | W   | 0.369      | 0.477        | 0.027 (0.005)    | 0.501 (0.088)    | -         |     8.27 | based, Experative, nicx, Nyyx, ogwizard |
+|           15 |     3398 | 2024-03-26 | Wildcard         | L   | 0.316      | -            | -                | -                | -         |    -4.48 | based, Experative, nicx, Nyyx, ogwizard |
+|           14 |     3403 | 2024-03-26 | Wildcard         | W   | 0.316      | 0.477        | 0.048 (0.007)    | 0.418 (0.063)    | -         |     5.59 | based, Experative, nicx, Nyyx, ogwizard |
+|           13 |     3483 | 2024-03-20 | Phoenix          | L   | 0.276      | -            | -                | -                | -         |    -5.69 | based, Experative, nicx, Nyyx, ogwizard |
+|           12 |     3485 | 2024-03-20 | Phoenix          | W   | 0.276      | -            | -                | -                | -         |     3.04 | based, Experative, nicx, Nyyx, ogwizard |
+|           11 |     3528 | 2024-03-17 | Akimbo           | W   | 0.256      | -            | -                | -                | 1 (0.256) |     3.17 | based, Experative, nicx, Nyyx, ogwizard |
+|           10 |     3530 | 2024-03-17 | Akimbo           | W   | 0.255      | -            | -                | -                | 1 (0.255) |     2.25 | based, Experative, nicx, Nyyx, ogwizard |
+|            9 |     3540 | 2024-03-17 | WICKED           | W   | 0.254      | -            | -                | -                | 1 (0.254) |     1.62 | based, Experative, nicx, Nyyx, ogwizard |
+|            8 |     3778 | 2024-03-07 | FLUFFY AIMERS    | W   | 0.190      | -            | -                | -                | -         |     2.41 | based, Experative, nicx, Nyyx, ogwizard |
+|            7 |     3779 | 2024-03-07 | FLUFFY AIMERS    | L   | 0.189      | -            | -                | -                | -         |    -3.61 | based, Experative, nicx, Nyyx, ogwizard |
+|            6 |     3806 | 2024-03-06 | MIGHT            | W   | 0.183      | -            | -                | -                | -         |     0.95 | based, Experative, nicx, Nyyx, ogwizard |
+|            5 |     3807 | 2024-03-06 | MIGHT            | L   | 0.183      | -            | -                | -                | -         |    -4.84 | based, Experative, nicx, Nyyx, ogwizard |
+|            4 |     3844 | 2024-03-05 | Take Flyte       | W   | 0.176      | -            | -                | -                | -         |     1.84 | based, Experative, nicx, Nyyx, ogwizard |
+|            3 |     3846 | 2024-03-05 | Take Flyte       | W   | 0.176      | -            | -                | -                | -         |     1.86 | based, Experative, nicx, Nyyx, ogwizard |
+|            2 |     4057 | 2024-02-24 | Limitless        | L   | 0.109      | -            | -                | -                | -         |    -2.51 | based, Experative, nicx, Nyyx, ogwizard |
+|            1 |     4247 | 2024-02-16 | FLUFFY AIMERS    | L   | 0.055      | -            | -                | -                | -         |    -1.06 | based, Experative, nicx, Nyyx, ogwizard |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,859.17)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($3,856.81)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.816 | $3,000.00      | $2,447.50       |
-| 2024-03-17 |      0.257 | $5,500.00      | $1,411.67       |
+| 2024-06-09 |      0.816 | $3,000.00      | $2,446.67       |
+| 2024-03-17 |      0.256 | $5,500.00      | $1,410.14       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

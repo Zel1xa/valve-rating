@@ -8,7 +8,7 @@ Regional Rank: [19]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  1315.1<br />
 <br />
-Final Rank Value (1315.1) = Starting Rank Value (1310.5) + Head To Head Adjustments (4.7)<br />
+Final Rank Value (1315.1) = Starting Rank Value (1310.4) + Head To Head Adjustments (4.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.443<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1310.5
-- 400 + ( ( 0.443 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1310.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1310.4
+- 400 + ( ( 0.443 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1310.4
 
 
 #### Factors<br />
@@ -37,47 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |      113 | 2024-08-02 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -0.97 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           33 |      150 | 2024-08-01 | Virtus.pro    | W   | 1.000      | 0.581        | 0.499 (0.290)    | 0.308 (0.179)    | 1 (1.000) |    27.81 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           32 |      208 | 2024-07-31 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -0.72 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
-|           31 |     1092 | 2024-06-15 | Permitta      | L   | 0.851      | -            | -                | -                | -         |   -23.48 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           30 |     1120 | 2024-06-14 | Space         | W   | 0.846      | 0.435        | -                | 0.429 (0.158)    | 0 (0.000) |     2.31 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           29 |     1439 | 2024-06-06 | fnatic        | L   | 0.794      | -            | -                | -                | -         |    -7.49 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           28 |     1478 | 2024-06-06 | Eternal Fire  | L   | 0.792      | -            | -                | -                | -         |    -3.55 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           27 |     1502 | 2024-06-05 | BetBoom       | L   | 0.788      | -            | -                | -                | -         |   -10.77 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           26 |     1524 | 2024-06-05 | Complexity    | L   | 0.786      | -            | -                | -                | -         |    -3.34 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           25 |     1534 | 2024-06-05 | FURIA         | W   | 0.785      | 0.715        | 0.284 (0.160)    | 0.468 (0.263)    | 1 (0.785) |    19.78 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           24 |     1716 | 2024-05-29 | HEROIC        | L   | 0.742      | -            | -                | -                | -         |    -4.54 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           23 |     1727 | 2024-05-29 | Virtus.pro    | W   | 0.741      | 0.624        | 0.499 (0.230)    | 0.308 (0.143)    | 1 (0.741) |    20.39 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           22 |     1743 | 2024-05-28 | FlyQuest      | W   | 0.735      | 0.624        | 0.104 (0.048)    | 0.277 (0.127)    | 1 (0.735) |     8.65 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           21 |     1767 | 2024-05-27 | Natus Vincere | L   | 0.728      | -            | -                | -                | -         |    -0.57 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           20 |     1963 | 2024-05-20 | MIBR          | L   | 0.679      | -            | -                | -                | -         |    -6.77 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           19 |     1978 | 2024-05-19 | Astralis      | L   | 0.674      | -            | -                | -                | -         |    -1.63 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           18 |     2356 | 2024-05-07 | G2            | L   | 0.593      | -            | -                | -                | -         |    -0.49 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           17 |     2420 | 2024-05-03 | HEROIC        | W   | 0.567      | 0.889        | 0.224 (0.113)    | 0.354 (0.179)    | 1 (0.567) |    14.70 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           16 |     2430 | 2024-05-03 | PERA          | W   | 0.566      | 0.889        | 0.047 (0.024)    | 0.435 (0.219)    | 1 (0.566) |     2.09 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           15 |     2457 | 2024-05-02 | Natus Vincere | L   | 0.559      | -            | -                | -                | -         |    -0.36 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           14 |     2479 | 2024-05-01 | BOSS          | W   | 0.552      | 0.889        | -                | 0.319 (0.156)    | 1 (0.552) |     1.22 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           13 |     2692 | 2024-04-21 | BLEED         | L   | 0.486      | -            | -                | -                | -         |   -12.47 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           12 |     2718 | 2024-04-20 | GamerLegion   | W   | 0.480      | 0.384        | 0.173 (0.032)    | -                | 0 (0.000) |     4.07 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           11 |     2828 | 2024-04-18 | LEON          | W   | 0.465      | -            | -                | -                | 0 (0.000) |     0.51 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|           10 |     2937 | 2024-04-13 | OG            | L   | 0.432      | -            | -                | -                | -         |   -11.18 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            9 |     2946 | 2024-04-12 | FORZE         | W   | 0.427      | 0.684        | 0.057 (0.017)    | -                | -         |     1.53 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            8 |     3017 | 2024-04-10 | Gods Reign    | W   | 0.414      | 0.684        | 0.040 (0.011)    | 0.195 (0.055)    | -         |     0.70 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            7 |     3079 | 2024-04-09 | BetBoom       | L   | 0.406      | -            | -                | -                | -         |    -4.76 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            6 |     3254 | 2024-04-03 | EYEBALLERS    | W   | 0.366      | 0.384        | -                | 0.488 (0.069)    | -         |     1.12 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            5 |     3736 | 2024-03-09 | Spirit        | L   | 0.201      | -            | -                | -                | -         |    -0.21 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            4 |     3767 | 2024-03-08 | GamerLegion   | W   | 0.194      | -            | -                | -                | -         |     0.30 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            3 |     3897 | 2024-03-03 | Young Ninjas  | L   | 0.161      | -            | -                | -                | -         |    -4.85 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            2 |     3957 | 2024-03-01 | AMKAL         | W   | 0.145      | 0.500        | 0.130 (0.009)    | -                | -         |     1.31 | JDC, Krimbo, prosus, syrsoN, tabseN |
-|            1 |     3984 | 2024-02-28 | BLEED         | L   | 0.132      | -            | -                | -                | -         |    -3.65 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           34 |      114 | 2024-08-02 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -0.97 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           33 |      151 | 2024-08-01 | Virtus.pro    | W   | 1.000      | 0.581        | 0.499 (0.290)    | 0.308 (0.179)    | 1 (1.000) |    27.81 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           32 |      209 | 2024-07-31 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -0.72 | JDC, Krimbo, rigoN, syrsoN, tabseN  |
+|           31 |     1093 | 2024-06-15 | Permitta      | L   | 0.851      | -            | -                | -                | -         |   -23.47 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           30 |     1121 | 2024-06-14 | Space         | W   | 0.846      | 0.435        | -                | 0.429 (0.158)    | 0 (0.000) |     2.31 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           29 |     1440 | 2024-06-06 | fnatic        | L   | 0.794      | -            | -                | -                | -         |    -7.49 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           28 |     1479 | 2024-06-06 | Eternal Fire  | L   | 0.792      | -            | -                | -                | -         |    -3.55 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           27 |     1503 | 2024-06-05 | BetBoom       | L   | 0.787      | -            | -                | -                | -         |   -10.77 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           26 |     1525 | 2024-06-05 | Complexity    | L   | 0.786      | -            | -                | -                | -         |    -3.34 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           25 |     1535 | 2024-06-05 | FURIA         | W   | 0.785      | 0.715        | 0.284 (0.160)    | 0.468 (0.263)    | 1 (0.785) |    19.78 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           24 |     1717 | 2024-05-29 | HEROIC        | L   | 0.742      | -            | -                | -                | -         |    -4.54 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           23 |     1728 | 2024-05-29 | Virtus.pro    | W   | 0.740      | 0.624        | 0.499 (0.230)    | 0.308 (0.143)    | 1 (0.740) |    20.38 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           22 |     1744 | 2024-05-28 | FlyQuest      | W   | 0.734      | 0.624        | 0.104 (0.048)    | 0.277 (0.127)    | 1 (0.734) |     8.64 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           21 |     1768 | 2024-05-27 | Natus Vincere | L   | 0.728      | -            | -                | -                | -         |    -0.57 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           20 |     1964 | 2024-05-20 | MIBR          | L   | 0.679      | -            | -                | -                | -         |    -6.77 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           19 |     1979 | 2024-05-19 | Astralis      | L   | 0.674      | -            | -                | -                | -         |    -1.63 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           18 |     2357 | 2024-05-07 | G2            | L   | 0.593      | -            | -                | -                | -         |    -0.49 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           17 |     2421 | 2024-05-03 | HEROIC        | W   | 0.567      | 0.889        | 0.224 (0.113)    | 0.354 (0.179)    | 1 (0.567) |    14.69 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           16 |     2431 | 2024-05-03 | PERA          | W   | 0.565      | 0.889        | 0.047 (0.024)    | 0.435 (0.219)    | 1 (0.565) |     2.09 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           15 |     2458 | 2024-05-02 | Natus Vincere | L   | 0.559      | -            | -                | -                | -         |    -0.36 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           14 |     2480 | 2024-05-01 | BOSS          | W   | 0.552      | 0.889        | -                | 0.319 (0.156)    | 1 (0.552) |     1.22 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           13 |     2693 | 2024-04-21 | BLEED         | L   | 0.485      | -            | -                | -                | -         |   -12.46 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           12 |     2719 | 2024-04-20 | GamerLegion   | W   | 0.479      | 0.384        | 0.173 (0.032)    | -                | 0 (0.000) |     4.06 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           11 |     2829 | 2024-04-18 | LEON          | W   | 0.465      | -            | -                | -                | 0 (0.000) |     0.51 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|           10 |     2938 | 2024-04-13 | OG            | L   | 0.432      | -            | -                | -                | -         |   -11.18 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            9 |     2947 | 2024-04-12 | FORZE         | W   | 0.427      | 0.684        | 0.057 (0.017)    | -                | -         |     1.53 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            8 |     3018 | 2024-04-10 | Gods Reign    | W   | 0.414      | 0.684        | 0.040 (0.011)    | 0.195 (0.055)    | -         |     0.70 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            7 |     3080 | 2024-04-09 | BetBoom       | L   | 0.406      | -            | -                | -                | -         |    -4.76 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            6 |     3255 | 2024-04-03 | EYEBALLERS    | W   | 0.366      | 0.384        | -                | 0.488 (0.069)    | -         |     1.11 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            5 |     3737 | 2024-03-09 | Spirit        | L   | 0.201      | -            | -                | -                | -         |    -0.21 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            4 |     3768 | 2024-03-08 | GamerLegion   | W   | 0.193      | -            | -                | -                | -         |     0.30 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            3 |     3898 | 2024-03-03 | Young Ninjas  | L   | 0.161      | -            | -                | -                | -         |    -4.84 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            2 |     3958 | 2024-03-01 | AMKAL         | W   | 0.145      | 0.500        | 0.130 (0.009)    | -                | -         |     1.31 | JDC, Krimbo, prosus, syrsoN, tabseN |
+|            1 |     3985 | 2024-02-28 | BLEED         | L   | 0.132      | -            | -                | -                | -         |    -3.65 | JDC, Krimbo, prosus, syrsoN, tabseN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($49,252.88)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($49,231.77)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.15) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -85,12 +85,12 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $8,500.00      | $8,500.00       |
-| 2024-06-16 |      0.860 | $2,000.00      | $1,720.56       |
-| 2024-06-09 |      0.813 | $8,000.00      | $6,506.67       |
-| 2024-06-02 |      0.767 | $6,000.00      | $4,605.00       |
-| 2024-05-12 |      0.627 | $17,500.00     | $10,966.67      |
-| 2024-04-14 |      0.440 | $35,000.00     | $15,395.14      |
-| 2024-03-10 |      0.208 | $7,500.00      | $1,558.85       |
+| 2024-06-16 |      0.860 | $2,000.00      | $1,720.00       |
+| 2024-06-09 |      0.813 | $8,000.00      | $6,504.44       |
+| 2024-06-02 |      0.767 | $6,000.00      | $4,603.33       |
+| 2024-05-12 |      0.626 | $17,500.00     | $10,961.81      |
+| 2024-04-14 |      0.440 | $35,000.00     | $15,385.42      |
+| 2024-03-10 |      0.208 | $7,500.00      | $1,556.77       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

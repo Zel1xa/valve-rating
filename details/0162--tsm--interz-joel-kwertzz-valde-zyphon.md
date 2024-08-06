@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2749 | 2024-04-19 | Sangal         | L   | 0.474      | -            | -                | -                | -         |    -1.03 | interz, joel, KWERTZZ, valde, Zyphon |
-|           10 |     3011 | 2024-04-10 | FORZE          | L   | 0.414      | -            | -                | -                | -         |    -2.56 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            9 |     3070 | 2024-04-09 | Betera         | W   | 0.407      | 0.500        | 0.005 (0.001)    | 0.036 (0.007)    | 0 (0.000) |     7.02 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            8 |     3199 | 2024-04-04 | 9 Pandas       | L   | 0.374      | -            | -                | -                | -         |    -1.52 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            7 |     3278 | 2024-04-02 | KOI            | L   | 0.361      | -            | -                | -                | -         |    -1.14 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            6 |     3336 | 2024-03-28 | 9INE           | W   | 0.328      | 0.500        | 0.000 (0.000)    | 0.064 (0.011)    | 0 (0.000) |     3.16 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            5 |     3497 | 2024-03-20 | VP.Prodigy     | L   | 0.272      | -            | -                | -                | -         |    -2.19 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            4 |     3611 | 2024-03-14 | EYEBALLERS     | W   | 0.234      | 0.500        | 0.005 (0.001)    | 0.488 (0.057)    | 0 (0.000) |     5.80 | interz, joel, MoDo, valde, Zyphon    |
-|            3 |     3818 | 2024-03-06 | Sangal         | L   | 0.181      | -            | -                | -                | -         |    -0.35 | interz, JACKZ, joel, poizon, valde   |
-|            2 |     3900 | 2024-03-03 | The Chosen Few | L   | 0.161      | -            | -                | -                | -         |    -2.54 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            1 |     3911 | 2024-03-03 | Nexus          | W   | 0.161      | 0.143        | 0.014 (0.000)    | 0.447 (0.010)    | 0 (0.000) |     3.64 | joel, KWERTZZ, poizon, valde, Zyphon |
+|           11 |     2750 | 2024-04-19 | Sangal         | L   | 0.474      | -            | -                | -                | -         |    -1.03 | interz, joel, KWERTZZ, valde, Zyphon |
+|           10 |     3012 | 2024-04-10 | FORZE          | L   | 0.414      | -            | -                | -                | -         |    -2.56 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            9 |     3071 | 2024-04-09 | Betera         | W   | 0.407      | 0.500        | 0.005 (0.001)    | 0.036 (0.007)    | 0 (0.000) |     7.01 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            8 |     3200 | 2024-04-04 | 9 Pandas       | L   | 0.374      | -            | -                | -                | -         |    -1.52 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            7 |     3279 | 2024-04-02 | KOI            | L   | 0.361      | -            | -                | -                | -         |    -1.14 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            6 |     3337 | 2024-03-28 | 9INE           | W   | 0.328      | 0.500        | 0.000 (0.000)    | 0.064 (0.010)    | 0 (0.000) |     3.16 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            5 |     3498 | 2024-03-20 | VP.Prodigy     | L   | 0.272      | -            | -                | -                | -         |    -2.19 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            4 |     3612 | 2024-03-14 | EYEBALLERS     | W   | 0.234      | 0.500        | 0.005 (0.001)    | 0.488 (0.057)    | 0 (0.000) |     5.79 | interz, joel, MoDo, valde, Zyphon    |
+|            3 |     3819 | 2024-03-06 | Sangal         | L   | 0.181      | -            | -                | -                | -         |    -0.35 | interz, JACKZ, joel, poizon, valde   |
+|            2 |     3901 | 2024-03-03 | The Chosen Few | L   | 0.161      | -            | -                | -                | -         |    -2.54 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            1 |     3912 | 2024-03-03 | Nexus          | W   | 0.160      | 0.143        | 0.014 (0.000)    | 0.447 (0.010)    | 0 (0.000) |     3.63 | joel, KWERTZZ, poizon, valde, Zyphon |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,627.08)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($1,626.53)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

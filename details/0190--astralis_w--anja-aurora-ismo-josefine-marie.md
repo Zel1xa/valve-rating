@@ -8,7 +8,7 @@ Regional Rank: [120]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  603.3<br />
 <br />
-Final Rank Value (603.3) = Starting Rank Value (621.1) + Head To Head Adjustments (-17.8)<br />
+Final Rank Value (603.3) = Starting Rank Value (621.0) + Head To Head Adjustments (-17.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.107<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 621.1
-- 400 + ( ( 0.107 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 621.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 621.0
+- 400 + ( ( 0.107 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 621.0
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     2752 | 2024-04-19 | ENCE Athena       | L   | 0.474      | -            | -                | -                | -         |    -6.99 | anja, aurora, Ismo, josefine, marie |
-|           11 |     2921 | 2024-04-14 | NAVI Javelins     | L   | 0.440      | -            | -                | -                | -         |    -3.33 | anja, aurora, Ismo, josefine, marie |
-|           10 |     2930 | 2024-04-13 | NIP Impact        | L   | 0.434      | -            | -                | -                | -         |    -4.71 | anja, aurora, Ismo, josefine, marie |
-|            9 |     2949 | 2024-04-12 | Permitta W        | W   | 0.426      | 0.303        | 0.000 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     4.67 | anja, aurora, Ismo, josefine, marie |
-|            8 |     2969 | 2024-04-11 | Imperial fe       | L   | 0.421      | -            | -                | -                | -         |    -1.10 | anja, aurora, Ismo, josefine, marie |
-|            7 |     3018 | 2024-04-10 | Imperial fe       | L   | 0.414      | -            | -                | -                | -         |    -1.10 | anja, aurora, Ismo, josefine, marie |
-|            6 |     3101 | 2024-04-08 | Permitta W        | W   | 0.400      | 0.303        | 0.000 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     4.35 | anja, aurora, Ismo, josefine, marie |
-|            5 |     3244 | 2024-04-03 | NIP Impact        | L   | 0.367      | -            | -                | -                | -         |    -4.32 | anja, aurora, Ismo, josefine, marie |
-|            4 |     3463 | 2024-03-21 | Astralis W        | L   | 0.281      | -            | -                | -                | -         |    -3.97 | anja, aurora, Ismo, josefine, marie |
-|            3 |     3820 | 2024-03-06 | BIG EQUIPA        | L   | 0.181      | -            | -                | -                | -         |    -1.72 | anja, aurora, Ismo, josefine, marie |
-|            2 |     4200 | 2024-02-18 | dream catchers fe | W   | 0.068      | 0.143        | 0.016 (0.000)    | 0.167 (0.002)    | 0 (0.000) |     1.35 | anja, aurora, Ismo, josefine, marie |
-|            1 |     4203 | 2024-02-18 | Spirit fe         | L   | 0.067      | -            | -                | -                | -         |    -0.93 | anja, aurora, Ismo, josefine, marie |
+|           12 |     2753 | 2024-04-19 | ENCE Athena       | L   | 0.474      | -            | -                | -                | -         |    -6.99 | anja, aurora, Ismo, josefine, marie |
+|           11 |     2922 | 2024-04-14 | NAVI Javelins     | L   | 0.439      | -            | -                | -                | -         |    -3.33 | anja, aurora, Ismo, josefine, marie |
+|           10 |     2931 | 2024-04-13 | NIP Impact        | L   | 0.433      | -            | -                | -                | -         |    -4.71 | anja, aurora, Ismo, josefine, marie |
+|            9 |     2950 | 2024-04-12 | Permitta W        | W   | 0.426      | 0.303        | 0.000 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     4.67 | anja, aurora, Ismo, josefine, marie |
+|            8 |     2970 | 2024-04-11 | Imperial fe       | L   | 0.420      | -            | -                | -                | -         |    -1.10 | anja, aurora, Ismo, josefine, marie |
+|            7 |     3019 | 2024-04-10 | Imperial fe       | L   | 0.413      | -            | -                | -                | -         |    -1.10 | anja, aurora, Ismo, josefine, marie |
+|            6 |     3102 | 2024-04-08 | Permitta W        | W   | 0.400      | 0.303        | 0.000 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     4.34 | anja, aurora, Ismo, josefine, marie |
+|            5 |     3245 | 2024-04-03 | NIP Impact        | L   | 0.367      | -            | -                | -                | -         |    -4.31 | anja, aurora, Ismo, josefine, marie |
+|            4 |     3464 | 2024-03-21 | Astralis W        | L   | 0.281      | -            | -                | -                | -         |    -3.97 | anja, aurora, Ismo, josefine, marie |
+|            3 |     3821 | 2024-03-06 | BIG EQUIPA        | L   | 0.181      | -            | -                | -                | -         |    -1.71 | anja, aurora, Ismo, josefine, marie |
+|            2 |     4201 | 2024-02-18 | dream catchers fe | W   | 0.068      | 0.143        | 0.016 (0.000)    | 0.167 (0.002)    | 0 (0.000) |     1.35 | anja, aurora, Ismo, josefine, marie |
+|            1 |     4204 | 2024-02-18 | Spirit fe         | L   | 0.067      | -            | -                | -                | -         |    -0.93 | anja, aurora, Ismo, josefine, marie |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($414.26)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($414.02)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

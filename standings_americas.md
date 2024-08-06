@@ -10,7 +10,7 @@
 | 5        |   1421 | paiN              | biguzera, kauez, lux, nqz, snow                  | [details](details/0019--pain--biguzera-kauez-lux-nqz-snow.md)                          |
 | 6        |   1313 | MIBR              | brnz4n, drop, exit, insani, saffee               | [details](details/0025--mibr--brnz4n-drop-exit-insani-saffee.md)                       |
 | 7        |   1270 | M80               | Lake, reck, s1n, slaxz-, Swisher                 | [details](details/0027--m80--lake-reck-s1n-slaxz--swisher.md)                          |
-| 8        |   1223 | Imperial          | decenty, felps, noway, try, VINI                 | [details](details/0030--imperial--decenty-felps-noway-try-vini.md)                     |
+| 8        |   1222 | Imperial          | decenty, felps, noway, try, VINI                 | [details](details/0030--imperial--decenty-felps-noway-try-vini.md)                     |
 | 9        |   1141 | RED Canids        | coldzera, dav1deuS, HEN1, nython, venomzera      | [details](details/0038--red_canids--coldzera-dav1deus-hen1-nython-venomzera.md)        |
 | 10       |   1129 | Fluxo             | arT, chayJESUS, Lucaozy, nicks, zevy             | [details](details/0039--fluxo--art-chayjesus-lucaozy-nicks-zevy.md)                    |
 | 11       |   1112 | Legacy            | b4rtiN, dumau, latto, NEKIZ, saadzin             | [details](details/0042--legacy--b4rtin-dumau-latto-nekiz-saadzin.md)                   |

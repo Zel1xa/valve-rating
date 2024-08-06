@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |      103 | 2024-08-02 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -15.29 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           35 |      139 | 2024-08-01 | Bounty Hunters    | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.540 (0.077)    | 0 (0.000) |    19.91 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           34 |      146 | 2024-08-01 | W7M               | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.519 (0.074)    | 0 (0.000) |    15.72 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           33 |      206 | 2024-07-31 | Case              | L   | 1.000      | -            | -                | -                | -         |   -10.64 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           32 |      212 | 2024-07-31 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.25 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           31 |      234 | 2024-07-30 | MIBR              | W   | 1.000      | 0.450        | 0.208 (0.093)    | 0.633 (0.285)    | 0 (0.000) |    30.03 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           30 |      237 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -1.27 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           29 |      250 | 2024-07-30 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |    -6.07 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           28 |      471 | 2024-07-23 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.46 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           27 |      482 | 2024-07-23 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | 0.476 (0.176)    | 0 (0.000) |    20.06 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           26 |      528 | 2024-07-21 | 9z Academy        | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.067 (0.025)    | 0 (0.000) |     5.85 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           25 |      588 | 2024-07-19 | Case              | L   | 1.000      | -            | -                | -                | -         |   -10.67 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           24 |      631 | 2024-07-18 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.31 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           23 |      633 | 2024-07-18 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.32 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           22 |      693 | 2024-07-17 | Galorys           | W   | 1.000      | 0.450        | 0.030 (0.013)    | 0.530 (0.239)    | 0 (0.000) |    17.94 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           21 |      696 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -13.37 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           20 |      722 | 2024-07-17 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -5.80 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           19 |      758 | 2024-07-16 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -6.12 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           18 |      763 | 2024-07-16 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -6.48 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           17 |      768 | 2024-07-16 | KRÜ               | W   | 1.000      | 0.371        | 0.023 (0.008)    | 0.479 (0.177)    | 0 (0.000) |    19.50 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           16 |      806 | 2024-07-15 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.77 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           15 |      811 | 2024-07-15 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.92 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           14 |      861 | 2024-07-13 | Case              | L   | 1.000      | -            | -                | -                | -         |   -12.46 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           13 |      885 | 2024-07-11 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -11.95 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
-|           12 |      995 | 2024-06-28 | Vikings KR        | L   | 0.941      | -            | -                | -                | -         |   -15.53 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|           11 |     1006 | 2024-06-26 | Patins da Ferrari | L   | 0.927      | -            | -                | -                | -         |   -14.52 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|           10 |     1026 | 2024-06-17 | inSanitY          | L   | 0.869      | -            | -                | -                | -         |    -8.88 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            9 |     1341 | 2024-06-08 | paiN              | L   | 0.807      | -            | -                | -                | -         |    -1.58 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            8 |     1442 | 2024-06-06 | Vikings KR        | W   | 0.794      | 0.371        | 0.008 (0.002)    | 0.490 (0.144)    | 0 (0.000) |    10.53 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            7 |     1501 | 2024-06-05 | LA RUGONETA       | W   | 0.788      | 0.284        | 0.002 (0.001)    | -                | 1 (0.788) |     3.95 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            6 |     1603 | 2024-06-02 | 9z Academy        | W   | 0.768      | 0.371        | 0.000 (0.000)    | 0.067 (0.019)    | 0 (0.000) |     3.32 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            5 |     1672 | 2024-05-31 | FURIA Academy     | W   | 0.754      | 0.371        | -                | 0.102 (0.029)    | -         |     3.67 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            4 |     1717 | 2024-05-29 | Case              | L   | 0.742      | -            | -                | -                | -         |    -9.35 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            3 |     1776 | 2024-05-27 | Galorys           | L   | 0.727      | -            | -                | -                | -         |    -9.72 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
-|            2 |     4254 | 2024-02-16 | FURIA Academy     | L   | 0.054      | -            | -                | -                | -         |    -1.48 | alexer, guishu, KvNs, maxxkor, OwensinhoM  |
-|            1 |     4371 | 2024-02-12 | Case              | L   | 0.027      | -            | -                | -                | -         |    -0.33 | alexer, guishu, KvNs, maxxkor, OwensinhoM  |
+|           36 |      104 | 2024-08-02 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -15.29 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           35 |      140 | 2024-08-01 | Bounty Hunters    | W   | 1.000      | 0.143        | 0.022 (0.003)    | 0.540 (0.077)    | 0 (0.000) |    19.91 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           34 |      147 | 2024-08-01 | W7M               | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.520 (0.074)    | 0 (0.000) |    15.72 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           33 |      207 | 2024-07-31 | Case              | L   | 1.000      | -            | -                | -                | -         |   -10.65 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           32 |      213 | 2024-07-31 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.26 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           31 |      235 | 2024-07-30 | MIBR              | W   | 1.000      | 0.450        | 0.207 (0.093)    | 0.633 (0.285)    | 0 (0.000) |    30.03 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           30 |      238 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -1.27 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           29 |      251 | 2024-07-30 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |    -6.07 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           28 |      472 | 2024-07-23 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.47 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           27 |      483 | 2024-07-23 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | 0.476 (0.176)    | 0 (0.000) |    20.06 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           26 |      529 | 2024-07-21 | 9z Academy        | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.067 (0.025)    | 0 (0.000) |     5.85 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           25 |      589 | 2024-07-19 | Case              | L   | 1.000      | -            | -                | -                | -         |   -10.67 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           24 |      632 | 2024-07-18 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.31 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           23 |      634 | 2024-07-18 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.33 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           22 |      694 | 2024-07-17 | Galorys           | W   | 1.000      | 0.450        | 0.030 (0.013)    | 0.530 (0.239)    | 0 (0.000) |    17.94 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           21 |      697 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -13.37 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           20 |      723 | 2024-07-17 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -5.80 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           19 |      759 | 2024-07-16 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -6.12 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           18 |      764 | 2024-07-16 | inSanitY          | L   | 1.000      | -            | -                | -                | -         |    -6.48 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           17 |      769 | 2024-07-16 | KRÜ               | W   | 1.000      | 0.371        | 0.023 (0.008)    | 0.479 (0.177)    | 0 (0.000) |    19.50 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           16 |      807 | 2024-07-15 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.78 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           15 |      812 | 2024-07-15 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -3.92 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           14 |      862 | 2024-07-13 | Case              | L   | 1.000      | -            | -                | -                | -         |   -12.46 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           13 |      886 | 2024-07-11 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -11.95 | 1962, alexer, maxxkor, OwensinhoM, tom1jed |
+|           12 |      996 | 2024-06-28 | Vikings KR        | L   | 0.940      | -            | -                | -                | -         |   -15.53 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|           11 |     1007 | 2024-06-26 | Patins da Ferrari | L   | 0.927      | -            | -                | -                | -         |   -14.52 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|           10 |     1027 | 2024-06-17 | inSanitY          | L   | 0.869      | -            | -                | -                | -         |    -8.88 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            9 |     1342 | 2024-06-08 | paiN              | L   | 0.806      | -            | -                | -                | -         |    -1.58 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            8 |     1443 | 2024-06-06 | Vikings KR        | W   | 0.794      | 0.371        | 0.008 (0.002)    | 0.490 (0.144)    | 0 (0.000) |    10.53 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            7 |     1502 | 2024-06-05 | LA RUGONETA       | W   | 0.788      | 0.284        | 0.002 (0.001)    | -                | 1 (0.788) |     3.95 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            6 |     1604 | 2024-06-02 | 9z Academy        | W   | 0.768      | 0.371        | 0.000 (0.000)    | 0.067 (0.019)    | 0 (0.000) |     3.32 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            5 |     1673 | 2024-05-31 | FURIA Academy     | W   | 0.754      | 0.371        | -                | 0.102 (0.028)    | -         |     3.67 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            4 |     1718 | 2024-05-29 | Case              | L   | 0.741      | -            | -                | -                | -         |    -9.35 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            3 |     1777 | 2024-05-27 | Galorys           | L   | 0.726      | -            | -                | -                | -         |    -9.72 | alexer, maxxkor, OwensinhoM, tom1jed, zock |
+|            2 |     4255 | 2024-02-16 | FURIA Academy     | L   | 0.054      | -            | -                | -                | -         |    -1.47 | alexer, guishu, KvNs, maxxkor, OwensinhoM  |
+|            1 |     4372 | 2024-02-12 | Case              | L   | 0.027      | -            | -                | -                | -         |    -0.32 | alexer, guishu, KvNs, maxxkor, OwensinhoM  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,056.61)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($2,055.90)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-19 |      0.881 | $545.00        | $480.36         |
-| 2024-06-05 |      0.788 | $2,000.00      | $1,576.25       |
+| 2024-06-19 |      0.881 | $545.00        | $480.21         |
+| 2024-06-05 |      0.788 | $2,000.00      | $1,575.69       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

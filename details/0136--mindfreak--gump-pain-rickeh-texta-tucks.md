@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |      227 | 2024-07-31 | DXA                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.217 (0.031)    | 0 (0.000) |    11.03 | gump, pain, Rickeh, Texta, tucks    |
-|           26 |      271 | 2024-07-30 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.48 | gump, pain, Rickeh, Texta, tucks    |
-|           25 |      491 | 2024-07-23 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    10.58 | gump, pain, Rickeh, Texta, tucks    |
-|           24 |      495 | 2024-07-23 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    11.46 | gump, pain, Rickeh, Texta, tucks    |
-|           23 |      673 | 2024-07-18 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.16 | gump, pain, Sliimey, supar, tucks   |
-|           22 |      676 | 2024-07-18 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.33 | gump, pain, Sliimey, supar, tucks   |
-|           21 |      790 | 2024-07-16 | Rooster            | L   | 1.000      | -            | -                | -                | -         |    -9.73 | gump, pain, Sliimey, supar, tucks   |
-|           20 |      792 | 2024-07-16 | Rooster            | L   | 1.000      | -            | -                | -                | -         |   -10.51 | gump, pain, Sliimey, supar, tucks   |
-|           19 |     1360 | 2024-06-08 | FlyQuest           | L   | 0.805      | -            | -                | -                | -         |    -2.09 | gump, pain, Sliimey, supar, tucks   |
-|           18 |     1417 | 2024-06-07 | Bad News Kangaroos | W   | 0.798      | 0.333        | 0.016 (0.004)    | 0.217 (0.058)    | 0 (0.000) |    14.88 | gump, pain, Sliimey, supar, tucks   |
-|           17 |     1485 | 2024-06-06 | Vantage            | W   | 0.791      | 0.333        | 0.002 (0.001)    | -                | 0 (0.000) |     6.39 | gump, pain, Sliimey, supar, tucks   |
-|           16 |     1891 | 2024-05-22 | FlyQuest           | L   | 0.692      | -            | -                | -                | -         |    -1.39 | gump, pain, Sliimey, supar, tucks   |
-|           15 |     1896 | 2024-05-22 | FlyQuest           | L   | 0.692      | -            | -                | -                | -         |    -1.41 | gump, pain, Sliimey, supar, tucks   |
-|           14 |     2342 | 2024-05-08 | Arcade             | W   | 0.599      | 0.333        | 0.002 (0.000)    | 0.130 (0.026)    | 0 (0.000) |     7.55 | gump, pain, Sliimey, supar, tucks   |
-|           13 |     2345 | 2024-05-08 | Arcade             | W   | 0.598      | 0.333        | 0.002 (0.000)    | 0.130 (0.026)    | 0 (0.000) |     7.94 | gump, pain, Sliimey, supar, tucks   |
-|           12 |     2675 | 2024-04-22 | Vantage            | W   | 0.492      | 0.333        | 0.002 (0.000)    | 0.064 (0.011)    | -         |     6.82 | gump, pain, Sliimey, supar, tucks   |
-|           11 |     2677 | 2024-04-22 | Vantage            | W   | 0.492      | 0.333        | 0.002 (0.000)    | 0.064 (0.011)    | -         |     7.12 | gump, pain, Sliimey, supar, tucks   |
-|           10 |     2774 | 2024-04-19 | Bad News Kangaroos | L   | 0.472      | -            | -                | -                | -         |    -5.73 | gump, pain, Sliimey, supar, tucks   |
-|            9 |     2780 | 2024-04-18 | FlyQuest           | L   | 0.471      | -            | -                | -                | -         |    -1.04 | gump, pain, Sliimey, supar, tucks   |
-|            8 |     2832 | 2024-04-18 | DXA                | W   | 0.465      | 0.143        | -                | 0.217 (0.014)    | -         |     6.68 | gump, pain, Sliimey, supar, tucks   |
-|            7 |     2857 | 2024-04-17 | KZG                | W   | 0.459      | 0.143        | 0.005 (0.000)    | 0.106 (0.007)    | -         |     7.02 | gump, pain, Sliimey, supar, tucks   |
-|            6 |     4166 | 2024-02-20 | Vantage            | L   | 0.079      | -            | -                | -                | -         |    -1.38 | gump, Rickeh, Sliimey, supar, tucks |
-|            5 |     4171 | 2024-02-20 | RKON               | W   | 0.078      | -            | -                | -                | -         |     0.63 | gump, Rickeh, Sliimey, supar, tucks |
-|            4 |     4195 | 2024-02-18 | FlyQuest           | L   | 0.071      | -            | -                | -                | -         |    -0.16 | gump, Rickeh, Sliimey, supar, tucks |
-|            3 |     4210 | 2024-02-18 | Vantage            | W   | 0.065      | -            | -                | -                | -         |     0.93 | gump, Rickeh, Sliimey, supar, tucks |
-|            2 |     4211 | 2024-02-18 | Vantage            | W   | 0.065      | -            | -                | -                | -         |     0.92 | gump, Rickeh, Sliimey, supar, tucks |
-|            1 |     4216 | 2024-02-18 | gfg123321          | W   | 0.065      | -            | -                | -                | -         |     0.34 | gump, Rickeh, Sliimey, supar, tucks |
+|           27 |      228 | 2024-07-31 | DXA                | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.217 (0.031)    | 0 (0.000) |    11.03 | gump, pain, Rickeh, Texta, tucks    |
+|           26 |      272 | 2024-07-30 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.48 | gump, pain, Rickeh, Texta, tucks    |
+|           25 |      492 | 2024-07-23 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    10.58 | gump, pain, Rickeh, Texta, tucks    |
+|           24 |      496 | 2024-07-23 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    11.46 | gump, pain, Rickeh, Texta, tucks    |
+|           23 |      674 | 2024-07-18 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.16 | gump, pain, Sliimey, supar, tucks   |
+|           22 |      677 | 2024-07-18 | MANTRA             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.33 | gump, pain, Sliimey, supar, tucks   |
+|           21 |      791 | 2024-07-16 | Rooster            | L   | 1.000      | -            | -                | -                | -         |    -9.73 | gump, pain, Sliimey, supar, tucks   |
+|           20 |      793 | 2024-07-16 | Rooster            | L   | 1.000      | -            | -                | -                | -         |   -10.51 | gump, pain, Sliimey, supar, tucks   |
+|           19 |     1361 | 2024-06-08 | FlyQuest           | L   | 0.804      | -            | -                | -                | -         |    -2.09 | gump, pain, Sliimey, supar, tucks   |
+|           18 |     1418 | 2024-06-07 | Bad News Kangaroos | W   | 0.798      | 0.333        | 0.016 (0.004)    | 0.217 (0.058)    | 0 (0.000) |    14.87 | gump, pain, Sliimey, supar, tucks   |
+|           17 |     1486 | 2024-06-06 | Vantage            | W   | 0.791      | 0.333        | 0.002 (0.001)    | -                | 0 (0.000) |     6.38 | gump, pain, Sliimey, supar, tucks   |
+|           16 |     1892 | 2024-05-22 | FlyQuest           | L   | 0.692      | -            | -                | -                | -         |    -1.39 | gump, pain, Sliimey, supar, tucks   |
+|           15 |     1897 | 2024-05-22 | FlyQuest           | L   | 0.691      | -            | -                | -                | -         |    -1.41 | gump, pain, Sliimey, supar, tucks   |
+|           14 |     2343 | 2024-05-08 | Arcade             | W   | 0.598      | 0.333        | 0.002 (0.000)    | 0.130 (0.026)    | 0 (0.000) |     7.54 | gump, pain, Sliimey, supar, tucks   |
+|           13 |     2346 | 2024-05-08 | Arcade             | W   | 0.598      | 0.333        | 0.002 (0.000)    | 0.130 (0.026)    | 0 (0.000) |     7.94 | gump, pain, Sliimey, supar, tucks   |
+|           12 |     2676 | 2024-04-22 | Vantage            | W   | 0.492      | 0.333        | 0.002 (0.000)    | 0.064 (0.011)    | -         |     6.82 | gump, pain, Sliimey, supar, tucks   |
+|           11 |     2678 | 2024-04-22 | Vantage            | W   | 0.492      | 0.333        | 0.002 (0.000)    | 0.064 (0.011)    | -         |     7.12 | gump, pain, Sliimey, supar, tucks   |
+|           10 |     2775 | 2024-04-19 | Bad News Kangaroos | L   | 0.472      | -            | -                | -                | -         |    -5.72 | gump, pain, Sliimey, supar, tucks   |
+|            9 |     2781 | 2024-04-18 | FlyQuest           | L   | 0.471      | -            | -                | -                | -         |    -1.04 | gump, pain, Sliimey, supar, tucks   |
+|            8 |     2833 | 2024-04-18 | DXA                | W   | 0.464      | 0.143        | -                | 0.217 (0.014)    | -         |     6.68 | gump, pain, Sliimey, supar, tucks   |
+|            7 |     2858 | 2024-04-17 | KZG                | W   | 0.458      | 0.143        | 0.005 (0.000)    | 0.106 (0.007)    | -         |     7.02 | gump, pain, Sliimey, supar, tucks   |
+|            6 |     4167 | 2024-02-20 | Vantage            | L   | 0.079      | -            | -                | -                | -         |    -1.37 | gump, Rickeh, Sliimey, supar, tucks |
+|            5 |     4172 | 2024-02-20 | RKON               | W   | 0.078      | -            | -                | -                | -         |     0.63 | gump, Rickeh, Sliimey, supar, tucks |
+|            4 |     4196 | 2024-02-18 | FlyQuest           | L   | 0.071      | -            | -                | -                | -         |    -0.16 | gump, Rickeh, Sliimey, supar, tucks |
+|            3 |     4211 | 2024-02-18 | Vantage            | W   | 0.065      | -            | -                | -                | -         |     0.92 | gump, Rickeh, Sliimey, supar, tucks |
+|            2 |     4212 | 2024-02-18 | Vantage            | W   | 0.065      | -            | -                | -                | -         |     0.92 | gump, Rickeh, Sliimey, supar, tucks |
+|            1 |     4217 | 2024-02-18 | gfg123321          | W   | 0.065      | -            | -                | -                | -         |     0.34 | gump, Rickeh, Sliimey, supar, tucks |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,135.17)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($1,134.78)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

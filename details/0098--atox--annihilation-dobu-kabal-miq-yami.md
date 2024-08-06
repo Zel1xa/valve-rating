@@ -8,7 +8,7 @@ Regional Rank: [7]( ../standings_asia.md)<br />
 <br />
 Final Rank Value:  873.9<br />
 <br />
-Final Rank Value (873.9) = Starting Rank Value (864.5) + Head To Head Adjustments (9.5)<br />
+Final Rank Value (873.9) = Starting Rank Value (864.4) + Head To Head Adjustments (9.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.226<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 864.5
-- 400 + ( ( 0.226 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 864.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 864.4
+- 400 + ( ( 0.226 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 864.4
 
 
 #### Factors<br />
@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |      134 | 2024-08-02 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -13.72 | Annihilation, dobu, kabal, MiQ, yAmi  |
-|           19 |      165 | 2024-08-01 | CatEvil     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     6.67 | Annihilation, dobu, kabal, MiQ, yAmi  |
-|           18 |      175 | 2024-08-01 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.07 | Annihilation, dobu, kabal, MiQ, yAmi  |
-|           17 |     1293 | 2024-06-09 | Lynn Vision | L   | 0.812      | -            | -                | -                | -         |    -7.33 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           16 |     1473 | 2024-06-06 | Lynn Vision | W   | 0.792      | 0.416        | 0.086 (0.028)    | 0.182 (0.060)    | 0 (0.000) |    17.98 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           15 |     1532 | 2024-06-05 | GR          | W   | 0.786      | 0.416        | 0.008 (0.003)    | 0.072 (0.024)    | 0 (0.000) |     5.80 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           14 |     1571 | 2024-06-04 | -72c        | W   | 0.779      | 0.416        | 0.003 (0.001)    | 0.038 (0.012)    | 0 (0.000) |     5.33 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           13 |     1660 | 2024-05-31 | Lynn Vision | L   | 0.757      | -            | -                | -                | -         |    -6.43 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           12 |     1713 | 2024-05-29 | BLEED       | L   | 0.744      | -            | -                | -                | -         |    -1.42 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           11 |     1736 | 2024-05-29 | OG          | W   | 0.738      | 0.500        | 0.137 (0.050)    | 0.120 (0.044)    | 1 (0.738) |    16.70 | Annihilation, dobu, kabal, MiQ, Zesta |
-|           10 |     2029 | 2024-05-18 | The MongolZ | L   | 0.665      | -            | -                | -                | -         |    -0.07 | Annihilation, dobu, kabal, MiQ, Zesta |
-|            9 |     2060 | 2024-05-17 | The Huns    | W   | 0.658      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 1 (0.658) |     1.36 | Annihilation, dobu, kabal, MiQ, Zesta |
-|            8 |     3294 | 2024-04-02 | The MongolZ | L   | 0.359      | -            | -                | -                | -         |    -0.03 | Annihilation, dobu, kabal, MiQ, Zesta |
-|            7 |     3299 | 2024-04-02 | Lynn Vision | L   | 0.358      | -            | -                | -                | -         |    -2.82 | Annihilation, dobu, kabal, MiQ, Zesta |
-|            6 |     3657 | 2024-03-13 | -72c        | W   | 0.226      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.50 | dobu, FlyNN, kabal, MiQ, Zesta        |
-|            5 |     3667 | 2024-03-13 | ROUX        | W   | 0.225      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.49 | dobu, FlyNN, kabal, MiQ, Zesta        |
-|            4 |     3988 | 2024-02-27 | FlyQuest    | L   | 0.130      | -            | -                | -                | -         |    -0.69 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
-|            3 |     4012 | 2024-02-26 | TYLOO       | W   | 0.124      | 0.143        | 0.019 (0.000)    | 0.086 (0.002)    | 1 (0.124) |     1.42 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
-|            2 |     4015 | 2024-02-26 | MAG         | W   | 0.123      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.123) |     0.41 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
-|            1 |     4028 | 2024-02-25 | FlyQuest    | L   | 0.117      | -            | -                | -                | -         |    -0.61 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
+|           20 |      135 | 2024-08-02 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -13.72 | Annihilation, dobu, kabal, MiQ, yAmi  |
+|           19 |      166 | 2024-08-01 | CatEvil     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     6.68 | Annihilation, dobu, kabal, MiQ, yAmi  |
+|           18 |      176 | 2024-08-01 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.07 | Annihilation, dobu, kabal, MiQ, yAmi  |
+|           17 |     1294 | 2024-06-09 | Lynn Vision | L   | 0.812      | -            | -                | -                | -         |    -7.33 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           16 |     1474 | 2024-06-06 | Lynn Vision | W   | 0.792      | 0.416        | 0.086 (0.028)    | 0.182 (0.060)    | 0 (0.000) |    17.97 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           15 |     1533 | 2024-06-05 | GR          | W   | 0.786      | 0.416        | 0.008 (0.003)    | 0.072 (0.024)    | 0 (0.000) |     5.80 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           14 |     1572 | 2024-06-04 | -72c        | W   | 0.779      | 0.416        | 0.003 (0.001)    | 0.038 (0.012)    | 0 (0.000) |     5.33 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           13 |     1661 | 2024-05-31 | Lynn Vision | L   | 0.756      | -            | -                | -                | -         |    -6.43 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           12 |     1714 | 2024-05-29 | BLEED       | L   | 0.743      | -            | -                | -                | -         |    -1.42 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           11 |     1737 | 2024-05-29 | OG          | W   | 0.738      | 0.500        | 0.137 (0.050)    | 0.120 (0.044)    | 1 (0.738) |    16.69 | Annihilation, dobu, kabal, MiQ, Zesta |
+|           10 |     2030 | 2024-05-18 | The MongolZ | L   | 0.664      | -            | -                | -                | -         |    -0.07 | Annihilation, dobu, kabal, MiQ, Zesta |
+|            9 |     2061 | 2024-05-17 | The Huns    | W   | 0.658      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 1 (0.658) |     1.36 | Annihilation, dobu, kabal, MiQ, Zesta |
+|            8 |     3295 | 2024-04-02 | The MongolZ | L   | 0.359      | -            | -                | -                | -         |    -0.03 | Annihilation, dobu, kabal, MiQ, Zesta |
+|            7 |     3300 | 2024-04-02 | Lynn Vision | L   | 0.358      | -            | -                | -                | -         |    -2.82 | Annihilation, dobu, kabal, MiQ, Zesta |
+|            6 |     3658 | 2024-03-13 | -72c        | W   | 0.225      | 0.143        | 0.000 (0.000)    | 0.009 (0.000)    | 0 (0.000) |     0.49 | dobu, FlyNN, kabal, MiQ, Zesta        |
+|            5 |     3668 | 2024-03-13 | ROUX        | W   | 0.225      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.49 | dobu, FlyNN, kabal, MiQ, Zesta        |
+|            4 |     3989 | 2024-02-27 | FlyQuest    | L   | 0.130      | -            | -                | -                | -         |    -0.69 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
+|            3 |     4013 | 2024-02-26 | TYLOO       | W   | 0.124      | 0.143        | 0.019 (0.000)    | 0.086 (0.002)    | 1 (0.124) |     1.41 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
+|            2 |     4016 | 2024-02-26 | MAG         | W   | 0.123      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.123) |     0.41 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
+|            1 |     4029 | 2024-02-25 | FlyQuest    | L   | 0.116      | -            | -                | -                | -         |    -0.61 | AccuracyTG, dobu, kabal, MiQ, Zesta   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($6,495.56)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($6,493.33)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

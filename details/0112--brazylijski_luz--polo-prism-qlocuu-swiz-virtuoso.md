@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |        1 | 2024-08-06 | SINNERS           | L   | 1.000      | -            | -                | -                | -         |    -9.25 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           29 |      211 | 2024-07-31 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -4.10 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           28 |      483 | 2024-07-23 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -3.68 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           27 |      719 | 2024-07-17 | RUSH B            | W   | 1.000      | 0.500        | 0.026 (0.013)    | 0.371 (0.186)    | 0 (0.000) |    19.05 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           26 |      830 | 2024-07-15 | Rebels            | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    22.98 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           25 |     1564 | 2024-06-04 | The Prodigies     | L   | 0.780      | -            | -                | -                | -         |   -20.02 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           24 |     1596 | 2024-06-03 | Johnny Speeds     | L   | 0.773      | -            | -                | -                | -         |    -2.04 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           23 |     1620 | 2024-06-02 | Serbia            | L   | 0.765      | -            | -                | -                | -         |   -13.38 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           22 |     1711 | 2024-05-30 | Enterprise        | W   | 0.745      | 0.371        | 0.039 (0.011)    | 0.641 (0.177)    | 0 (0.000) |    14.33 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           21 |     1730 | 2024-05-29 | SINNERS           | L   | 0.740      | -            | -                | -                | -         |    -4.73 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           20 |     1779 | 2024-05-27 | Entropiq          | W   | 0.725      | -            | -                | -                | 0 (0.000) |     1.78 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           19 |     1838 | 2024-05-23 | GL Academy        | W   | 0.701      | 0.379        | 0.006 (0.002)    | 0.095 (0.025)    | 0 (0.000) |     8.65 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           18 |     1849 | 2024-05-23 | Zero Tenacity     | L   | 0.698      | -            | -                | -                | -         |    -3.83 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           17 |     2379 | 2024-05-06 | Grannys Knockers  | L   | 0.585      | -            | -                | -                | -         |   -11.09 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           16 |     2537 | 2024-04-28 | VP.Prodigy        | W   | 0.533      | 0.396        | 0.025 (0.005)    | 0.383 (0.081)    | 0 (0.000) |     9.20 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           15 |     2545 | 2024-04-28 | Nexus             | W   | 0.532      | 0.396        | 0.014 (0.003)    | 0.447 (0.094)    | 0 (0.000) |     8.66 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           14 |     2714 | 2024-04-20 | Sangal            | L   | 0.480      | -            | -                | -                | -         |    -2.18 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           13 |     2748 | 2024-04-19 | Rebels            | W   | 0.474      | 0.500        | 0.038 (0.009)    | 0.578 (0.137)    | 0 (0.000) |    10.84 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           12 |     2796 | 2024-04-18 | BetBoom           | L   | 0.467      | -            | -                | -                | -         |    -0.53 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           11 |     2804 | 2024-04-18 | Ninjas in Pyjamas | W   | 0.467      | 0.143        | 0.253 (0.017)    | 0.531 (0.035)    | 0 (0.000) |    14.57 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|           10 |     3010 | 2024-04-10 | Betera            | W   | 0.414      | -            | -                | -                | 0 (0.000) |     4.81 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            9 |     3066 | 2024-04-09 | FORZE             | L   | 0.407      | -            | -                | -                | -         |    -4.22 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            8 |     3341 | 2024-03-28 | Aurora            | L   | 0.327      | -            | -                | -                | -         |    -0.08 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            7 |     3612 | 2024-03-14 | Rebels            | W   | 0.234      | 0.500        | 0.038 (0.004)    | 0.578 (0.068)    | -         |     5.54 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            6 |     3700 | 2024-03-11 | SINNERS           | W   | 0.214      | 0.500        | 0.037 (0.004)    | 0.800 (0.086)    | -         |     5.92 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            5 |     3816 | 2024-03-06 | ALTERNATE aTTaX   | L   | 0.181      | -            | -                | -                | -         |    -1.48 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            4 |     3936 | 2024-03-02 | Sashi             | L   | 0.153      | -            | -                | -                | -         |    -0.57 | Furlan, phr, POLO, Prism, Qlocuu    |
-|            3 |     4001 | 2024-02-27 | Spirit Academy    | L   | 0.127      | -            | -                | -                | -         |    -3.24 | POLO, Prism, Qlocuu, swiz, virtuoso |
-|            2 |     4077 | 2024-02-24 | The Chosen Few    | W   | 0.106      | -            | -                | -                | -         |     1.10 | Furlan, phr, POLO, Prism, Qlocuu    |
-|            1 |     4206 | 2024-02-18 | ARCRED            | W   | 0.067      | -            | -                | -                | -         |     1.39 | Furlan, phr, POLO, Prism, Qlocuu    |
+|           30 |        2 | 2024-08-06 | SINNERS           | L   | 1.000      | -            | -                | -                | -         |    -9.25 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           29 |      212 | 2024-07-31 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -4.10 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           28 |      484 | 2024-07-23 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -3.68 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           27 |      720 | 2024-07-17 | RUSH B            | W   | 1.000      | 0.500        | 0.026 (0.013)    | 0.371 (0.186)    | 0 (0.000) |    19.05 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           26 |      831 | 2024-07-15 | Rebels            | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    22.98 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           25 |     1565 | 2024-06-04 | The Prodigies     | L   | 0.780      | -            | -                | -                | -         |   -20.02 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           24 |     1597 | 2024-06-03 | Johnny Speeds     | L   | 0.773      | -            | -                | -                | -         |    -2.04 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           23 |     1621 | 2024-06-02 | Serbia            | L   | 0.765      | -            | -                | -                | -         |   -13.38 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           22 |     1712 | 2024-05-30 | Enterprise        | W   | 0.744      | 0.371        | 0.039 (0.011)    | 0.641 (0.177)    | 0 (0.000) |    14.33 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           21 |     1731 | 2024-05-29 | SINNERS           | L   | 0.740      | -            | -                | -                | -         |    -4.73 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           20 |     1780 | 2024-05-27 | Entropiq          | W   | 0.724      | -            | -                | -                | 0 (0.000) |     1.78 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           19 |     1839 | 2024-05-23 | GL Academy        | W   | 0.700      | 0.379        | 0.006 (0.002)    | 0.095 (0.025)    | 0 (0.000) |     8.65 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           18 |     1850 | 2024-05-23 | Zero Tenacity     | L   | 0.698      | -            | -                | -                | -         |    -3.83 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           17 |     2380 | 2024-05-06 | Grannys Knockers  | L   | 0.584      | -            | -                | -                | -         |   -11.08 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           16 |     2538 | 2024-04-28 | VP.Prodigy        | W   | 0.533      | 0.396        | 0.025 (0.005)    | 0.383 (0.081)    | 0 (0.000) |     9.20 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           15 |     2546 | 2024-04-28 | Nexus             | W   | 0.532      | 0.396        | 0.014 (0.003)    | 0.447 (0.094)    | 0 (0.000) |     8.67 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           14 |     2715 | 2024-04-20 | Sangal            | L   | 0.480      | -            | -                | -                | -         |    -2.18 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           13 |     2749 | 2024-04-19 | Rebels            | W   | 0.474      | 0.500        | 0.038 (0.009)    | 0.578 (0.137)    | 0 (0.000) |    10.84 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           12 |     2797 | 2024-04-18 | BetBoom           | L   | 0.467      | -            | -                | -                | -         |    -0.53 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           11 |     2805 | 2024-04-18 | Ninjas in Pyjamas | W   | 0.467      | 0.143        | 0.253 (0.017)    | 0.531 (0.035)    | 0 (0.000) |    14.56 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|           10 |     3011 | 2024-04-10 | Betera            | W   | 0.414      | -            | -                | -                | 0 (0.000) |     4.81 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            9 |     3067 | 2024-04-09 | FORZE             | L   | 0.407      | -            | -                | -                | -         |    -4.21 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            8 |     3342 | 2024-03-28 | Aurora            | L   | 0.327      | -            | -                | -                | -         |    -0.08 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            7 |     3613 | 2024-03-14 | Rebels            | W   | 0.234      | 0.500        | 0.038 (0.004)    | 0.578 (0.068)    | -         |     5.54 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            6 |     3701 | 2024-03-11 | SINNERS           | W   | 0.214      | 0.500        | 0.037 (0.004)    | 0.800 (0.085)    | -         |     5.91 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            5 |     3817 | 2024-03-06 | ALTERNATE aTTaX   | L   | 0.181      | -            | -                | -                | -         |    -1.47 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            4 |     3937 | 2024-03-02 | Sashi             | L   | 0.152      | -            | -                | -                | -         |    -0.57 | Furlan, phr, POLO, Prism, Qlocuu    |
+|            3 |     4002 | 2024-02-27 | Spirit Academy    | L   | 0.127      | -            | -                | -                | -         |    -3.23 | POLO, Prism, Qlocuu, swiz, virtuoso |
+|            2 |     4078 | 2024-02-24 | The Chosen Few    | W   | 0.106      | -            | -                | -                | -         |     1.10 | Furlan, phr, POLO, Prism, Qlocuu    |
+|            1 |     4207 | 2024-02-18 | ARCRED            | W   | 0.067      | -            | -                | -                | -         |     1.39 | Furlan, phr, POLO, Prism, Qlocuu    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,440.63)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($2,439.79)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -8,7 +8,7 @@ Regional Rank: [45]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  1003.9<br />
 <br />
-Final Rank Value (1003.9) = Starting Rank Value (1151.8) + Head To Head Adjustments (-148.0)<br />
+Final Rank Value (1003.9) = Starting Rank Value (1151.8) + Head To Head Adjustments (-147.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,106 +37,106 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           82 |        1 | 2024-08-06 | brazylijski luz   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.25 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           81 |       22 | 2024-08-05 | Rebels            | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    16.65 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           80 |       56 | 2024-08-04 | AVEZ              | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.89 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           79 |       92 | 2024-08-03 | SINNERS Academy   | W   | 1.000      | -            | -                | -                | 1 (1.000) |     2.45 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           78 |      114 | 2024-08-02 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |   -11.18 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           77 |      263 | 2024-07-30 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -5.28 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           76 |      298 | 2024-07-29 | Alliance          | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.35 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           75 |      402 | 2024-07-25 | B8                | L   | 1.000      | -            | -                | -                | -         |    -8.39 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           74 |      477 | 2024-07-23 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |   -19.14 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           73 |      511 | 2024-07-22 | CPH Wolves        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.39 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           72 |      594 | 2024-07-19 | DMS               | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    12.40 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           71 |      724 | 2024-07-17 | Endpoint          | W   | 1.000      | 0.435        | -                | 0.540 (0.235)    | -         |    10.65 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           70 |      793 | 2024-07-16 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -19.68 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           69 |      822 | 2024-07-15 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -8.62 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           68 |      835 | 2024-07-15 | Nexus             | L   | 1.000      | -            | -                | -                | -         |   -25.59 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           67 |     1195 | 2024-06-11 | 3DMAX             | L   | 0.828      | -            | -                | -                | -         |    -2.42 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           66 |     1209 | 2024-06-11 | ex-Guild Eagles   | W   | 0.826      | -            | -                | -                | -         |     7.51 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           65 |     1223 | 2024-06-10 | Enterprise        | L   | 0.820      | -            | -                | -                | -         |   -16.47 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           64 |     1231 | 2024-06-10 | Monte             | L   | 0.819      | -            | -                | -                | -         |   -13.74 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           63 |     1235 | 2024-06-10 | 9 Pandas          | L   | 0.819      | -            | -                | -                | -         |   -12.75 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           62 |     1242 | 2024-06-10 | PARIVISION        | W   | 0.819      | -            | -                | -                | -         |    14.34 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           61 |     1244 | 2024-06-10 | Rare Atom         | L   | 0.818      | -            | -                | -                | -         |   -19.77 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           60 |     1274 | 2024-06-09 | SAW               | W   | 0.813      | -            | -                | -                | -         |    16.18 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           59 |     1282 | 2024-06-09 | 3DMAX             | W   | 0.813      | 0.143        | 0.510 (0.059)    | -                | -         |    23.64 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           58 |     1288 | 2024-06-09 | RUSH B            | L   | 0.812      | -            | -                | -                | -         |   -18.13 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           57 |     1297 | 2024-06-09 | Aurora            | W   | 0.812      | 0.143        | 0.420 (0.049)    | -                | -         |    23.82 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           56 |     1331 | 2024-06-08 | Sangal            | L   | 0.807      | -            | -                | -                | -         |    -7.02 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           55 |     1410 | 2024-06-07 | RUBY              | W   | 0.799      | 0.435        | 0.095 (0.033)    | -                | -         |     9.20 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           54 |     1453 | 2024-06-06 | KOI               | L   | 0.794      | -            | -                | -                | -         |   -11.11 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           53 |     1513 | 2024-06-05 | RUSH B            | W   | 0.787      | -            | -                | -                | -         |     7.54 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           52 |     1522 | 2024-06-05 | EYEBALLERS        | L   | 0.786      | -            | -                | -                | -         |   -17.28 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           51 |     1576 | 2024-06-04 | VP.Prodigy        | L   | 0.779      | -            | -                | -                | -         |   -16.21 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           50 |     1615 | 2024-06-02 | UNiTY             | L   | 0.766      | -            | -                | -                | -         |   -15.37 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
-|           49 |     1632 | 2024-06-01 | GUN5              | L   | 0.761      | -            | -                | -                | -         |   -16.17 | AJTT, beastik, MoriiSko, oskar, SHOCK  |
-|           48 |     1652 | 2024-06-01 | Sampi             | W   | 0.759      | 0.346        | -                | 1.000 (0.263)    | 1 (0.759) |     6.27 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
-|           47 |     1684 | 2024-05-31 | UNiTY             | L   | 0.753      | -            | -                | -                | -         |   -15.89 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
-|           46 |     1702 | 2024-05-30 | B8                | W   | 0.747      | 0.435        | 0.170 (0.055)    | 0.912 (0.296)    | -         |    14.06 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           45 |     1730 | 2024-05-29 | brazylijski luz   | W   | 0.740      | -            | -                | -                | -         |     4.73 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           44 |     1788 | 2024-05-26 | Sampi             | W   | 0.720      | 0.435        | -                | 1.000 (0.313)    | -         |     6.42 | beastik, majky, MoriiSko, oskar, SHOCK |
-|           43 |     1822 | 2024-05-24 | GUN5              | W   | 0.708      | 0.435        | 0.072 (0.022)    | 0.550 (0.169)    | -         |     7.11 | AJTT, beastik, majky, MoriiSko, oskar  |
-|           42 |     1830 | 2024-05-24 | 9 Pandas          | L   | 0.706      | -            | -                | -                | -         |   -12.28 | AJTT, beastik, majky, oskar, SHOCK     |
-|           41 |     1841 | 2024-05-23 | UNiTY             | W   | 0.700      | -            | -                | -                | -         |     7.76 | AJTT, beastik, majky, MoriiSko, oskar  |
-|           40 |     1847 | 2024-05-23 | Passion UA        | L   | 0.698      | -            | -                | -                | -         |   -12.15 | AJTT, beastik, majky, MoriiSko, oskar  |
-|           39 |     1965 | 2024-05-20 | VP.Prodigy        | W   | 0.679      | -            | -                | -                | -         |     5.38 | AJTT, beastik, majky, MoriiSko, oskar  |
-|           38 |     2013 | 2024-05-18 | 1WIN              | L   | 0.667      | -            | -                | -                | -         |   -12.90 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
-|           37 |     2099 | 2024-05-16 | ALTERNATE aTTaX   | W   | 0.651      | -            | -                | -                | -         |     7.02 | AJTT, beastik, majky, oskar, SHOCK     |
-|           36 |     2191 | 2024-05-14 | Passion UA        | W   | 0.641      | 0.435        | 0.173 (0.048)    | 1.000 (0.278)    | -         |     8.98 | AJTT, beastik, majky, oskar, SHOCK     |
-|           35 |     2361 | 2024-05-07 | Nemiga            | L   | 0.592      | -            | -                | -                | -         |    -6.61 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           34 |     2396 | 2024-05-05 | Endpoint          | W   | 0.579      | -            | -                | -                | -         |     5.83 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           33 |     2459 | 2024-05-02 | Gaimin Gladiators | L   | 0.559      | -            | -                | -                | -         |   -11.16 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           32 |     2486 | 2024-05-01 | B8                | L   | 0.552      | -            | -                | -                | -         |   -10.06 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           31 |     2518 | 2024-04-29 | 1WIN              | W   | 0.540      | 0.435        | -                | 0.718 (0.168)    | -         |     5.30 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           30 |     2527 | 2024-04-29 | Sangal            | L   | 0.538      | -            | -                | -                | -         |    -7.57 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           29 |     2539 | 2024-04-28 | Zero Tenacity     | L   | 0.533      | -            | -                | -                | -         |    -9.35 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           28 |     2572 | 2024-04-27 | Zero Tenacity     | L   | 0.525      | -            | -                | -                | -         |    -9.70 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           27 |     2588 | 2024-04-26 | PARIVISION        | L   | 0.520      | -            | -                | -                | -         |    -9.33 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           26 |     2638 | 2024-04-24 | Endpoint          | L   | 0.506      | -            | -                | -                | -         |   -12.65 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           25 |     2674 | 2024-04-22 | HAVU              | W   | 0.492      | -            | -                | -                | -         |     1.22 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           24 |     2723 | 2024-04-20 | ENCE Academy      | L   | 0.479      | -            | -                | -                | -         |   -13.83 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           23 |     2778 | 2024-04-19 | ECLOT             | L   | 0.471      | -            | -                | -                | -         |    -6.78 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           22 |     2868 | 2024-04-17 | Gaimin Gladiators | L   | 0.458      | -            | -                | -                | -         |   -10.33 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           21 |     2893 | 2024-04-16 | BLEED             | L   | 0.452      | -            | -                | -                | -         |   -10.58 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           20 |     2923 | 2024-04-14 | Passion UA        | W   | 0.439      | 0.371        | 0.173 (0.028)    | -                | -         |     4.74 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           19 |     3012 | 2024-04-10 | 3DMAX             | W   | 0.414      | 0.500        | 0.510 (0.106)    | 1.000 (0.207)    | -         |    12.28 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           18 |     3039 | 2024-04-10 | UNiTY             | W   | 0.411      | -            | -                | -                | -         |     3.23 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           17 |     3065 | 2024-04-09 | 9 Pandas          | W   | 0.407      | -            | -                | -                | -         |     3.82 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           16 |     3116 | 2024-04-08 | ALTERNATE aTTaX   | W   | 0.398      | -            | -                | -                | -         |     3.23 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           15 |     3167 | 2024-04-05 | Nexus             | W   | 0.380      | -            | -                | -                | -         |     1.92 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           14 |     3259 | 2024-04-03 | Rebels            | W   | 0.365      | -            | -                | -                | -         |     3.40 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           13 |     3302 | 2024-04-01 | Aurora            | W   | 0.354      | 0.500        | 0.420 (0.074)    | -                | -         |    10.62 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           12 |     3325 | 2024-03-29 | ex-Sprout         | W   | 0.334      | -            | -                | -                | -         |     0.17 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           11 |     3544 | 2024-03-17 | ECLOT             | L   | 0.254      | -            | -                | -                | -         |    -3.36 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|           10 |     3550 | 2024-03-17 | UNiTY             | W   | 0.253      | -            | -                | -                | 1 (0.253) |     2.17 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            9 |     3565 | 2024-03-16 | Sampi             | W   | 0.246      | -            | -                | -                | 1 (0.246) |     1.66 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            8 |     3577 | 2024-03-15 | UNiTY             | L   | 0.241      | -            | -                | -                | -         |    -5.57 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            7 |     3647 | 2024-03-13 | ALTERNATE aTTaX   | W   | 0.228      | -            | -                | -                | -         |     2.05 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            6 |     3700 | 2024-03-11 | brazylijski luz   | L   | 0.214      | -            | -                | -                | -         |    -5.92 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            5 |     3912 | 2024-03-03 | Gaimin Gladiators | L   | 0.161      | -            | -                | -                | -         |    -3.73 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            4 |     4205 | 2024-02-18 | Monte             | L   | 0.067      | -            | -                | -                | -         |    -1.51 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            3 |     4252 | 2024-02-16 | 500               | W   | 0.054      | -            | -                | -                | -         |     0.13 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            2 |     4255 | 2024-02-16 | PERA              | W   | 0.054      | -            | -                | -                | -         |     0.38 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
-|            1 |     4260 | 2024-02-16 | 500               | L   | 0.053      | -            | -                | -                | -         |    -1.55 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           82 |        2 | 2024-08-06 | brazylijski luz   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.25 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           81 |       23 | 2024-08-05 | Rebels            | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    16.64 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           80 |       57 | 2024-08-04 | AVEZ              | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.89 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           79 |       93 | 2024-08-03 | SINNERS Academy   | W   | 1.000      | -            | -                | -                | 1 (1.000) |     2.45 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           78 |      115 | 2024-08-02 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |   -11.18 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           77 |      264 | 2024-07-30 | Sangal            | L   | 1.000      | -            | -                | -                | -         |    -5.28 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           76 |      299 | 2024-07-29 | Alliance          | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.35 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           75 |      403 | 2024-07-25 | B8                | L   | 1.000      | -            | -                | -                | -         |    -8.39 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           74 |      478 | 2024-07-23 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |   -19.14 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           73 |      512 | 2024-07-22 | CPH Wolves        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.39 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           72 |      595 | 2024-07-19 | DMS               | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    12.40 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           71 |      725 | 2024-07-17 | Endpoint          | W   | 1.000      | 0.435        | -                | 0.540 (0.235)    | -         |    10.65 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           70 |      794 | 2024-07-16 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -19.68 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           69 |      823 | 2024-07-15 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -8.63 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           68 |      836 | 2024-07-15 | Nexus             | L   | 1.000      | -            | -                | -                | -         |   -25.58 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           67 |     1196 | 2024-06-11 | 3DMAX             | L   | 0.827      | -            | -                | -                | -         |    -2.42 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           66 |     1210 | 2024-06-11 | ex-Guild Eagles   | W   | 0.825      | -            | -                | -                | -         |     7.50 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           65 |     1224 | 2024-06-10 | Enterprise        | L   | 0.820      | -            | -                | -                | -         |   -16.47 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           64 |     1232 | 2024-06-10 | Monte             | L   | 0.819      | -            | -                | -                | -         |   -13.74 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           63 |     1236 | 2024-06-10 | 9 Pandas          | L   | 0.819      | -            | -                | -                | -         |   -12.75 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           62 |     1243 | 2024-06-10 | PARIVISION        | W   | 0.818      | -            | -                | -                | -         |    14.35 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           61 |     1245 | 2024-06-10 | Rare Atom         | L   | 0.818      | -            | -                | -                | -         |   -19.76 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           60 |     1275 | 2024-06-09 | SAW               | W   | 0.813      | -            | -                | -                | -         |    16.17 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           59 |     1283 | 2024-06-09 | 3DMAX             | W   | 0.813      | 0.143        | 0.510 (0.059)    | -                | -         |    23.64 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           58 |     1289 | 2024-06-09 | RUSH B            | L   | 0.812      | -            | -                | -                | -         |   -18.13 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           57 |     1298 | 2024-06-09 | Aurora            | W   | 0.812      | 0.143        | 0.420 (0.049)    | -                | -         |    23.81 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           56 |     1332 | 2024-06-08 | Sangal            | L   | 0.807      | -            | -                | -                | -         |    -7.02 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           55 |     1411 | 2024-06-07 | RUBY              | W   | 0.799      | 0.435        | 0.095 (0.033)    | -                | -         |     9.19 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           54 |     1454 | 2024-06-06 | KOI               | L   | 0.794      | -            | -                | -                | -         |   -11.11 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           53 |     1514 | 2024-06-05 | RUSH B            | W   | 0.787      | -            | -                | -                | -         |     7.54 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           52 |     1523 | 2024-06-05 | EYEBALLERS        | L   | 0.786      | -            | -                | -                | -         |   -17.28 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           51 |     1577 | 2024-06-04 | VP.Prodigy        | L   | 0.779      | -            | -                | -                | -         |   -16.20 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           50 |     1616 | 2024-06-02 | UNiTY             | L   | 0.766      | -            | -                | -                | -         |   -15.36 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
+|           49 |     1633 | 2024-06-01 | GUN5              | L   | 0.761      | -            | -                | -                | -         |   -16.17 | AJTT, beastik, MoriiSko, oskar, SHOCK  |
+|           48 |     1653 | 2024-06-01 | Sampi             | W   | 0.759      | 0.346        | -                | 1.000 (0.262)    | 1 (0.759) |     6.27 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
+|           47 |     1685 | 2024-05-31 | UNiTY             | L   | 0.752      | -            | -                | -                | -         |   -15.89 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
+|           46 |     1703 | 2024-05-30 | B8                | W   | 0.746      | 0.435        | 0.170 (0.055)    | 0.912 (0.296)    | -         |    14.05 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           45 |     1731 | 2024-05-29 | brazylijski luz   | W   | 0.740      | -            | -                | -                | -         |     4.73 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           44 |     1789 | 2024-05-26 | Sampi             | W   | 0.720      | 0.435        | -                | 1.000 (0.313)    | -         |     6.42 | beastik, majky, MoriiSko, oskar, SHOCK |
+|           43 |     1823 | 2024-05-24 | GUN5              | W   | 0.707      | 0.435        | 0.072 (0.022)    | 0.550 (0.169)    | -         |     7.11 | AJTT, beastik, majky, MoriiSko, oskar  |
+|           42 |     1831 | 2024-05-24 | 9 Pandas          | L   | 0.705      | -            | -                | -                | -         |   -12.28 | AJTT, beastik, majky, oskar, SHOCK     |
+|           41 |     1842 | 2024-05-23 | UNiTY             | W   | 0.700      | -            | -                | -                | -         |     7.76 | AJTT, beastik, majky, MoriiSko, oskar  |
+|           40 |     1848 | 2024-05-23 | Passion UA        | L   | 0.698      | -            | -                | -                | -         |   -12.15 | AJTT, beastik, majky, MoriiSko, oskar  |
+|           39 |     1966 | 2024-05-20 | VP.Prodigy        | W   | 0.679      | -            | -                | -                | -         |     5.38 | AJTT, beastik, majky, MoriiSko, oskar  |
+|           38 |     2014 | 2024-05-18 | 1WIN              | L   | 0.666      | -            | -                | -                | -         |   -12.88 | AJTT, beastik, oskar, SHOCK, Tomkeejs  |
+|           37 |     2100 | 2024-05-16 | ALTERNATE aTTaX   | W   | 0.651      | -            | -                | -                | -         |     7.02 | AJTT, beastik, majky, oskar, SHOCK     |
+|           36 |     2192 | 2024-05-14 | Passion UA        | W   | 0.640      | 0.435        | 0.173 (0.048)    | 1.000 (0.278)    | -         |     8.98 | AJTT, beastik, majky, oskar, SHOCK     |
+|           35 |     2362 | 2024-05-07 | Nemiga            | L   | 0.592      | -            | -                | -                | -         |    -6.61 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           34 |     2397 | 2024-05-05 | Endpoint          | W   | 0.579      | -            | -                | -                | -         |     5.83 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           33 |     2460 | 2024-05-02 | Gaimin Gladiators | L   | 0.559      | -            | -                | -                | -         |   -11.16 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           32 |     2487 | 2024-05-01 | B8                | L   | 0.551      | -            | -                | -                | -         |   -10.06 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           31 |     2519 | 2024-04-29 | 1WIN              | W   | 0.539      | 0.435        | -                | 0.718 (0.168)    | -         |     5.31 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           30 |     2528 | 2024-04-29 | Sangal            | L   | 0.538      | -            | -                | -                | -         |    -7.57 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           29 |     2540 | 2024-04-28 | Zero Tenacity     | L   | 0.532      | -            | -                | -                | -         |    -9.35 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           28 |     2573 | 2024-04-27 | Zero Tenacity     | L   | 0.525      | -            | -                | -                | -         |    -9.70 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           27 |     2589 | 2024-04-26 | PARIVISION        | L   | 0.520      | -            | -                | -                | -         |    -9.30 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           26 |     2639 | 2024-04-24 | Endpoint          | L   | 0.506      | -            | -                | -                | -         |   -12.64 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           25 |     2675 | 2024-04-22 | HAVU              | W   | 0.492      | -            | -                | -                | -         |     1.22 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           24 |     2724 | 2024-04-20 | ENCE Academy      | L   | 0.479      | -            | -                | -                | -         |   -13.82 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           23 |     2779 | 2024-04-19 | ECLOT             | L   | 0.471      | -            | -                | -                | -         |    -6.77 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           22 |     2869 | 2024-04-17 | Gaimin Gladiators | L   | 0.458      | -            | -                | -                | -         |   -10.33 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           21 |     2894 | 2024-04-16 | BLEED             | L   | 0.451      | -            | -                | -                | -         |   -10.58 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           20 |     2924 | 2024-04-14 | Passion UA        | W   | 0.439      | 0.371        | 0.173 (0.028)    | -                | -         |     4.74 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           19 |     3013 | 2024-04-10 | 3DMAX             | W   | 0.414      | 0.500        | 0.510 (0.106)    | 1.000 (0.207)    | -         |    12.27 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           18 |     3040 | 2024-04-10 | UNiTY             | W   | 0.411      | -            | -                | -                | -         |     3.23 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           17 |     3066 | 2024-04-09 | 9 Pandas          | W   | 0.407      | -            | -                | -                | -         |     3.81 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           16 |     3117 | 2024-04-08 | ALTERNATE aTTaX   | W   | 0.398      | -            | -                | -                | -         |     3.23 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           15 |     3168 | 2024-04-05 | Nexus             | W   | 0.380      | -            | -                | -                | -         |     1.93 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           14 |     3260 | 2024-04-03 | Rebels            | W   | 0.365      | -            | -                | -                | -         |     3.39 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           13 |     3303 | 2024-04-01 | Aurora            | W   | 0.354      | 0.500        | 0.420 (0.074)    | -                | -         |    10.61 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           12 |     3326 | 2024-03-29 | ex-Sprout         | W   | 0.334      | -            | -                | -                | -         |     0.17 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           11 |     3545 | 2024-03-17 | ECLOT             | L   | 0.254      | -            | -                | -                | -         |    -3.36 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|           10 |     3551 | 2024-03-17 | UNiTY             | W   | 0.253      | -            | -                | -                | 1 (0.253) |     2.17 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            9 |     3566 | 2024-03-16 | Sampi             | W   | 0.246      | -            | -                | -                | 1 (0.246) |     1.65 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            8 |     3578 | 2024-03-15 | UNiTY             | L   | 0.241      | -            | -                | -                | -         |    -5.57 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            7 |     3648 | 2024-03-13 | ALTERNATE aTTaX   | W   | 0.227      | -            | -                | -                | -         |     2.05 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            6 |     3701 | 2024-03-11 | brazylijski luz   | L   | 0.214      | -            | -                | -                | -         |    -5.91 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            5 |     3913 | 2024-03-03 | Gaimin Gladiators | L   | 0.160      | -            | -                | -                | -         |    -3.72 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            4 |     4206 | 2024-02-18 | Monte             | L   | 0.067      | -            | -                | -                | -         |    -1.50 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            3 |     4253 | 2024-02-16 | 500               | W   | 0.054      | -            | -                | -                | -         |     0.13 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            2 |     4256 | 2024-02-16 | PERA              | W   | 0.054      | -            | -                | -                | -         |     0.38 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
+|            1 |     4261 | 2024-02-16 | 500               | L   | 0.053      | -            | -                | -                | -         |    -1.54 | AJTT, beastik, NEOFRAG, oskar, SHOCK   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($11,886.69)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($11,882.02)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.04) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-13 |      0.841 | $545.00        | $458.36         |
-| 2024-06-09 |      0.814 | $10,000.00     | $8,135.42       |
-| 2024-06-02 |      0.767 | $1,306.00      | $1,001.57       |
-| 2024-06-02 |      0.767 | $2,000.00      | $1,533.33       |
-| 2024-03-17 |      0.254 | $2,984.00      | $758.02         |
+| 2024-06-13 |      0.841 | $545.00        | $458.20         |
+| 2024-06-09 |      0.813 | $10,000.00     | $8,132.64       |
+| 2024-06-02 |      0.767 | $1,306.00      | $1,001.21       |
+| 2024-06-02 |      0.766 | $2,000.00      | $1,532.78       |
+| 2024-03-17 |      0.254 | $2,984.00      | $757.19         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

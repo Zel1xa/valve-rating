@@ -6,22 +6,22 @@ Global Rank: [57](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [41]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1019.1<br />
+Final Rank Value:  1019.4<br />
 <br />
-Final Rank Value (1019.1) = Starting Rank Value (929.4) + Head To Head Adjustments (89.7)<br />
+Final Rank Value (1019.4) = Starting Rank Value (930.2) + Head To Head Adjustments (89.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.402[<sup>1</sup>](#table2)
 - Bounty Collected: 0.408[<sup>2</sup>](#table1)
-- Opponent Network: 0.219[<sup>2</sup>](#table1)
+- Opponent Network: 0.220[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.257<br />
+The average of these factors is 0.258<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 929.4
-- 400 + ( ( 0.257 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 929.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 930.2
+- 400 + ( ( 0.258 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 930.2
 
 
 #### Factors<br />
@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |       11 | 2024-08-06 | Nexus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.85 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           46 |       37 | 2024-08-05 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -5.72 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           45 |       47 | 2024-08-04 | TSM             | W   | 1.000      | 0.426        | 0.040 (0.017)    | 0.461 (0.196)    | 0 (0.000) |    14.43 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           44 |       61 | 2024-08-04 | Young Ninjas    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.48 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           43 |       80 | 2024-08-03 | MOUZ NXT        | W   | 1.000      | 0.435        | 0.139 (0.060)    | 0.962 (0.418)    | 0 (0.000) |    21.28 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           42 |      101 | 2024-08-03 | Insilio         | L   | 1.000      | -            | -                | -                | -         |   -16.89 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           41 |      215 | 2024-07-31 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.42 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           40 |      257 | 2024-07-30 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |   -12.37 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           39 |      280 | 2024-07-29 | CYBERSHOKE      | L   | 1.000      | -            | -                | -                | -         |   -18.39 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           38 |      292 | 2024-07-29 | NOM             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.81 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           37 |      330 | 2024-07-28 | TSM             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    15.76 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           36 |      343 | 2024-07-27 | CPH Wolves      | W   | 1.000      | 0.435        | -                | 0.353 (0.154)    | 0 (0.000) |    10.28 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           35 |      440 | 2024-07-24 | BC.Game         | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.307 (0.134)    | 0 (0.000) |    12.52 | buster, HObbit, lattykk, neaLaN, Ryujin |
-|           34 |     1335 | 2024-06-08 | Monte           | L   | 0.807      | -            | -                | -                | -         |   -11.53 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           33 |     1336 | 2024-06-08 | Quixal          | W   | 0.807      | -            | -                | -                | 0 (0.000) |     0.91 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           32 |     1346 | 2024-06-08 | AMKAL           | L   | 0.806      | -            | -                | -                | -         |    -6.37 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           31 |     1467 | 2024-06-06 | FAVBET          | L   | 0.793      | -            | -                | -                | -         |   -18.77 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           30 |     1645 | 2024-06-01 | Insilio         | L   | 0.760      | -            | -                | -                | -         |   -14.43 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           29 |     1703 | 2024-05-30 | V1dar           | W   | 0.747      | -            | -                | -                | -         |     1.51 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           28 |     1790 | 2024-05-26 | 9 Pandas        | L   | 0.719      | -            | -                | -                | -         |   -10.59 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           27 |     1815 | 2024-05-25 | FURIA           | W   | 0.712      | 0.435        | 0.284 (0.088)    | 0.468 (0.145)    | -         |    21.65 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           26 |     1839 | 2024-05-23 | ECSTATIC        | W   | 0.701      | -            | -                | -                | -         |     1.54 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           25 |     2013 | 2024-05-18 | SINNERS         | W   | 0.667      | 0.435        | 0.037 (0.011)    | 0.800 (0.232)    | -         |    12.90 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           24 |     2093 | 2024-05-16 | Zero Tenacity   | W   | 0.652      | 0.435        | 0.143 (0.041)    | 1.000 (0.283)    | -         |    12.82 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           23 |     2215 | 2024-05-13 | Permitta        | W   | 0.634      | 0.435        | 0.039 (0.011)    | 0.919 (0.253)    | -         |     8.60 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           22 |     2317 | 2024-05-09 | Sashi           | L   | 0.606      | -            | -                | -                | -         |    -4.12 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           21 |     2343 | 2024-05-08 | Nemiga          | W   | 0.598      | 0.396        | 0.314 (0.075)    | 0.704 (0.167)    | -         |    14.51 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           20 |     2353 | 2024-05-07 | BLEED           | W   | 0.594      | 0.396        | 0.089 (0.021)    | -                | -         |    12.12 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           19 |     2401 | 2024-05-05 | ex-Guild Eagles | W   | 0.579      | -            | -                | -                | -         |     6.37 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           18 |     2445 | 2024-05-02 | Soda            | W   | 0.560      | -            | -                | -                | -         |     0.78 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           17 |     2453 | 2024-05-02 | 500             | W   | 0.559      | -            | -                | -                | -         |     3.97 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           16 |     2516 | 2024-04-29 | ECLOT           | L   | 0.540      | -            | -                | -                | -         |    -3.41 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           15 |     2518 | 2024-04-29 | SINNERS         | L   | 0.540      | -            | -                | -                | -         |    -5.30 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           14 |     2534 | 2024-04-28 | Sangal          | L   | 0.534      | -            | -                | -                | -         |    -4.61 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           13 |     2566 | 2024-04-27 | Nemiga          | L   | 0.526      | -            | -                | -                | -         |    -3.89 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           12 |     2615 | 2024-04-25 | Permitta        | W   | 0.513      | 0.435        | -                | 0.919 (0.205)    | -         |     8.82 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           11 |     2654 | 2024-04-23 | HAVU            | W   | 0.500      | -            | -                | -                | -         |     3.08 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|           10 |     2693 | 2024-04-21 | Nemiga          | L   | 0.486      | -            | -                | -                | -         |    -3.64 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            9 |     2713 | 2024-04-20 | Portugal        | W   | 0.481      | -            | -                | -                | -         |     2.84 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            8 |     2885 | 2024-04-16 | ENCE Academy    | W   | 0.453      | -            | -                | -                | -         |     3.30 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            7 |     2913 | 2024-04-15 | Lazer Cats      | W   | 0.445      | -            | -                | -                | -         |     1.28 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            6 |     3077 | 2024-04-09 | Aurora          | L   | 0.406      | -            | -                | -                | -         |    -0.23 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            5 |     3098 | 2024-04-08 | 9 Pandas        | W   | 0.401      | -            | -                | -                | -         |     7.54 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            4 |     3110 | 2024-04-08 | Aurora          | W   | 0.399      | 0.143        | 0.420 (0.024)    | -                | -         |    12.39 | buster, Jyo, lattykk, neaLaN, Ryujin    |
-|            3 |     3702 | 2024-03-11 | Insilio         | L   | 0.214      | -            | -                | -                | -         |    -3.65 | buster, lattykk, neaLaN, oz1k, Ryujin   |
-|            2 |     3724 | 2024-03-10 | VP.Prodigy      | W   | 0.207      | -            | -                | -                | -         |     2.73 | buster, lattykk, neaLaN, oz1k, Ryujin   |
-|            1 |     3852 | 2024-03-05 | ARCRED          | L   | 0.175      | -            | -                | -                | -         |    -2.89 | buster, lattykk, neaLaN, oz1k, Ryujin   |
+|           47 |       12 | 2024-08-06 | Nexus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.85 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           46 |       38 | 2024-08-05 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -5.73 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           45 |       48 | 2024-08-04 | TSM             | W   | 1.000      | 0.426        | 0.040 (0.017)    | 0.500 (0.213)    | 0 (0.000) |    14.44 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           44 |       62 | 2024-08-04 | Young Ninjas    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.47 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           43 |       81 | 2024-08-03 | MOUZ NXT        | W   | 1.000      | 0.435        | 0.139 (0.060)    | 0.961 (0.418)    | 0 (0.000) |    21.27 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           42 |      102 | 2024-08-03 | Insilio         | L   | 1.000      | -            | -                | -                | -         |   -16.91 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           41 |      216 | 2024-07-31 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.42 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           40 |      258 | 2024-07-30 | ECLOT           | L   | 1.000      | -            | -                | -                | -         |   -12.39 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           39 |      281 | 2024-07-29 | CYBERSHOKE      | L   | 1.000      | -            | -                | -                | -         |   -18.41 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           38 |      293 | 2024-07-29 | NOM             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.80 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           37 |      331 | 2024-07-28 | TSM             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    15.76 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           36 |      344 | 2024-07-27 | CPH Wolves      | W   | 1.000      | 0.435        | -                | 0.354 (0.154)    | 0 (0.000) |    10.27 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           35 |      441 | 2024-07-24 | BC.Game         | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.307 (0.134)    | 0 (0.000) |    12.50 | buster, HObbit, lattykk, neaLaN, Ryujin |
+|           34 |     1336 | 2024-06-08 | Monte           | L   | 0.807      | -            | -                | -                | -         |   -11.54 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           33 |     1337 | 2024-06-08 | Quixal          | W   | 0.806      | -            | -                | -                | 0 (0.000) |     0.91 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           32 |     1347 | 2024-06-08 | AMKAL           | L   | 0.806      | -            | -                | -                | -         |    -6.38 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           31 |     1468 | 2024-06-06 | FAVBET          | L   | 0.792      | -            | -                | -                | -         |   -18.77 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           30 |     1646 | 2024-06-01 | Insilio         | L   | 0.760      | -            | -                | -                | -         |   -14.44 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           29 |     1704 | 2024-05-30 | V1dar           | W   | 0.746      | -            | -                | -                | -         |     1.51 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           28 |     1791 | 2024-05-26 | 9 Pandas        | L   | 0.719      | -            | -                | -                | -         |   -10.60 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           27 |     1816 | 2024-05-25 | FURIA           | W   | 0.712      | 0.435        | 0.284 (0.088)    | 0.468 (0.145)    | -         |    21.64 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           26 |     1840 | 2024-05-23 | ECSTATIC        | W   | 0.700      | -            | -                | -                | -         |     1.54 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           25 |     2014 | 2024-05-18 | SINNERS         | W   | 0.666      | 0.435        | 0.037 (0.011)    | 0.800 (0.232)    | -         |    12.88 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           24 |     2094 | 2024-05-16 | Zero Tenacity   | W   | 0.652      | 0.435        | 0.143 (0.040)    | 1.000 (0.283)    | -         |    12.80 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           23 |     2216 | 2024-05-13 | Permitta        | W   | 0.634      | 0.435        | 0.039 (0.011)    | 0.919 (0.253)    | -         |     8.58 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           22 |     2318 | 2024-05-09 | Sashi           | L   | 0.606      | -            | -                | -                | -         |    -4.13 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           21 |     2344 | 2024-05-08 | Nemiga          | W   | 0.598      | 0.396        | 0.314 (0.075)    | 0.704 (0.167)    | -         |    14.49 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           20 |     2354 | 2024-05-07 | BLEED           | W   | 0.593      | 0.396        | 0.089 (0.021)    | -                | -         |    12.09 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           19 |     2402 | 2024-05-05 | ex-Guild Eagles | W   | 0.578      | -            | -                | -                | -         |     6.35 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           18 |     2446 | 2024-05-02 | Soda            | W   | 0.560      | -            | -                | -                | -         |     0.78 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           17 |     2454 | 2024-05-02 | 500             | W   | 0.559      | -            | -                | -                | -         |     3.96 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           16 |     2517 | 2024-04-29 | ECLOT           | L   | 0.540      | -            | -                | -                | -         |    -3.42 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           15 |     2519 | 2024-04-29 | SINNERS         | L   | 0.539      | -            | -                | -                | -         |    -5.31 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           14 |     2535 | 2024-04-28 | Sangal          | L   | 0.534      | -            | -                | -                | -         |    -4.62 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           13 |     2567 | 2024-04-27 | Nemiga          | L   | 0.526      | -            | -                | -                | -         |    -3.90 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           12 |     2616 | 2024-04-25 | Permitta        | W   | 0.513      | 0.435        | -                | 0.919 (0.205)    | -         |     8.80 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           11 |     2655 | 2024-04-23 | HAVU            | W   | 0.499      | -            | -                | -                | -         |     3.07 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|           10 |     2694 | 2024-04-21 | Nemiga          | L   | 0.485      | -            | -                | -                | -         |    -3.65 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            9 |     2714 | 2024-04-20 | Portugal        | W   | 0.480      | -            | -                | -                | -         |     2.83 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            8 |     2886 | 2024-04-16 | ENCE Academy    | W   | 0.453      | -            | -                | -                | -         |     3.29 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            7 |     2914 | 2024-04-15 | Lazer Cats      | W   | 0.444      | -            | -                | -                | -         |     1.27 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            6 |     3078 | 2024-04-09 | Aurora          | L   | 0.406      | -            | -                | -                | -         |    -0.23 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            5 |     3099 | 2024-04-08 | 9 Pandas        | W   | 0.400      | -            | -                | -                | -         |     7.52 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            4 |     3111 | 2024-04-08 | Aurora          | W   | 0.399      | 0.143        | 0.420 (0.024)    | -                | -         |    12.38 | buster, Jyo, lattykk, neaLaN, Ryujin    |
+|            3 |     3703 | 2024-03-11 | Insilio         | L   | 0.213      | -            | -                | -                | -         |    -3.66 | buster, lattykk, neaLaN, oz1k, Ryujin   |
+|            2 |     3725 | 2024-03-10 | VP.Prodigy      | W   | 0.206      | -            | -                | -                | -         |     2.72 | buster, lattykk, neaLaN, oz1k, Ryujin   |
+|            1 |     3853 | 2024-03-05 | ARCRED          | L   | 0.174      | -            | -                | -                | -         |    -2.89 | buster, lattykk, neaLaN, oz1k, Ryujin   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($10,448.06)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($10,444.44)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -98,8 +98,8 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-06 |      1.000 | $2,000.00      | $2,000.00       |
-| 2024-05-26 |      0.720 | $5,000.00      | $3,601.39       |
-| 2024-05-09 |      0.606 | $8,000.00      | $4,846.67       |
+| 2024-05-26 |      0.720 | $5,000.00      | $3,600.00       |
+| 2024-05-09 |      0.606 | $8,000.00      | $4,844.44       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -37,94 +37,94 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           81 |      146 | 2024-08-01 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -15.72 | card, fokiu, jz, stormzyn, t9rnay      |
-|           80 |      346 | 2024-07-27 | Bad News Chickens | L   | 1.000      | -            | -                | -                | -         |   -26.11 | card, fokiu, jz, stormzyn, t9rnay      |
-|           79 |      361 | 2024-07-26 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.80 | card, fokiu, jz, stormzyn, t9rnay      |
-|           78 |      390 | 2024-07-25 | ODDIK             | W   | 1.000      | 0.143        | 0.099 (0.014)    | -                | 0 (0.000) |    22.89 | card, fokiu, jz, stormzyn, t9rnay      |
-|           77 |      397 | 2024-07-25 | Bounty Hunters    | W   | 1.000      | -            | -                | -                | 0 (0.000) |    22.13 | card, fokiu, jz, stormzyn, t9rnay      |
-|           76 |      437 | 2024-07-24 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.89 | card, fokiu, jz, stormzyn, t9rnay      |
-|           75 |      442 | 2024-07-24 | Bad News Chickens | L   | 1.000      | -            | -                | -                | -         |   -26.17 | card, fokiu, jz, stormzyn, t9rnay      |
-|           74 |      466 | 2024-07-23 | Sharks            | L   | 1.000      | -            | -                | -                | -         |    -9.18 | card, fokiu, jz, stormzyn, t9rnay      |
-|           73 |      527 | 2024-07-21 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -13.78 | card, fokiu, jz, stormzyn, t9rnay      |
-|           72 |      562 | 2024-07-20 | KRÜ               | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.479 (0.160)    | 0 (0.000) |    15.90 | card, fokiu, jz, stormzyn, t9rnay      |
-|           71 |      597 | 2024-07-19 | BESTIA            | W   | 1.000      | 0.333        | 0.096 (0.032)    | 0.776 (0.259)    | 0 (0.000) |    21.83 | card, fokiu, jz, stormzyn, t9rnay      |
-|           70 |      708 | 2024-07-17 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.92 | card, fokiu, jz, stormzyn, t9rnay      |
-|           69 |      725 | 2024-07-17 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.50 | card, fokiu, jz, stormzyn, t9rnay      |
-|           68 |      769 | 2024-07-16 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -11.79 | card, fokiu, jz, stormzyn, t9rnay      |
-|           67 |      873 | 2024-07-12 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |   -12.95 | card, fokiu, jz, stormzyn, t9rnay      |
-|           66 |      883 | 2024-07-11 | Case              | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.778 (0.288)    | 0 (0.000) |    18.12 | card, fokiu, jz, stormzyn, t9rnay      |
-|           65 |      890 | 2024-07-11 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | 0.476 (0.176)    | 0 (0.000) |    20.02 | card, fokiu, jz, stormzyn, t9rnay      |
-|           64 |      902 | 2024-07-10 | Vikings KR        | W   | 1.000      | 0.371        | -                | 0.490 (0.182)    | 0 (0.000) |    18.23 | card, fokiu, jz, stormzyn, t9rnay      |
-|           63 |      909 | 2024-07-10 | 9z Academy        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.70 | card, fokiu, jz, stormzyn, t9rnay      |
-|           62 |      932 | 2024-07-09 | Case              | L   | 1.000      | -            | -                | -                | -         |   -11.69 | card, fokiu, jz, stormzyn, t9rnay      |
-|           61 |      967 | 2024-07-06 | ODDIK             | L   | 0.994      | -            | -                | -                | -         |    -8.21 | card, fokiu, jz, stormzyn, t9rnay      |
-|           60 |      999 | 2024-06-27 | Bounty Hunters    | L   | 0.935      | -            | -                | -                | -         |    -9.49 | card, fokiu, jz, stormzyn, t9rnay      |
-|           59 |     1219 | 2024-06-10 | ODDIK             | L   | 0.821      | -            | -                | -                | -         |    -7.83 | card, fokiu, jz, stormzyn, t9rnay      |
-|           58 |     1261 | 2024-06-09 | Solid             | W   | 0.814      | 0.450        | 0.024 (0.009)    | 0.807 (0.296)    | -         |    15.79 | card, fokiu, jz, stormzyn, t9rnay      |
-|           57 |     1309 | 2024-06-08 | ODDIK             | L   | 0.809      | -            | -                | -                | -         |    -7.95 | card, fokiu, jz, stormzyn, t9rnay      |
-|           56 |     1318 | 2024-06-08 | Bounty Hunters    | L   | 0.808      | -            | -                | -                | -         |    -8.53 | card, fokiu, jz, stormzyn, t9rnay      |
-|           55 |     1401 | 2024-06-07 | Galorys           | W   | 0.800      | 0.450        | 0.030 (0.011)    | 0.530 (0.191)    | -         |    15.42 | card, fokiu, jz, stormzyn, t9rnay      |
-|           54 |     1455 | 2024-06-06 | Fluxo             | L   | 0.794      | -            | -                | -                | -         |    -4.22 | card, fokiu, jz, stormzyn, t9rnay      |
-|           53 |     1581 | 2024-06-03 | Vikings KR        | W   | 0.776      | 0.371        | -                | 0.490 (0.141)    | -         |    13.12 | card, fokiu, jz, stormzyn, t9rnay      |
-|           52 |     1646 | 2024-06-01 | ex-Corinthians    | W   | 0.760      | -            | -                | -                | -         |     5.26 | card, fokiu, jz, stormzyn, t9rnay      |
-|           51 |     1689 | 2024-05-30 | Hype              | L   | 0.749      | -            | -                | -                | -         |    -8.46 | card, fokiu, jz, stormzyn, t9rnay      |
-|           50 |     1741 | 2024-05-28 | Yawara            | W   | 0.735      | -            | -                | -                | -         |     4.21 | card, fokiu, jz, stormzyn, t9rnay      |
-|           49 |     1866 | 2024-05-22 | Solid             | L   | 0.696      | -            | -                | -                | -         |    -7.76 | card, fokiu, jz, stormzyn, t9rnay      |
-|           48 |     1869 | 2024-05-22 | Solid             | L   | 0.695      | -            | -                | -                | -         |    -8.21 | card, fokiu, stormzyn, t9rnay, zede    |
-|           47 |     1946 | 2024-05-20 | 9z                | L   | 0.682      | -            | -                | -                | -         |    -0.53 | card, fokiu, stormzyn, t9rnay, zede    |
-|           46 |     1949 | 2024-05-20 | 9z                | L   | 0.682      | -            | -                | -                | -         |    -0.53 | card, fokiu, stormzyn, t9rnay, zede    |
-|           45 |     2069 | 2024-05-16 | Sharks            | L   | 0.655      | -            | -                | -                | -         |    -4.83 | card, fokiu, stormzyn, t9rnay, zede    |
-|           44 |     2072 | 2024-05-16 | Sharks            | L   | 0.655      | -            | -                | -                | -         |    -5.03 | card, fokiu, stormzyn, t9rnay, zede    |
-|           43 |     2168 | 2024-05-14 | Imperial          | L   | 0.643      | -            | -                | -                | -         |    -1.37 | card, fokiu, stormzyn, t9rnay, zede    |
-|           42 |     2171 | 2024-05-14 | Imperial          | L   | 0.642      | -            | -                | -                | -         |    -1.39 | card, fokiu, stormzyn, t9rnay, zede    |
-|           41 |     2184 | 2024-05-14 | Hype              | L   | 0.641      | -            | -                | -                | -         |    -8.04 | card, fokiu, stormzyn, t9rnay, zede    |
-|           40 |     2217 | 2024-05-13 | Sharks            | L   | 0.634      | -            | -                | -                | -         |    -5.74 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           39 |     2265 | 2024-05-11 | Sharks            | L   | 0.621      | -            | -                | -                | -         |    -5.89 | card, fokiu, stormzyn, t9rnay, zede    |
-|           38 |     2316 | 2024-05-09 | KRÜ               | L   | 0.606      | -            | -                | -                | -         |    -7.41 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           37 |     2349 | 2024-05-07 | paiN              | L   | 0.595      | -            | -                | -                | -         |    -0.77 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           36 |     2369 | 2024-05-06 | paiN              | L   | 0.588      | -            | -                | -                | -         |    -0.77 | fokiu, jz, saadzin, stormzyn, zede     |
-|           35 |     2370 | 2024-05-06 | paiN              | L   | 0.588      | -            | -                | -                | -         |    -0.77 | fokiu, jz, saadzin, stormzyn, zede     |
-|           34 |     2392 | 2024-05-05 | Galorys           | W   | 0.580      | 0.435        | 0.030 (0.007)    | 0.530 (0.134)    | -         |    11.09 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           33 |     2577 | 2024-04-26 | ODDIK             | L   | 0.522      | -            | -                | -                | -         |    -5.05 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           32 |     2578 | 2024-04-26 | ODDIK             | L   | 0.521      | -            | -                | -                | -         |    -5.25 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           31 |     2842 | 2024-04-17 | ODDIK             | L   | 0.462      | -            | -                | -                | -         |    -4.99 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           30 |     2878 | 2024-04-16 | Sharks            | W   | 0.456      | -            | -                | -                | -         |     5.96 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           29 |     2945 | 2024-04-12 | RED Canids        | L   | 0.427      | -            | -                | -                | -         |    -2.61 | fokiu, saadzin, stormzyn, t9rnay, zede |
-|           28 |     3054 | 2024-04-09 | RED Canids        | L   | 0.409      | -            | -                | -                | -         |    -2.56 | fokiu, jz, saadzin, stormzyn, zede     |
-|           27 |     3059 | 2024-04-09 | RED Canids        | L   | 0.409      | -            | -                | -                | -         |    -2.62 | fokiu, jz, saadzin, stormzyn, zede     |
-|           26 |     3092 | 2024-04-08 | MIBR              | L   | 0.402      | -            | -                | -                | -         |    -0.51 | fokiu, jz, saadzin, stormzyn, zede     |
-|           25 |     3148 | 2024-04-06 | RED Canids        | W   | 0.387      | 0.435        | 0.076 (0.013)    | 0.732 (0.123)    | -         |     9.84 | fokiu, jz, saadzin, stormzyn, zede     |
-|           24 |     3365 | 2024-03-27 | BESTIA            | W   | 0.322      | 0.450        | 0.096 (0.014)    | -                | -         |     7.50 | fokiu, jz, saadzin, stormzyn, zede     |
-|           23 |     3369 | 2024-03-27 | BESTIA            | L   | 0.322      | -            | -                | -                | -         |    -2.68 | fokiu, jz, saadzin, stormzyn, zede     |
-|           22 |     3602 | 2024-03-14 | Galorys           | L   | 0.236      | -            | -                | -                | -         |    -3.09 | fokiu, jz, saadzin, stormzyn, zede     |
-|           21 |     3604 | 2024-03-14 | Galorys           | L   | 0.236      | -            | -                | -                | -         |    -3.15 | fokiu, jz, saadzin, stormzyn, zede     |
-|           20 |     3699 | 2024-03-11 | Solid             | L   | 0.214      | -            | -                | -                | -         |    -2.85 | fokiu, jz, saadzin, stormzyn, zede     |
-|           19 |     3734 | 2024-03-09 | RED Canids        | L   | 0.202      | -            | -                | -                | -         |    -1.35 | fokiu, jz, saadzin, stormzyn, zede     |
-|           18 |     3794 | 2024-03-07 | Solid             | W   | 0.187      | -            | -                | -                | -         |     3.46 | fokiu, jz, saadzin, stormzyn, zede     |
-|           17 |     3848 | 2024-03-05 | 2GAME             | L   | 0.176      | -            | -                | -                | -         |    -3.92 | fokiu, jz, saadzin, stormzyn, zede     |
-|           16 |     3850 | 2024-03-05 | 2GAME             | L   | 0.176      | -            | -                | -                | -         |    -3.96 | fokiu, jz, saadzin, stormzyn, zede     |
-|           15 |     4055 | 2024-02-24 | Corinthians       | W   | 0.109      | -            | -                | -                | -         |     0.47 | fokiu, jz, saadzin, stormzyn, zede     |
-|           14 |     4062 | 2024-02-24 | Corinthians       | W   | 0.109      | -            | -                | -                | -         |     0.47 | fokiu, jz, saadzin, stormzyn, zede     |
-|           13 |     4115 | 2024-02-21 | Fluxo             | W   | 0.089      | -            | -                | -                | -         |     2.14 | fokiu, jz, saadzin, stormzyn, zede     |
-|           12 |     4120 | 2024-02-21 | Fluxo             | L   | 0.089      | -            | -                | -                | -         |    -0.67 | fokiu, jz, saadzin, stormzyn, zede     |
-|           11 |     4125 | 2024-02-21 | BESTIA            | L   | 0.087      | -            | -                | -                | -         |    -0.74 | fokiu, jz, saadzin, stormzyn, zede     |
-|           10 |     4154 | 2024-02-20 | Case              | L   | 0.082      | -            | -                | -                | -         |    -0.94 | fokiu, jz, saadzin, stormzyn, zede     |
-|            9 |     4219 | 2024-02-17 | Sharks            | W   | 0.062      | -            | -                | -                | -         |     1.32 | fokiu, jz, saadzin, stormzyn, zede     |
-|            8 |     4250 | 2024-02-16 | Solid             | L   | 0.055      | -            | -                | -                | -         |    -0.72 | fokiu, jz, saadzin, stormzyn, zede     |
-|            7 |     4259 | 2024-02-16 | Sharks            | L   | 0.054      | -            | -                | -                | -         |    -0.56 | fokiu, jz, saadzin, stormzyn, zede     |
-|            6 |     4278 | 2024-02-15 | Fluxo             | L   | 0.048      | -            | -                | -                | -         |    -0.37 | fokiu, jz, saadzin, stormzyn, zede     |
-|            5 |     4308 | 2024-02-14 | Hawks             | W   | 0.042      | -            | -                | -                | -         |     0.20 | fokiu, jz, saadzin, stormzyn, zede     |
-|            4 |     4348 | 2024-02-13 | Case              | L   | 0.036      | -            | -                | -                | -         |    -0.42 | fokiu, jz, saadzin, stormzyn, zede     |
-|            3 |     4353 | 2024-02-13 | Case              | W   | 0.036      | -            | -                | -                | -         |     0.71 | fokiu, jz, saadzin, stormzyn, zede     |
-|            2 |     4359 | 2024-02-13 | Corinthians       | W   | 0.034      | -            | -                | -                | -         |     0.14 | fokiu, jz, saadzin, stormzyn, zede     |
-|            1 |     4370 | 2024-02-12 | Corinthians       | W   | 0.028      | -            | -                | -                | -         |     0.12 | fokiu, jz, saadzin, stormzyn, zede     |
+|           81 |      147 | 2024-08-01 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -15.72 | card, fokiu, jz, stormzyn, t9rnay      |
+|           80 |      347 | 2024-07-27 | Bad News Chickens | L   | 1.000      | -            | -                | -                | -         |   -26.11 | card, fokiu, jz, stormzyn, t9rnay      |
+|           79 |      362 | 2024-07-26 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.80 | card, fokiu, jz, stormzyn, t9rnay      |
+|           78 |      391 | 2024-07-25 | ODDIK             | W   | 1.000      | 0.143        | 0.099 (0.014)    | -                | 0 (0.000) |    22.88 | card, fokiu, jz, stormzyn, t9rnay      |
+|           77 |      398 | 2024-07-25 | Bounty Hunters    | W   | 1.000      | -            | -                | -                | 0 (0.000) |    22.13 | card, fokiu, jz, stormzyn, t9rnay      |
+|           76 |      438 | 2024-07-24 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.89 | card, fokiu, jz, stormzyn, t9rnay      |
+|           75 |      443 | 2024-07-24 | Bad News Chickens | L   | 1.000      | -            | -                | -                | -         |   -26.17 | card, fokiu, jz, stormzyn, t9rnay      |
+|           74 |      467 | 2024-07-23 | Sharks            | L   | 1.000      | -            | -                | -                | -         |    -9.18 | card, fokiu, jz, stormzyn, t9rnay      |
+|           73 |      528 | 2024-07-21 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -13.78 | card, fokiu, jz, stormzyn, t9rnay      |
+|           72 |      563 | 2024-07-20 | KRÜ               | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.479 (0.160)    | 0 (0.000) |    15.90 | card, fokiu, jz, stormzyn, t9rnay      |
+|           71 |      598 | 2024-07-19 | BESTIA            | W   | 1.000      | 0.333        | 0.096 (0.032)    | 0.776 (0.259)    | 0 (0.000) |    21.83 | card, fokiu, jz, stormzyn, t9rnay      |
+|           70 |      709 | 2024-07-17 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |    11.92 | card, fokiu, jz, stormzyn, t9rnay      |
+|           69 |      726 | 2024-07-17 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.50 | card, fokiu, jz, stormzyn, t9rnay      |
+|           68 |      770 | 2024-07-16 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -11.79 | card, fokiu, jz, stormzyn, t9rnay      |
+|           67 |      874 | 2024-07-12 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |   -12.95 | card, fokiu, jz, stormzyn, t9rnay      |
+|           66 |      884 | 2024-07-11 | Case              | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.778 (0.288)    | 0 (0.000) |    18.12 | card, fokiu, jz, stormzyn, t9rnay      |
+|           65 |      891 | 2024-07-11 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | 0.476 (0.176)    | 0 (0.000) |    20.01 | card, fokiu, jz, stormzyn, t9rnay      |
+|           64 |      903 | 2024-07-10 | Vikings KR        | W   | 1.000      | 0.371        | -                | 0.490 (0.182)    | 0 (0.000) |    18.22 | card, fokiu, jz, stormzyn, t9rnay      |
+|           63 |      910 | 2024-07-10 | 9z Academy        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.70 | card, fokiu, jz, stormzyn, t9rnay      |
+|           62 |      933 | 2024-07-09 | Case              | L   | 1.000      | -            | -                | -                | -         |   -11.69 | card, fokiu, jz, stormzyn, t9rnay      |
+|           61 |      968 | 2024-07-06 | ODDIK             | L   | 0.994      | -            | -                | -                | -         |    -8.21 | card, fokiu, jz, stormzyn, t9rnay      |
+|           60 |     1000 | 2024-06-27 | Bounty Hunters    | L   | 0.934      | -            | -                | -                | -         |    -9.48 | card, fokiu, jz, stormzyn, t9rnay      |
+|           59 |     1220 | 2024-06-10 | ODDIK             | L   | 0.821      | -            | -                | -                | -         |    -7.83 | card, fokiu, jz, stormzyn, t9rnay      |
+|           58 |     1262 | 2024-06-09 | Solid             | W   | 0.814      | 0.450        | 0.024 (0.009)    | 0.807 (0.295)    | -         |    15.78 | card, fokiu, jz, stormzyn, t9rnay      |
+|           57 |     1310 | 2024-06-08 | ODDIK             | L   | 0.809      | -            | -                | -                | -         |    -7.94 | card, fokiu, jz, stormzyn, t9rnay      |
+|           56 |     1319 | 2024-06-08 | Bounty Hunters    | L   | 0.808      | -            | -                | -                | -         |    -8.53 | card, fokiu, jz, stormzyn, t9rnay      |
+|           55 |     1402 | 2024-06-07 | Galorys           | W   | 0.799      | 0.450        | 0.030 (0.011)    | 0.530 (0.191)    | -         |    15.42 | card, fokiu, jz, stormzyn, t9rnay      |
+|           54 |     1456 | 2024-06-06 | Fluxo             | L   | 0.794      | -            | -                | -                | -         |    -4.22 | card, fokiu, jz, stormzyn, t9rnay      |
+|           53 |     1582 | 2024-06-03 | Vikings KR        | W   | 0.776      | 0.371        | -                | 0.490 (0.141)    | -         |    13.11 | card, fokiu, jz, stormzyn, t9rnay      |
+|           52 |     1647 | 2024-06-01 | ex-Corinthians    | W   | 0.760      | -            | -                | -                | -         |     5.26 | card, fokiu, jz, stormzyn, t9rnay      |
+|           51 |     1690 | 2024-05-30 | Hype              | L   | 0.749      | -            | -                | -                | -         |    -8.46 | card, fokiu, jz, stormzyn, t9rnay      |
+|           50 |     1742 | 2024-05-28 | Yawara            | W   | 0.735      | -            | -                | -                | -         |     4.21 | card, fokiu, jz, stormzyn, t9rnay      |
+|           49 |     1867 | 2024-05-22 | Solid             | L   | 0.695      | -            | -                | -                | -         |    -7.76 | card, fokiu, jz, stormzyn, t9rnay      |
+|           48 |     1870 | 2024-05-22 | Solid             | L   | 0.695      | -            | -                | -                | -         |    -8.21 | card, fokiu, stormzyn, t9rnay, zede    |
+|           47 |     1947 | 2024-05-20 | 9z                | L   | 0.682      | -            | -                | -                | -         |    -0.53 | card, fokiu, stormzyn, t9rnay, zede    |
+|           46 |     1950 | 2024-05-20 | 9z                | L   | 0.682      | -            | -                | -                | -         |    -0.53 | card, fokiu, stormzyn, t9rnay, zede    |
+|           45 |     2070 | 2024-05-16 | Sharks            | L   | 0.655      | -            | -                | -                | -         |    -4.83 | card, fokiu, stormzyn, t9rnay, zede    |
+|           44 |     2073 | 2024-05-16 | Sharks            | L   | 0.655      | -            | -                | -                | -         |    -5.03 | card, fokiu, stormzyn, t9rnay, zede    |
+|           43 |     2169 | 2024-05-14 | Imperial          | L   | 0.642      | -            | -                | -                | -         |    -1.37 | card, fokiu, stormzyn, t9rnay, zede    |
+|           42 |     2172 | 2024-05-14 | Imperial          | L   | 0.642      | -            | -                | -                | -         |    -1.39 | card, fokiu, stormzyn, t9rnay, zede    |
+|           41 |     2185 | 2024-05-14 | Hype              | L   | 0.641      | -            | -                | -                | -         |    -8.04 | card, fokiu, stormzyn, t9rnay, zede    |
+|           40 |     2218 | 2024-05-13 | Sharks            | L   | 0.634      | -            | -                | -                | -         |    -5.74 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           39 |     2266 | 2024-05-11 | Sharks            | L   | 0.621      | -            | -                | -                | -         |    -5.89 | card, fokiu, stormzyn, t9rnay, zede    |
+|           38 |     2317 | 2024-05-09 | KRÜ               | L   | 0.606      | -            | -                | -                | -         |    -7.41 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           37 |     2350 | 2024-05-07 | paiN              | L   | 0.594      | -            | -                | -                | -         |    -0.77 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           36 |     2370 | 2024-05-06 | paiN              | L   | 0.588      | -            | -                | -                | -         |    -0.77 | fokiu, jz, saadzin, stormzyn, zede     |
+|           35 |     2371 | 2024-05-06 | paiN              | L   | 0.587      | -            | -                | -                | -         |    -0.77 | fokiu, jz, saadzin, stormzyn, zede     |
+|           34 |     2393 | 2024-05-05 | Galorys           | W   | 0.579      | 0.435        | 0.030 (0.007)    | 0.530 (0.133)    | -         |    11.08 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           33 |     2578 | 2024-04-26 | ODDIK             | L   | 0.522      | -            | -                | -                | -         |    -5.05 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           32 |     2579 | 2024-04-26 | ODDIK             | L   | 0.521      | -            | -                | -                | -         |    -5.25 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           31 |     2843 | 2024-04-17 | ODDIK             | L   | 0.461      | -            | -                | -                | -         |    -4.99 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           30 |     2879 | 2024-04-16 | Sharks            | W   | 0.455      | -            | -                | -                | -         |     5.96 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           29 |     2946 | 2024-04-12 | RED Canids        | L   | 0.427      | -            | -                | -                | -         |    -2.61 | fokiu, saadzin, stormzyn, t9rnay, zede |
+|           28 |     3055 | 2024-04-09 | RED Canids        | L   | 0.409      | -            | -                | -                | -         |    -2.56 | fokiu, jz, saadzin, stormzyn, zede     |
+|           27 |     3060 | 2024-04-09 | RED Canids        | L   | 0.408      | -            | -                | -                | -         |    -2.62 | fokiu, jz, saadzin, stormzyn, zede     |
+|           26 |     3093 | 2024-04-08 | MIBR              | L   | 0.402      | -            | -                | -                | -         |    -0.51 | fokiu, jz, saadzin, stormzyn, zede     |
+|           25 |     3149 | 2024-04-06 | RED Canids        | W   | 0.387      | 0.435        | 0.076 (0.013)    | 0.732 (0.123)    | -         |     9.83 | fokiu, jz, saadzin, stormzyn, zede     |
+|           24 |     3366 | 2024-03-27 | BESTIA            | W   | 0.322      | 0.450        | 0.096 (0.014)    | -                | -         |     7.49 | fokiu, jz, saadzin, stormzyn, zede     |
+|           23 |     3370 | 2024-03-27 | BESTIA            | L   | 0.322      | -            | -                | -                | -         |    -2.68 | fokiu, jz, saadzin, stormzyn, zede     |
+|           22 |     3603 | 2024-03-14 | Galorys           | L   | 0.236      | -            | -                | -                | -         |    -3.08 | fokiu, jz, saadzin, stormzyn, zede     |
+|           21 |     3605 | 2024-03-14 | Galorys           | L   | 0.235      | -            | -                | -                | -         |    -3.14 | fokiu, jz, saadzin, stormzyn, zede     |
+|           20 |     3700 | 2024-03-11 | Solid             | L   | 0.214      | -            | -                | -                | -         |    -2.85 | fokiu, jz, saadzin, stormzyn, zede     |
+|           19 |     3735 | 2024-03-09 | RED Canids        | L   | 0.202      | -            | -                | -                | -         |    -1.35 | fokiu, jz, saadzin, stormzyn, zede     |
+|           18 |     3795 | 2024-03-07 | Solid             | W   | 0.187      | -            | -                | -                | -         |     3.45 | fokiu, jz, saadzin, stormzyn, zede     |
+|           17 |     3849 | 2024-03-05 | 2GAME             | L   | 0.176      | -            | -                | -                | -         |    -3.91 | fokiu, jz, saadzin, stormzyn, zede     |
+|           16 |     3851 | 2024-03-05 | 2GAME             | L   | 0.175      | -            | -                | -                | -         |    -3.95 | fokiu, jz, saadzin, stormzyn, zede     |
+|           15 |     4056 | 2024-02-24 | Corinthians       | W   | 0.109      | -            | -                | -                | -         |     0.46 | fokiu, jz, saadzin, stormzyn, zede     |
+|           14 |     4063 | 2024-02-24 | Corinthians       | W   | 0.109      | -            | -                | -                | -         |     0.47 | fokiu, jz, saadzin, stormzyn, zede     |
+|           13 |     4116 | 2024-02-21 | Fluxo             | W   | 0.089      | -            | -                | -                | -         |     2.13 | fokiu, jz, saadzin, stormzyn, zede     |
+|           12 |     4121 | 2024-02-21 | Fluxo             | L   | 0.089      | -            | -                | -                | -         |    -0.67 | fokiu, jz, saadzin, stormzyn, zede     |
+|           11 |     4126 | 2024-02-21 | BESTIA            | L   | 0.087      | -            | -                | -                | -         |    -0.74 | fokiu, jz, saadzin, stormzyn, zede     |
+|           10 |     4155 | 2024-02-20 | Case              | L   | 0.081      | -            | -                | -                | -         |    -0.94 | fokiu, jz, saadzin, stormzyn, zede     |
+|            9 |     4220 | 2024-02-17 | Sharks            | W   | 0.062      | -            | -                | -                | -         |     1.31 | fokiu, jz, saadzin, stormzyn, zede     |
+|            8 |     4251 | 2024-02-16 | Solid             | L   | 0.054      | -            | -                | -                | -         |    -0.72 | fokiu, jz, saadzin, stormzyn, zede     |
+|            7 |     4260 | 2024-02-16 | Sharks            | L   | 0.053      | -            | -                | -                | -         |    -0.55 | fokiu, jz, saadzin, stormzyn, zede     |
+|            6 |     4279 | 2024-02-15 | Fluxo             | L   | 0.048      | -            | -                | -                | -         |    -0.37 | fokiu, jz, saadzin, stormzyn, zede     |
+|            5 |     4309 | 2024-02-14 | Hawks             | W   | 0.042      | -            | -                | -                | -         |     0.20 | fokiu, jz, saadzin, stormzyn, zede     |
+|            4 |     4349 | 2024-02-13 | Case              | L   | 0.036      | -            | -                | -                | -         |    -0.41 | fokiu, jz, saadzin, stormzyn, zede     |
+|            3 |     4354 | 2024-02-13 | Case              | W   | 0.035      | -            | -                | -                | -         |     0.70 | fokiu, jz, saadzin, stormzyn, zede     |
+|            2 |     4360 | 2024-02-13 | Corinthians       | W   | 0.034      | -            | -                | -                | -         |     0.14 | fokiu, jz, saadzin, stormzyn, zede     |
+|            1 |     4371 | 2024-02-12 | Corinthians       | W   | 0.027      | -            | -                | -                | -         |     0.12 | fokiu, jz, saadzin, stormzyn, zede     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,244.47)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($2,244.39)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -133,7 +133,7 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-07-22 |      1.000 | $1,000.00      | $1,000.00       |
 | 2024-07-14 |      1.000 | $1,000.00      | $1,000.00       |
-| 2024-06-09 |      0.815 | $300.00        | $244.47         |
+| 2024-06-09 |      0.815 | $300.00        | $244.39         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

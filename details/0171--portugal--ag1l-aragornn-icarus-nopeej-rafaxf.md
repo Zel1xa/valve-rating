@@ -8,7 +8,7 @@ Regional Rank: [109]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  664.3<br />
 <br />
-Final Rank Value (664.3) = Starting Rank Value (683.6) + Head To Head Adjustments (-19.3)<br />
+Final Rank Value (664.3) = Starting Rank Value (683.5) + Head To Head Adjustments (-19.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.138<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 683.6
-- 400 + ( ( 0.138 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 683.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 683.5
+- 400 + ( ( 0.138 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 683.5
 
 
 #### Factors<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |      849 | 2024-07-14 | Sampi            | L   | 1.000      | -            | -                | -                | -         |    -6.44 | Ag1l, aragornN, Icarus, NOPEEJ, rafaxF |
-|           15 |      860 | 2024-07-13 | The Suspect      | L   | 1.000      | -            | -                | -                | -         |    -9.04 | Ag1l, aragornN, Icarus, NOPEEJ, rafaxF |
-|           14 |      951 | 2024-07-08 | Norway           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |    16.34 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
-|           13 |     1633 | 2024-06-01 | FLuffy Gangsters | L   | 0.761      | -            | -                | -                | -         |   -15.30 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|           12 |     1694 | 2024-05-30 | RUBY             | L   | 0.748      | -            | -                | -                | -         |    -4.40 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|           11 |     1731 | 2024-05-29 | TNL              | W   | 0.740      | 0.372        | 0.000 (0.000)    | 0.038 (0.011)    | 0 (0.000) |     6.30 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|           10 |     2272 | 2024-05-11 | AL QATRAO        | L   | 0.620      | -            | -                | -                | -         |    -9.69 | Ag1l, aragornN, fox, pr, rafaxF        |
-|            9 |     2713 | 2024-04-20 | 1WIN             | L   | 0.481      | -            | -                | -                | -         |    -2.84 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|            8 |     2756 | 2024-04-19 | Secret           | W   | 0.474      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     4.80 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|            7 |     2799 | 2024-04-18 | Illuminar        | L   | 0.467      | -            | -                | -                | -         |   -10.54 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|            6 |     2847 | 2024-04-17 | 500              | W   | 0.460      | 0.143        | 0.001 (0.000)    | 0.090 (0.006)    | 0 (0.000) |     8.41 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
-|            5 |     3916 | 2024-03-03 | Rhyno            | W   | 0.160      | 0.314        | 0.071 (0.004)    | 0.427 (0.021)    | 1 (0.160) |     4.18 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
-|            4 |     3937 | 2024-03-02 | OVERFRAG         | W   | 0.152      | 0.314        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.152) |     1.37 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
-|            3 |     4069 | 2024-02-24 | 500              | L   | 0.107      | -            | -                | -                | -         |    -1.59 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
-|            2 |     4209 | 2024-02-18 | Alliance         | L   | 0.066      | -            | -                | -                | -         |    -0.58 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
-|            1 |     4377 | 2024-02-11 | Young Ninjas     | L   | 0.020      | -            | -                | -                | -         |    -0.26 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|           16 |      850 | 2024-07-14 | Sampi            | L   | 1.000      | -            | -                | -                | -         |    -6.44 | Ag1l, aragornN, Icarus, NOPEEJ, rafaxF |
+|           15 |      861 | 2024-07-13 | The Suspect      | L   | 1.000      | -            | -                | -                | -         |    -9.04 | Ag1l, aragornN, Icarus, NOPEEJ, rafaxF |
+|           14 |      952 | 2024-07-08 | Norway           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |    16.34 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|           13 |     1634 | 2024-06-01 | FLuffy Gangsters | L   | 0.761      | -            | -                | -                | -         |   -15.27 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|           12 |     1695 | 2024-05-30 | RUBY             | L   | 0.747      | -            | -                | -                | -         |    -4.40 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|           11 |     1732 | 2024-05-29 | TNL              | W   | 0.740      | 0.372        | 0.000 (0.000)    | 0.038 (0.011)    | 0 (0.000) |     6.30 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|           10 |     2273 | 2024-05-11 | AL QATRAO        | L   | 0.620      | -            | -                | -                | -         |    -9.68 | Ag1l, aragornN, fox, pr, rafaxF        |
+|            9 |     2714 | 2024-04-20 | 1WIN             | L   | 0.480      | -            | -                | -                | -         |    -2.83 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|            8 |     2757 | 2024-04-19 | Secret           | W   | 0.474      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     4.80 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|            7 |     2800 | 2024-04-18 | Illuminar        | L   | 0.467      | -            | -                | -                | -         |   -10.54 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|            6 |     2848 | 2024-04-17 | 500              | W   | 0.460      | 0.143        | 0.001 (0.000)    | 0.090 (0.006)    | 0 (0.000) |     8.41 | Ag1l, aragornN, P3R3IIRA, pr, rafaxF   |
+|            5 |     3917 | 2024-03-03 | Rhyno            | W   | 0.159      | 0.314        | 0.071 (0.004)    | 0.427 (0.021)    | 1 (0.159) |     4.17 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|            4 |     3938 | 2024-03-02 | OVERFRAG         | W   | 0.152      | 0.314        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.152) |     1.36 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|            3 |     4070 | 2024-02-24 | 500              | L   | 0.107      | -            | -                | -                | -         |    -1.59 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|            2 |     4210 | 2024-02-18 | Alliance         | L   | 0.066      | -            | -                | -                | -         |    -0.58 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
+|            1 |     4378 | 2024-02-11 | Young Ninjas     | L   | 0.020      | -            | -                | -                | -         |    -0.25 | Ag1l, aragornN, NOPEEJ, pr, rafaxF     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($856.88)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($855.83)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-05-12 |      0.626 | $539.00        | $337.62         |
-| 2024-03-03 |      0.160 | $3,251.00      | $519.26         |
+| 2024-05-12 |      0.626 | $539.00        | $337.47         |
+| 2024-03-03 |      0.159 | $3,251.00      | $518.35         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

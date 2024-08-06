@@ -8,7 +8,7 @@ Regional Rank: [107]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  672.7<br />
 <br />
-Final Rank Value (672.7) = Starting Rank Value (706.1) + Head To Head Adjustments (-33.4)<br />
+Final Rank Value (672.7) = Starting Rank Value (706.0) + Head To Head Adjustments (-33.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.149<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 706.1
-- 400 + ( ( 0.149 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 706.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 706.0
+- 400 + ( ( 0.149 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 706.0
 
 
 #### Factors<br />
@@ -37,49 +37,49 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |        4 | 2024-08-06 | Metizport         | L   | 1.000      | -            | -                | -                | -         |    -6.26 | Airax, Jelo, ottoNd, puuha, uli  |
-|           35 |       12 | 2024-08-06 | BLEED             | L   | 1.000      | -            | -                | -                | -         |    -0.94 | Airax, Jelo, ottoNd, puuha, uli  |
-|           34 |       33 | 2024-08-05 | Space             | L   | 1.000      | -            | -                | -                | -         |    -9.06 | Airax, Jelo, ottoNd, puuha, uli  |
-|           33 |      117 | 2024-08-02 | ENCE Academy      | L   | 1.000      | -            | -                | -                | -         |   -14.13 | Airax, Jelo, ottoNd, puuha, uli  |
-|           32 |      290 | 2024-07-29 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -6.80 | Airax, Jelo, ottoNd, puuha, uli  |
-|           31 |      415 | 2024-07-25 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -3.34 | Airax, Jelo, ottoNd, puuha, uli  |
-|           30 |      736 | 2024-07-17 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |    -5.56 | Airax, Jelo, ottoNd, puuha, uli  |
-|           29 |     1285 | 2024-06-09 | Zero Tenacity     | L   | 0.812      | -            | -                | -                | -         |    -2.98 | Airax, Jelo, ottoNd, puuha, uli  |
-|           28 |     1388 | 2024-06-07 | GUN5              | L   | 0.801      | -            | -                | -                | -         |    -4.60 | Airax, Jelo, ottoNd, puuha, uli  |
-|           27 |     1477 | 2024-06-06 | Sampi             | L   | 0.792      | -            | -                | -                | -         |    -6.08 | Airax, Jelo, ottoNd, puuha, uli  |
-|           26 |     1597 | 2024-06-03 | RUBY              | W   | 0.773      | 0.435        | 0.095 (0.032)    | 0.479 (0.161)    | 0 (0.000) |    19.23 | Airax, Jelo, ottoNd, puuha, uli  |
-|           25 |     1608 | 2024-06-02 | UHKA              | W   | 0.767      | 0.143        | 0.000 (0.000)    | 0.029 (0.003)    | 0 (0.000) |     3.78 | Airax, Jelo, ottoNd, puuha, uli  |
-|           24 |     1622 | 2024-06-02 | Heimo             | W   | 0.765      | 0.143        | 0.006 (0.001)    | 0.103 (0.011)    | 0 (0.000) |    11.28 | Airax, Jelo, ottoNd, puuha, uli  |
-|           23 |     2397 | 2024-05-05 | RUBY              | L   | 0.579      | -            | -                | -                | -         |    -4.02 | Airax, Jelo, ottoNd, puuha, uli  |
-|           22 |     2409 | 2024-05-04 | RUSH B            | L   | 0.573      | -            | -                | -                | -         |    -5.14 | Airax, Jelo, ottoNd, puuha, uli  |
-|           21 |     2447 | 2024-05-02 | Gaimin Gladiators | L   | 0.560      | -            | -                | -                | -         |    -2.98 | Airax, Jelo, ottoNd, puuha, uli  |
-|           20 |     2460 | 2024-05-02 | Zero Tenacity     | L   | 0.558      | -            | -                | -                | -         |    -2.05 | Airax, Jelo, ottoNd, puuha, uli  |
-|           19 |     2501 | 2024-04-30 | EYEBALLERS        | W   | 0.546      | 0.384        | 0.005 (0.001)    | 0.488 (0.102)    | 0 (0.000) |    12.86 | Airax, Jelo, ottoNd, puuha, uli  |
-|           18 |     2520 | 2024-04-29 | Insilio           | W   | 0.539      | 0.435        | 0.023 (0.005)    | 0.539 (0.126)    | 0 (0.000) |    13.56 | Airax, Jelo, ottoNd, puuha, uli  |
-|           17 |     2611 | 2024-04-25 | EYEBALLERS        | L   | 0.514      | -            | -                | -                | -         |    -4.00 | Airax, Jelo, ottoNd, puuha, uli  |
-|           16 |     2623 | 2024-04-25 | kONO              | L   | 0.512      | -            | -                | -                | -         |    -5.56 | Airax, Jelo, ottoNd, puuha, uli  |
-|           15 |     2654 | 2024-04-23 | 1WIN              | L   | 0.500      | -            | -                | -                | -         |    -3.08 | Airax, Jelo, ottoNd, puuha, uli  |
-|           14 |     2674 | 2024-04-22 | SINNERS           | L   | 0.492      | -            | -                | -                | -         |    -1.22 | Airax, Jelo, ottoNd, puuha, uli  |
-|           13 |     2769 | 2024-04-19 | B8                | L   | 0.473      | -            | -                | -                | -         |    -1.92 | Airax, Jelo, ottoNd, puuha, uli  |
-|           12 |     2821 | 2024-04-18 | ALTERNATE aTTaX   | W   | 0.466      | 0.384        | 0.031 (0.006)    | 0.537 (0.096)    | 0 (0.000) |    12.08 | Airax, Jelo, ottoNd, puuha, uli  |
-|           11 |     2846 | 2024-04-17 | PARIVISION        | L   | 0.461      | -            | -                | -                | -         |    -1.54 | Airax, Jelo, ottoNd, puuha, uli  |
-|           10 |     2907 | 2024-04-15 | Alliance          | L   | 0.446      | -            | -                | -                | -         |    -4.10 | Airax, Jelo, ottoNd, puuha, uli  |
-|            9 |     3081 | 2024-04-09 | BLEED             | L   | 0.406      | -            | -                | -                | -         |    -2.19 | Airax, Jelo, ottoNd, puuha, uli  |
-|            8 |     3108 | 2024-04-08 | Permitta          | L   | 0.399      | -            | -                | -                | -         |    -2.16 | Airax, Jelo, ottoNd, puuha, uli  |
-|            7 |     3213 | 2024-04-04 | Passion UA        | L   | 0.373      | -            | -                | -                | -         |    -1.54 | Airax, Jelo, ottoNd, puuha, uli  |
-|            6 |     3941 | 2024-03-02 | Sangal            | L   | 0.152      | -            | -                | -                | -         |    -0.34 | Airax, Banjo, ottoNd, puuha, uli |
-|            5 |     3964 | 2024-02-29 | KOI               | L   | 0.140      | -            | -                | -                | -         |    -0.47 | Airax, Banjo, ottoNd, puuha, uli |
-|            4 |     3969 | 2024-02-29 | Aurora            | L   | 0.139      | -            | -                | -                | -         |    -0.02 | Airax, Banjo, ottoNd, puuha, uli |
-|            3 |     3976 | 2024-02-28 | Spirit Academy    | L   | 0.133      | -            | -                | -                | -         |    -2.98 | Airax, Banjo, ottoNd, puuha, uli |
-|            2 |     4064 | 2024-02-24 | ENCE Academy      | L   | 0.108      | -            | -                | -                | -         |    -1.67 | Airax, Banjo, ottoNd, puuha, uli |
-|            1 |     4070 | 2024-02-24 | Rounds            | W   | 0.107      | 0.306        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.107) |     0.51 | Airax, Banjo, ottoNd, puuha, uli |
+|           36 |        5 | 2024-08-06 | Metizport         | L   | 1.000      | -            | -                | -                | -         |    -6.26 | Airax, Jelo, ottoNd, puuha, uli  |
+|           35 |       13 | 2024-08-06 | BLEED             | L   | 1.000      | -            | -                | -                | -         |    -0.94 | Airax, Jelo, ottoNd, puuha, uli  |
+|           34 |       34 | 2024-08-05 | Space             | L   | 1.000      | -            | -                | -                | -         |    -9.06 | Airax, Jelo, ottoNd, puuha, uli  |
+|           33 |      118 | 2024-08-02 | ENCE Academy      | L   | 1.000      | -            | -                | -                | -         |   -14.13 | Airax, Jelo, ottoNd, puuha, uli  |
+|           32 |      291 | 2024-07-29 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -6.80 | Airax, Jelo, ottoNd, puuha, uli  |
+|           31 |      416 | 2024-07-25 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -3.34 | Airax, Jelo, ottoNd, puuha, uli  |
+|           30 |      737 | 2024-07-17 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |    -5.56 | Airax, Jelo, ottoNd, puuha, uli  |
+|           29 |     1286 | 2024-06-09 | Zero Tenacity     | L   | 0.812      | -            | -                | -                | -         |    -2.98 | Airax, Jelo, ottoNd, puuha, uli  |
+|           28 |     1389 | 2024-06-07 | GUN5              | L   | 0.800      | -            | -                | -                | -         |    -4.59 | Airax, Jelo, ottoNd, puuha, uli  |
+|           27 |     1478 | 2024-06-06 | Sampi             | L   | 0.792      | -            | -                | -                | -         |    -6.08 | Airax, Jelo, ottoNd, puuha, uli  |
+|           26 |     1598 | 2024-06-03 | RUBY              | W   | 0.773      | 0.435        | 0.095 (0.032)    | 0.479 (0.161)    | 0 (0.000) |    19.23 | Airax, Jelo, ottoNd, puuha, uli  |
+|           25 |     1609 | 2024-06-02 | UHKA              | W   | 0.767      | 0.143        | 0.000 (0.000)    | 0.029 (0.003)    | 0 (0.000) |     3.78 | Airax, Jelo, ottoNd, puuha, uli  |
+|           24 |     1623 | 2024-06-02 | Heimo             | W   | 0.765      | 0.143        | 0.006 (0.001)    | 0.103 (0.011)    | 0 (0.000) |    11.27 | Airax, Jelo, ottoNd, puuha, uli  |
+|           23 |     2398 | 2024-05-05 | RUBY              | L   | 0.579      | -            | -                | -                | -         |    -4.02 | Airax, Jelo, ottoNd, puuha, uli  |
+|           22 |     2410 | 2024-05-04 | RUSH B            | L   | 0.573      | -            | -                | -                | -         |    -5.13 | Airax, Jelo, ottoNd, puuha, uli  |
+|           21 |     2448 | 2024-05-02 | Gaimin Gladiators | L   | 0.560      | -            | -                | -                | -         |    -2.98 | Airax, Jelo, ottoNd, puuha, uli  |
+|           20 |     2461 | 2024-05-02 | Zero Tenacity     | L   | 0.558      | -            | -                | -                | -         |    -2.05 | Airax, Jelo, ottoNd, puuha, uli  |
+|           19 |     2502 | 2024-04-30 | EYEBALLERS        | W   | 0.546      | 0.384        | 0.005 (0.001)    | 0.488 (0.102)    | 0 (0.000) |    12.85 | Airax, Jelo, ottoNd, puuha, uli  |
+|           18 |     2521 | 2024-04-29 | Insilio           | W   | 0.539      | 0.435        | 0.023 (0.005)    | 0.539 (0.126)    | 0 (0.000) |    13.56 | Airax, Jelo, ottoNd, puuha, uli  |
+|           17 |     2612 | 2024-04-25 | EYEBALLERS        | L   | 0.514      | -            | -                | -                | -         |    -4.00 | Airax, Jelo, ottoNd, puuha, uli  |
+|           16 |     2624 | 2024-04-25 | kONO              | L   | 0.511      | -            | -                | -                | -         |    -5.56 | Airax, Jelo, ottoNd, puuha, uli  |
+|           15 |     2655 | 2024-04-23 | 1WIN              | L   | 0.499      | -            | -                | -                | -         |    -3.07 | Airax, Jelo, ottoNd, puuha, uli  |
+|           14 |     2675 | 2024-04-22 | SINNERS           | L   | 0.492      | -            | -                | -                | -         |    -1.22 | Airax, Jelo, ottoNd, puuha, uli  |
+|           13 |     2770 | 2024-04-19 | B8                | L   | 0.472      | -            | -                | -                | -         |    -1.92 | Airax, Jelo, ottoNd, puuha, uli  |
+|           12 |     2822 | 2024-04-18 | ALTERNATE aTTaX   | W   | 0.466      | 0.384        | 0.031 (0.006)    | 0.537 (0.096)    | 0 (0.000) |    12.07 | Airax, Jelo, ottoNd, puuha, uli  |
+|           11 |     2847 | 2024-04-17 | PARIVISION        | L   | 0.461      | -            | -                | -                | -         |    -1.53 | Airax, Jelo, ottoNd, puuha, uli  |
+|           10 |     2908 | 2024-04-15 | Alliance          | L   | 0.446      | -            | -                | -                | -         |    -4.10 | Airax, Jelo, ottoNd, puuha, uli  |
+|            9 |     3082 | 2024-04-09 | BLEED             | L   | 0.406      | -            | -                | -                | -         |    -2.18 | Airax, Jelo, ottoNd, puuha, uli  |
+|            8 |     3109 | 2024-04-08 | Permitta          | L   | 0.399      | -            | -                | -                | -         |    -2.16 | Airax, Jelo, ottoNd, puuha, uli  |
+|            7 |     3214 | 2024-04-04 | Passion UA        | L   | 0.372      | -            | -                | -                | -         |    -1.53 | Airax, Jelo, ottoNd, puuha, uli  |
+|            6 |     3942 | 2024-03-02 | Sangal            | L   | 0.152      | -            | -                | -                | -         |    -0.34 | Airax, Banjo, ottoNd, puuha, uli |
+|            5 |     3965 | 2024-02-29 | KOI               | L   | 0.140      | -            | -                | -                | -         |    -0.47 | Airax, Banjo, ottoNd, puuha, uli |
+|            4 |     3970 | 2024-02-29 | Aurora            | L   | 0.138      | -            | -                | -                | -         |    -0.02 | Airax, Banjo, ottoNd, puuha, uli |
+|            3 |     3977 | 2024-02-28 | Spirit Academy    | L   | 0.133      | -            | -                | -                | -         |    -2.97 | Airax, Banjo, ottoNd, puuha, uli |
+|            2 |     4065 | 2024-02-24 | ENCE Academy      | L   | 0.108      | -            | -                | -                | -         |    -1.67 | Airax, Banjo, ottoNd, puuha, uli |
+|            1 |     4071 | 2024-02-24 | Rounds            | W   | 0.107      | 0.306        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.107) |     0.51 | Airax, Banjo, ottoNd, puuha, uli |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($173.57)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($173.13)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |     3001 | 2024-04-10 | RED Canids  | L   | 0.416      | -            | -                | -                | -         |    -1.15 | beg0d, dok, dzt, santos, vhz |
-|           20 |     3004 | 2024-04-10 | RED Canids  | L   | 0.415      | -            | -                | -                | -         |    -1.16 | beg0d, dok, dzt, santos, vhz |
-|           19 |     3162 | 2024-04-05 | adalYamigos | W   | 0.382      | 0.450        | 0.000 (0.000)    | 0.059 (0.010)    | 0 (0.000) |     5.18 | beg0d, dok, dzt, santos, vhz |
-|           18 |     3163 | 2024-04-05 | adalYamigos | L   | 0.382      | -            | -                | -                | -         |    -7.00 | beg0d, dok, dzt, santos, vhz |
-|           17 |     3229 | 2024-04-03 | Sharks      | L   | 0.369      | -            | -                | -                | -         |    -1.83 | beg0d, dok, dzt, santos, vhz |
-|           16 |     3232 | 2024-04-03 | Sharks      | L   | 0.369      | -            | -                | -                | -         |    -1.86 | beg0d, dok, dzt, santos, vhz |
-|           15 |     3364 | 2024-03-27 | Corinthians | W   | 0.323      | 0.450        | 0.000 (0.000)    | 0.045 (0.006)    | 0 (0.000) |     2.92 | beg0d, dok, dzt, santos, vhz |
-|           14 |     3368 | 2024-03-27 | Corinthians | L   | 0.322      | -            | -                | -                | -         |    -7.37 | beg0d, dok, dzt, santos, vhz |
-|           13 |     3406 | 2024-03-26 | Galorys     | L   | 0.316      | -            | -                | -                | -         |    -2.32 | beg0d, dok, dzt, santos, vhz |
-|           12 |     3408 | 2024-03-26 | Galorys     | L   | 0.316      | -            | -                | -                | -         |    -2.36 | beg0d, dok, dzt, santos, vhz |
-|           11 |     3487 | 2024-03-20 | Solid       | W   | 0.275      | 0.450        | 0.024 (0.003)    | 0.807 (0.100)    | 0 (0.000) |     6.71 | beg0d, dok, dzt, santos, vhz |
-|           10 |     3490 | 2024-03-20 | Solid       | L   | 0.275      | -            | -                | -                | -         |    -1.97 | beg0d, dok, dzt, santos, vhz |
-|            9 |     3574 | 2024-03-15 | ODDIK       | L   | 0.242      | -            | -                | -                | -         |    -1.16 | beg0d, dok, dzt, santos, vhz |
-|            8 |     3575 | 2024-03-15 | ODDIK       | L   | 0.242      | -            | -                | -                | -         |    -1.17 | beg0d, dok, dzt, santos, vhz |
-|            7 |     3848 | 2024-03-05 | W7M         | W   | 0.176      | 0.450        | 0.007 (0.001)    | 0.519 (0.041)    | 0 (0.000) |     3.92 | beg0d, dok, dzt, santos, vhz |
-|            6 |     3850 | 2024-03-05 | W7M         | W   | 0.176      | 0.450        | 0.007 (0.001)    | 0.519 (0.041)    | 0 (0.000) |     3.96 | beg0d, dok, dzt, santos, vhz |
-|            5 |     4054 | 2024-02-24 | Case        | L   | 0.109      | -            | -                | -                | -         |    -0.65 | beg0d, dok, dzt, santos, vhz |
-|            4 |     4059 | 2024-02-24 | Case        | W   | 0.109      | 0.450        | 0.029 (0.001)    | 0.778 (0.038)    | 0 (0.000) |     2.79 | beg0d, dok, dzt, santos, vhz |
-|            3 |     4119 | 2024-02-21 | Imperial    | L   | 0.089      | -            | -                | -                | -         |    -0.10 | beg0d, dok, dzt, santos, vhz |
-|            2 |     4122 | 2024-02-21 | Imperial    | L   | 0.089      | -            | -                | -                | -         |    -0.10 | beg0d, dok, dzt, santos, vhz |
-|            1 |     4304 | 2024-02-14 | 9z          | L   | 0.043      | -            | -                | -                | -         |    -0.01 | beg0d, dok, dzt, santos, vhz |
+|           21 |     3002 | 2024-04-10 | RED Canids  | L   | 0.415      | -            | -                | -                | -         |    -1.15 | beg0d, dok, dzt, santos, vhz |
+|           20 |     3005 | 2024-04-10 | RED Canids  | L   | 0.415      | -            | -                | -                | -         |    -1.16 | beg0d, dok, dzt, santos, vhz |
+|           19 |     3163 | 2024-04-05 | adalYamigos | W   | 0.382      | 0.450        | 0.000 (0.000)    | 0.059 (0.010)    | 0 (0.000) |     5.18 | beg0d, dok, dzt, santos, vhz |
+|           18 |     3164 | 2024-04-05 | adalYamigos | L   | 0.381      | -            | -                | -                | -         |    -7.00 | beg0d, dok, dzt, santos, vhz |
+|           17 |     3230 | 2024-04-03 | Sharks      | L   | 0.369      | -            | -                | -                | -         |    -1.83 | beg0d, dok, dzt, santos, vhz |
+|           16 |     3233 | 2024-04-03 | Sharks      | L   | 0.368      | -            | -                | -                | -         |    -1.86 | beg0d, dok, dzt, santos, vhz |
+|           15 |     3365 | 2024-03-27 | Corinthians | W   | 0.322      | 0.450        | 0.000 (0.000)    | 0.045 (0.006)    | 0 (0.000) |     2.91 | beg0d, dok, dzt, santos, vhz |
+|           14 |     3369 | 2024-03-27 | Corinthians | L   | 0.322      | -            | -                | -                | -         |    -7.36 | beg0d, dok, dzt, santos, vhz |
+|           13 |     3407 | 2024-03-26 | Galorys     | L   | 0.316      | -            | -                | -                | -         |    -2.32 | beg0d, dok, dzt, santos, vhz |
+|           12 |     3409 | 2024-03-26 | Galorys     | L   | 0.315      | -            | -                | -                | -         |    -2.36 | beg0d, dok, dzt, santos, vhz |
+|           11 |     3488 | 2024-03-20 | Solid       | W   | 0.275      | 0.450        | 0.024 (0.003)    | 0.807 (0.100)    | 0 (0.000) |     6.71 | beg0d, dok, dzt, santos, vhz |
+|           10 |     3491 | 2024-03-20 | Solid       | L   | 0.275      | -            | -                | -                | -         |    -1.97 | beg0d, dok, dzt, santos, vhz |
+|            9 |     3575 | 2024-03-15 | ODDIK       | L   | 0.242      | -            | -                | -                | -         |    -1.15 | beg0d, dok, dzt, santos, vhz |
+|            8 |     3576 | 2024-03-15 | ODDIK       | L   | 0.242      | -            | -                | -                | -         |    -1.17 | beg0d, dok, dzt, santos, vhz |
+|            7 |     3849 | 2024-03-05 | W7M         | W   | 0.176      | 0.450        | 0.007 (0.001)    | 0.520 (0.041)    | 0 (0.000) |     3.91 | beg0d, dok, dzt, santos, vhz |
+|            6 |     3851 | 2024-03-05 | W7M         | W   | 0.175      | 0.450        | 0.007 (0.001)    | 0.520 (0.041)    | 0 (0.000) |     3.95 | beg0d, dok, dzt, santos, vhz |
+|            5 |     4055 | 2024-02-24 | Case        | L   | 0.109      | -            | -                | -                | -         |    -0.65 | beg0d, dok, dzt, santos, vhz |
+|            4 |     4060 | 2024-02-24 | Case        | W   | 0.109      | 0.450        | 0.029 (0.001)    | 0.778 (0.038)    | 0 (0.000) |     2.79 | beg0d, dok, dzt, santos, vhz |
+|            3 |     4120 | 2024-02-21 | Imperial    | L   | 0.089      | -            | -                | -                | -         |    -0.10 | beg0d, dok, dzt, santos, vhz |
+|            2 |     4123 | 2024-02-21 | Imperial    | L   | 0.089      | -            | -                | -                | -         |    -0.10 | beg0d, dok, dzt, santos, vhz |
+|            1 |     4305 | 2024-02-14 | 9z          | L   | 0.042      | -            | -                | -                | -         |    -0.01 | beg0d, dok, dzt, santos, vhz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($733.42)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($733.17)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

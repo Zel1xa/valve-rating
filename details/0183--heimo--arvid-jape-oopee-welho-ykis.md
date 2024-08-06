@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      157 | 2024-08-01 | JANO         | L   | 1.000      | -            | -                | -                | -         |   -15.83 | arvid, japE, oopee, Welho, ykis    |
-|           11 |      538 | 2024-07-21 | INFINITE     | L   | 1.000      | -            | -                | -                | -         |   -17.81 | arvid, japE, oopee, Welho, ykis    |
-|           10 |      577 | 2024-07-20 | 777          | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.173 (0.025)    | 0 (0.000) |    16.85 | arvid, japE, oopee, Welho, ykis    |
-|            9 |      603 | 2024-07-19 | CPH Wolves   | L   | 1.000      | -            | -                | -                | -         |    -7.58 | arvid, japE, oopee, Welho, ykis    |
-|            8 |     1010 | 2024-06-24 | lajtbitexe   | L   | 0.913      | -            | -                | -                | -         |   -12.42 | arvid, oopee, Sm1llee, Welho, ykis |
-|            7 |     1016 | 2024-06-23 | Revenant     | L   | 0.905      | -            | -                | -                | -         |    -8.65 | arvid, oopee, Sm1llee, Welho, ykis |
-|            6 |     1622 | 2024-06-02 | HAVU         | L   | 0.765      | -            | -                | -                | -         |   -11.28 | arvid, japE, oopee, Welho, ykis    |
-|            5 |     2204 | 2024-05-14 | NOM          | L   | 0.638      | -            | -                | -                | -         |   -13.85 | arvid, japE, oopee, Welho, ykis    |
-|            4 |     2222 | 2024-05-13 | DMS          | L   | 0.633      | -            | -                | -                | -         |    -4.93 | arvid, japE, oopee, Welho, ykis    |
-|            3 |     2389 | 2024-05-05 | ENCE Academy | W   | 0.580      | 0.306        | 0.003 (0.001)    | 0.104 (0.019)    | 0 (0.000) |    10.21 | arvid, japE, oopee, Welho, ykis    |
-|            2 |     2408 | 2024-05-04 | jefet        | W   | 0.573      | 0.306        | 0.001 (0.000)    | 0.020 (0.004)    | 0 (0.000) |     5.31 | arvid, japE, oopee, Welho, ykis    |
-|            1 |     2542 | 2024-04-28 | ENCE Academy | W   | 0.532      | 0.306        | 0.004 (0.001)    | 0.077 (0.013)    | 0 (0.000) |     9.47 | arvid, japE, oopee, Welho, ykis    |
+|           12 |      158 | 2024-08-01 | JANO         | L   | 1.000      | -            | -                | -                | -         |   -15.83 | arvid, japE, oopee, Welho, ykis    |
+|           11 |      539 | 2024-07-21 | INFINITE     | L   | 1.000      | -            | -                | -                | -         |   -17.81 | arvid, japE, oopee, Welho, ykis    |
+|           10 |      578 | 2024-07-20 | 777          | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.173 (0.025)    | 0 (0.000) |    16.85 | arvid, japE, oopee, Welho, ykis    |
+|            9 |      604 | 2024-07-19 | CPH Wolves   | L   | 1.000      | -            | -                | -                | -         |    -7.58 | arvid, japE, oopee, Welho, ykis    |
+|            8 |     1011 | 2024-06-24 | lajtbitexe   | L   | 0.913      | -            | -                | -                | -         |   -12.42 | arvid, oopee, Sm1llee, Welho, ykis |
+|            7 |     1017 | 2024-06-23 | Revenant     | L   | 0.904      | -            | -                | -                | -         |    -8.65 | arvid, oopee, Sm1llee, Welho, ykis |
+|            6 |     1623 | 2024-06-02 | HAVU         | L   | 0.765      | -            | -                | -                | -         |   -11.27 | arvid, japE, oopee, Welho, ykis    |
+|            5 |     2205 | 2024-05-14 | NOM          | L   | 0.638      | -            | -                | -                | -         |   -13.85 | arvid, japE, oopee, Welho, ykis    |
+|            4 |     2223 | 2024-05-13 | DMS          | L   | 0.632      | -            | -                | -                | -         |    -4.92 | arvid, japE, oopee, Welho, ykis    |
+|            3 |     2390 | 2024-05-05 | ENCE Academy | W   | 0.580      | 0.306        | 0.003 (0.001)    | 0.104 (0.019)    | 0 (0.000) |    10.21 | arvid, japE, oopee, Welho, ykis    |
+|            2 |     2409 | 2024-05-04 | jefet        | W   | 0.573      | 0.306        | 0.001 (0.000)    | 0.020 (0.004)    | 0 (0.000) |     5.31 | arvid, japE, oopee, Welho, ykis    |
+|            1 |     2543 | 2024-04-28 | ENCE Academy | W   | 0.532      | 0.306        | 0.004 (0.001)    | 0.077 (0.013)    | 0 (0.000) |     9.47 | arvid, japE, oopee, Welho, ykis    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,865.59)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- First, take the sum of their top 10 scaled winnings ($1,864.70)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

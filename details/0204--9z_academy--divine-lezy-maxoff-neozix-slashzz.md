@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      213 | 2024-07-31 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.53 | divine, lezy, MaxOff, neozix, slashzz |
-|           13 |      243 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -0.28 | divine, lezy, MaxOff, neozix, slashzz |
-|           12 |      528 | 2024-07-21 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |    -5.85 | divine, lezy, MaxOff, neozix, slashzz |
-|           11 |      585 | 2024-07-19 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.39 | divine, lezy, MaxOff, neozix, slashzz |
-|           10 |      635 | 2024-07-18 | SPORT             | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.111 (0.041)    | 0 (0.000) |    23.64 | divine, lezy, MaxOff, neozix, slashzz |
-|            9 |      812 | 2024-07-15 | Case              | L   | 1.000      | -            | -                | -                | -         |    -2.64 | divine, lezy, MaxOff, neozix, slashzz |
-|            8 |      909 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |    -5.70 | divine, lezy, MaxOff, neozix, slashzz |
-|            7 |      966 | 2024-07-06 | Patins da Ferrari | L   | 0.995      | -            | -                | -                | -         |    -4.08 | divine, lezy, MaxOff, neozix, slashzz |
-|            6 |     1603 | 2024-06-02 | Dusty Roots       | L   | 0.768      | -            | -                | -                | -         |    -3.32 | divine, lezy, MaxOff, neozix, slashzz |
-|            5 |     1680 | 2024-05-31 | Yawara            | W   | 0.753      | 0.371        | 0.000 (0.000)    | 0.047 (0.013)    | 0 (0.000) |    11.82 | divine, lezy, MaxOff, neozix, slashzz |
-|            4 |     1732 | 2024-05-29 | Corinthians       | L   | 0.740      | -            | -                | -                | -         |   -11.63 | divine, lezy, MaxOff, neozix, slashzz |
-|            3 |     1752 | 2024-05-28 | Solid             | L   | 0.733      | -            | -                | -                | -         |    -2.39 | divine, lezy, MaxOff, neozix, slashzz |
-|            2 |     4282 | 2024-02-15 | Galorys           | L   | 0.048      | -            | -                | -                | -         |    -0.15 | divine, MaxOff, neozix, slashzz, wait |
-|            1 |     4356 | 2024-02-13 | Flamengo          | L   | 0.035      | -            | -                | -                | -         |    -0.57 | divine, MaxOff, neozix, slashzz, wait |
+|           14 |      214 | 2024-07-31 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.53 | divine, lezy, MaxOff, neozix, slashzz |
+|           13 |      244 | 2024-07-30 | MIBR              | L   | 1.000      | -            | -                | -                | -         |    -0.28 | divine, lezy, MaxOff, neozix, slashzz |
+|           12 |      529 | 2024-07-21 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |    -5.85 | divine, lezy, MaxOff, neozix, slashzz |
+|           11 |      586 | 2024-07-19 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.39 | divine, lezy, MaxOff, neozix, slashzz |
+|           10 |      636 | 2024-07-18 | SPORT             | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.111 (0.041)    | 0 (0.000) |    23.64 | divine, lezy, MaxOff, neozix, slashzz |
+|            9 |      813 | 2024-07-15 | Case              | L   | 1.000      | -            | -                | -                | -         |    -2.64 | divine, lezy, MaxOff, neozix, slashzz |
+|            8 |      910 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |    -5.70 | divine, lezy, MaxOff, neozix, slashzz |
+|            7 |      967 | 2024-07-06 | Patins da Ferrari | L   | 0.994      | -            | -                | -                | -         |    -4.08 | divine, lezy, MaxOff, neozix, slashzz |
+|            6 |     1604 | 2024-06-02 | Dusty Roots       | L   | 0.768      | -            | -                | -                | -         |    -3.32 | divine, lezy, MaxOff, neozix, slashzz |
+|            5 |     1681 | 2024-05-31 | Yawara            | W   | 0.753      | 0.371        | 0.000 (0.000)    | 0.047 (0.013)    | 0 (0.000) |    11.82 | divine, lezy, MaxOff, neozix, slashzz |
+|            4 |     1733 | 2024-05-29 | Corinthians       | L   | 0.740      | -            | -                | -                | -         |   -11.62 | divine, lezy, MaxOff, neozix, slashzz |
+|            3 |     1753 | 2024-05-28 | Solid             | L   | 0.733      | -            | -                | -                | -         |    -2.38 | divine, lezy, MaxOff, neozix, slashzz |
+|            2 |     4283 | 2024-02-15 | Galorys           | L   | 0.047      | -            | -                | -                | -         |    -0.15 | divine, MaxOff, neozix, slashzz, wait |
+|            1 |     4357 | 2024-02-13 | Flamengo          | L   | 0.035      | -            | -                | -                | -         |    -0.57 | divine, MaxOff, neozix, slashzz, wait |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,192.18)
+- Divide that value by the 5th highest value among all rosters ($320,109.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
