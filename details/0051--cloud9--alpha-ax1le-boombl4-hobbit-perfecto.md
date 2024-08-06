@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |     2711 | 2024-04-20 | Sashi             | L   | 0.480      | -            | -                | -                | -         |    -6.16 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           18 |     2749 | 2024-04-19 | BetBoom           | W   | 0.475      | 0.143        | 0.248 (0.017)    | 0.514 (0.035)    | -         |    13.02 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           17 |     2759 | 2024-04-19 | Sashi             | L   | 0.474      | -            | -                | -                | -         |    -6.04 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
-|           16 |     3033 | 2024-04-09 | FaZe              | L   | 0.411      | -            | -                | -                | -         |    -0.38 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           15 |     3083 | 2024-04-08 | Wildcard          | W   | 0.405      | 0.624        | 0.048 (0.012)    | 0.418 (0.106)    | 1 (0.405) |     3.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           14 |     3113 | 2024-04-08 | FlyQuest          | L   | 0.399      | -            | -                | -                | -         |    -4.70 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           13 |     3336 | 2024-03-28 | Vitality          | L   | 0.328      | -            | -                | -                | -         |    -0.13 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           12 |     3420 | 2024-03-23 | Natus Vincere     | W   | 0.295      | 1.000        | 1.000 (0.295)    | 0.357 (0.105)    | 1 (0.295) |     9.25 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           11 |     3442 | 2024-03-22 | G2                | W   | 0.287      | 1.000        | 1.000 (0.287)    | 0.478 (0.137)    | 1 (0.287) |     8.98 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|           10 |     3453 | 2024-03-21 | Gaimin Gladiators | W   | 0.282      | 1.000        | 0.037 (0.010)    | 0.331 (0.093)    | 1 (0.282) |     3.72 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            9 |     3460 | 2024-03-21 | Spirit            | L   | 0.281      | -            | -                | -                | -         |    -0.07 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            8 |     3510 | 2024-03-18 | SAW               | W   | 0.261      | 0.143        | 0.104 (0.004)    | 0.516 (0.019)    | 1 (0.261) |     5.61 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            7 |     3527 | 2024-03-17 | Legacy            | W   | 0.256      | 0.143        | 0.122 (0.004)    | 0.620 (0.023)    | 1 (0.256) |     3.91 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            6 |     3546 | 2024-03-17 | Gaimin Gladiators | W   | 0.253      | 0.143        | 0.037 (0.001)    | 0.331 (0.012)    | 1 (0.253) |     3.30 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            5 |     3755 | 2024-03-08 | SAW               | L   | 0.195      | -            | -                | -                | -         |    -1.97 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            4 |     3820 | 2024-03-06 | Rare Atom         | W   | 0.181      | -            | -                | -                | -         |     0.35 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            3 |     4152 | 2024-02-20 | Vitality          | W   | 0.080      | 0.143        | 0.647 (0.007)    | 0.367 (0.004)    | 1 (0.080) |     2.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            2 |     4170 | 2024-02-19 | Apeks             | W   | 0.075      | -            | -                | -                | 1 (0.075) |     0.77 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
-|            1 |     4179 | 2024-02-19 | PERA              | W   | 0.074      | 0.143        | 0.048 (0.000)    | 0.435 (0.005)    | 1 (0.074) |     0.84 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           19 |     2712 | 2024-04-20 | Sashi             | L   | 0.480      | -            | -                | -                | -         |    -6.16 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           18 |     2750 | 2024-04-19 | BetBoom           | W   | 0.475      | 0.143        | 0.248 (0.017)    | 0.514 (0.035)    | -         |    13.02 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           17 |     2760 | 2024-04-19 | Sashi             | L   | 0.474      | -            | -                | -                | -         |    -6.04 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           16 |     3034 | 2024-04-09 | FaZe              | L   | 0.411      | -            | -                | -                | -         |    -0.38 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           15 |     3084 | 2024-04-08 | Wildcard          | W   | 0.405      | 0.624        | 0.048 (0.012)    | 0.418 (0.106)    | 1 (0.405) |     3.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           14 |     3114 | 2024-04-08 | FlyQuest          | L   | 0.399      | -            | -                | -                | -         |    -4.70 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           13 |     3337 | 2024-03-28 | Vitality          | L   | 0.328      | -            | -                | -                | -         |    -0.13 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           12 |     3421 | 2024-03-23 | Natus Vincere     | W   | 0.295      | 1.000        | 1.000 (0.295)    | 0.357 (0.105)    | 1 (0.295) |     9.25 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           11 |     3443 | 2024-03-22 | G2                | W   | 0.287      | 1.000        | 1.000 (0.287)    | 0.478 (0.137)    | 1 (0.287) |     8.98 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|           10 |     3454 | 2024-03-21 | Gaimin Gladiators | W   | 0.282      | 1.000        | 0.037 (0.010)    | 0.331 (0.093)    | 1 (0.282) |     3.72 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            9 |     3461 | 2024-03-21 | Spirit            | L   | 0.281      | -            | -                | -                | -         |    -0.07 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            8 |     3511 | 2024-03-18 | SAW               | W   | 0.261      | 0.143        | 0.104 (0.004)    | 0.516 (0.019)    | 1 (0.261) |     5.61 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            7 |     3528 | 2024-03-17 | Legacy            | W   | 0.256      | 0.143        | 0.122 (0.004)    | 0.620 (0.023)    | 1 (0.256) |     3.91 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            6 |     3547 | 2024-03-17 | Gaimin Gladiators | W   | 0.253      | 0.143        | 0.037 (0.001)    | 0.331 (0.012)    | 1 (0.253) |     3.30 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            5 |     3756 | 2024-03-08 | SAW               | L   | 0.195      | -            | -                | -                | -         |    -1.97 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            4 |     3821 | 2024-03-06 | Rare Atom         | W   | 0.181      | -            | -                | -                | -         |     0.35 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            3 |     4153 | 2024-02-20 | Vitality          | W   | 0.080      | 0.143        | 0.647 (0.007)    | 0.367 (0.004)    | 1 (0.080) |     2.50 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            2 |     4171 | 2024-02-19 | Apeks             | W   | 0.075      | -            | -                | -                | 1 (0.075) |     0.77 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
+|            1 |     4180 | 2024-02-19 | PERA              | W   | 0.074      | 0.143        | 0.048 (0.000)    | 0.435 (0.005)    | 1 (0.074) |     0.84 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |
 
 <br />
 <span id="table2"></span><br />

@@ -37,54 +37,54 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           48 |      662 | 2024-07-18 | FURIA              | L   | 1.000      | -            | -                | -                | -         |    -2.90 | aliStair, dexter, INS, Liazz, Vexite |
-|           47 |      729 | 2024-07-17 | FaZe               | L   | 1.000      | -            | -                | -                | -         |    -1.51 | aliStair, dexter, INS, Liazz, Vexite |
-|           46 |     1297 | 2024-06-08 | Rooster            | W   | 0.812      | 0.333        | 0.010 (0.003)    | 0.241 (0.065)    | 0 (0.000) |     3.66 | aliStair, dexter, INS, Liazz, Vexite |
-|           45 |     1352 | 2024-06-08 | Mindfreak          | W   | 0.805      | 0.333        | 0.004 (0.001)    | 0.218 (0.059)    | -         |     2.08 | aliStair, dexter, INS, Liazz, Vexite |
-|           44 |     1407 | 2024-06-07 | Rooster            | L   | 0.799      | -            | -                | -                | -         |   -21.93 | aliStair, dexter, INS, Liazz, Vexite |
-|           43 |     1735 | 2024-05-28 | BIG                | L   | 0.735      | -            | -                | -                | -         |    -8.67 | aliStair, dexter, INS, Liazz, Vexite |
-|           42 |     1756 | 2024-05-27 | Spirit             | L   | 0.729      | -            | -                | -                | -         |    -0.47 | aliStair, dexter, INS, Liazz, Vexite |
-|           41 |     1883 | 2024-05-22 | Mindfreak          | W   | 0.693      | 0.333        | 0.004 (0.001)    | 0.218 (0.050)    | -         |     1.39 | aliStair, dexter, INS, Liazz, Vexite |
-|           40 |     1888 | 2024-05-22 | Mindfreak          | W   | 0.692      | 0.333        | -                | 0.218 (0.050)    | -         |     1.41 | aliStair, dexter, INS, Liazz, Vexite |
-|           39 |     1958 | 2024-05-20 | Canon Event        | W   | 0.680      | -            | -                | -                | -         |     0.37 | aliStair, dexter, INS, Liazz, Vexite |
-|           38 |     1960 | 2024-05-20 | Canon Event        | W   | 0.679      | -            | -                | -                | -         |     0.37 | aliStair, dexter, INS, Liazz, Vexite |
-|           37 |     2329 | 2024-05-08 | Liquid             | L   | 0.601      | -            | -                | -                | -         |    -1.96 | aliStair, dexter, INS, Liazz, Vexite |
-|           36 |     2347 | 2024-05-07 | BetBoom            | W   | 0.594      | 0.889        | 0.248 (0.131)    | 0.514 (0.271)    | 1 (0.594) |    14.01 | aliStair, dexter, INS, Liazz, Vexite |
-|           35 |     2391 | 2024-05-05 | Ninjas in Pyjamas  | W   | 0.580      | 0.889        | 0.254 (0.131)    | 0.531 (0.274)    | 1 (0.580) |    16.71 | aliStair, dexter, INS, Liazz, Vexite |
-|           34 |     2407 | 2024-05-04 | PERA               | W   | 0.573      | 0.889        | 0.048 (0.024)    | 0.435 (0.222)    | 1 (0.573) |     3.57 | aliStair, dexter, INS, Liazz, Vexite |
-|           33 |     2423 | 2024-05-03 | HEROIC             | L   | 0.566      | -            | -                | -                | -         |    -1.76 | aliStair, dexter, INS, Liazz, Vexite |
-|           32 |     2450 | 2024-05-02 | BOSS               | W   | 0.560      | 0.889        | 0.014 (0.007)    | 0.319 (0.159)    | 1 (0.560) |     2.17 | aliStair, dexter, INS, Liazz, Vexite |
-|           31 |     2472 | 2024-05-01 | Natus Vincere      | L   | 0.553      | -            | -                | -                | -         |    -0.19 | aliStair, dexter, INS, Liazz, Vexite |
-|           30 |     2719 | 2024-04-20 | Bad News Kangaroos | W   | 0.479      | 0.143        | 0.016 (0.001)    | -                | -         |     1.68 | aliStair, dexter, INS, Liazz, Vexite |
-|           29 |     2765 | 2024-04-19 | Rooster            | W   | 0.473      | -            | -                | -                | -         |     1.73 | aliStair, dexter, INS, Liazz, Vexite |
-|           28 |     2772 | 2024-04-18 | Mindfreak          | W   | 0.472      | -            | -                | -                | -         |     1.04 | aliStair, dexter, INS, Liazz, Vexite |
-|           27 |     3017 | 2024-04-10 | FaZe               | L   | 0.413      | -            | -                | -                | -         |    -0.67 | aliStair, dexter, INS, Liazz, Vexite |
-|           26 |     3032 | 2024-04-09 | Nemiga             | W   | 0.411      | 0.624        | 0.314 (0.081)    | 0.704 (0.181)    | 1 (0.411) |     6.55 | aliStair, dexter, INS, Liazz, Vexite |
-|           25 |     3082 | 2024-04-08 | Virtus.pro         | L   | 0.405      | -            | -                | -                | -         |    -0.61 | aliStair, dexter, INS, Liazz, Vexite |
-|           24 |     3113 | 2024-04-08 | Cloud9             | W   | 0.399      | 0.624        | 0.061 (0.015)    | 0.103 (0.025)    | 1 (0.399) |     4.70 | aliStair, dexter, INS, Liazz, Vexite |
-|           23 |     3254 | 2024-04-03 | Arcade             | W   | 0.366      | -            | -                | -                | -         |     0.72 | aliStair, dexter, INS, Liazz, Vexite |
-|           22 |     3259 | 2024-04-03 | Arcade             | W   | 0.366      | -            | -                | -                | -         |     0.72 | aliStair, dexter, INS, Liazz, Vexite |
-|           21 |     3382 | 2024-03-27 | KZG                | W   | 0.320      | -            | -                | -                | -         |     0.70 | aliStair, dexter, INS, Liazz, Vexite |
-|           20 |     3387 | 2024-03-27 | KZG                | W   | 0.319      | -            | -                | -                | -         |     0.70 | aliStair, dexter, INS, Liazz, Vexite |
-|           19 |     3652 | 2024-03-13 | Rooster            | W   | 0.226      | -            | -                | -                | -         |     0.81 | aliStair, dexter, INS, Liazz, Vexite |
-|           18 |     3660 | 2024-03-13 | Rooster            | W   | 0.226      | -            | -                | -                | -         |     0.81 | aliStair, dexter, INS, Liazz, Vexite |
-|           17 |     3829 | 2024-03-06 | DXA                | W   | 0.180      | -            | -                | -                | -         |     0.41 | aliStair, dexter, INS, Liazz, Vexite |
-|           16 |     3831 | 2024-03-06 | DXA                | W   | 0.179      | -            | -                | -                | -         |     0.41 | aliStair, dexter, INS, Liazz, Vexite |
-|           15 |     3979 | 2024-02-27 | Lynn Vision        | L   | 0.132      | -            | -                | -                | -         |    -2.67 | aliStair, dexter, INS, Liazz, Vexite |
-|           14 |     3980 | 2024-02-27 | ATOX               | W   | 0.131      | -            | -                | -                | 1 (0.131) |     0.69 | aliStair, dexter, INS, Liazz, Vexite |
-|           13 |     4001 | 2024-02-27 | JiJieHao           | W   | 0.126      | -            | -                | -                | 1 (0.126) |     0.06 | aliStair, dexter, INS, Liazz, Vexite |
-|           12 |     4017 | 2024-02-25 | The MongolZ        | L   | 0.118      | -            | -                | -                | -         |    -0.04 | aliStair, dexter, INS, Liazz, Vexite |
-|           11 |     4020 | 2024-02-25 | ATOX               | W   | 0.117      | -            | -                | -                | 1 (0.117) |     0.62 | aliStair, dexter, INS, Liazz, Vexite |
-|           10 |     4082 | 2024-02-23 | Rooster            | W   | 0.099      | -            | -                | -                | -         |     0.35 | aliStair, dexter, INS, Liazz, Vexite |
-|            9 |     4101 | 2024-02-22 | Rooster            | W   | 0.093      | -            | -                | -                | -         |     0.33 | aliStair, dexter, INS, Liazz, Vexite |
-|            8 |     4105 | 2024-02-21 | Bad News Kangaroos | W   | 0.091      | -            | -                | -                | -         |     0.14 | aliStair, dexter, INS, Liazz, Vexite |
-|            7 |     4128 | 2024-02-21 | Bad News Kangaroos | W   | 0.086      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
-|            6 |     4132 | 2024-02-21 | Bad News Kangaroos | W   | 0.086      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
-|            5 |     4187 | 2024-02-18 | Mindfreak          | W   | 0.072      | -            | -                | -                | -         |     0.16 | aliStair, dexter, INS, Liazz, Vexite |
-|            4 |     4205 | 2024-02-18 | Arcade             | W   | 0.066      | -            | -                | -                | -         |     0.14 | aliStair, dexter, INS, Liazz, Vexite |
-|            3 |     4209 | 2024-02-18 | MANTRA             | W   | 0.066      | -            | -                | -                | -         |     0.03 | aliStair, dexter, INS, Liazz, Vexite |
-|            2 |     4210 | 2024-02-17 | Arcade             | W   | 0.064      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
-|            1 |     4232 | 2024-02-16 | GR                 | W   | 0.058      | -            | -                | -                | -         |     0.12 | aliStair, dexter, INS, Liazz, Vexite |
+|           48 |      663 | 2024-07-18 | FURIA              | L   | 1.000      | -            | -                | -                | -         |    -2.90 | aliStair, dexter, INS, Liazz, Vexite |
+|           47 |      730 | 2024-07-17 | FaZe               | L   | 1.000      | -            | -                | -                | -         |    -1.51 | aliStair, dexter, INS, Liazz, Vexite |
+|           46 |     1298 | 2024-06-08 | Rooster            | W   | 0.812      | 0.333        | 0.010 (0.003)    | 0.241 (0.065)    | 0 (0.000) |     3.66 | aliStair, dexter, INS, Liazz, Vexite |
+|           45 |     1353 | 2024-06-08 | Mindfreak          | W   | 0.805      | 0.333        | 0.004 (0.001)    | 0.218 (0.059)    | -         |     2.08 | aliStair, dexter, INS, Liazz, Vexite |
+|           44 |     1408 | 2024-06-07 | Rooster            | L   | 0.799      | -            | -                | -                | -         |   -21.93 | aliStair, dexter, INS, Liazz, Vexite |
+|           43 |     1736 | 2024-05-28 | BIG                | L   | 0.735      | -            | -                | -                | -         |    -8.67 | aliStair, dexter, INS, Liazz, Vexite |
+|           42 |     1757 | 2024-05-27 | Spirit             | L   | 0.729      | -            | -                | -                | -         |    -0.47 | aliStair, dexter, INS, Liazz, Vexite |
+|           41 |     1884 | 2024-05-22 | Mindfreak          | W   | 0.693      | 0.333        | 0.004 (0.001)    | 0.218 (0.050)    | -         |     1.39 | aliStair, dexter, INS, Liazz, Vexite |
+|           40 |     1889 | 2024-05-22 | Mindfreak          | W   | 0.692      | 0.333        | -                | 0.218 (0.050)    | -         |     1.41 | aliStair, dexter, INS, Liazz, Vexite |
+|           39 |     1959 | 2024-05-20 | Canon Event        | W   | 0.680      | -            | -                | -                | -         |     0.37 | aliStair, dexter, INS, Liazz, Vexite |
+|           38 |     1961 | 2024-05-20 | Canon Event        | W   | 0.679      | -            | -                | -                | -         |     0.37 | aliStair, dexter, INS, Liazz, Vexite |
+|           37 |     2330 | 2024-05-08 | Liquid             | L   | 0.601      | -            | -                | -                | -         |    -1.96 | aliStair, dexter, INS, Liazz, Vexite |
+|           36 |     2348 | 2024-05-07 | BetBoom            | W   | 0.594      | 0.889        | 0.248 (0.131)    | 0.514 (0.271)    | 1 (0.594) |    14.01 | aliStair, dexter, INS, Liazz, Vexite |
+|           35 |     2392 | 2024-05-05 | Ninjas in Pyjamas  | W   | 0.580      | 0.889        | 0.254 (0.131)    | 0.531 (0.274)    | 1 (0.580) |    16.71 | aliStair, dexter, INS, Liazz, Vexite |
+|           34 |     2408 | 2024-05-04 | PERA               | W   | 0.573      | 0.889        | 0.048 (0.024)    | 0.435 (0.222)    | 1 (0.573) |     3.57 | aliStair, dexter, INS, Liazz, Vexite |
+|           33 |     2424 | 2024-05-03 | HEROIC             | L   | 0.566      | -            | -                | -                | -         |    -1.76 | aliStair, dexter, INS, Liazz, Vexite |
+|           32 |     2451 | 2024-05-02 | BOSS               | W   | 0.560      | 0.889        | 0.014 (0.007)    | 0.319 (0.159)    | 1 (0.560) |     2.17 | aliStair, dexter, INS, Liazz, Vexite |
+|           31 |     2473 | 2024-05-01 | Natus Vincere      | L   | 0.553      | -            | -                | -                | -         |    -0.19 | aliStair, dexter, INS, Liazz, Vexite |
+|           30 |     2720 | 2024-04-20 | Bad News Kangaroos | W   | 0.479      | 0.143        | 0.016 (0.001)    | -                | -         |     1.68 | aliStair, dexter, INS, Liazz, Vexite |
+|           29 |     2766 | 2024-04-19 | Rooster            | W   | 0.473      | -            | -                | -                | -         |     1.73 | aliStair, dexter, INS, Liazz, Vexite |
+|           28 |     2773 | 2024-04-18 | Mindfreak          | W   | 0.472      | -            | -                | -                | -         |     1.04 | aliStair, dexter, INS, Liazz, Vexite |
+|           27 |     3018 | 2024-04-10 | FaZe               | L   | 0.413      | -            | -                | -                | -         |    -0.67 | aliStair, dexter, INS, Liazz, Vexite |
+|           26 |     3033 | 2024-04-09 | Nemiga             | W   | 0.411      | 0.624        | 0.314 (0.081)    | 0.704 (0.181)    | 1 (0.411) |     6.55 | aliStair, dexter, INS, Liazz, Vexite |
+|           25 |     3083 | 2024-04-08 | Virtus.pro         | L   | 0.405      | -            | -                | -                | -         |    -0.61 | aliStair, dexter, INS, Liazz, Vexite |
+|           24 |     3114 | 2024-04-08 | Cloud9             | W   | 0.399      | 0.624        | 0.061 (0.015)    | 0.103 (0.025)    | 1 (0.399) |     4.70 | aliStair, dexter, INS, Liazz, Vexite |
+|           23 |     3255 | 2024-04-03 | Arcade             | W   | 0.366      | -            | -                | -                | -         |     0.72 | aliStair, dexter, INS, Liazz, Vexite |
+|           22 |     3260 | 2024-04-03 | Arcade             | W   | 0.366      | -            | -                | -                | -         |     0.72 | aliStair, dexter, INS, Liazz, Vexite |
+|           21 |     3383 | 2024-03-27 | KZG                | W   | 0.320      | -            | -                | -                | -         |     0.70 | aliStair, dexter, INS, Liazz, Vexite |
+|           20 |     3388 | 2024-03-27 | KZG                | W   | 0.319      | -            | -                | -                | -         |     0.70 | aliStair, dexter, INS, Liazz, Vexite |
+|           19 |     3653 | 2024-03-13 | Rooster            | W   | 0.226      | -            | -                | -                | -         |     0.81 | aliStair, dexter, INS, Liazz, Vexite |
+|           18 |     3661 | 2024-03-13 | Rooster            | W   | 0.226      | -            | -                | -                | -         |     0.81 | aliStair, dexter, INS, Liazz, Vexite |
+|           17 |     3830 | 2024-03-06 | DXA                | W   | 0.180      | -            | -                | -                | -         |     0.41 | aliStair, dexter, INS, Liazz, Vexite |
+|           16 |     3832 | 2024-03-06 | DXA                | W   | 0.179      | -            | -                | -                | -         |     0.41 | aliStair, dexter, INS, Liazz, Vexite |
+|           15 |     3980 | 2024-02-27 | Lynn Vision        | L   | 0.132      | -            | -                | -                | -         |    -2.67 | aliStair, dexter, INS, Liazz, Vexite |
+|           14 |     3981 | 2024-02-27 | ATOX               | W   | 0.131      | -            | -                | -                | 1 (0.131) |     0.69 | aliStair, dexter, INS, Liazz, Vexite |
+|           13 |     4002 | 2024-02-27 | JiJieHao           | W   | 0.126      | -            | -                | -                | 1 (0.126) |     0.06 | aliStair, dexter, INS, Liazz, Vexite |
+|           12 |     4018 | 2024-02-25 | The MongolZ        | L   | 0.118      | -            | -                | -                | -         |    -0.04 | aliStair, dexter, INS, Liazz, Vexite |
+|           11 |     4021 | 2024-02-25 | ATOX               | W   | 0.117      | -            | -                | -                | 1 (0.117) |     0.62 | aliStair, dexter, INS, Liazz, Vexite |
+|           10 |     4083 | 2024-02-23 | Rooster            | W   | 0.099      | -            | -                | -                | -         |     0.35 | aliStair, dexter, INS, Liazz, Vexite |
+|            9 |     4102 | 2024-02-22 | Rooster            | W   | 0.093      | -            | -                | -                | -         |     0.33 | aliStair, dexter, INS, Liazz, Vexite |
+|            8 |     4106 | 2024-02-21 | Bad News Kangaroos | W   | 0.091      | -            | -                | -                | -         |     0.14 | aliStair, dexter, INS, Liazz, Vexite |
+|            7 |     4129 | 2024-02-21 | Bad News Kangaroos | W   | 0.086      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
+|            6 |     4133 | 2024-02-21 | Bad News Kangaroos | W   | 0.086      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
+|            5 |     4188 | 2024-02-18 | Mindfreak          | W   | 0.072      | -            | -                | -                | -         |     0.16 | aliStair, dexter, INS, Liazz, Vexite |
+|            4 |     4206 | 2024-02-18 | Arcade             | W   | 0.066      | -            | -                | -                | -         |     0.14 | aliStair, dexter, INS, Liazz, Vexite |
+|            3 |     4210 | 2024-02-18 | MANTRA             | W   | 0.066      | -            | -                | -                | -         |     0.03 | aliStair, dexter, INS, Liazz, Vexite |
+|            2 |     4211 | 2024-02-17 | Arcade             | W   | 0.064      | -            | -                | -                | -         |     0.13 | aliStair, dexter, INS, Liazz, Vexite |
+|            1 |     4233 | 2024-02-16 | GR                 | W   | 0.058      | -            | -                | -                | -         |     0.12 | aliStair, dexter, INS, Liazz, Vexite |
 
 <br />
 <span id="table2"></span><br />

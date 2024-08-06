@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |       42 | 2024-08-04 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -4.12 | EliGE, floppy, Grim, hallzerk, JT |
-|           33 |       91 | 2024-08-03 | Spirit        | L   | 1.000      | -            | -                | -                | -         |    -3.86 | EliGE, floppy, Grim, hallzerk, JT |
-|           32 |      123 | 2024-08-02 | HEROIC        | W   | 1.000      | 0.581        | 0.224 (0.130)    | 0.355 (0.206)    | 1 (1.000) |    15.46 | EliGE, floppy, Grim, hallzerk, JT |
-|           31 |      253 | 2024-07-30 | OG            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.37 | EliGE, floppy, Grim, hallzerk, JT |
-|           30 |      283 | 2024-07-29 | HEROIC        | L   | 1.000      | -            | -                | -                | -         |   -15.82 | EliGE, floppy, Grim, hallzerk, JT |
-|           29 |      655 | 2024-07-18 | M80           | L   | 1.000      | -            | -                | -                | -         |   -27.41 | EliGE, floppy, Grim, hallzerk, JT |
-|           28 |      707 | 2024-07-17 | Virtus.pro    | L   | 1.000      | -            | -                | -                | -         |   -13.07 | EliGE, floppy, Grim, hallzerk, JT |
-|           27 |     1039 | 2024-06-16 | Falcons       | W   | 0.860      | 0.500        | 0.220 (0.094)    | -                | 1 (0.860) |     7.45 | EliGE, floppy, Grim, hallzerk, JT |
-|           26 |     1048 | 2024-06-16 | Aurora        | W   | 0.859      | 0.500        | 0.420 (0.181)    | 0.759 (0.326)    | 1 (0.859) |     7.82 | EliGE, floppy, Grim, hallzerk, JT |
-|           25 |     1078 | 2024-06-15 | MIBR          | W   | 0.853      | 0.500        | 0.208 (0.089)    | 0.633 (0.270)    | 1 (0.853) |     6.51 | EliGE, floppy, Grim, hallzerk, JT |
-|           24 |     1108 | 2024-06-14 | ENCE          | L   | 0.848      | -            | -                | -                | -         |   -21.10 | EliGE, floppy, Grim, hallzerk, JT |
-|           23 |     1120 | 2024-06-14 | Alliance      | W   | 0.846      | -            | -                | -                | 1 (0.846) |     0.38 | EliGE, floppy, Grim, hallzerk, JT |
-|           22 |     1440 | 2024-06-06 | FURIA         | L   | 0.795      | -            | -                | -                | -         |   -13.57 | EliGE, floppy, Grim, hallzerk, JT |
-|           21 |     1460 | 2024-06-06 | BetBoom       | L   | 0.793      | -            | -                | -                | -         |   -20.09 | EliGE, floppy, Grim, hallzerk, JT |
-|           20 |     1472 | 2024-06-06 | fnatic        | L   | 0.793      | -            | -                | -                | -         |   -18.83 | EliGE, floppy, Grim, hallzerk, JT |
-|           19 |     1516 | 2024-06-05 | BIG           | W   | 0.787      | 0.715        | 0.154 (0.087)    | 0.290 (0.163)    | 1 (0.787) |     3.35 | EliGE, floppy, Grim, hallzerk, JT |
-|           18 |     1529 | 2024-06-05 | Eternal Fire  | W   | 0.786      | 0.715        | 0.739 (0.415)    | 0.438 (0.246)    | 1 (0.786) |    13.25 | EliGE, floppy, Grim, hallzerk, JT |
-|           17 |     1751 | 2024-05-27 | MOUZ          | L   | 0.730      | -            | -                | -                | -         |    -5.04 | EliGE, floppy, Grim, hallzerk, JT |
-|           16 |     1761 | 2024-05-27 | Liquid        | L   | 0.728      | -            | -                | -                | -         |   -13.38 | EliGE, floppy, Grim, hallzerk, JT |
-|           15 |     2256 | 2024-05-11 | MOUZ          | L   | 0.622      | -            | -                | -                | -         |    -4.92 | EliGE, floppy, Grim, hallzerk, JT |
-|           14 |     2307 | 2024-05-09 | Virtus.pro    | W   | 0.607      | 0.889        | 0.498 (0.269)    | 0.309 (0.167)    | 1 (0.607) |    10.09 | EliGE, floppy, Grim, hallzerk, JT |
-|           13 |     2375 | 2024-05-05 | Natus Vincere | W   | 0.582      | 0.889        | 1.000 (0.517)    | 0.357 (0.185)    | 1 (0.582) |    15.68 | EliGE, floppy, Grim, hallzerk, JT |
-|           12 |     2442 | 2024-05-02 | HEROIC        | W   | 0.561      | 0.889        | 0.224 (0.112)    | 0.355 (0.177)    | -         |     7.06 | EliGE, floppy, Grim, hallzerk, JT |
-|           11 |     2489 | 2024-04-30 | PERA          | W   | 0.547      | 0.889        | -                | 0.435 (0.212)    | -         |     0.28 | EliGE, floppy, Grim, hallzerk, JT |
-|           10 |     3413 | 2024-03-24 | FaZe          | L   | 0.300      | -            | -                | -                | -         |    -4.33 | EliGE, floppy, Grim, hallzerk, JT |
-|            9 |     3423 | 2024-03-23 | Vitality      | L   | 0.294      | -            | -                | -                | -         |    -2.26 | EliGE, floppy, Grim, hallzerk, JT |
-|            8 |     3438 | 2024-03-22 | MOUZ          | L   | 0.287      | -            | -                | -                | -         |    -2.26 | EliGE, floppy, Grim, hallzerk, JT |
-|            7 |     3456 | 2024-03-21 | HEROIC        | W   | 0.282      | -            | -                | -                | -         |     3.46 | EliGE, floppy, Grim, hallzerk, JT |
-|            6 |     3465 | 2024-03-21 | paiN          | W   | 0.280      | 1.000        | 0.324 (0.091)    | 0.838 (0.235)    | -         |     1.82 | EliGE, floppy, Grim, hallzerk, JT |
-|            5 |     3782 | 2024-03-07 | OG            | L   | 0.188      | -            | -                | -                | -         |    -5.79 | EliGE, floppy, Grim, hallzerk, JT |
-|            4 |     3871 | 2024-03-04 | Liquid        | W   | 0.169      | -            | -                | -                | -         |     2.23 | EliGE, floppy, Grim, hallzerk, JT |
-|            3 |     3886 | 2024-03-03 | FURIA         | L   | 0.162      | -            | -                | -                | -         |    -2.06 | EliGE, floppy, Grim, hallzerk, JT |
-|            2 |     3924 | 2024-03-02 | BOSS          | W   | 0.154      | -            | -                | -                | -         |     0.04 | EliGE, floppy, Grim, hallzerk, JT |
-|            1 |     3943 | 2024-03-01 | Elevate       | W   | 0.149      | -            | -                | -                | -         |     0.12 | EliGE, floppy, Grim, hallzerk, JT |
+|           34 |       43 | 2024-08-04 | Natus Vincere | L   | 1.000      | -            | -                | -                | -         |    -4.12 | EliGE, floppy, Grim, hallzerk, JT |
+|           33 |       92 | 2024-08-03 | Spirit        | L   | 1.000      | -            | -                | -                | -         |    -3.86 | EliGE, floppy, Grim, hallzerk, JT |
+|           32 |      124 | 2024-08-02 | HEROIC        | W   | 1.000      | 0.581        | 0.224 (0.130)    | 0.355 (0.206)    | 1 (1.000) |    15.46 | EliGE, floppy, Grim, hallzerk, JT |
+|           31 |      254 | 2024-07-30 | OG            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.37 | EliGE, floppy, Grim, hallzerk, JT |
+|           30 |      284 | 2024-07-29 | HEROIC        | L   | 1.000      | -            | -                | -                | -         |   -15.82 | EliGE, floppy, Grim, hallzerk, JT |
+|           29 |      656 | 2024-07-18 | M80           | L   | 1.000      | -            | -                | -                | -         |   -27.41 | EliGE, floppy, Grim, hallzerk, JT |
+|           28 |      708 | 2024-07-17 | Virtus.pro    | L   | 1.000      | -            | -                | -                | -         |   -13.07 | EliGE, floppy, Grim, hallzerk, JT |
+|           27 |     1040 | 2024-06-16 | Falcons       | W   | 0.860      | 0.500        | 0.220 (0.094)    | -                | 1 (0.860) |     7.45 | EliGE, floppy, Grim, hallzerk, JT |
+|           26 |     1049 | 2024-06-16 | Aurora        | W   | 0.859      | 0.500        | 0.420 (0.181)    | 0.759 (0.326)    | 1 (0.859) |     7.82 | EliGE, floppy, Grim, hallzerk, JT |
+|           25 |     1079 | 2024-06-15 | MIBR          | W   | 0.853      | 0.500        | 0.208 (0.089)    | 0.633 (0.270)    | 1 (0.853) |     6.51 | EliGE, floppy, Grim, hallzerk, JT |
+|           24 |     1109 | 2024-06-14 | ENCE          | L   | 0.848      | -            | -                | -                | -         |   -21.10 | EliGE, floppy, Grim, hallzerk, JT |
+|           23 |     1121 | 2024-06-14 | Alliance      | W   | 0.846      | -            | -                | -                | 1 (0.846) |     0.38 | EliGE, floppy, Grim, hallzerk, JT |
+|           22 |     1441 | 2024-06-06 | FURIA         | L   | 0.795      | -            | -                | -                | -         |   -13.57 | EliGE, floppy, Grim, hallzerk, JT |
+|           21 |     1461 | 2024-06-06 | BetBoom       | L   | 0.793      | -            | -                | -                | -         |   -20.09 | EliGE, floppy, Grim, hallzerk, JT |
+|           20 |     1473 | 2024-06-06 | fnatic        | L   | 0.793      | -            | -                | -                | -         |   -18.83 | EliGE, floppy, Grim, hallzerk, JT |
+|           19 |     1517 | 2024-06-05 | BIG           | W   | 0.787      | 0.715        | 0.154 (0.087)    | 0.290 (0.163)    | 1 (0.787) |     3.35 | EliGE, floppy, Grim, hallzerk, JT |
+|           18 |     1530 | 2024-06-05 | Eternal Fire  | W   | 0.786      | 0.715        | 0.739 (0.415)    | 0.438 (0.246)    | 1 (0.786) |    13.25 | EliGE, floppy, Grim, hallzerk, JT |
+|           17 |     1752 | 2024-05-27 | MOUZ          | L   | 0.730      | -            | -                | -                | -         |    -5.04 | EliGE, floppy, Grim, hallzerk, JT |
+|           16 |     1762 | 2024-05-27 | Liquid        | L   | 0.728      | -            | -                | -                | -         |   -13.38 | EliGE, floppy, Grim, hallzerk, JT |
+|           15 |     2257 | 2024-05-11 | MOUZ          | L   | 0.622      | -            | -                | -                | -         |    -4.92 | EliGE, floppy, Grim, hallzerk, JT |
+|           14 |     2308 | 2024-05-09 | Virtus.pro    | W   | 0.607      | 0.889        | 0.498 (0.269)    | 0.309 (0.167)    | 1 (0.607) |    10.09 | EliGE, floppy, Grim, hallzerk, JT |
+|           13 |     2376 | 2024-05-05 | Natus Vincere | W   | 0.582      | 0.889        | 1.000 (0.517)    | 0.357 (0.185)    | 1 (0.582) |    15.68 | EliGE, floppy, Grim, hallzerk, JT |
+|           12 |     2443 | 2024-05-02 | HEROIC        | W   | 0.561      | 0.889        | 0.224 (0.112)    | 0.355 (0.177)    | -         |     7.06 | EliGE, floppy, Grim, hallzerk, JT |
+|           11 |     2490 | 2024-04-30 | PERA          | W   | 0.547      | 0.889        | -                | 0.435 (0.212)    | -         |     0.28 | EliGE, floppy, Grim, hallzerk, JT |
+|           10 |     3414 | 2024-03-24 | FaZe          | L   | 0.300      | -            | -                | -                | -         |    -4.33 | EliGE, floppy, Grim, hallzerk, JT |
+|            9 |     3424 | 2024-03-23 | Vitality      | L   | 0.294      | -            | -                | -                | -         |    -2.26 | EliGE, floppy, Grim, hallzerk, JT |
+|            8 |     3439 | 2024-03-22 | MOUZ          | L   | 0.287      | -            | -                | -                | -         |    -2.26 | EliGE, floppy, Grim, hallzerk, JT |
+|            7 |     3457 | 2024-03-21 | HEROIC        | W   | 0.282      | -            | -                | -                | -         |     3.46 | EliGE, floppy, Grim, hallzerk, JT |
+|            6 |     3466 | 2024-03-21 | paiN          | W   | 0.280      | 1.000        | 0.324 (0.091)    | 0.838 (0.235)    | -         |     1.82 | EliGE, floppy, Grim, hallzerk, JT |
+|            5 |     3783 | 2024-03-07 | OG            | L   | 0.188      | -            | -                | -                | -         |    -5.79 | EliGE, floppy, Grim, hallzerk, JT |
+|            4 |     3872 | 2024-03-04 | Liquid        | W   | 0.169      | -            | -                | -                | -         |     2.23 | EliGE, floppy, Grim, hallzerk, JT |
+|            3 |     3887 | 2024-03-03 | FURIA         | L   | 0.162      | -            | -                | -                | -         |    -2.06 | EliGE, floppy, Grim, hallzerk, JT |
+|            2 |     3925 | 2024-03-02 | BOSS          | W   | 0.154      | -            | -                | -                | -         |     0.04 | EliGE, floppy, Grim, hallzerk, JT |
+|            1 |     3944 | 2024-03-01 | Elevate       | W   | 0.149      | -            | -                | -                | -         |     0.12 | EliGE, floppy, Grim, hallzerk, JT |
 
 <br />
 <span id="table2"></span><br />

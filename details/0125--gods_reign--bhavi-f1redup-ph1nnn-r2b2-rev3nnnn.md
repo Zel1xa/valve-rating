@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      538 | 2024-07-21 | Carnival           | W   | 1.000      | 0.262        | 0.002 (0.001)    | -                | 0 (0.000) |     5.26 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           20 |      976 | 2024-06-30 | True Rippers       | W   | 0.952      | 0.262        | 0.005 (0.001)    | 0.163 (0.041)    | 0 (0.000) |    12.86 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
-|           19 |      978 | 2024-06-29 | LOT                | W   | 0.951      | -            | -                | -                | 0 (0.000) |     3.24 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           18 |      982 | 2024-06-29 | True Rippers       | L   | 0.947      | -            | -                | -                | -         |   -17.32 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           17 |      983 | 2024-06-29 | Marcos             | W   | 0.946      | 0.143        | -                | 0.036 (0.005)    | 0 (0.000) |     4.86 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           16 |      989 | 2024-06-28 | Carnival           | W   | 0.939      | 0.143        | 0.002 (0.000)    | -                | 0 (0.000) |     5.28 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           15 |      994 | 2024-06-27 | True Rippers       | L   | 0.933      | -            | -                | -                | -         |   -18.36 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           14 |     1789 | 2024-05-26 | True Rippers       | W   | 0.719      | 0.262        | 0.005 (0.001)    | 0.163 (0.031)    | 0 (0.000) |     8.32 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
-|           13 |     1792 | 2024-05-25 | Marcos             | W   | 0.718      | 0.262        | -                | 0.036 (0.007)    | 0 (0.000) |     3.62 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           12 |     3009 | 2024-04-10 | BIG                | L   | 0.415      | -            | -                | -                | -         |    -0.70 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
-|           11 |     3063 | 2024-04-09 | Ninjas in Pyjamas  | L   | 0.408      | -            | -                | -                | -         |    -0.09 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
-|           10 |     3307 | 2024-03-31 | True Rippers       | W   | 0.346      | 0.143        | 0.005 (0.000)    | 0.163 (0.008)    | 0 (0.000) |     4.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            9 |     3322 | 2024-03-29 | Marcos             | W   | 0.333      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | -         |     2.98 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            8 |     3415 | 2024-03-24 | Marcos             | W   | 0.299      | 0.262        | 0.000 (0.000)    | 0.011 (0.001)    | -         |     2.74 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            7 |     3417 | 2024-03-23 | Grayfox            | W   | 0.298      | 0.262        | 0.000 (0.000)    | 0.004 (0.000)    | -         |     2.47 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            6 |     3559 | 2024-03-16 | Aurora             | L   | 0.247      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            5 |     3561 | 2024-03-15 | Bad News Kangaroos | W   | 0.245      | 0.432        | 0.016 (0.002)    | 0.217 (0.023)    | 1 (0.245) |     3.94 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            4 |     3580 | 2024-03-15 | Aurora             | L   | 0.239      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            3 |     3612 | 2024-03-14 | GRDX               | W   | 0.233      | 0.432        | 0.002 (0.000)    | -                | 1 (0.233) |     1.57 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            2 |     4039 | 2024-02-25 | Grayfox            | W   | 0.112      | 0.262        | -                | 0.004 (0.000)    | -         |     0.96 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            1 |     4040 | 2024-02-24 | 2ez                | W   | 0.112      | -            | -                | -                | -         |     0.40 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           21 |      539 | 2024-07-21 | Carnival           | W   | 1.000      | 0.262        | 0.002 (0.001)    | -                | 0 (0.000) |     5.26 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           20 |      977 | 2024-06-30 | True Rippers       | W   | 0.952      | 0.262        | 0.005 (0.001)    | 0.163 (0.041)    | 0 (0.000) |    12.86 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
+|           19 |      979 | 2024-06-29 | LOT                | W   | 0.951      | -            | -                | -                | 0 (0.000) |     3.24 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           18 |      983 | 2024-06-29 | True Rippers       | L   | 0.947      | -            | -                | -                | -         |   -17.32 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           17 |      984 | 2024-06-29 | Marcos             | W   | 0.946      | 0.143        | -                | 0.036 (0.005)    | 0 (0.000) |     4.86 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           16 |      990 | 2024-06-28 | Carnival           | W   | 0.939      | 0.143        | 0.002 (0.000)    | -                | 0 (0.000) |     5.28 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           15 |      995 | 2024-06-27 | True Rippers       | L   | 0.933      | -            | -                | -                | -         |   -18.36 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           14 |     1790 | 2024-05-26 | True Rippers       | W   | 0.719      | 0.262        | 0.005 (0.001)    | 0.163 (0.031)    | 0 (0.000) |     8.32 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
+|           13 |     1793 | 2024-05-25 | Marcos             | W   | 0.718      | 0.262        | -                | 0.036 (0.007)    | 0 (0.000) |     3.62 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           12 |     3010 | 2024-04-10 | BIG                | L   | 0.415      | -            | -                | -                | -         |    -0.70 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
+|           11 |     3064 | 2024-04-09 | Ninjas in Pyjamas  | L   | 0.408      | -            | -                | -                | -         |    -0.09 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
+|           10 |     3308 | 2024-03-31 | True Rippers       | W   | 0.346      | 0.143        | 0.005 (0.000)    | 0.163 (0.008)    | 0 (0.000) |     4.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            9 |     3323 | 2024-03-29 | Marcos             | W   | 0.333      | 0.143        | 0.000 (0.000)    | 0.011 (0.001)    | -         |     2.98 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            8 |     3416 | 2024-03-24 | Marcos             | W   | 0.299      | 0.262        | 0.000 (0.000)    | 0.011 (0.001)    | -         |     2.74 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            7 |     3418 | 2024-03-23 | Grayfox            | W   | 0.298      | 0.262        | 0.000 (0.000)    | 0.004 (0.000)    | -         |     2.47 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            6 |     3560 | 2024-03-16 | Aurora             | L   | 0.247      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            5 |     3562 | 2024-03-15 | Bad News Kangaroos | W   | 0.245      | 0.432        | 0.016 (0.002)    | 0.217 (0.023)    | 1 (0.245) |     3.94 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            4 |     3581 | 2024-03-15 | Aurora             | L   | 0.239      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            3 |     3613 | 2024-03-14 | GRDX               | W   | 0.233      | 0.432        | 0.002 (0.000)    | -                | 1 (0.233) |     1.57 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            2 |     4040 | 2024-02-25 | Grayfox            | W   | 0.112      | 0.262        | -                | 0.004 (0.000)    | -         |     0.96 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            1 |     4041 | 2024-02-24 | 2ez                | W   | 0.112      | -            | -                | -                | -         |     0.40 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
 
 <br />
 <span id="table2"></span><br />

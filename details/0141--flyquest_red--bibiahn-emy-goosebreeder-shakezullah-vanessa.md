@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1422 | 2024-06-06 | Elevate          | L   | 0.796      | -            | -                | -                | -         |    -5.22 | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa |
-|           14 |     1631 | 2024-06-01 | HSG fe           | L   | 0.761      | -            | -                | -                | -         |    -9.60 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           13 |     1668 | 2024-05-31 | BIG EQUIPA       | L   | 0.754      | -            | -                | -                | -         |   -11.54 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           12 |     1773 | 2024-05-26 | TSM Shimmer      | W   | 0.722      | 0.303        | 0.020 (0.004)    | 0.191 (0.042)    | 0 (0.000) |    10.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           11 |     1776 | 2024-05-26 | Lotus fe         | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |     7.82 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           10 |     2729 | 2024-04-19 | Nouns fe         | W   | 0.476      | 0.322        | 0.003 (0.001)    | 0.032 (0.005)    | 0 (0.000) |     5.21 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            9 |     2906 | 2024-04-14 | TSM Shimmer      | W   | 0.443      | 0.250        | 0.020 (0.002)    | 0.191 (0.021)    | 0 (0.000) |     6.59 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            8 |     2988 | 2024-04-10 | cleanup crew fe  | W   | 0.416      | 0.322        | 0.002 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     4.43 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            7 |     3176 | 2024-04-04 | COVEN            | W   | 0.376      | -            | -                | -                | 0 (0.000) |     2.71 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            6 |     3325 | 2024-03-28 | WG Bandits       | W   | 0.330      | -            | -                | -                | 0 (0.000) |     3.53 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            5 |     3478 | 2024-03-20 | Limitless Angels | W   | 0.277      | 0.322        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     3.38 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            4 |     3620 | 2024-03-13 | Karma            | W   | 0.230      | 0.322        | 0.004 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     2.90 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            3 |     3800 | 2024-03-06 | TSM Shimmer      | W   | 0.184      | 0.322        | 0.020 (0.001)    | 0.191 (0.011)    | 0 (0.000) |     2.75 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            2 |     3884 | 2024-03-03 | TSM Shimmer      | W   | 0.163      | 0.250        | 0.020 (0.001)    | 0.191 (0.008)    | -         |     2.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            1 |     4024 | 2024-02-25 | TSM Shimmer      | W   | 0.116      | 0.250        | 0.020 (0.001)    | 0.191 (0.006)    | -         |     1.79 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           15 |     1423 | 2024-06-06 | Elevate          | L   | 0.796      | -            | -                | -                | -         |    -5.22 | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa |
+|           14 |     1632 | 2024-06-01 | HSG fe           | L   | 0.761      | -            | -                | -                | -         |    -9.60 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           13 |     1669 | 2024-05-31 | BIG EQUIPA       | L   | 0.754      | -            | -                | -                | -         |   -11.54 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           12 |     1774 | 2024-05-26 | TSM Shimmer      | W   | 0.722      | 0.303        | 0.020 (0.004)    | 0.191 (0.042)    | 0 (0.000) |    10.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           11 |     1777 | 2024-05-26 | Lotus fe         | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |     7.82 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           10 |     2730 | 2024-04-19 | Nouns fe         | W   | 0.476      | 0.322        | 0.003 (0.001)    | 0.032 (0.005)    | 0 (0.000) |     5.21 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            9 |     2907 | 2024-04-14 | TSM Shimmer      | W   | 0.443      | 0.250        | 0.020 (0.002)    | 0.191 (0.021)    | 0 (0.000) |     6.59 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            8 |     2989 | 2024-04-10 | cleanup crew fe  | W   | 0.416      | 0.322        | 0.002 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     4.43 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            7 |     3177 | 2024-04-04 | COVEN            | W   | 0.376      | -            | -                | -                | 0 (0.000) |     2.71 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            6 |     3326 | 2024-03-28 | WG Bandits       | W   | 0.330      | -            | -                | -                | 0 (0.000) |     3.53 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            5 |     3479 | 2024-03-20 | Limitless Angels | W   | 0.277      | 0.322        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     3.38 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            4 |     3621 | 2024-03-13 | Karma            | W   | 0.230      | 0.322        | 0.004 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     2.90 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            3 |     3801 | 2024-03-06 | TSM Shimmer      | W   | 0.184      | 0.322        | 0.020 (0.001)    | 0.191 (0.011)    | 0 (0.000) |     2.75 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            2 |     3885 | 2024-03-03 | TSM Shimmer      | W   | 0.163      | 0.250        | 0.020 (0.001)    | 0.191 (0.008)    | -         |     2.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            1 |     4025 | 2024-02-25 | TSM Shimmer      | W   | 0.116      | 0.250        | 0.020 (0.001)    | 0.191 (0.006)    | -         |     1.79 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
 
 <br />
 <span id="table2"></span><br />

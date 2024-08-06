@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |       31 | 2024-08-05 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -10.51 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           12 |       52 | 2024-08-04 | CPH Wolves        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.353 (0.050)    | 0 (0.000) |    14.03 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           11 |      162 | 2024-08-01 | Alliance          | L   | 1.000      | -            | -                | -                | -         |   -16.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           10 |      834 | 2024-07-14 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.56 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            9 |      836 | 2024-07-14 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.537 (0.077)    | 0 (0.000) |    18.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            8 |      845 | 2024-07-14 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -4.99 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            7 |      852 | 2024-07-13 | Portugal          | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.115 (0.016)    | 0 (0.000) |     9.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            6 |      947 | 2024-07-08 | Latvia            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.134 (0.019)    | 0 (0.000) |    16.76 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            5 |     1317 | 2024-06-08 | M1X KS            | L   | 0.808      | -            | -                | -                | -         |   -11.33 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            4 |     1342 | 2024-06-08 | ALTERNATE aTTaX   | W   | 0.807      | 0.337        | 0.031 (0.008)    | 0.537 (0.146)    | 1 (0.807) |    15.35 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            3 |     1389 | 2024-06-07 | plusW KS          | W   | 0.801      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.801) |     2.28 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            2 |     1806 | 2024-05-25 | ex-Guild Eagles   | L   | 0.713      | -            | -                | -                | -         |    -9.79 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            1 |     1818 | 2024-05-24 | Zero Tenacity     | L   | 0.707      | -            | -                | -                | -         |    -3.70 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           13 |       32 | 2024-08-05 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -10.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           12 |       53 | 2024-08-04 | CPH Wolves        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.353 (0.050)    | 0 (0.000) |    14.03 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           11 |      163 | 2024-08-01 | Alliance          | L   | 1.000      | -            | -                | -                | -         |   -16.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           10 |      835 | 2024-07-14 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.56 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            9 |      837 | 2024-07-14 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.537 (0.077)    | 0 (0.000) |    18.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            8 |      846 | 2024-07-14 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -4.99 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            7 |      853 | 2024-07-13 | Portugal          | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.115 (0.016)    | 0 (0.000) |     9.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            6 |      948 | 2024-07-08 | Latvia            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.134 (0.019)    | 0 (0.000) |    16.76 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            5 |     1318 | 2024-06-08 | M1X KS            | L   | 0.808      | -            | -                | -                | -         |   -11.33 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            4 |     1343 | 2024-06-08 | ALTERNATE aTTaX   | W   | 0.807      | 0.337        | 0.031 (0.008)    | 0.537 (0.146)    | 1 (0.807) |    15.35 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            3 |     1390 | 2024-06-07 | plusW KS          | W   | 0.801      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.801) |     2.28 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            2 |     1807 | 2024-05-25 | ex-Guild Eagles   | L   | 0.713      | -            | -                | -                | -         |    -9.78 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            1 |     1819 | 2024-05-24 | Zero Tenacity     | L   | 0.707      | -            | -                | -                | -         |    -3.70 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
 
 <br />
 <span id="table2"></span><br />

@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |     2149 | 2024-05-14 | Wildcard    | L   | 0.644      | -            | -                | -                | -         |    -6.16 | ayy, jason, nooz, PNDLM, sacrifice     |
-|           19 |     2154 | 2024-05-14 | Wildcard    | L   | 0.644      | -            | -                | -                | -         |    -6.47 | ayy, jason, nooz, PNDLM, sacrifice     |
-|           18 |     2291 | 2024-05-09 | Limitless   | W   | 0.611      | 0.477        | 0.001 (0.000)    | 0.159 (0.046)    | 0 (0.000) |     6.91 | ayy, jason, nooz, PNDLM, sacrifice     |
-|           17 |     2294 | 2024-05-09 | Limitless   | L   | 0.610      | -            | -                | -                | -         |   -12.65 | ayy, jason, nooz, PNDLM, sacrifice     |
-|           16 |     2673 | 2024-04-21 | For Fun     | W   | 0.491      | 0.319        | 0.003 (0.001)    | 0.019 (0.003)    | 1 (0.491) |     5.88 | ayy, brett, Fr3nk1e, jason, PNDLM      |
-|           15 |     2675 | 2024-04-21 | Will to Win | W   | 0.490      | 0.319        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.490) |     3.36 | ayy, brett, Fr3nk1e, jason, PNDLM      |
-|           14 |     2977 | 2024-04-10 | Take Flyte  | L   | 0.417      | -            | -                | -                | -         |    -7.65 | ayy, intra, jason, PNDLM, sacrifice    |
-|           13 |     2982 | 2024-04-10 | Take Flyte  | W   | 0.417      | 0.477        | 0.002 (0.000)    | 0.231 (0.046)    | 0 (0.000) |     5.59 | ayy, jason, nooz, PNDLM, sacrifice     |
-|           12 |     3168 | 2024-04-04 | BOSS        | L   | 0.377      | -            | -                | -                | -         |    -5.21 | ayy, intra, jason, nooz, sacrifice     |
-|           11 |     3174 | 2024-04-04 | BOSS        | L   | 0.377      | -            | -                | -                | -         |    -5.38 | ayy, intra, jason, PNDLM, sacrifice    |
-|           10 |     3563 | 2024-03-15 | NRG         | L   | 0.244      | -            | -                | -                | -         |    -2.97 | ayy, intra, jason, PNDLM, sacrifice    |
-|            9 |     3565 | 2024-03-15 | NRG         | W   | 0.244      | 0.477        | 0.020 (0.002)    | 0.502 (0.058)    | 0 (0.000) |     4.79 | ayy, intra, jason, PNDLM, sacrifice    |
-|            8 |     3769 | 2024-03-07 | LAG         | L   | 0.191      | -            | -                | -                | -         |    -2.42 | ayy, jason, LEARSI, PNDLM, sacrifice   |
-|            7 |     3770 | 2024-03-07 | LAG         | W   | 0.190      | 0.477        | 0.012 (0.001)    | 0.376 (0.034)    | 0 (0.000) |     3.63 | ayy, jason, LEARSI, PNDLM, sacrifice   |
-|            6 |     4234 | 2024-02-16 | Mythic      | L   | 0.057      | -            | -                | -                | -         |    -0.80 | intra, jason, LEARSI, PNDLM, sacrifice |
-|            5 |     4238 | 2024-02-16 | LAG         | W   | 0.056      | 0.143        | 0.012 (0.000)    | 0.376 (0.003)    | 0 (0.000) |     1.08 | intra, jason, LEARSI, PNDLM, sacrifice |
-|            4 |     4292 | 2024-02-14 | Mythic      | L   | 0.044      | -            | -                | -                | -         |    -0.63 | intra, jason, LEARSI, PNDLM, sacrifice |
-|            3 |     4294 | 2024-02-14 | Mythic      | L   | 0.044      | -            | -                | -                | -         |    -0.63 | intra, jason, LEARSI, PNDLM, sacrifice |
-|            2 |     4333 | 2024-02-13 | Carpe Diem  | L   | 0.037      | -            | -                | -                | -         |    -0.73 | intra, jason, LEARSI, PNDLM, sacrifice |
-|            1 |     4336 | 2024-02-13 | Carpe Diem  | W   | 0.037      | 0.477        | 0.005 (0.000)    | 0.035 (0.001)    | 0 (0.000) |     0.45 | intra, jason, LEARSI, PNDLM, sacrifice |
+|           20 |     2150 | 2024-05-14 | Wildcard    | L   | 0.644      | -            | -                | -                | -         |    -6.16 | ayy, jason, nooz, PNDLM, sacrifice     |
+|           19 |     2155 | 2024-05-14 | Wildcard    | L   | 0.644      | -            | -                | -                | -         |    -6.47 | ayy, jason, nooz, PNDLM, sacrifice     |
+|           18 |     2292 | 2024-05-09 | Limitless   | W   | 0.611      | 0.477        | 0.001 (0.000)    | 0.159 (0.046)    | 0 (0.000) |     6.91 | ayy, jason, nooz, PNDLM, sacrifice     |
+|           17 |     2295 | 2024-05-09 | Limitless   | L   | 0.610      | -            | -                | -                | -         |   -12.65 | ayy, jason, nooz, PNDLM, sacrifice     |
+|           16 |     2674 | 2024-04-21 | For Fun     | W   | 0.491      | 0.319        | 0.003 (0.001)    | 0.019 (0.003)    | 1 (0.491) |     5.88 | ayy, brett, Fr3nk1e, jason, PNDLM      |
+|           15 |     2676 | 2024-04-21 | Will to Win | W   | 0.490      | 0.319        | 0.001 (0.000)    | 0.000 (0.000)    | 1 (0.490) |     3.36 | ayy, brett, Fr3nk1e, jason, PNDLM      |
+|           14 |     2978 | 2024-04-10 | Take Flyte  | L   | 0.417      | -            | -                | -                | -         |    -7.65 | ayy, intra, jason, PNDLM, sacrifice    |
+|           13 |     2983 | 2024-04-10 | Take Flyte  | W   | 0.417      | 0.477        | 0.002 (0.000)    | 0.231 (0.046)    | 0 (0.000) |     5.59 | ayy, jason, nooz, PNDLM, sacrifice     |
+|           12 |     3169 | 2024-04-04 | BOSS        | L   | 0.377      | -            | -                | -                | -         |    -5.21 | ayy, intra, jason, nooz, sacrifice     |
+|           11 |     3175 | 2024-04-04 | BOSS        | L   | 0.377      | -            | -                | -                | -         |    -5.38 | ayy, intra, jason, PNDLM, sacrifice    |
+|           10 |     3564 | 2024-03-15 | NRG         | L   | 0.244      | -            | -                | -                | -         |    -2.97 | ayy, intra, jason, PNDLM, sacrifice    |
+|            9 |     3566 | 2024-03-15 | NRG         | W   | 0.244      | 0.477        | 0.020 (0.002)    | 0.502 (0.058)    | 0 (0.000) |     4.79 | ayy, intra, jason, PNDLM, sacrifice    |
+|            8 |     3770 | 2024-03-07 | LAG         | L   | 0.191      | -            | -                | -                | -         |    -2.42 | ayy, jason, LEARSI, PNDLM, sacrifice   |
+|            7 |     3771 | 2024-03-07 | LAG         | W   | 0.190      | 0.477        | 0.012 (0.001)    | 0.376 (0.034)    | 0 (0.000) |     3.63 | ayy, jason, LEARSI, PNDLM, sacrifice   |
+|            6 |     4235 | 2024-02-16 | Mythic      | L   | 0.057      | -            | -                | -                | -         |    -0.80 | intra, jason, LEARSI, PNDLM, sacrifice |
+|            5 |     4239 | 2024-02-16 | LAG         | W   | 0.056      | 0.143        | 0.012 (0.000)    | 0.376 (0.003)    | 0 (0.000) |     1.08 | intra, jason, LEARSI, PNDLM, sacrifice |
+|            4 |     4293 | 2024-02-14 | Mythic      | L   | 0.044      | -            | -                | -                | -         |    -0.63 | intra, jason, LEARSI, PNDLM, sacrifice |
+|            3 |     4295 | 2024-02-14 | Mythic      | L   | 0.044      | -            | -                | -                | -         |    -0.63 | intra, jason, LEARSI, PNDLM, sacrifice |
+|            2 |     4334 | 2024-02-13 | Carpe Diem  | L   | 0.037      | -            | -                | -                | -         |    -0.73 | intra, jason, LEARSI, PNDLM, sacrifice |
+|            1 |     4337 | 2024-02-13 | Carpe Diem  | W   | 0.037      | 0.477        | 0.005 (0.000)    | 0.035 (0.001)    | 0 (0.000) |     0.45 | intra, jason, LEARSI, PNDLM, sacrifice |
 
 <br />
 <span id="table2"></span><br />

@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |       17 | 2024-08-05 | Preasy          | W   | 1.000      | 0.435        | 0.008 (0.004)    | 0.216 (0.094)    | 0 (0.000) |    15.53 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           20 |       36 | 2024-08-04 | Alliance        | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.283 (0.040)    | 0 (0.000) |    19.13 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           19 |       53 | 2024-08-04 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |    -6.51 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           18 |      775 | 2024-07-16 | Johnny Speeds   | L   | 1.000      | -            | -                | -                | -         |    -2.10 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           17 |     2676 | 2024-04-21 | Nexus           | L   | 0.488      | -            | -                | -                | -         |    -5.86 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
-|           16 |     2699 | 2024-04-20 | Passion UA      | L   | 0.482      | -            | -                | -                | -         |    -2.77 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
-|           15 |     2786 | 2024-04-18 | Nexus           | W   | 0.468      | 0.500        | 0.014 (0.003)    | 0.447 (0.105)    | 0 (0.000) |     9.17 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
-|           14 |     3130 | 2024-04-07 | 3DMAX           | L   | 0.394      | -            | -                | -                | -         |    -0.08 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           13 |     3613 | 2024-03-14 | ex-sYnck        | L   | 0.233      | -            | -                | -                | -         |    -6.02 | BluePho3nix, dex, maxster, MisteM, Silence      |
-|           12 |     3717 | 2024-03-10 | 500             | W   | 0.207      | 0.358        | 0.001 (0.000)    | 0.090 (0.007)    | 0 (0.000) |     2.81 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|           11 |     3746 | 2024-03-09 | AURA            | W   | 0.200      | 0.143        | 0.000 (0.000)    | 0.008 (0.000)    | 0 (0.000) |     1.10 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|           10 |     3815 | 2024-03-06 | HEROIC          | L   | 0.181      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            9 |     3861 | 2024-03-05 | fnatic          | L   | 0.174      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            8 |     3863 | 2024-03-05 | Permitta        | L   | 0.174      | -            | -                | -                | -         |    -1.38 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            7 |     3874 | 2024-03-04 | Aurora          | W   | 0.168      | 0.500        | 0.420 (0.035)    | 0.759 (0.064)    | 0 (0.000) |     5.25 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            6 |     3889 | 2024-03-03 | BIG             | W   | 0.162      | 0.500        | 0.154 (0.012)    | 0.290 (0.023)    | 0 (0.000) |     4.87 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            5 |     3945 | 2024-03-01 | BLEED           | L   | 0.148      | -            | -                | -                | -         |    -1.14 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            4 |     3958 | 2024-02-29 | Zero Tenacity   | L   | 0.140      | -            | -                | -                | -         |    -0.56 | BluePho3nix, jocab, MisteM, REZ, Silence        |
-|            3 |     3967 | 2024-02-28 | AMKAL           | W   | 0.134      | 0.500        | 0.130 (0.009)    | 0.453 (0.030)    | 0 (0.000) |     3.81 | BluePho3nix, maxster, MisteM, REZ, Silence      |
-|            2 |     4193 | 2024-02-18 | ALTERNATE aTTaX | W   | 0.068      | 0.358        | 0.031 (0.001)    | 0.537 (0.013)    | 0 (0.000) |     1.70 | BluePho3nix, jocab, maxster, MisteM, Silence    |
-|            1 |     4369 | 2024-02-11 | Portugal        | W   | 0.021      | 0.358        | 0.003 (0.000)    | 0.115 (0.001)    | 0 (0.000) |     0.27 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|           21 |       18 | 2024-08-05 | Preasy          | W   | 1.000      | 0.435        | 0.008 (0.004)    | 0.216 (0.094)    | 0 (0.000) |    15.54 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           20 |       37 | 2024-08-04 | Alliance        | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.283 (0.040)    | 0 (0.000) |    19.13 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           19 |       54 | 2024-08-04 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |    -6.51 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           18 |      776 | 2024-07-16 | Johnny Speeds   | L   | 1.000      | -            | -                | -                | -         |    -2.10 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           17 |     2677 | 2024-04-21 | Nexus           | L   | 0.488      | -            | -                | -                | -         |    -5.86 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
+|           16 |     2700 | 2024-04-20 | Passion UA      | L   | 0.482      | -            | -                | -                | -         |    -2.77 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
+|           15 |     2787 | 2024-04-18 | Nexus           | W   | 0.468      | 0.500        | 0.014 (0.003)    | 0.447 (0.105)    | 0 (0.000) |     9.17 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
+|           14 |     3131 | 2024-04-07 | 3DMAX           | L   | 0.394      | -            | -                | -                | -         |    -0.08 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           13 |     3614 | 2024-03-14 | ex-sYnck        | L   | 0.233      | -            | -                | -                | -         |    -6.02 | BluePho3nix, dex, maxster, MisteM, Silence      |
+|           12 |     3718 | 2024-03-10 | 500             | W   | 0.207      | 0.358        | 0.001 (0.000)    | 0.090 (0.007)    | 0 (0.000) |     2.81 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|           11 |     3747 | 2024-03-09 | AURA            | W   | 0.200      | 0.143        | 0.000 (0.000)    | 0.008 (0.000)    | 0 (0.000) |     1.10 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|           10 |     3816 | 2024-03-06 | HEROIC          | L   | 0.181      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            9 |     3862 | 2024-03-05 | fnatic          | L   | 0.174      | -            | -                | -                | -         |    -0.07 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            8 |     3864 | 2024-03-05 | Permitta        | L   | 0.174      | -            | -                | -                | -         |    -1.38 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            7 |     3875 | 2024-03-04 | Aurora          | W   | 0.168      | 0.500        | 0.420 (0.035)    | 0.759 (0.064)    | 0 (0.000) |     5.25 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            6 |     3890 | 2024-03-03 | BIG             | W   | 0.162      | 0.500        | 0.154 (0.012)    | 0.290 (0.023)    | 0 (0.000) |     4.87 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            5 |     3946 | 2024-03-01 | BLEED           | L   | 0.148      | -            | -                | -                | -         |    -1.14 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            4 |     3959 | 2024-02-29 | Zero Tenacity   | L   | 0.140      | -            | -                | -                | -         |    -0.56 | BluePho3nix, jocab, MisteM, REZ, Silence        |
+|            3 |     3968 | 2024-02-28 | AMKAL           | W   | 0.134      | 0.500        | 0.130 (0.009)    | 0.453 (0.030)    | 0 (0.000) |     3.81 | BluePho3nix, maxster, MisteM, REZ, Silence      |
+|            2 |     4194 | 2024-02-18 | ALTERNATE aTTaX | W   | 0.068      | 0.358        | 0.031 (0.001)    | 0.537 (0.013)    | 0 (0.000) |     1.70 | BluePho3nix, jocab, maxster, MisteM, Silence    |
+|            1 |     4370 | 2024-02-11 | Portugal        | W   | 0.021      | 0.358        | 0.003 (0.000)    | 0.115 (0.001)    | 0 (0.000) |     0.27 | BluePho3nix, jocab, maxster, MisteM, Silence    |
 
 <br />
 <span id="table2"></span><br />

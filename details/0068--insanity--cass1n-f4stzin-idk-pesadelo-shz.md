@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |      100 | 2024-08-02 | Case              | L   | 1.000      | -            | -                | -                | -         |   -19.22 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           35 |      133 | 2024-08-01 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.48 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           34 |      230 | 2024-07-30 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.78 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           33 |      383 | 2024-07-25 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -21.13 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           32 |      459 | 2024-07-23 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -20.73 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           31 |      545 | 2024-07-20 | Intense           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.58 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           30 |      649 | 2024-07-18 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |   -22.22 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           29 |      714 | 2024-07-17 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.80 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           28 |      750 | 2024-07-16 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.12 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           27 |      755 | 2024-07-16 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.47 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           26 |      799 | 2024-07-15 | Galorys           | W   | 1.000      | 0.450        | 0.030 (0.013)    | 0.530 (0.239)    | 0 (0.000) |     8.10 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           25 |      805 | 2024-07-15 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -23.94 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           24 |      821 | 2024-07-15 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.33 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           23 |      966 | 2024-07-03 | Bounty Hunters    | W   | 0.975      | 0.333        | -                | 0.540 (0.176)    | 0 (0.000) |    11.44 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           22 |      969 | 2024-07-01 | Bounty Hunters    | W   | 0.962      | 0.333        | -                | 0.540 (0.173)    | 0 (0.000) |    11.80 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           21 |      979 | 2024-06-29 | Galorys           | W   | 0.949      | 0.333        | 0.030 (0.009)    | -                | 0 (0.000) |     8.59 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           20 |      993 | 2024-06-27 | Sharks            | W   | 0.935      | 0.333        | 0.030 (0.009)    | -                | -         |    15.61 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           19 |     1014 | 2024-06-19 | Case              | W   | 0.882      | 0.337        | 0.029 (0.009)    | 0.778 (0.231)    | -         |     8.97 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           18 |     1015 | 2024-06-18 | Galorys           | W   | 0.876      | 0.337        | 0.030 (0.009)    | -                | -         |     9.13 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           17 |     1018 | 2024-06-17 | Dusty Roots       | W   | 0.870      | -            | -                | -                | -         |     8.88 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           16 |     1058 | 2024-06-15 | Fluxo             | L   | 0.855      | -            | -                | -                | -         |    -8.89 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           15 |     1102 | 2024-06-14 | Patins da Ferrari | W   | 0.848      | -            | -                | -                | -         |     8.27 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           14 |     1244 | 2024-06-09 | Bounty Hunters    | L   | 0.816      | -            | -                | -                | -         |   -15.03 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           13 |     1250 | 2024-06-09 | Bounty Hunters    | W   | 0.815      | 0.450        | 0.022 (0.008)    | 0.540 (0.198)    | -         |    10.66 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           12 |     1326 | 2024-06-08 | Solid             | W   | 0.808      | 0.450        | 0.024 (0.009)    | 0.807 (0.293)    | -         |    10.06 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           11 |     1361 | 2024-06-07 | Hype              | L   | 0.803      | -            | -                | -                | -         |   -15.16 | cass1n, f4stzin, iDk, pesadelo, shz |
-|           10 |     1390 | 2024-06-07 | KRÜ               | W   | 0.801      | -            | -                | -                | -         |     9.29 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            9 |     1428 | 2024-06-06 | BESTIA            | W   | 0.795      | 0.450        | 0.096 (0.034)    | 0.776 (0.278)    | -         |    15.46 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            8 |     1619 | 2024-06-01 | Solid             | W   | 0.763      | 0.371        | -                | 0.807 (0.228)    | -         |    10.23 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            7 |     1696 | 2024-05-30 | Intense           | W   | 0.747      | -            | -                | -                | -         |     5.74 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            6 |     1757 | 2024-05-27 | Bounty Hunters    | W   | 0.729      | -            | -                | -                | -         |    10.03 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            5 |     2220 | 2024-05-12 | 9z                | L   | 0.630      | -            | -                | -                | -         |    -0.74 | cass1n, f4stzin, pesadelo, shz, vsm |
-|            4 |     2279 | 2024-05-10 | 9z                | L   | 0.617      | -            | -                | -                | -         |    -0.68 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            3 |     2305 | 2024-05-09 | ODDIK             | W   | 0.608      | 0.435        | 0.099 (0.026)    | 0.805 (0.213)    | -         |    10.88 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            2 |     2344 | 2024-05-07 | Case              | W   | 0.595      | 0.435        | 0.029 (0.008)    | 0.778 (0.201)    | -         |     9.12 | cass1n, f4stzin, iDk, pesadelo, shz |
-|            1 |     2377 | 2024-05-05 | Imperial          | L   | 0.581      | -            | -                | -                | -         |    -2.12 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           36 |      101 | 2024-08-02 | Case              | L   | 1.000      | -            | -                | -                | -         |   -19.22 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           35 |      134 | 2024-08-01 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.48 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           34 |      231 | 2024-07-30 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -12.78 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           33 |      384 | 2024-07-25 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -21.13 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           32 |      460 | 2024-07-23 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -20.73 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           31 |      546 | 2024-07-20 | Intense           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.58 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           30 |      650 | 2024-07-18 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |   -22.22 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           29 |      715 | 2024-07-17 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.80 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           28 |      751 | 2024-07-16 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.12 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           27 |      756 | 2024-07-16 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.47 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           26 |      800 | 2024-07-15 | Galorys           | W   | 1.000      | 0.450        | 0.030 (0.013)    | 0.530 (0.239)    | 0 (0.000) |     8.10 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           25 |      806 | 2024-07-15 | Galorys           | L   | 1.000      | -            | -                | -                | -         |   -23.94 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           24 |      822 | 2024-07-15 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.33 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           23 |      967 | 2024-07-03 | Bounty Hunters    | W   | 0.975      | 0.333        | -                | 0.540 (0.176)    | 0 (0.000) |    11.44 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           22 |      970 | 2024-07-01 | Bounty Hunters    | W   | 0.962      | 0.333        | -                | 0.540 (0.173)    | 0 (0.000) |    11.80 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           21 |      980 | 2024-06-29 | Galorys           | W   | 0.949      | 0.333        | 0.030 (0.009)    | -                | 0 (0.000) |     8.59 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           20 |      994 | 2024-06-27 | Sharks            | W   | 0.935      | 0.333        | 0.030 (0.009)    | -                | -         |    15.61 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           19 |     1015 | 2024-06-19 | Case              | W   | 0.882      | 0.337        | 0.029 (0.009)    | 0.778 (0.231)    | -         |     8.97 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           18 |     1016 | 2024-06-18 | Galorys           | W   | 0.876      | 0.337        | 0.030 (0.009)    | -                | -         |     9.13 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           17 |     1019 | 2024-06-17 | Dusty Roots       | W   | 0.870      | -            | -                | -                | -         |     8.88 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           16 |     1059 | 2024-06-15 | Fluxo             | L   | 0.855      | -            | -                | -                | -         |    -8.89 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           15 |     1103 | 2024-06-14 | Patins da Ferrari | W   | 0.848      | -            | -                | -                | -         |     8.27 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           14 |     1245 | 2024-06-09 | Bounty Hunters    | L   | 0.816      | -            | -                | -                | -         |   -15.03 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           13 |     1251 | 2024-06-09 | Bounty Hunters    | W   | 0.815      | 0.450        | 0.022 (0.008)    | 0.540 (0.198)    | -         |    10.66 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           12 |     1327 | 2024-06-08 | Solid             | W   | 0.808      | 0.450        | 0.024 (0.009)    | 0.807 (0.293)    | -         |    10.06 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           11 |     1362 | 2024-06-07 | Hype              | L   | 0.803      | -            | -                | -                | -         |   -15.16 | cass1n, f4stzin, iDk, pesadelo, shz |
+|           10 |     1391 | 2024-06-07 | KRÜ               | W   | 0.801      | -            | -                | -                | -         |     9.29 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            9 |     1429 | 2024-06-06 | BESTIA            | W   | 0.795      | 0.450        | 0.096 (0.034)    | 0.776 (0.278)    | -         |    15.46 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            8 |     1620 | 2024-06-01 | Solid             | W   | 0.763      | 0.371        | -                | 0.807 (0.228)    | -         |    10.23 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            7 |     1697 | 2024-05-30 | Intense           | W   | 0.747      | -            | -                | -                | -         |     5.74 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            6 |     1758 | 2024-05-27 | Bounty Hunters    | W   | 0.729      | -            | -                | -                | -         |    10.03 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            5 |     2221 | 2024-05-12 | 9z                | L   | 0.630      | -            | -                | -                | -         |    -0.74 | cass1n, f4stzin, pesadelo, shz, vsm |
+|            4 |     2280 | 2024-05-10 | 9z                | L   | 0.617      | -            | -                | -                | -         |    -0.68 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            3 |     2306 | 2024-05-09 | ODDIK             | W   | 0.608      | 0.435        | 0.099 (0.026)    | 0.805 (0.213)    | -         |    10.88 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            2 |     2345 | 2024-05-07 | Case              | W   | 0.595      | 0.435        | 0.029 (0.008)    | 0.778 (0.201)    | -         |     9.12 | cass1n, f4stzin, iDk, pesadelo, shz |
+|            1 |     2378 | 2024-05-05 | Imperial          | L   | 0.581      | -            | -                | -                | -         |    -2.12 | cass1n, f4stzin, iDk, pesadelo, shz |
 
 <br />
 <span id="table2"></span><br />

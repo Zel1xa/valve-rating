@@ -6,9 +6,9 @@ Global Rank: [110](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [79]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  840.1<br />
+Final Rank Value:  840.2<br />
 <br />
-Final Rank Value (840.1) = Starting Rank Value (945.1) + Head To Head Adjustments (-104.9)<br />
+Final Rank Value (840.2) = Starting Rank Value (945.1) + Head To Head Adjustments (-104.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |        2 | 2024-08-06 | Enterprise        | L   | 1.000      | -            | -                | -                | -         |   -11.22 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           34 |      532 | 2024-07-21 | Invictum          | W   | 1.000      | 0.296        | 0.003 (0.001)    | 0.038 (0.011)    | 1 (1.000) |     9.80 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           33 |      558 | 2024-07-20 | Invictum          | W   | 1.000      | 0.296        | 0.003 (0.001)    | 0.038 (0.011)    | 1 (1.000) |     9.98 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           32 |      706 | 2024-07-17 | PERA              | L   | 1.000      | -            | -                | -                | -         |    -9.10 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           31 |      873 | 2024-07-12 | Revenant          | L   | 1.000      | -            | -                | -                | -         |   -14.72 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           30 |      954 | 2024-07-08 | Rebels            | L   | 1.000      | -            | -                | -                | -         |    -9.90 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           29 |     1049 | 2024-06-16 | UNiTY             | L   | 0.859      | -            | -                | -                | -         |   -10.23 | arTisT, Diviiii, Ducky, Extinct, Vacancy    |
-|           28 |     1060 | 2024-06-15 | Revenant          | L   | 0.855      | -            | -                | -                | -         |   -16.08 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           27 |     1098 | 2024-06-14 | Aurora Young Blud | L   | 0.848      | -            | -                | -                | -         |   -12.60 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           26 |     1137 | 2024-06-13 | Nemiga            | L   | 0.842      | -            | -                | -                | -         |    -5.29 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           25 |     1145 | 2024-06-13 | Revenant          | W   | 0.841      | 0.143        | 0.027 (0.003)    | 0.259 (0.031)    | 0 (0.000) |     9.59 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           24 |     1168 | 2024-06-12 | DMS               | W   | 0.835      | 0.143        | 0.003 (0.000)    | 0.428 (0.051)    | 0 (0.000) |    14.48 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           23 |     1190 | 2024-06-11 | 9INE              | L   | 0.828      | -            | -                | -                | -         |   -23.25 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           22 |     1384 | 2024-06-07 | B8                | L   | 0.801      | -            | -                | -                | -         |    -5.50 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           21 |     1391 | 2024-06-07 | Aurora            | L   | 0.801      | -            | -                | -                | -         |    -0.79 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           20 |     1401 | 2024-06-07 | B8                | W   | 0.800      | 0.143        | 0.170 (0.019)    | 0.912 (0.104)    | 0 (0.000) |    20.00 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           19 |     1438 | 2024-06-06 | Aurora Young Blud | L   | 0.795      | -            | -                | -                | -         |   -12.36 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           18 |     1496 | 2024-06-05 | Enterprise        | W   | 0.788      | 0.372        | 0.039 (0.012)    | 0.641 (0.188)    | 0 (0.000) |    13.28 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           17 |     1547 | 2024-06-04 | K10               | L   | 0.782      | -            | -                | -                | -         |   -18.94 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           16 |     1577 | 2024-06-03 | LEON              | W   | 0.775      | 0.372        | 0.007 (0.002)    | 0.124 (0.036)    | 0 (0.000) |     5.58 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           15 |     1628 | 2024-06-01 | V1dar             | W   | 0.762      | 0.372        | -                | 0.054 (0.015)    | 0 (0.000) |     2.80 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           14 |     1715 | 2024-05-29 | DMS               | L   | 0.742      | -            | -                | -                | -         |   -11.76 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           13 |     1923 | 2024-05-21 | Zero Tenacity     | L   | 0.686      | -            | -                | -                | -         |    -6.01 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           12 |     1961 | 2024-05-20 | Sampi             | W   | 0.679      | 0.435        | 0.027 (0.008)    | 1.000 (0.295)    | 0 (0.000) |    10.26 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
-|           11 |     2022 | 2024-05-18 | Space             | L   | 0.665      | -            | -                | -                | -         |   -13.01 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|           10 |     2135 | 2024-05-15 | Sangal            | W   | 0.646      | 0.435        | 0.219 (0.061)    | 0.846 (0.238)    | -         |    14.98 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            9 |     2189 | 2024-05-14 | B8                | L   | 0.640      | -            | -                | -                | -         |    -5.05 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            8 |     2216 | 2024-05-13 | kONO              | L   | 0.633      | -            | -                | -                | -         |   -12.57 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            7 |     2229 | 2024-05-12 | Johnny Speeds     | L   | 0.628      | -            | -                | -                | -         |    -2.51 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            6 |     2240 | 2024-05-12 | Zero Tenacity     | L   | 0.626      | -            | -                | -                | -         |    -6.85 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            5 |     2260 | 2024-05-11 | V1dar             | W   | 0.621      | -            | -                | -                | -         |     1.83 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            4 |     2288 | 2024-05-10 | ECLOT             | L   | 0.613      | -            | -                | -                | -         |    -3.89 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
-|            3 |     3300 | 2024-04-01 | Reason            | W   | 0.353      | 0.301        | 0.002 (0.000)    | -                | 1 (0.353) |     1.06 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
-|            2 |     3373 | 2024-03-27 | Ninjas in Pyjamas | L   | 0.322      | -            | -                | -                | -         |    -0.15 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
-|            1 |     3498 | 2024-03-19 | The Neighbours    | L   | 0.269      | -            | -                | -                | -         |    -6.83 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
+|           35 |        3 | 2024-08-06 | Enterprise        | L   | 1.000      | -            | -                | -                | -         |   -11.20 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           34 |      533 | 2024-07-21 | Invictum          | W   | 1.000      | 0.296        | 0.003 (0.001)    | 0.038 (0.011)    | 1 (1.000) |     9.80 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           33 |      559 | 2024-07-20 | Invictum          | W   | 1.000      | 0.296        | 0.003 (0.001)    | 0.038 (0.011)    | 1 (1.000) |     9.98 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           32 |      707 | 2024-07-17 | PERA              | L   | 1.000      | -            | -                | -                | -         |    -9.10 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           31 |      874 | 2024-07-12 | Revenant          | L   | 1.000      | -            | -                | -                | -         |   -14.72 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           30 |      955 | 2024-07-08 | Rebels            | L   | 1.000      | -            | -                | -                | -         |    -9.89 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           29 |     1050 | 2024-06-16 | UNiTY             | L   | 0.859      | -            | -                | -                | -         |   -10.23 | arTisT, Diviiii, Ducky, Extinct, Vacancy    |
+|           28 |     1061 | 2024-06-15 | Revenant          | L   | 0.855      | -            | -                | -                | -         |   -16.08 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           27 |     1099 | 2024-06-14 | Aurora Young Blud | L   | 0.848      | -            | -                | -                | -         |   -12.59 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           26 |     1138 | 2024-06-13 | Nemiga            | L   | 0.842      | -            | -                | -                | -         |    -5.28 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           25 |     1146 | 2024-06-13 | Revenant          | W   | 0.841      | 0.143        | 0.027 (0.003)    | 0.259 (0.031)    | 0 (0.000) |     9.58 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           24 |     1169 | 2024-06-12 | DMS               | W   | 0.835      | 0.143        | 0.003 (0.000)    | 0.428 (0.051)    | 0 (0.000) |    14.48 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           23 |     1191 | 2024-06-11 | 9INE              | L   | 0.828      | -            | -                | -                | -         |   -23.25 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           22 |     1385 | 2024-06-07 | B8                | L   | 0.801      | -            | -                | -                | -         |    -5.50 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           21 |     1392 | 2024-06-07 | Aurora            | L   | 0.801      | -            | -                | -                | -         |    -0.79 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           20 |     1402 | 2024-06-07 | B8                | W   | 0.800      | 0.143        | 0.170 (0.019)    | 0.912 (0.104)    | 0 (0.000) |    20.00 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           19 |     1439 | 2024-06-06 | Aurora Young Blud | L   | 0.795      | -            | -                | -                | -         |   -12.36 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           18 |     1497 | 2024-06-05 | Enterprise        | W   | 0.788      | 0.372        | 0.039 (0.012)    | 0.641 (0.188)    | 0 (0.000) |    13.29 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           17 |     1548 | 2024-06-04 | K10               | L   | 0.782      | -            | -                | -                | -         |   -18.94 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           16 |     1578 | 2024-06-03 | LEON              | W   | 0.775      | 0.372        | 0.007 (0.002)    | 0.124 (0.036)    | 0 (0.000) |     5.58 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           15 |     1629 | 2024-06-01 | V1dar             | W   | 0.762      | 0.372        | -                | 0.054 (0.015)    | 0 (0.000) |     2.80 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           14 |     1716 | 2024-05-29 | DMS               | L   | 0.742      | -            | -                | -                | -         |   -11.76 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           13 |     1924 | 2024-05-21 | Zero Tenacity     | L   | 0.686      | -            | -                | -                | -         |    -6.01 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           12 |     1962 | 2024-05-20 | Sampi             | W   | 0.679      | 0.435        | 0.027 (0.008)    | 1.000 (0.295)    | 0 (0.000) |    10.26 | arTisT, Diviiii, Extinct, Girafffe, Vacancy |
+|           11 |     2023 | 2024-05-18 | Space             | L   | 0.665      | -            | -                | -                | -         |   -13.01 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|           10 |     2136 | 2024-05-15 | Sangal            | W   | 0.646      | 0.435        | 0.219 (0.061)    | 0.846 (0.238)    | -         |    14.97 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            9 |     2190 | 2024-05-14 | B8                | L   | 0.640      | -            | -                | -                | -         |    -5.05 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            8 |     2217 | 2024-05-13 | kONO              | L   | 0.633      | -            | -                | -                | -         |   -12.55 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            7 |     2230 | 2024-05-12 | Johnny Speeds     | L   | 0.628      | -            | -                | -                | -         |    -2.51 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            6 |     2241 | 2024-05-12 | Zero Tenacity     | L   | 0.626      | -            | -                | -                | -         |    -6.85 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            5 |     2261 | 2024-05-11 | V1dar             | W   | 0.621      | -            | -                | -                | -         |     1.83 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            4 |     2289 | 2024-05-10 | ECLOT             | L   | 0.613      | -            | -                | -                | -         |    -3.89 | arTisT, Diviiii, Ducky, Girafffe, Vacancy   |
+|            3 |     3301 | 2024-04-01 | Reason            | W   | 0.353      | 0.301        | 0.002 (0.000)    | -                | 1 (0.353) |     1.06 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
+|            2 |     3374 | 2024-03-27 | Ninjas in Pyjamas | L   | 0.322      | -            | -                | -                | -         |    -0.15 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
+|            1 |     3499 | 2024-03-19 | The Neighbours    | L   | 0.269      | -            | -                | -                | -         |    -6.83 | arTisT, Ducky, Girafffe, Vacancy, Zax1e     |
 
 <br />
 <span id="table2"></span><br />

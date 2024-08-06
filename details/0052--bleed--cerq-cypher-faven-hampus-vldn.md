@@ -37,48 +37,48 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           42 |     2275 | 2024-05-11 | B8                | L   | 0.619      | -            | -                | -                | -         |    -9.61 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           41 |     2303 | 2024-05-09 | Sampi             | W   | 0.608      | 0.435        | -                | 1.000 (0.264)    | 0 (0.000) |     6.11 | CYPHER, draken, faveN, hampus, VLDN |
-|           40 |     2345 | 2024-05-07 | 1WIN              | L   | 0.594      | -            | -                | -                | -         |   -12.14 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           39 |     2369 | 2024-05-06 | Insilio           | W   | 0.586      | -            | -                | -                | 0 (0.000) |     6.29 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           38 |     2433 | 2024-05-02 | AMKAL             | L   | 0.562      | -            | -                | -                | -         |    -6.97 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           37 |     2469 | 2024-05-01 | MOUZ NXT          | L   | 0.553      | -            | -                | -                | -         |    -9.29 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           36 |     2501 | 2024-04-30 | Permitta          | W   | 0.546      | 0.384        | -                | 0.919 (0.193)    | 0 (0.000) |     5.85 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           35 |     2524 | 2024-04-28 | B8                | W   | 0.535      | 0.500        | 0.170 (0.046)    | 0.912 (0.244)    | 0 (0.000) |     7.80 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           34 |     2574 | 2024-04-26 | ex-Guild Eagles   | W   | 0.521      | -            | -                | -                | 0 (0.000) |     3.93 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           33 |     2582 | 2024-04-26 | DMS               | W   | 0.520      | -            | -                | -                | 0 (0.000) |     4.78 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           32 |     2624 | 2024-04-24 | Permitta          | W   | 0.508      | 0.435        | -                | 0.919 (0.203)    | 0 (0.000) |     6.41 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           31 |     2625 | 2024-04-24 | Nemiga            | L   | 0.507      | -            | -                | -                | -         |    -5.42 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           30 |     2644 | 2024-04-23 | B8                | W   | 0.501      | 0.500        | 0.170 (0.043)    | 0.912 (0.228)    | 0 (0.000) |     7.76 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           29 |     2653 | 2024-04-23 | Sashi             | L   | 0.499      | -            | -                | -                | -         |    -5.64 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           28 |     2661 | 2024-04-22 | Sangal            | W   | 0.494      | 0.500        | 0.219 (0.054)    | 0.846 (0.209)    | 0 (0.000) |     9.54 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           27 |     2663 | 2024-04-22 | Gaimin Gladiators | W   | 0.493      | -            | -                | -                | 0 (0.000) |     7.54 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           26 |     2678 | 2024-04-21 | Illuminar         | W   | 0.488      | -            | -                | -                | -         |     0.92 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           25 |     2684 | 2024-04-21 | BIG               | W   | 0.486      | 0.384        | 0.154 (0.029)    | -                | -         |    12.49 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           24 |     2707 | 2024-04-20 | MOUZ NXT          | W   | 0.481      | 0.500        | 0.139 (0.033)    | 0.962 (0.231)    | -         |     8.33 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           23 |     2764 | 2024-04-19 | Sampi             | W   | 0.473      | 0.384        | -                | 1.000 (0.182)    | -         |     5.48 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           22 |     2821 | 2024-04-18 | ALTERNATE aTTaX   | W   | 0.466      | 0.500        | 0.031 (0.007)    | -                | -         |     6.71 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           21 |     2856 | 2024-04-17 | 3DMAX             | L   | 0.459      | -            | -                | -                | -         |    -0.43 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           20 |     2875 | 2024-04-16 | KOI               | W   | 0.455      | 0.384        | 0.058 (0.010)    | -                | -         |     8.69 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           19 |     2885 | 2024-04-16 | SINNERS           | W   | 0.452      | 0.384        | -                | 0.790 (0.137)    | -         |    10.59 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           18 |     3065 | 2024-04-09 | Alliance          | W   | 0.408      | -            | -                | -                | -         |     4.20 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           17 |     3073 | 2024-04-09 | HAVU              | W   | 0.407      | -            | -                | -                | -         |     2.19 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           16 |     3157 | 2024-04-05 | BetBoom           | L   | 0.381      | -            | -                | -                | -         |    -1.07 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           15 |     3160 | 2024-04-05 | Alliance          | W   | 0.380      | -            | -                | -                | -         |     4.08 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           14 |     3199 | 2024-04-04 | Benched Heroes    | W   | 0.374      | -            | -                | -                | -         |     0.45 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           13 |     3206 | 2024-04-04 | BetBoom           | L   | 0.374      | -            | -                | -                | -         |    -1.04 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           12 |     3276 | 2024-04-02 | Passion UA        | W   | 0.361      | 0.384        | 0.173 (0.024)    | 1.000 (0.139)    | -         |     6.84 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           11 |     3298 | 2024-04-01 | Enterprise        | L   | 0.354      | -            | -                | -                | -         |    -6.61 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|           10 |     3653 | 2024-03-13 | Sashi             | W   | 0.226      | -            | -                | -                | -         |     5.06 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            9 |     3751 | 2024-03-09 | Endpoint          | W   | 0.199      | -            | -                | -                | -         |     2.46 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            8 |     3818 | 2024-03-06 | fnatic            | L   | 0.181      | -            | -                | -                | -         |    -0.22 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            7 |     3864 | 2024-03-05 | BetBoom           | W   | 0.174      | 0.500        | 0.248 (0.021)    | -                | -         |     5.05 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            6 |     3872 | 2024-03-04 | Rebels            | W   | 0.169      | -            | -                | -                | -         |     2.93 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            5 |     3881 | 2024-03-04 | AURA              | W   | 0.166      | -            | -                | -                | -         |     0.35 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            4 |     3945 | 2024-03-01 | Young Ninjas      | W   | 0.148      | -            | -                | -                | -         |     1.14 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            3 |     3960 | 2024-02-29 | AURA              | W   | 0.140      | -            | -                | -                | -         |     0.30 | CeRq, CYPHER, faveN, hampus, lauNX  |
-|            2 |     3976 | 2024-02-28 | BIG               | W   | 0.133      | 0.500        | 0.154 (0.010)    | -                | -         |     3.68 | CeRq, CYPHER, faveN, hampus, VLDN   |
-|            1 |     4011 | 2024-02-26 | MOUZ NXT          | L   | 0.120      | -            | -                | -                | -         |    -1.42 | CeRq, faveN, hampus, lauNX, VLDN    |
+|           42 |     2276 | 2024-05-11 | B8                | L   | 0.619      | -            | -                | -                | -         |    -9.61 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           41 |     2304 | 2024-05-09 | Sampi             | W   | 0.608      | 0.435        | -                | 1.000 (0.264)    | 0 (0.000) |     6.11 | CYPHER, draken, faveN, hampus, VLDN |
+|           40 |     2346 | 2024-05-07 | 1WIN              | L   | 0.594      | -            | -                | -                | -         |   -12.14 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           39 |     2370 | 2024-05-06 | Insilio           | W   | 0.586      | -            | -                | -                | 0 (0.000) |     6.29 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           38 |     2434 | 2024-05-02 | AMKAL             | L   | 0.562      | -            | -                | -                | -         |    -6.97 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           37 |     2470 | 2024-05-01 | MOUZ NXT          | L   | 0.553      | -            | -                | -                | -         |    -9.29 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           36 |     2502 | 2024-04-30 | Permitta          | W   | 0.546      | 0.384        | -                | 0.919 (0.193)    | 0 (0.000) |     5.85 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           35 |     2525 | 2024-04-28 | B8                | W   | 0.535      | 0.500        | 0.170 (0.046)    | 0.912 (0.244)    | 0 (0.000) |     7.80 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           34 |     2575 | 2024-04-26 | ex-Guild Eagles   | W   | 0.521      | -            | -                | -                | 0 (0.000) |     3.93 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           33 |     2583 | 2024-04-26 | DMS               | W   | 0.520      | -            | -                | -                | 0 (0.000) |     4.78 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           32 |     2625 | 2024-04-24 | Permitta          | W   | 0.508      | 0.435        | -                | 0.919 (0.203)    | 0 (0.000) |     6.41 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           31 |     2626 | 2024-04-24 | Nemiga            | L   | 0.507      | -            | -                | -                | -         |    -5.42 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           30 |     2645 | 2024-04-23 | B8                | W   | 0.501      | 0.500        | 0.170 (0.043)    | 0.912 (0.228)    | 0 (0.000) |     7.76 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           29 |     2654 | 2024-04-23 | Sashi             | L   | 0.499      | -            | -                | -                | -         |    -5.64 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           28 |     2662 | 2024-04-22 | Sangal            | W   | 0.494      | 0.500        | 0.219 (0.054)    | 0.846 (0.209)    | 0 (0.000) |     9.54 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           27 |     2664 | 2024-04-22 | Gaimin Gladiators | W   | 0.493      | -            | -                | -                | 0 (0.000) |     7.54 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           26 |     2679 | 2024-04-21 | Illuminar         | W   | 0.488      | -            | -                | -                | -         |     0.92 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           25 |     2685 | 2024-04-21 | BIG               | W   | 0.486      | 0.384        | 0.154 (0.029)    | -                | -         |    12.49 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           24 |     2708 | 2024-04-20 | MOUZ NXT          | W   | 0.481      | 0.500        | 0.139 (0.033)    | 0.962 (0.231)    | -         |     8.33 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           23 |     2765 | 2024-04-19 | Sampi             | W   | 0.473      | 0.384        | -                | 1.000 (0.182)    | -         |     5.48 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           22 |     2822 | 2024-04-18 | ALTERNATE aTTaX   | W   | 0.466      | 0.500        | 0.031 (0.007)    | -                | -         |     6.71 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           21 |     2857 | 2024-04-17 | 3DMAX             | L   | 0.459      | -            | -                | -                | -         |    -0.43 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           20 |     2876 | 2024-04-16 | KOI               | W   | 0.455      | 0.384        | 0.058 (0.010)    | -                | -         |     8.69 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           19 |     2886 | 2024-04-16 | SINNERS           | W   | 0.452      | 0.384        | -                | 0.790 (0.137)    | -         |    10.59 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           18 |     3066 | 2024-04-09 | Alliance          | W   | 0.408      | -            | -                | -                | -         |     4.20 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           17 |     3074 | 2024-04-09 | HAVU              | W   | 0.407      | -            | -                | -                | -         |     2.19 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           16 |     3158 | 2024-04-05 | BetBoom           | L   | 0.381      | -            | -                | -                | -         |    -1.07 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           15 |     3161 | 2024-04-05 | Alliance          | W   | 0.380      | -            | -                | -                | -         |     4.08 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           14 |     3200 | 2024-04-04 | Benched Heroes    | W   | 0.374      | -            | -                | -                | -         |     0.45 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           13 |     3207 | 2024-04-04 | BetBoom           | L   | 0.374      | -            | -                | -                | -         |    -1.04 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           12 |     3277 | 2024-04-02 | Passion UA        | W   | 0.361      | 0.384        | 0.173 (0.024)    | 1.000 (0.139)    | -         |     6.84 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           11 |     3299 | 2024-04-01 | Enterprise        | L   | 0.354      | -            | -                | -                | -         |    -6.61 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|           10 |     3654 | 2024-03-13 | Sashi             | W   | 0.226      | -            | -                | -                | -         |     5.06 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            9 |     3752 | 2024-03-09 | Endpoint          | W   | 0.199      | -            | -                | -                | -         |     2.46 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            8 |     3819 | 2024-03-06 | fnatic            | L   | 0.181      | -            | -                | -                | -         |    -0.22 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            7 |     3865 | 2024-03-05 | BetBoom           | W   | 0.174      | 0.500        | 0.248 (0.021)    | -                | -         |     5.05 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            6 |     3873 | 2024-03-04 | Rebels            | W   | 0.169      | -            | -                | -                | -         |     2.93 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            5 |     3882 | 2024-03-04 | AURA              | W   | 0.166      | -            | -                | -                | -         |     0.35 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            4 |     3946 | 2024-03-01 | Young Ninjas      | W   | 0.148      | -            | -                | -                | -         |     1.14 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            3 |     3961 | 2024-02-29 | AURA              | W   | 0.140      | -            | -                | -                | -         |     0.30 | CeRq, CYPHER, faveN, hampus, lauNX  |
+|            2 |     3977 | 2024-02-28 | BIG               | W   | 0.133      | 0.500        | 0.154 (0.010)    | -                | -         |     3.68 | CeRq, CYPHER, faveN, hampus, VLDN   |
+|            1 |     4012 | 2024-02-26 | MOUZ NXT          | L   | 0.120      | -            | -                | -                | -         |    -1.42 | CeRq, faveN, hampus, lauNX, VLDN    |
 
 <br />
 <span id="table2"></span><br />

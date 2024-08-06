@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |       57 | 2024-08-04 | Lynn Vision | L   | 1.000      | -            | -                | -                | -         |    -5.41 | BRACE, damyo, Omichella, pz, yourwombat      |
-|           34 |      482 | 2024-07-23 | MANTRA      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.19 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           33 |      486 | 2024-07-23 | MANTRA      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.29 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           32 |      663 | 2024-07-18 | Arcade      | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    10.73 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           31 |      667 | 2024-07-18 | Arcade      | L   | 1.000      | -            | -                | -                | -         |   -21.20 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           30 |      781 | 2024-07-16 | DXA         | L   | 1.000      | -            | -                | -                | -         |   -21.50 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           29 |      783 | 2024-07-16 | DXA         | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |     9.57 | apocdud, BRACE, damyo, Omichella, yourwombat |
-|           28 |     1409 | 2024-06-07 | Mindfreak   | L   | 0.799      | -            | -                | -                | -         |   -14.89 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           27 |     1478 | 2024-06-06 | Rooster     | L   | 0.792      | -            | -                | -                | -         |   -11.95 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           26 |     1881 | 2024-05-22 | KZG         | W   | 0.693      | 0.333        | 0.005 (0.001)    | 0.106 (0.025)    | 0 (0.000) |     6.65 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           25 |     1886 | 2024-05-22 | KZG         | W   | 0.692      | 0.333        | 0.005 (0.001)    | 0.106 (0.025)    | 0 (0.000) |     7.01 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           24 |     2139 | 2024-05-15 | Arcade      | W   | 0.646      | 0.333        | 0.002 (0.001)    | 0.130 (0.028)    | 0 (0.000) |     5.74 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           23 |     2144 | 2024-05-15 | Arcade      | W   | 0.646      | 0.333        | 0.002 (0.001)    | 0.130 (0.028)    | -         |     6.01 | ADDICT, BRACE, damyo, hazr, yourwombat       |
-|           22 |     2417 | 2024-05-03 | FURIA       | L   | 0.567      | -            | -                | -                | -         |    -0.16 | ADDICT, BRACE, damyo, hazr, pz               |
-|           21 |     2464 | 2024-05-01 | ENCE        | L   | 0.554      | -            | -                | -                | -         |    -0.54 | ADDICT, BRACE, damyo, hazr, pz               |
-|           20 |     2496 | 2024-04-30 | MOUZ        | L   | 0.546      | -            | -                | -                | -         |    -0.05 | ADDICT, BRACE, damyo, hazr, pz               |
-|           19 |     2719 | 2024-04-20 | FlyQuest    | L   | 0.479      | -            | -                | -                | -         |    -1.68 | ADDICT, BRACE, damyo, hazr, pz               |
-|           18 |     2723 | 2024-04-19 | Rooster     | W   | 0.478      | 0.143        | 0.010 (0.001)    | -                | -         |     7.73 | ADDICT, BRACE, damyo, hazr, pz               |
-|           17 |     2766 | 2024-04-19 | Mindfreak   | W   | 0.473      | -            | -                | -                | -         |     5.73 | ADDICT, BRACE, damyo, hazr, pz               |
-|           16 |     2771 | 2024-04-18 | Rooster     | L   | 0.472      | -            | -                | -                | -         |    -7.24 | ADDICT, BRACE, damyo, hazr, pz               |
-|           15 |     3020 | 2024-04-10 | Rooster     | W   | 0.413      | 0.333        | 0.010 (0.001)    | 0.241 (0.033)    | -         |     6.67 | ADDICT, BRACE, damyo, hazr, pz               |
-|           14 |     3027 | 2024-04-10 | Rooster     | L   | 0.412      | -            | -                | -                | -         |    -6.46 | ADDICT, BRACE, damyo, hazr, pz               |
-|           13 |     3253 | 2024-04-03 | DXA         | W   | 0.366      | 0.333        | 0.002 (0.000)    | 0.217 (0.026)    | -         |     4.12 | ADDICT, BRACE, damyo, hazr, pz               |
-|           12 |     3258 | 2024-04-03 | DXA         | W   | 0.366      | 0.333        | -                | 0.217 (0.026)    | -         |     4.24 | ADDICT, BRACE, damyo, hazr, pz               |
-|           11 |     3381 | 2024-03-27 | Mindfreak   | L   | 0.320      | -            | -                | -                | -         |    -6.74 | ADDICT, BRACE, damyo, hazr, pz               |
-|           10 |     3386 | 2024-03-27 | Mindfreak   | W   | 0.319      | 0.333        | 0.004 (0.000)    | -                | -         |     3.37 | ADDICT, BRACE, damyo, hazr, pz               |
-|            9 |     3429 | 2024-03-23 | DXA         | W   | 0.292      | 0.315        | -                | 0.217 (0.020)    | 1 (0.292) |     3.50 | ADDICT, BRACE, damyo, hazr, pz               |
-|            8 |     3432 | 2024-03-23 | Arcade      | W   | 0.292      | -            | -                | -                | 1 (0.292) |     3.41 | ADDICT, BRACE, damyo, hazr, pz               |
-|            7 |     3490 | 2024-03-20 | Canon Event | W   | 0.272      | -            | -                | -                | -         |     1.56 | ADDICT, BRACE, damyo, hazr, pz               |
-|            6 |     3491 | 2024-03-20 | Canon Event | W   | 0.272      | -            | -                | -                | -         |     1.58 | ADDICT, BRACE, damyo, hazr, pz               |
-|            5 |     3561 | 2024-03-15 | Gods Reign  | L   | 0.245      | -            | -                | -                | -         |    -3.94 | ADDICT, BRACE, hazr, pz, yourwombat          |
-|            4 |     3582 | 2024-03-14 | GRDX        | W   | 0.238      | -            | -                | -                | 1 (0.238) |     1.54 | ADDICT, BRACE, hazr, pz, yourwombat          |
-|            3 |     3615 | 2024-03-14 | Aurora      | L   | 0.232      | -            | -                | -                | -         |    -0.05 | ADDICT, BRACE, hazr, pz, yourwombat          |
-|            2 |     3828 | 2024-03-06 | Vantage     | W   | 0.180      | -            | -                | -                | -         |     1.86 | ADDICT, BRACE, damyo, hazr, pz               |
-|            1 |     3830 | 2024-03-06 | Vantage     | W   | 0.179      | -            | -                | -                | -         |     1.88 | ADDICT, BRACE, damyo, hazr, pz               |
+|           35 |       58 | 2024-08-04 | Lynn Vision | L   | 1.000      | -            | -                | -                | -         |    -5.41 | BRACE, damyo, Omichella, pz, yourwombat      |
+|           34 |      483 | 2024-07-23 | MANTRA      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.19 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           33 |      487 | 2024-07-23 | MANTRA      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.29 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           32 |      664 | 2024-07-18 | Arcade      | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    10.73 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           31 |      668 | 2024-07-18 | Arcade      | L   | 1.000      | -            | -                | -                | -         |   -21.20 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           30 |      782 | 2024-07-16 | DXA         | L   | 1.000      | -            | -                | -                | -         |   -21.50 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           29 |      784 | 2024-07-16 | DXA         | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |     9.57 | apocdud, BRACE, damyo, Omichella, yourwombat |
+|           28 |     1410 | 2024-06-07 | Mindfreak   | L   | 0.799      | -            | -                | -                | -         |   -14.89 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           27 |     1479 | 2024-06-06 | Rooster     | L   | 0.792      | -            | -                | -                | -         |   -11.95 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           26 |     1882 | 2024-05-22 | KZG         | W   | 0.693      | 0.333        | 0.005 (0.001)    | 0.106 (0.025)    | 0 (0.000) |     6.65 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           25 |     1887 | 2024-05-22 | KZG         | W   | 0.692      | 0.333        | 0.005 (0.001)    | 0.106 (0.025)    | 0 (0.000) |     7.01 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           24 |     2140 | 2024-05-15 | Arcade      | W   | 0.646      | 0.333        | 0.002 (0.001)    | 0.130 (0.028)    | 0 (0.000) |     5.74 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           23 |     2145 | 2024-05-15 | Arcade      | W   | 0.646      | 0.333        | 0.002 (0.001)    | 0.130 (0.028)    | -         |     6.01 | ADDICT, BRACE, damyo, hazr, yourwombat       |
+|           22 |     2418 | 2024-05-03 | FURIA       | L   | 0.567      | -            | -                | -                | -         |    -0.16 | ADDICT, BRACE, damyo, hazr, pz               |
+|           21 |     2465 | 2024-05-01 | ENCE        | L   | 0.554      | -            | -                | -                | -         |    -0.54 | ADDICT, BRACE, damyo, hazr, pz               |
+|           20 |     2497 | 2024-04-30 | MOUZ        | L   | 0.546      | -            | -                | -                | -         |    -0.05 | ADDICT, BRACE, damyo, hazr, pz               |
+|           19 |     2720 | 2024-04-20 | FlyQuest    | L   | 0.479      | -            | -                | -                | -         |    -1.68 | ADDICT, BRACE, damyo, hazr, pz               |
+|           18 |     2724 | 2024-04-19 | Rooster     | W   | 0.478      | 0.143        | 0.010 (0.001)    | -                | -         |     7.73 | ADDICT, BRACE, damyo, hazr, pz               |
+|           17 |     2767 | 2024-04-19 | Mindfreak   | W   | 0.473      | -            | -                | -                | -         |     5.73 | ADDICT, BRACE, damyo, hazr, pz               |
+|           16 |     2772 | 2024-04-18 | Rooster     | L   | 0.472      | -            | -                | -                | -         |    -7.24 | ADDICT, BRACE, damyo, hazr, pz               |
+|           15 |     3021 | 2024-04-10 | Rooster     | W   | 0.413      | 0.333        | 0.010 (0.001)    | 0.241 (0.033)    | -         |     6.67 | ADDICT, BRACE, damyo, hazr, pz               |
+|           14 |     3028 | 2024-04-10 | Rooster     | L   | 0.412      | -            | -                | -                | -         |    -6.46 | ADDICT, BRACE, damyo, hazr, pz               |
+|           13 |     3254 | 2024-04-03 | DXA         | W   | 0.366      | 0.333        | 0.002 (0.000)    | 0.217 (0.026)    | -         |     4.12 | ADDICT, BRACE, damyo, hazr, pz               |
+|           12 |     3259 | 2024-04-03 | DXA         | W   | 0.366      | 0.333        | -                | 0.217 (0.026)    | -         |     4.24 | ADDICT, BRACE, damyo, hazr, pz               |
+|           11 |     3382 | 2024-03-27 | Mindfreak   | L   | 0.320      | -            | -                | -                | -         |    -6.74 | ADDICT, BRACE, damyo, hazr, pz               |
+|           10 |     3387 | 2024-03-27 | Mindfreak   | W   | 0.319      | 0.333        | 0.004 (0.000)    | -                | -         |     3.37 | ADDICT, BRACE, damyo, hazr, pz               |
+|            9 |     3430 | 2024-03-23 | DXA         | W   | 0.292      | 0.315        | -                | 0.217 (0.020)    | 1 (0.292) |     3.50 | ADDICT, BRACE, damyo, hazr, pz               |
+|            8 |     3433 | 2024-03-23 | Arcade      | W   | 0.292      | -            | -                | -                | 1 (0.292) |     3.41 | ADDICT, BRACE, damyo, hazr, pz               |
+|            7 |     3491 | 2024-03-20 | Canon Event | W   | 0.272      | -            | -                | -                | -         |     1.56 | ADDICT, BRACE, damyo, hazr, pz               |
+|            6 |     3492 | 2024-03-20 | Canon Event | W   | 0.272      | -            | -                | -                | -         |     1.58 | ADDICT, BRACE, damyo, hazr, pz               |
+|            5 |     3562 | 2024-03-15 | Gods Reign  | L   | 0.245      | -            | -                | -                | -         |    -3.94 | ADDICT, BRACE, hazr, pz, yourwombat          |
+|            4 |     3583 | 2024-03-14 | GRDX        | W   | 0.238      | -            | -                | -                | 1 (0.238) |     1.54 | ADDICT, BRACE, hazr, pz, yourwombat          |
+|            3 |     3616 | 2024-03-14 | Aurora      | L   | 0.232      | -            | -                | -                | -         |    -0.05 | ADDICT, BRACE, hazr, pz, yourwombat          |
+|            2 |     3829 | 2024-03-06 | Vantage     | W   | 0.180      | -            | -                | -                | -         |     1.86 | ADDICT, BRACE, damyo, hazr, pz               |
+|            1 |     3831 | 2024-03-06 | Vantage     | W   | 0.179      | -            | -                | -                | -         |     1.88 | ADDICT, BRACE, damyo, hazr, pz               |
 
 <br />
 <span id="table2"></span><br />

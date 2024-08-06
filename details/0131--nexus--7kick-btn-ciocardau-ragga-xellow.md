@@ -6,9 +6,9 @@ Global Rank: [131](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [90]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  782.3<br />
+Final Rank Value:  782.5<br />
 <br />
-Final Rank Value (782.3) = Starting Rank Value (839.3) + Head To Head Adjustments (-57.0)<br />
+Final Rank Value (782.5) = Starting Rank Value (839.3) + Head To Head Adjustments (-56.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,68 +37,68 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           62 |        5 | 2024-08-06 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |    -6.84 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           61 |      217 | 2024-07-31 | EYEBALLERS        | W   | 1.000      | 0.143        | -                | 0.488 (0.070)    | 0 (0.000) |    15.82 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           60 |      279 | 2024-07-29 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -4.66 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           59 |      412 | 2024-07-25 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -13.99 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           58 |      556 | 2024-07-20 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -3.00 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           57 |      599 | 2024-07-19 | PERA              | W   | 1.000      | 0.333        | 0.048 (0.016)    | 0.435 (0.145)    | 0 (0.000) |    23.72 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           56 |      642 | 2024-07-18 | TSM               | W   | 1.000      | 0.333        | 0.040 (0.013)    | 0.461 (0.154)    | 0 (0.000) |    26.23 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           55 |      658 | 2024-07-18 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |    -6.38 | 7kick, BTN, Ciocardau, Ed1m, ragga   |
-|           54 |      736 | 2024-07-17 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -11.04 | 7kick, BTN, Ed1m, ragga, XELLOW      |
-|           53 |      762 | 2024-07-16 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |    -0.29 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           52 |      827 | 2024-07-15 | SINNERS           | W   | 1.000      | 0.333        | 0.037 (0.012)    | 0.790 (0.263)    | 0 (0.000) |    25.60 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           51 |      835 | 2024-07-14 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -10.64 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           50 |      854 | 2024-07-13 | Serbia            | W   | 1.000      | -            | -                | -                | 0 (0.000) |    17.93 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           49 |      897 | 2024-07-10 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -10.39 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           48 |      928 | 2024-07-09 | Belarus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.08 | 7kick, BTN, Ciocardau, ragga, XELLOW |
-|           47 |     1169 | 2024-06-12 | Permitta          | L   | 0.835      | -            | -                | -                | -         |    -6.52 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           46 |     1192 | 2024-06-11 | FAVBET            | L   | 0.828      | -            | -                | -                | -         |   -10.53 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           45 |     1288 | 2024-06-09 | EYEBALLERS        | L   | 0.813      | -            | -                | -                | -         |    -7.43 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           44 |     1313 | 2024-06-08 | Enterprise        | L   | 0.808      | -            | -                | -                | -         |    -7.99 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           43 |     1388 | 2024-06-07 | Astralis Talent   | W   | 0.801      | -            | -                | -                | 0 (0.000) |    12.72 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           42 |     1400 | 2024-06-07 | 9INE              | L   | 0.800      | -            | -                | -                | -         |    -8.08 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           41 |     1426 | 2024-06-06 | 3DMAX             | L   | 0.796      | -            | -                | -                | -         |    -0.40 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           40 |     1522 | 2024-06-05 | BLEED             | L   | 0.787      | -            | -                | -                | -         |    -0.75 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           39 |     1762 | 2024-05-27 | The Prodigies     | L   | 0.728      | -            | -                | -                | -         |   -18.09 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           38 |     1770 | 2024-05-27 | MOUZ NXT          | L   | 0.726      | -            | -                | -                | -         |    -3.95 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           37 |     1805 | 2024-05-25 | Permitta          | L   | 0.713      | -            | -                | -                | -         |    -7.76 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           36 |     1832 | 2024-05-23 | RUBY              | L   | 0.701      | -            | -                | -                | -         |    -6.48 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           35 |     1947 | 2024-05-20 | ALTERNATE aTTaX   | W   | 0.682      | 0.435        | 0.031 (0.009)    | 0.537 (0.159)    | 0 (0.000) |    14.58 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           34 |     1952 | 2024-05-20 | PERA              | L   | 0.681      | -            | -                | -                | -         |    -6.57 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           33 |     2049 | 2024-05-17 | Passion UA        | L   | 0.660      | -            | -                | -                | -         |    -4.34 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           32 |     2146 | 2024-05-15 | Space             | L   | 0.645      | -            | -                | -                | -         |    -9.07 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           31 |     2215 | 2024-05-13 | Sampi             | L   | 0.633      | -            | -                | -                | -         |    -6.97 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
-|           30 |     2425 | 2024-05-03 | ENCE Academy      | L   | 0.566      | -            | -                | -                | -         |   -11.26 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           29 |     2470 | 2024-05-01 | Insilio           | L   | 0.553      | -            | -                | -                | -         |    -6.42 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           28 |     2502 | 2024-04-30 | fnatic            | L   | 0.545      | -            | -                | -                | -         |    -0.36 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           27 |     2506 | 2024-04-29 | Endpoint          | L   | 0.541      | -            | -                | -                | -         |    -7.13 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           26 |     2511 | 2024-04-29 | VP.Prodigy        | L   | 0.540      | -            | -                | -                | -         |    -8.02 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           25 |     2516 | 2024-04-29 | LEON              | W   | 0.540      | -            | -                | -                | 0 (0.000) |     5.10 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           24 |     2521 | 2024-04-29 | Enterprise        | W   | 0.539      | 0.384        | 0.039 (0.008)    | 0.641 (0.133)    | 0 (0.000) |     9.78 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           23 |     2537 | 2024-04-28 | brazylijski luz   | L   | 0.533      | -            | -                | -                | -         |    -8.64 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           22 |     2605 | 2024-04-25 | Metizport         | W   | 0.515      | 0.384        | 0.036 (0.007)    | 0.434 (0.086)    | -         |    10.45 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           21 |     2613 | 2024-04-25 | Grannys Knockers  | L   | 0.513      | -            | -                | -                | -         |   -10.06 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           20 |     2634 | 2024-04-24 | AMKAL             | L   | 0.506      | -            | -                | -                | -         |    -2.60 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           19 |     2652 | 2024-04-23 | Illuminar         | L   | 0.500      | -            | -                | -                | -         |   -13.33 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           18 |     2665 | 2024-04-22 | Zero Tenacity     | L   | 0.493      | -            | -                | -                | -         |    -3.58 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           17 |     2676 | 2024-04-21 | Young Ninjas      | W   | 0.488      | -            | -                | -                | -         |     5.86 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           16 |     2680 | 2024-04-21 | PARIVISION        | L   | 0.487      | -            | -                | -                | -         |    -3.77 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           15 |     2716 | 2024-04-20 | Permitta          | W   | 0.480      | 0.500        | -                | 0.919 (0.221)    | -         |    10.08 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           14 |     2786 | 2024-04-18 | Young Ninjas      | L   | 0.468      | -            | -                | -                | -         |    -9.17 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           13 |     2817 | 2024-04-18 | Enterprise        | L   | 0.466      | -            | -                | -                | -         |    -6.14 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           12 |     3015 | 2024-04-10 | B8                | W   | 0.414      | 0.384        | 0.170 (0.027)    | 0.912 (0.145)    | -         |     9.87 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           11 |     3159 | 2024-04-05 | SINNERS           | L   | 0.381      | -            | -                | -                | -         |    -1.92 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|           10 |     3301 | 2024-04-01 | Sashi             | W   | 0.353      | 0.384        | 0.184 (0.025)    | 0.958 (0.130)    | -         |     9.25 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            9 |     3410 | 2024-03-25 | Sashi             | L   | 0.308      | -            | -                | -                | -         |    -1.57 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            8 |     3671 | 2024-03-12 | Nemiga            | W   | 0.222      | 0.372        | 0.314 (0.026)    | -                | -         |     6.03 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            7 |     3693 | 2024-03-11 | RUBY              | W   | 0.215      | 0.372        | 0.095 (0.008)    | -                | -         |     4.26 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            6 |     3733 | 2024-03-09 | INGLORIOUS        | W   | 0.201      | -            | -                | -                | -         |     1.01 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            5 |     3757 | 2024-03-08 | FAVBET            | W   | 0.195      | -            | -                | -                | -         |     2.44 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            4 |     3903 | 2024-03-03 | TSM               | L   | 0.161      | -            | -                | -                | -         |    -3.65 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            3 |     4151 | 2024-02-20 | ex-Guild Eagles   | L   | 0.080      | -            | -                | -                | -         |    -1.36 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            2 |     4172 | 2024-02-19 | Monte             | L   | 0.075      | -            | -                | -                | -         |    -0.71 | BTN, ERSIN, ragga, s0und, XELLOW     |
-|            1 |     4178 | 2024-02-19 | Astralis          | L   | 0.074      | -            | -                | -                | -         |    -0.02 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           62 |        6 | 2024-08-06 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |    -6.85 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           61 |      218 | 2024-07-31 | EYEBALLERS        | W   | 1.000      | 0.143        | -                | 0.488 (0.070)    | 0 (0.000) |    15.81 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           60 |      280 | 2024-07-29 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -4.66 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           59 |      413 | 2024-07-25 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -13.98 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           58 |      557 | 2024-07-20 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -3.00 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           57 |      600 | 2024-07-19 | PERA              | W   | 1.000      | 0.333        | 0.048 (0.016)    | 0.435 (0.145)    | 0 (0.000) |    23.72 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           56 |      643 | 2024-07-18 | TSM               | W   | 1.000      | 0.333        | 0.040 (0.013)    | 0.461 (0.154)    | 0 (0.000) |    26.23 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           55 |      659 | 2024-07-18 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |    -6.30 | 7kick, BTN, Ciocardau, Ed1m, ragga   |
+|           54 |      737 | 2024-07-17 | ALTERNATE aTTaX   | L   | 1.000      | -            | -                | -                | -         |   -11.04 | 7kick, BTN, Ed1m, ragga, XELLOW      |
+|           53 |      763 | 2024-07-16 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |    -0.29 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           52 |      828 | 2024-07-15 | SINNERS           | W   | 1.000      | 0.333        | 0.037 (0.012)    | 0.790 (0.263)    | 0 (0.000) |    25.59 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           51 |      836 | 2024-07-14 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -10.63 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           50 |      855 | 2024-07-13 | Serbia            | W   | 1.000      | -            | -                | -                | 0 (0.000) |    17.94 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           49 |      898 | 2024-07-10 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -10.38 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           48 |      929 | 2024-07-09 | Belarus           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.08 | 7kick, BTN, Ciocardau, ragga, XELLOW |
+|           47 |     1170 | 2024-06-12 | Permitta          | L   | 0.835      | -            | -                | -                | -         |    -6.45 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           46 |     1193 | 2024-06-11 | FAVBET            | L   | 0.828      | -            | -                | -                | -         |   -10.53 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           45 |     1289 | 2024-06-09 | EYEBALLERS        | L   | 0.813      | -            | -                | -                | -         |    -7.42 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           44 |     1314 | 2024-06-08 | Enterprise        | L   | 0.808      | -            | -                | -                | -         |    -7.98 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           43 |     1389 | 2024-06-07 | Astralis Talent   | W   | 0.801      | -            | -                | -                | 0 (0.000) |    12.72 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           42 |     1401 | 2024-06-07 | 9INE              | L   | 0.800      | -            | -                | -                | -         |    -8.08 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           41 |     1427 | 2024-06-06 | 3DMAX             | L   | 0.796      | -            | -                | -                | -         |    -0.40 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           40 |     1523 | 2024-06-05 | BLEED             | L   | 0.787      | -            | -                | -                | -         |    -0.75 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           39 |     1763 | 2024-05-27 | The Prodigies     | L   | 0.728      | -            | -                | -                | -         |   -18.10 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           38 |     1771 | 2024-05-27 | MOUZ NXT          | L   | 0.726      | -            | -                | -                | -         |    -3.95 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           37 |     1806 | 2024-05-25 | Permitta          | L   | 0.713      | -            | -                | -                | -         |    -7.76 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           36 |     1833 | 2024-05-23 | RUBY              | L   | 0.701      | -            | -                | -                | -         |    -6.48 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           35 |     1948 | 2024-05-20 | ALTERNATE aTTaX   | W   | 0.682      | 0.435        | 0.031 (0.009)    | 0.537 (0.159)    | 0 (0.000) |    14.58 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           34 |     1953 | 2024-05-20 | PERA              | L   | 0.681      | -            | -                | -                | -         |    -6.57 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           33 |     2050 | 2024-05-17 | Passion UA        | L   | 0.660      | -            | -                | -                | -         |    -4.34 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           32 |     2147 | 2024-05-15 | Space             | L   | 0.645      | -            | -                | -                | -         |    -9.07 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           31 |     2216 | 2024-05-13 | Sampi             | L   | 0.633      | -            | -                | -                | -         |    -6.97 | BTN, Ciocardau, ERSIN, ragga, XELLOW |
+|           30 |     2426 | 2024-05-03 | ENCE Academy      | L   | 0.566      | -            | -                | -                | -         |   -11.26 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           29 |     2471 | 2024-05-01 | Insilio           | L   | 0.553      | -            | -                | -                | -         |    -6.42 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           28 |     2503 | 2024-04-30 | fnatic            | L   | 0.545      | -            | -                | -                | -         |    -0.36 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           27 |     2507 | 2024-04-29 | Endpoint          | L   | 0.541      | -            | -                | -                | -         |    -7.13 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           26 |     2512 | 2024-04-29 | VP.Prodigy        | L   | 0.540      | -            | -                | -                | -         |    -8.02 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           25 |     2517 | 2024-04-29 | LEON              | W   | 0.540      | -            | -                | -                | 0 (0.000) |     5.10 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           24 |     2522 | 2024-04-29 | Enterprise        | W   | 0.539      | 0.384        | 0.039 (0.008)    | 0.641 (0.133)    | 0 (0.000) |     9.78 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           23 |     2538 | 2024-04-28 | brazylijski luz   | L   | 0.533      | -            | -                | -                | -         |    -8.64 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           22 |     2606 | 2024-04-25 | Metizport         | W   | 0.515      | 0.384        | 0.036 (0.007)    | 0.434 (0.086)    | -         |    10.45 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           21 |     2614 | 2024-04-25 | Grannys Knockers  | L   | 0.513      | -            | -                | -                | -         |   -10.06 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           20 |     2635 | 2024-04-24 | AMKAL             | L   | 0.506      | -            | -                | -                | -         |    -2.60 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           19 |     2653 | 2024-04-23 | Illuminar         | L   | 0.500      | -            | -                | -                | -         |   -13.33 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           18 |     2666 | 2024-04-22 | Zero Tenacity     | L   | 0.493      | -            | -                | -                | -         |    -3.58 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           17 |     2677 | 2024-04-21 | Young Ninjas      | W   | 0.488      | -            | -                | -                | -         |     5.86 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           16 |     2681 | 2024-04-21 | PARIVISION        | L   | 0.487      | -            | -                | -                | -         |    -3.77 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           15 |     2717 | 2024-04-20 | Permitta          | W   | 0.480      | 0.500        | -                | 0.919 (0.221)    | -         |    10.08 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           14 |     2787 | 2024-04-18 | Young Ninjas      | L   | 0.468      | -            | -                | -                | -         |    -9.17 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           13 |     2818 | 2024-04-18 | Enterprise        | L   | 0.466      | -            | -                | -                | -         |    -6.14 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           12 |     3016 | 2024-04-10 | B8                | W   | 0.414      | 0.384        | 0.170 (0.027)    | 0.912 (0.145)    | -         |     9.87 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           11 |     3160 | 2024-04-05 | SINNERS           | L   | 0.381      | -            | -                | -                | -         |    -1.92 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|           10 |     3302 | 2024-04-01 | Sashi             | W   | 0.353      | 0.384        | 0.184 (0.025)    | 0.958 (0.130)    | -         |     9.25 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            9 |     3411 | 2024-03-25 | Sashi             | L   | 0.308      | -            | -                | -                | -         |    -1.57 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            8 |     3672 | 2024-03-12 | Nemiga            | W   | 0.222      | 0.372        | 0.314 (0.026)    | -                | -         |     6.03 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            7 |     3694 | 2024-03-11 | RUBY              | W   | 0.215      | 0.372        | 0.095 (0.008)    | -                | -         |     4.26 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            6 |     3734 | 2024-03-09 | INGLORIOUS        | W   | 0.201      | -            | -                | -                | -         |     1.01 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            5 |     3758 | 2024-03-08 | FAVBET            | W   | 0.195      | -            | -                | -                | -         |     2.44 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            4 |     3904 | 2024-03-03 | TSM               | L   | 0.161      | -            | -                | -                | -         |    -3.65 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            3 |     4152 | 2024-02-20 | ex-Guild Eagles   | L   | 0.080      | -            | -                | -                | -         |    -1.36 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            2 |     4173 | 2024-02-19 | Monte             | L   | 0.075      | -            | -                | -                | -         |    -0.71 | BTN, ERSIN, ragga, s0und, XELLOW     |
+|            1 |     4179 | 2024-02-19 | Astralis          | L   | 0.074      | -            | -                | -                | -         |    -0.02 | BTN, ERSIN, ragga, s0und, XELLOW     |
 
 <br />
 <span id="table2"></span><br />

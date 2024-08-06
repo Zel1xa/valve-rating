@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     2573 | 2024-04-26 | TYLOO    | L   | 0.521      | -            | -                | -                | -         |    -8.14 | doc, drg, rdnzao, supLexN1, togs  |
-|           14 |     2606 | 2024-04-25 | M80      | L   | 0.514      | -            | -                | -                | -         |    -1.14 | doc, drg, rdnzao, supLexN1, togs  |
-|           13 |     2645 | 2024-04-23 | Vitality | L   | 0.501      | -            | -                | -                | -         |    -0.04 | doc, drg, rdnzao, supLexN1, togs  |
-|           12 |     2870 | 2024-04-16 | W7M      | L   | 0.456      | -            | -                | -                | -         |    -5.97 | doc, drg, rdnzao, supLexN1, togs  |
-|           11 |     2935 | 2024-04-12 | Galorys  | L   | 0.429      | -            | -                | -                | -         |    -4.48 | doc, drg, rdnzao, supLexN1, togs  |
-|           10 |     2987 | 2024-04-10 | ODDIK    | W   | 0.417      | 0.450        | 0.099 (0.019)    | 0.805 (0.151)    | 0 (0.000) |     9.63 | doc, drg, lukiz, rdnzao, supLexN1 |
-|            9 |     2991 | 2024-04-10 | ODDIK    | L   | 0.416      | -            | -                | -                | -         |    -3.51 | doc, drg, lukiz, rdnzao, supLexN1 |
-|            8 |     3088 | 2024-04-08 | paiN     | L   | 0.402      | -            | -                | -                | -         |    -0.35 | doc, drg, rdnzao, supLexN1, togs  |
-|            7 |     3128 | 2024-04-07 | BESTIA   | W   | 0.394      | 0.435        | 0.096 (0.016)    | 0.776 (0.133)    | 0 (0.000) |     9.66 | doc, drg, rdnzao, supLexN1, togs  |
-|            6 |     3139 | 2024-04-06 | ODDIK    | W   | 0.388      | 0.143        | 0.099 (0.006)    | 0.805 (0.045)    | 0 (0.000) |     9.43 | doc, drg, gafolo, supLexN1, togs  |
-|            5 |     3158 | 2024-04-05 | paiN     | L   | 0.381      | -            | -                | -                | -         |    -0.29 | doc, drg, gafolo, supLexN1, togs  |
-|            4 |     3178 | 2024-04-04 | paiN     | L   | 0.376      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
-|            3 |     3185 | 2024-04-04 | paiN     | L   | 0.376      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
-|            2 |     3263 | 2024-04-02 | BESTIA   | L   | 0.363      | -            | -                | -                | -         |    -2.34 | doc, drg, rdnzao, supLexN1, togs  |
-|            1 |     3267 | 2024-04-02 | MIBR     | L   | 0.362      | -            | -                | -                | -         |    -0.30 | doc, drg, rdnzao, supLexN1, togs  |
+|           15 |     2574 | 2024-04-26 | TYLOO    | L   | 0.521      | -            | -                | -                | -         |    -8.14 | doc, drg, rdnzao, supLexN1, togs  |
+|           14 |     2607 | 2024-04-25 | M80      | L   | 0.514      | -            | -                | -                | -         |    -1.14 | doc, drg, rdnzao, supLexN1, togs  |
+|           13 |     2646 | 2024-04-23 | Vitality | L   | 0.501      | -            | -                | -                | -         |    -0.04 | doc, drg, rdnzao, supLexN1, togs  |
+|           12 |     2871 | 2024-04-16 | W7M      | L   | 0.456      | -            | -                | -                | -         |    -5.97 | doc, drg, rdnzao, supLexN1, togs  |
+|           11 |     2936 | 2024-04-12 | Galorys  | L   | 0.429      | -            | -                | -                | -         |    -4.48 | doc, drg, rdnzao, supLexN1, togs  |
+|           10 |     2988 | 2024-04-10 | ODDIK    | W   | 0.417      | 0.450        | 0.099 (0.019)    | 0.805 (0.151)    | 0 (0.000) |     9.63 | doc, drg, lukiz, rdnzao, supLexN1 |
+|            9 |     2992 | 2024-04-10 | ODDIK    | L   | 0.416      | -            | -                | -                | -         |    -3.51 | doc, drg, lukiz, rdnzao, supLexN1 |
+|            8 |     3089 | 2024-04-08 | paiN     | L   | 0.402      | -            | -                | -                | -         |    -0.35 | doc, drg, rdnzao, supLexN1, togs  |
+|            7 |     3129 | 2024-04-07 | BESTIA   | W   | 0.394      | 0.435        | 0.096 (0.016)    | 0.776 (0.133)    | 0 (0.000) |     9.66 | doc, drg, rdnzao, supLexN1, togs  |
+|            6 |     3140 | 2024-04-06 | ODDIK    | W   | 0.388      | 0.143        | 0.099 (0.006)    | 0.805 (0.045)    | 0 (0.000) |     9.43 | doc, drg, gafolo, supLexN1, togs  |
+|            5 |     3159 | 2024-04-05 | paiN     | L   | 0.381      | -            | -                | -                | -         |    -0.29 | doc, drg, gafolo, supLexN1, togs  |
+|            4 |     3179 | 2024-04-04 | paiN     | L   | 0.376      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
+|            3 |     3186 | 2024-04-04 | paiN     | L   | 0.376      | -            | -                | -                | -         |    -0.28 | doc, drg, gafolo, supLexN1, togs  |
+|            2 |     3264 | 2024-04-02 | BESTIA   | L   | 0.363      | -            | -                | -                | -         |    -2.34 | doc, drg, rdnzao, supLexN1, togs  |
+|            1 |     3268 | 2024-04-02 | MIBR     | L   | 0.362      | -            | -                | -                | -         |    -0.30 | doc, drg, rdnzao, supLexN1, togs  |
 
 <br />
 <span id="table2"></span><br />
