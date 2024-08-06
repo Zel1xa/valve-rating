@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |       43 | 2024-08-05 | Chinggis Warriors  | L   | 1.000      | -            | -                | -                | -         |   -19.89 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
-|           28 |       69 | 2024-08-04 | Bad News Kangaroos | W   | 1.000      | 0.380        | 0.016 (0.006)    | 0.217 (0.082)    | 1 (1.000) |     5.10 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
-|           27 |     1297 | 2024-06-09 | ATOX               | W   | 0.812      | 0.416        | 0.020 (0.007)    | 0.209 (0.071)    | 0 (0.000) |     7.32 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           26 |     1355 | 2024-06-08 | TYLOO              | W   | 0.805      | 0.416        | 0.056 (0.019)    | 0.283 (0.095)    | 0 (0.000) |    10.16 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           25 |     1477 | 2024-06-06 | ATOX               | L   | 0.792      | -            | -                | -                | -         |   -17.97 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           24 |     1532 | 2024-06-05 | TYLOO              | W   | 0.785      | 0.416        | 0.056 (0.018)    | 0.283 (0.092)    | -         |     9.72 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           23 |     1654 | 2024-06-01 | Aurora             | L   | 0.759      | -            | -                | -                | -         |    -1.41 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           22 |     1664 | 2024-05-31 | ATOX               | W   | 0.756      | 0.500        | 0.020 (0.008)    | 0.209 (0.079)    | 1 (0.756) |     6.43 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           21 |     1716 | 2024-05-30 | Gaimin Gladiators  | W   | 0.744      | 0.500        | 0.037 (0.014)    | 0.331 (0.123)    | 1 (0.744) |     9.83 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           20 |     1761 | 2024-05-28 | Aurora             | L   | 0.731      | -            | -                | -                | -         |    -1.25 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
-|           19 |     2820 | 2024-04-18 | Rare Atom          | L   | 0.466      | -            | -                | -                | -         |   -10.85 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           18 |     2831 | 2024-04-18 | TYLOO              | L   | 0.465      | -            | -                | -                | -         |   -12.35 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           17 |     3088 | 2024-04-09 | G2                 | L   | 0.405      | -            | -                | -                | -         |    -0.08 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           16 |     3116 | 2024-04-08 | TYLOO              | W   | 0.399      | 0.624        | 0.019 (0.005)    | 0.086 (0.021)    | 1 (0.399) |     1.90 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           15 |     3127 | 2024-04-07 | FURIA              | L   | 0.397      | -            | -                | -                | -         |    -0.36 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           14 |     3259 | 2024-04-03 | The MongolZ        | L   | 0.366      | -            | -                | -                | -         |    -0.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           13 |     3297 | 2024-04-02 | LYG                | W   | 0.359      | -            | -                | -                | -         |     1.45 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           12 |     3303 | 2024-04-02 | ATOX               | W   | 0.358      | 0.143        | 0.020 (0.001)    | 0.209 (0.011)    | -         |     2.81 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           11 |     3518 | 2024-03-19 | The MongolZ        | L   | 0.265      | -            | -                | -                | -         |    -0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|           10 |     3527 | 2024-03-18 | Gaimin Gladiators  | L   | 0.259      | -            | -                | -                | -         |    -5.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            9 |     3534 | 2024-03-17 | FURIA              | W   | 0.255      | 0.143        | 0.284 (0.010)    | 0.468 (0.017)    | 1 (0.255) |     7.82 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            8 |     3553 | 2024-03-17 | HEROIC             | L   | 0.253      | -            | -                | -                | -         |    -0.47 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            7 |     3991 | 2024-02-27 | FlyQuest           | W   | 0.131      | 0.143        | 0.104 (0.002)    | 0.277 (0.005)    | 1 (0.131) |     2.60 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            6 |     3993 | 2024-02-27 | The MongolZ        | L   | 0.129      | -            | -                | -                | -         |    -0.03 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            5 |     4028 | 2024-02-25 | TYLOO              | W   | 0.117      | -            | -                | -                | 1 (0.117) |     0.60 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            4 |     4031 | 2024-02-25 | Twisted Minds      | W   | 0.116      | -            | -                | -                | 1 (0.116) |     0.09 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            3 |     4240 | 2024-02-17 | Newhappy           | L   | 0.059      | -            | -                | -                | -         |    -1.78 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            2 |     4269 | 2024-02-16 | Newhappy           | W   | 0.052      | -            | -                | -                | -         |     0.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
-|            1 |     4275 | 2024-02-16 | MAG                | W   | 0.051      | -            | -                | -                | -         |     0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           29 |       44 | 2024-08-05 | Chinggis Warriors  | L   | 1.000      | -            | -                | -                | -         |   -19.89 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
+|           28 |       70 | 2024-08-04 | Bad News Kangaroos | W   | 1.000      | 0.380        | 0.016 (0.006)    | 0.217 (0.082)    | 1 (1.000) |     5.10 | afufu, EmiliaQAQ, flying, Westmelon, z4kr  |
+|           27 |     1298 | 2024-06-09 | ATOX               | W   | 0.812      | 0.416        | 0.020 (0.007)    | 0.209 (0.071)    | 0 (0.000) |     7.32 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           26 |     1356 | 2024-06-08 | TYLOO              | W   | 0.805      | 0.416        | 0.056 (0.019)    | 0.283 (0.095)    | 0 (0.000) |    10.16 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           25 |     1478 | 2024-06-06 | ATOX               | L   | 0.792      | -            | -                | -                | -         |   -17.97 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           24 |     1533 | 2024-06-05 | TYLOO              | W   | 0.785      | 0.416        | 0.056 (0.018)    | 0.283 (0.092)    | -         |     9.72 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           23 |     1655 | 2024-06-01 | Aurora             | L   | 0.759      | -            | -                | -                | -         |    -1.41 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           22 |     1665 | 2024-05-31 | ATOX               | W   | 0.756      | 0.500        | 0.020 (0.008)    | 0.209 (0.079)    | 1 (0.756) |     6.43 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           21 |     1717 | 2024-05-30 | Gaimin Gladiators  | W   | 0.744      | 0.500        | 0.037 (0.014)    | 0.331 (0.123)    | 1 (0.744) |     9.83 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           20 |     1762 | 2024-05-28 | Aurora             | L   | 0.731      | -            | -                | -                | -         |    -1.25 | EmiliaQAQ, flying, Starry, Westmelon, z4kr |
+|           19 |     2821 | 2024-04-18 | Rare Atom          | L   | 0.466      | -            | -                | -                | -         |   -10.85 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           18 |     2832 | 2024-04-18 | TYLOO              | L   | 0.465      | -            | -                | -                | -         |   -12.35 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           17 |     3089 | 2024-04-09 | G2                 | L   | 0.405      | -            | -                | -                | -         |    -0.08 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           16 |     3117 | 2024-04-08 | TYLOO              | W   | 0.399      | 0.624        | 0.019 (0.005)    | 0.086 (0.021)    | 1 (0.399) |     1.90 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           15 |     3128 | 2024-04-07 | FURIA              | L   | 0.397      | -            | -                | -                | -         |    -0.36 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           14 |     3260 | 2024-04-03 | The MongolZ        | L   | 0.366      | -            | -                | -                | -         |    -0.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           13 |     3298 | 2024-04-02 | LYG                | W   | 0.359      | -            | -                | -                | -         |     1.45 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           12 |     3304 | 2024-04-02 | ATOX               | W   | 0.358      | 0.143        | 0.020 (0.001)    | 0.209 (0.011)    | -         |     2.81 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           11 |     3519 | 2024-03-19 | The MongolZ        | L   | 0.265      | -            | -                | -                | -         |    -0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|           10 |     3528 | 2024-03-18 | Gaimin Gladiators  | L   | 0.259      | -            | -                | -                | -         |    -5.10 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            9 |     3535 | 2024-03-17 | FURIA              | W   | 0.255      | 0.143        | 0.284 (0.010)    | 0.468 (0.017)    | 1 (0.255) |     7.82 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            8 |     3554 | 2024-03-17 | HEROIC             | L   | 0.253      | -            | -                | -                | -         |    -0.47 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            7 |     3992 | 2024-02-27 | FlyQuest           | W   | 0.131      | 0.143        | 0.104 (0.002)    | 0.277 (0.005)    | 1 (0.131) |     2.60 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            6 |     3994 | 2024-02-27 | The MongolZ        | L   | 0.129      | -            | -                | -                | -         |    -0.03 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            5 |     4029 | 2024-02-25 | TYLOO              | W   | 0.117      | -            | -                | -                | 1 (0.117) |     0.60 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            4 |     4032 | 2024-02-25 | Twisted Minds      | W   | 0.116      | -            | -                | -                | 1 (0.116) |     0.09 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            3 |     4241 | 2024-02-17 | Newhappy           | L   | 0.059      | -            | -                | -                | -         |    -1.78 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            2 |     4270 | 2024-02-16 | Newhappy           | W   | 0.052      | -            | -                | -                | -         |     0.07 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
+|            1 |     4276 | 2024-02-16 | MAG                | W   | 0.051      | -            | -                | -                | -         |     0.06 | EmiliaQAQ, Jee, Starry, Westmelon, z4kr    |
 
 <br />
 <span id="table2"></span><br />

@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     3383 | 2024-03-27 | Aurora        | L   | 0.321      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, FRANSSON, hype, RuStY  |
-|           14 |     3686 | 2024-03-12 | MOUZ NXT      | L   | 0.220      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           13 |     3725 | 2024-03-10 | FAVBET        | W   | 0.207      | 0.372        | 0.003 (0.000)    | 0.363 (0.028)    | 0 (0.000) |     5.36 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           12 |     3747 | 2024-03-09 | BLUDS         | L   | 0.200      | -            | -                | -                | -         |    -3.90 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           11 |     3758 | 2024-03-09 | Young Ninjas  | L   | 0.199      | -            | -                | -                | -         |    -1.09 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           10 |     3797 | 2024-03-07 | Passion UA    | L   | 0.187      | -            | -                | -                | -         |    -0.19 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            9 |     3834 | 2024-03-06 | Zero Tenacity | L   | 0.179      | -            | -                | -                | -         |    -0.18 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            8 |     3846 | 2024-03-06 | Sampi         | L   | 0.178      | -            | -                | -                | -         |    -0.56 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            7 |     3874 | 2024-03-05 | Endpoint      | L   | 0.173      | -            | -                | -                | -         |    -0.52 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            6 |     3893 | 2024-03-04 | BLEED         | L   | 0.165      | -            | -                | -                | -         |    -0.34 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            5 |     3912 | 2024-03-03 | fnatic        | L   | 0.160      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            4 |     3942 | 2024-03-02 | Permitta      | L   | 0.152      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            3 |     3972 | 2024-02-29 | BLEED         | L   | 0.138      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            2 |     4001 | 2024-02-27 | Croatia       | L   | 0.127      | -            | -                | -                | -         |    -2.02 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            1 |     4007 | 2024-02-27 | kONO          | L   | 0.126      | -            | -                | -                | -         |    -0.57 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           15 |     3384 | 2024-03-27 | Aurora        | L   | 0.321      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, FRANSSON, hype, RuStY  |
+|           14 |     3687 | 2024-03-12 | MOUZ NXT      | L   | 0.220      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           13 |     3726 | 2024-03-10 | FAVBET        | W   | 0.207      | 0.372        | 0.003 (0.000)    | 0.363 (0.028)    | 0 (0.000) |     5.36 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           12 |     3748 | 2024-03-09 | BLUDS         | L   | 0.200      | -            | -                | -                | -         |    -3.90 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           11 |     3759 | 2024-03-09 | Young Ninjas  | L   | 0.199      | -            | -                | -                | -         |    -1.09 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           10 |     3798 | 2024-03-07 | Passion UA    | L   | 0.187      | -            | -                | -                | -         |    -0.19 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            9 |     3835 | 2024-03-06 | Zero Tenacity | L   | 0.179      | -            | -                | -                | -         |    -0.18 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            8 |     3847 | 2024-03-06 | Sampi         | L   | 0.178      | -            | -                | -                | -         |    -0.56 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            7 |     3875 | 2024-03-05 | Endpoint      | L   | 0.173      | -            | -                | -                | -         |    -0.52 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            6 |     3894 | 2024-03-04 | BLEED         | L   | 0.165      | -            | -                | -                | -         |    -0.34 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            5 |     3913 | 2024-03-03 | fnatic        | L   | 0.160      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            4 |     3943 | 2024-03-02 | Permitta      | L   | 0.152      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            3 |     3973 | 2024-02-29 | BLEED         | L   | 0.138      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            2 |     4002 | 2024-02-27 | Croatia       | L   | 0.127      | -            | -                | -                | -         |    -2.02 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            1 |     4008 | 2024-02-27 | kONO          | L   | 0.126      | -            | -                | -                | -         |    -0.57 | bobeksde, eraa, Golden, Plopski, RuStY |
 
 <br />
 <span id="table2"></span><br />

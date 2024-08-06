@@ -6,9 +6,9 @@ Global Rank: [189](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [119]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  605.4<br />
+Final Rank Value:  605.5<br />
 <br />
-Final Rank Value (605.4) = Starting Rank Value (639.4) + Head To Head Adjustments (-34.0)<br />
+Final Rank Value (605.5) = Starting Rank Value (639.4) + Head To Head Adjustments (-33.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |        2 | 2024-08-06 | Crescent fe       | L   | 1.000      | -            | -                | -                | -         |   -13.62 | Aida, Emmsan, miLo, Waldee, xia     |
-|           12 |     1352 | 2024-06-08 | Crescent fe       | L   | 0.806      | -            | -                | -                | -         |   -11.51 | Aida, Emmsan, Mileyyy, miLo, Waldee |
-|           11 |     2568 | 2024-04-27 | NIP Impact        | L   | 0.526      | -            | -                | -                | -         |    -6.28 | Aida, Emmsan, miLo, Waldee, xia     |
-|           10 |     2756 | 2024-04-19 | Astralis W        | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     6.98 | Aida, Emmsan, miLo, Waldee, xia     |
-|            9 |     3135 | 2024-04-07 | dream catchers fe | L   | 0.394      | -            | -                | -                | -         |    -4.82 | Aida, Emmsan, miLo, Waldee, xia     |
-|            8 |     3159 | 2024-04-06 | Imperial fe       | L   | 0.385      | -            | -                | -                | -         |    -1.17 | Aida, Emmsan, miLo, Waldee, xia     |
-|            7 |     3208 | 2024-04-04 | BIG EQUIPA        | L   | 0.374      | -            | -                | -                | -         |    -3.87 | Aida, Emmsan, miLo, Waldee, xia     |
-|            6 |     3380 | 2024-03-27 | Imperial fe       | L   | 0.321      | -            | -                | -                | -         |    -1.00 | Aida, Emmsan, miLo, Waldee, xia     |
-|            5 |     3496 | 2024-03-20 | NIP Impact        | L   | 0.274      | -            | -                | -                | -         |    -3.60 | Aida, Emmsan, miLo, Waldee, xia     |
-|            4 |     3648 | 2024-03-13 | Astralis W        | W   | 0.227      | 0.331        | 0.002 (0.000)    | 0.060 (0.004)    | 0 (0.000) |     3.76 | Aida, Emmsan, miLo, Waldee, xia     |
-|            3 |     4048 | 2024-02-25 | NAVI Javelins     | L   | 0.112      | -            | -                | -                | -         |    -0.95 | Aida, Emmsan, miLo, Waldee, xia     |
-|            2 |     4078 | 2024-02-24 | Spirit fe         | W   | 0.106      | 0.238        | 0.005 (0.000)    | 0.136 (0.003)    | 0 (0.000) |     1.79 | Aida, Emmsan, miLo, Waldee, xia     |
-|            1 |     4320 | 2024-02-14 | more whiskey      | W   | 0.041      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.27 | Aida, Emmsan, miLo, Waldee, xia     |
+|           13 |        3 | 2024-08-06 | Crescent fe       | L   | 1.000      | -            | -                | -                | -         |   -13.62 | Aida, Emmsan, miLo, Waldee, xia     |
+|           12 |     1353 | 2024-06-08 | Crescent fe       | L   | 0.806      | -            | -                | -                | -         |   -11.51 | Aida, Emmsan, Mileyyy, miLo, Waldee |
+|           11 |     2569 | 2024-04-27 | NIP Impact        | L   | 0.526      | -            | -                | -                | -         |    -6.27 | Aida, Emmsan, miLo, Waldee, xia     |
+|           10 |     2757 | 2024-04-19 | Astralis W        | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.019 (0.003)    | 0 (0.000) |     6.98 | Aida, Emmsan, miLo, Waldee, xia     |
+|            9 |     3136 | 2024-04-07 | dream catchers fe | L   | 0.394      | -            | -                | -                | -         |    -4.72 | Aida, Emmsan, miLo, Waldee, xia     |
+|            8 |     3160 | 2024-04-06 | Imperial fe       | L   | 0.385      | -            | -                | -                | -         |    -1.17 | Aida, Emmsan, miLo, Waldee, xia     |
+|            7 |     3209 | 2024-04-04 | BIG EQUIPA        | L   | 0.374      | -            | -                | -                | -         |    -3.87 | Aida, Emmsan, miLo, Waldee, xia     |
+|            6 |     3381 | 2024-03-27 | Imperial fe       | L   | 0.321      | -            | -                | -                | -         |    -1.00 | Aida, Emmsan, miLo, Waldee, xia     |
+|            5 |     3497 | 2024-03-20 | NIP Impact        | L   | 0.274      | -            | -                | -                | -         |    -3.59 | Aida, Emmsan, miLo, Waldee, xia     |
+|            4 |     3649 | 2024-03-13 | Astralis W        | W   | 0.227      | 0.331        | 0.002 (0.000)    | 0.060 (0.004)    | 0 (0.000) |     3.76 | Aida, Emmsan, miLo, Waldee, xia     |
+|            3 |     4049 | 2024-02-25 | NAVI Javelins     | L   | 0.112      | -            | -                | -                | -         |    -0.95 | Aida, Emmsan, miLo, Waldee, xia     |
+|            2 |     4079 | 2024-02-24 | Spirit fe         | W   | 0.106      | 0.238        | 0.005 (0.000)    | 0.136 (0.003)    | 0 (0.000) |     1.79 | Aida, Emmsan, miLo, Waldee, xia     |
+|            1 |     4321 | 2024-02-14 | more whiskey      | W   | 0.041      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.27 | Aida, Emmsan, miLo, Waldee, xia     |
 
 <br />
 <span id="table2"></span><br />

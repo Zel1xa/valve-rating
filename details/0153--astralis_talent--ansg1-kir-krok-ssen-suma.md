@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      139 | 2024-08-02 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |    -6.60 | ANSG1, kiR, kroK, sSen, suma       |
-|           22 |      333 | 2024-07-28 | GUN5              | L   | 1.000      | -            | -                | -                | -         |    -9.71 | ANSG1, kiR, kroK, sSen, suma       |
-|           21 |      386 | 2024-07-26 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -3.17 | ANSG1, kiR, kroK, sSen, suma       |
-|           20 |      439 | 2024-07-24 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |    -6.69 | ANSG1, kiR, kroK, sSen, suma       |
-|           19 |      511 | 2024-07-22 | GenOne            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.077 (0.011)    | 0 (0.000) |     7.70 | ANSG1, kiR, kroK, sSen, suma       |
-|           18 |      666 | 2024-07-18 | GL Academy        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.095 (0.014)    | 0 (0.000) |    16.28 | ANSG1, kiR, kroK, sSen, suma       |
-|           17 |      714 | 2024-07-17 | 9INE              | L   | 1.000      | -            | -                | -                | -         |    -7.54 | ANSG1, kiR, kroK, sSen, suma       |
-|           16 |     1130 | 2024-06-14 | Revenant          | L   | 0.845      | -            | -                | -                | -         |   -10.52 | alexsomfan, ANSG1, kiR, sSen, suma |
-|           15 |     1148 | 2024-06-13 | Aurora Young Blud | L   | 0.840      | -            | -                | -                | -         |    -7.18 | alexsomfan, ANSG1, kiR, sSen, suma |
-|           14 |     1188 | 2024-06-12 | Sashi             | L   | 0.833      | -            | -                | -                | -         |    -1.82 | ANSG1, kiR, kroK, sSen, suma       |
-|           13 |     1205 | 2024-06-11 | Sampi             | L   | 0.826      | -            | -                | -                | -         |    -8.06 | ANSG1, kiR, kroK, sSen, suma       |
-|           12 |     1361 | 2024-06-08 | M1X KS            | L   | 0.805      | -            | -                | -                | -         |    -9.23 | ANSG1, kiR, kroK, sSen, suma       |
-|           11 |     1400 | 2024-06-07 | Nexus             | L   | 0.800      | -            | -                | -                | -         |   -12.62 | ANSG1, kiR, kroK, sSen, suma       |
-|           10 |     1415 | 2024-06-07 | 618 KS            | W   | 0.798      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.798) |     2.83 | ANSG1, kiR, kroK, sSen, suma       |
-|            9 |     1464 | 2024-06-06 | Gaimin Gladiators | L   | 0.793      | -            | -                | -                | -         |    -5.78 | ANSG1, kiR, kroK, sSen, suma       |
-|            8 |     2694 | 2024-04-21 | MASONIC           | L   | 0.485      | -            | -                | -                | -         |    -7.74 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            7 |     2700 | 2024-04-21 | Preasy            | W   | 0.484      | 0.318        | 0.008 (0.001)    | 0.216 (0.033)    | 1 (0.484) |     7.81 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            6 |     2713 | 2024-04-20 | Kronjyllands      | W   | 0.480      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.480) |     1.68 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            5 |     2916 | 2024-04-15 | ECLOT             | L   | 0.444      | -            | -                | -                | -         |    -1.26 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            4 |     3093 | 2024-04-09 | Alliance          | L   | 0.404      | -            | -                | -                | -         |    -5.06 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            3 |     3416 | 2024-03-25 | Sashi             | L   | 0.308      | -            | -                | -                | -         |    -6.19 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            2 |     3419 | 2024-03-25 | XI                | W   | 0.307      | 0.342        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.78 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
-|            1 |     3760 | 2024-03-09 | NOM               | L   | 0.199      | -            | -                | -                | -         |    -5.22 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|           23 |      140 | 2024-08-02 | RUSH B            | L   | 1.000      | -            | -                | -                | -         |    -6.60 | ANSG1, kiR, kroK, sSen, suma       |
+|           22 |      334 | 2024-07-28 | GUN5              | L   | 1.000      | -            | -                | -                | -         |    -9.71 | ANSG1, kiR, kroK, sSen, suma       |
+|           21 |      387 | 2024-07-26 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -3.17 | ANSG1, kiR, kroK, sSen, suma       |
+|           20 |      440 | 2024-07-24 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |    -6.69 | ANSG1, kiR, kroK, sSen, suma       |
+|           19 |      512 | 2024-07-22 | GenOne            | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.077 (0.011)    | 0 (0.000) |     7.70 | ANSG1, kiR, kroK, sSen, suma       |
+|           18 |      667 | 2024-07-18 | GL Academy        | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.095 (0.014)    | 0 (0.000) |    16.28 | ANSG1, kiR, kroK, sSen, suma       |
+|           17 |      715 | 2024-07-17 | 9INE              | L   | 1.000      | -            | -                | -                | -         |    -7.54 | ANSG1, kiR, kroK, sSen, suma       |
+|           16 |     1131 | 2024-06-14 | Revenant          | L   | 0.845      | -            | -                | -                | -         |   -10.52 | alexsomfan, ANSG1, kiR, sSen, suma |
+|           15 |     1149 | 2024-06-13 | Aurora Young Blud | L   | 0.840      | -            | -                | -                | -         |    -7.18 | alexsomfan, ANSG1, kiR, sSen, suma |
+|           14 |     1189 | 2024-06-12 | Sashi             | L   | 0.833      | -            | -                | -                | -         |    -1.82 | ANSG1, kiR, kroK, sSen, suma       |
+|           13 |     1206 | 2024-06-11 | Sampi             | L   | 0.826      | -            | -                | -                | -         |    -8.06 | ANSG1, kiR, kroK, sSen, suma       |
+|           12 |     1362 | 2024-06-08 | M1X KS            | L   | 0.805      | -            | -                | -                | -         |    -9.23 | ANSG1, kiR, kroK, sSen, suma       |
+|           11 |     1401 | 2024-06-07 | Nexus             | L   | 0.800      | -            | -                | -                | -         |   -12.62 | ANSG1, kiR, kroK, sSen, suma       |
+|           10 |     1416 | 2024-06-07 | 618 KS            | W   | 0.798      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.798) |     2.83 | ANSG1, kiR, kroK, sSen, suma       |
+|            9 |     1465 | 2024-06-06 | Gaimin Gladiators | L   | 0.793      | -            | -                | -                | -         |    -5.78 | ANSG1, kiR, kroK, sSen, suma       |
+|            8 |     2695 | 2024-04-21 | MASONIC           | L   | 0.485      | -            | -                | -                | -         |    -7.74 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            7 |     2701 | 2024-04-21 | Preasy            | W   | 0.484      | 0.318        | 0.008 (0.001)    | 0.216 (0.033)    | 1 (0.484) |     7.81 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            6 |     2714 | 2024-04-20 | Kronjyllands      | W   | 0.480      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.480) |     1.68 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            5 |     2917 | 2024-04-15 | ECLOT             | L   | 0.444      | -            | -                | -                | -         |    -1.26 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            4 |     3094 | 2024-04-09 | Alliance          | L   | 0.404      | -            | -                | -                | -         |    -5.06 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            3 |     3417 | 2024-03-25 | Sashi             | L   | 0.308      | -            | -                | -                | -         |    -6.19 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            2 |     3420 | 2024-03-25 | XI                | W   | 0.307      | 0.342        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.78 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
+|            1 |     3761 | 2024-03-09 | NOM               | L   | 0.199      | -            | -                | -                | -         |    -5.22 | ANSG1, JBOEN, kiR, kroK, tOPZ      |
 
 <br />
 <span id="table2"></span><br />

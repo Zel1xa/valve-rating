@@ -6,22 +6,22 @@ Global Rank: [146](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [96]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  739.0<br />
+Final Rank Value:  739.5<br />
 <br />
-Final Rank Value (739.0) = Starting Rank Value (704.1) + Head To Head Adjustments (34.9)<br />
+Final Rank Value (739.5) = Starting Rank Value (704.6) + Head To Head Adjustments (34.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.305[<sup>1</sup>](#table2)
 - Bounty Collected: 0.268[<sup>2</sup>](#table1)
-- Opponent Network: 0.018[<sup>2</sup>](#table1)
+- Opponent Network: 0.019[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.148<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 704.1
-- 400 + ( ( 0.148 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 704.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 704.6
+- 400 + ( ( 0.148 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 704.6
 
 
 #### Factors<br />
@@ -37,30 +37,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |       52 | 2024-08-04 | Spirit fe         | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.136 (0.037)    | 0 (0.000) |    11.54 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           23 |       95 | 2024-08-03 | Imperial fe       | L   | 1.000      | -            | -                | -                | -         |    -4.18 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           22 |      123 | 2024-08-02 | Spirit fe         | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.136 (0.037)    | 0 (0.000) |    11.63 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           21 |      546 | 2024-07-21 | France fe         | L   | 1.000      | -            | -                | -                | -         |   -17.74 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           20 |      578 | 2024-07-20 | YeYO              | W   | 1.000      | 0.294        | 0.001 (0.000)    | -                | 0 (0.000) |     7.09 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           19 |     1046 | 2024-06-16 | dream catchers fe | W   | 0.860      | 0.250        | 0.016 (0.003)    | 0.167 (0.036)    | 0 (0.000) |    13.36 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           18 |     1789 | 2024-05-26 | Crescent fe       | L   | 0.720      | -            | -                | -                | -         |   -13.86 | Nayomy, Qiyarah, ramziiN, spike, vilga |
-|           17 |     1997 | 2024-05-19 | Imperial fe       | L   | 0.672      | -            | -                | -                | -         |    -3.10 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           16 |     2020 | 2024-05-18 | Astralis W        | W   | 0.666      | 0.281        | 0.002 (0.000)    | 0.060 (0.011)    | 0 (0.000) |     8.77 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
-|           15 |     2563 | 2024-04-27 | Imperial fe       | L   | 0.526      | -            | -                | -                | -         |    -2.44 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           14 |     2568 | 2024-04-27 | ENCE Athena       | W   | 0.526      | 0.252        | 0.002 (0.000)    | 0.033 (0.004)    | 0 (0.000) |     6.28 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           13 |     2755 | 2024-04-19 | BIG EQUIPA        | L   | 0.474      | -            | -                | -                | -         |    -6.50 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           12 |     2908 | 2024-04-15 | NAVI Javelins     | L   | 0.447      | -            | -                | -                | -         |    -5.31 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           11 |     2921 | 2024-04-14 | Imperial fe       | L   | 0.440      | -            | -                | -                | -         |    -2.06 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|           10 |     2934 | 2024-04-13 | Astralis W        | W   | 0.433      | -            | -                | -                | 0 (0.000) |     4.71 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            9 |     2975 | 2024-04-11 | Let Her Cook      | W   | 0.420      | 0.303        | 0.060 (0.008)    | 0.137 (0.017)    | 0 (0.000) |     9.77 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            8 |     3019 | 2024-04-10 | Astralis W        | L   | 0.414      | -            | -                | -                | -         |    -7.68 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            7 |     3080 | 2024-04-09 | NAVI Javelins     | W   | 0.406      | 0.303        | 0.026 (0.003)    | 0.179 (0.022)    | 0 (0.000) |     8.15 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            6 |     3139 | 2024-04-07 | Imperial fe       | L   | 0.393      | -            | -                | -                | -         |    -1.80 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            5 |     3144 | 2024-04-07 | Fearless Cheetahs | W   | 0.392      | 0.262        | 0.003 (0.000)    | 0.061 (0.006)    | 0 (0.000) |     5.86 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            4 |     3157 | 2024-04-06 | Astralis W        | W   | 0.385      | 0.262        | 0.002 (0.000)    | 0.060 (0.006)    | -         |     5.27 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            3 |     3248 | 2024-04-03 | Astralis W        | W   | 0.367      | -            | -                | -                | -         |     4.31 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            2 |     3496 | 2024-03-20 | ENCE Athena       | W   | 0.274      | 0.331        | -                | 0.033 (0.003)    | -         |     3.60 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
-|            1 |     3793 | 2024-03-07 | Imperial fe       | L   | 0.187      | -            | -                | -                | -         |    -0.81 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           24 |       53 | 2024-08-04 | Spirit fe         | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.136 (0.037)    | 0 (0.000) |    11.53 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           23 |       96 | 2024-08-03 | Imperial fe       | L   | 1.000      | -            | -                | -                | -         |    -4.19 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           22 |      124 | 2024-08-02 | Spirit fe         | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.136 (0.037)    | 0 (0.000) |    11.63 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           21 |      547 | 2024-07-21 | France fe         | L   | 1.000      | -            | -                | -                | -         |   -17.76 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           20 |      579 | 2024-07-20 | YeYO              | W   | 1.000      | 0.294        | 0.001 (0.000)    | -                | 0 (0.000) |     7.08 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           19 |     1047 | 2024-06-16 | dream catchers fe | W   | 0.860      | 0.250        | 0.016 (0.003)    | 0.206 (0.044)    | 0 (0.000) |    13.56 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           18 |     1790 | 2024-05-26 | Crescent fe       | L   | 0.720      | -            | -                | -                | -         |   -13.87 | Nayomy, Qiyarah, ramziiN, spike, vilga |
+|           17 |     1998 | 2024-05-19 | Imperial fe       | L   | 0.672      | -            | -                | -                | -         |    -3.10 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           16 |     2021 | 2024-05-18 | Astralis W        | W   | 0.666      | 0.281        | 0.002 (0.000)    | 0.060 (0.011)    | 0 (0.000) |     8.76 | aiM, Nayomy, Qiyarah, ramziiN, vilga   |
+|           15 |     2564 | 2024-04-27 | Imperial fe       | L   | 0.526      | -            | -                | -                | -         |    -2.44 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           14 |     2569 | 2024-04-27 | ENCE Athena       | W   | 0.526      | 0.252        | 0.002 (0.000)    | 0.033 (0.004)    | 0 (0.000) |     6.27 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           13 |     2756 | 2024-04-19 | BIG EQUIPA        | L   | 0.474      | -            | -                | -                | -         |    -6.51 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           12 |     2909 | 2024-04-15 | NAVI Javelins     | L   | 0.447      | -            | -                | -                | -         |    -5.31 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           11 |     2922 | 2024-04-14 | Imperial fe       | L   | 0.440      | -            | -                | -                | -         |    -2.06 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|           10 |     2935 | 2024-04-13 | Astralis W        | W   | 0.433      | -            | -                | -                | 0 (0.000) |     4.70 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            9 |     2976 | 2024-04-11 | Let Her Cook      | W   | 0.420      | 0.303        | 0.060 (0.008)    | 0.137 (0.017)    | 0 (0.000) |     9.77 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            8 |     3020 | 2024-04-10 | Astralis W        | L   | 0.414      | -            | -                | -                | -         |    -7.69 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            7 |     3081 | 2024-04-09 | NAVI Javelins     | W   | 0.406      | 0.303        | 0.026 (0.003)    | 0.179 (0.022)    | 0 (0.000) |     8.15 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            6 |     3140 | 2024-04-07 | Imperial fe       | L   | 0.393      | -            | -                | -                | -         |    -1.80 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            5 |     3145 | 2024-04-07 | Fearless Cheetahs | W   | 0.392      | 0.262        | 0.003 (0.000)    | 0.061 (0.006)    | 0 (0.000) |     5.85 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            4 |     3158 | 2024-04-06 | Astralis W        | W   | 0.385      | 0.262        | 0.002 (0.000)    | 0.060 (0.006)    | -         |     5.26 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            3 |     3249 | 2024-04-03 | Astralis W        | W   | 0.367      | -            | -                | -                | -         |     4.31 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            2 |     3497 | 2024-03-20 | ENCE Athena       | W   | 0.274      | 0.331        | -                | 0.033 (0.003)    | -         |     3.59 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
+|            1 |     3794 | 2024-03-07 | Imperial fe       | L   | 0.187      | -            | -                | -                | -         |    -0.81 | aiM, jenkon, Nayomy, Qiyarah, ramziiN  |
 
 <br />
 <span id="table2"></span><br />

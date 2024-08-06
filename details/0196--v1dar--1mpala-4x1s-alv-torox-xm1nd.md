@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1640 | 2024-06-01 | Verdant          | L   | 0.760      | -            | -                | -                | -         |    -2.74 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|           11 |     1707 | 2024-05-30 | 1WIN             | L   | 0.746      | -            | -                | -                | -         |    -1.50 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|           10 |     1729 | 2024-05-29 | Grannys Knockers | W   | 0.740      | 0.372        | 0.004 (0.001)    | 0.125 (0.035)    | 0 (0.000) |    18.63 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            9 |     2272 | 2024-05-11 | Verdant          | L   | 0.620      | -            | -                | -                | -         |    -1.78 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            8 |     2431 | 2024-05-03 | RUBY             | L   | 0.566      | -            | -                | -                | -         |    -1.78 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            7 |     2474 | 2024-05-01 | B8               | L   | 0.553      | -            | -                | -                | -         |    -0.93 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            6 |     2504 | 2024-04-30 | MOUZ NXT         | L   | 0.545      | -            | -                | -                | -         |    -0.94 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            5 |     2571 | 2024-04-27 | Viperio          | W   | 0.525      | 0.143        | 0.001 (0.000)    | 0.035 (0.003)    | 0 (0.000) |    10.50 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            4 |     3721 | 2024-03-10 | MOUZ NXT         | L   | 0.207      | -            | -                | -                | -         |    -0.33 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            3 |     3831 | 2024-03-06 | Endpoint         | L   | 0.180      | -            | -                | -                | -         |    -0.64 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            2 |     3995 | 2024-02-27 | FORZE            | L   | 0.127      | -            | -                | -                | -         |    -0.47 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            1 |     3999 | 2024-02-27 | Sashi            | W   | 0.127      | 0.143        | 0.184 (0.003)    | 0.958 (0.017)    | 0 (0.000) |     3.88 | 1mpala, 4X1s, Alv, lom1k, torox |
+|           12 |     1641 | 2024-06-01 | Verdant          | L   | 0.760      | -            | -                | -                | -         |    -2.74 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|           11 |     1708 | 2024-05-30 | 1WIN             | L   | 0.746      | -            | -                | -                | -         |    -1.50 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|           10 |     1730 | 2024-05-29 | Grannys Knockers | W   | 0.740      | 0.372        | 0.004 (0.001)    | 0.125 (0.035)    | 0 (0.000) |    18.63 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            9 |     2273 | 2024-05-11 | Verdant          | L   | 0.620      | -            | -                | -                | -         |    -1.78 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            8 |     2432 | 2024-05-03 | RUBY             | L   | 0.566      | -            | -                | -                | -         |    -1.78 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            7 |     2475 | 2024-05-01 | B8               | L   | 0.553      | -            | -                | -                | -         |    -0.93 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            6 |     2505 | 2024-04-30 | MOUZ NXT         | L   | 0.545      | -            | -                | -                | -         |    -0.94 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            5 |     2572 | 2024-04-27 | Viperio          | W   | 0.525      | 0.143        | 0.001 (0.000)    | 0.035 (0.003)    | 0 (0.000) |    10.50 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            4 |     3722 | 2024-03-10 | MOUZ NXT         | L   | 0.207      | -            | -                | -                | -         |    -0.33 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            3 |     3832 | 2024-03-06 | Endpoint         | L   | 0.180      | -            | -                | -                | -         |    -0.64 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            2 |     3996 | 2024-02-27 | FORZE            | L   | 0.127      | -            | -                | -                | -         |    -0.47 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            1 |     4000 | 2024-02-27 | Sashi            | W   | 0.127      | 0.143        | 0.184 (0.003)    | 0.958 (0.017)    | 0 (0.000) |     3.88 | 1mpala, 4X1s, Alv, lom1k, torox |
 
 <br />
 <span id="table2"></span><br />

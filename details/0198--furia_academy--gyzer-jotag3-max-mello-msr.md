@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      539 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.98 | GYZER, Jotag3, max, mello, msr           |
-|           13 |      602 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
-|           12 |      713 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | Bruninho, GYZER, Jotag3, max, mello      |
-|           11 |      830 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.41 | GYZER, Jotag3, max, mello, souz4h        |
-|           10 |      854 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -4.02 | GYZER, Jotag3, max, mello, souz4h        |
-|            9 |      934 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
-|            8 |      975 | 2024-07-05 | KRÜ               | L   | 0.987      | -            | -                | -                | -         |    -4.06 | GYZER, Jotag3, max, mello, souz4h        |
-|            7 |     1676 | 2024-05-31 | Dusty Roots       | L   | 0.754      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            6 |     1730 | 2024-05-29 | Bounty Hunters    | L   | 0.740      | -            | -                | -                | -         |    -2.81 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            5 |     1743 | 2024-05-28 | Intense           | L   | 0.735      | -            | -                | -                | -         |    -5.55 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            4 |     2044 | 2024-05-17 | ODDIK             | L   | 0.661      | -            | -                | -                | -         |    -1.83 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            3 |     2075 | 2024-05-16 | KRÜ               | W   | 0.655      | 0.303        | 0.023 (0.005)    | 0.479 (0.095)    | 0 (0.000) |    18.33 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            2 |     2185 | 2024-05-14 | Solid             | L   | 0.641      | -            | -                | -                | -         |    -2.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            1 |     2242 | 2024-05-12 | RED Canids        | L   | 0.627      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|           14 |      540 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.98 | GYZER, Jotag3, max, mello, msr           |
+|           13 |      603 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
+|           12 |      714 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | Bruninho, GYZER, Jotag3, max, mello      |
+|           11 |      831 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.41 | GYZER, Jotag3, max, mello, souz4h        |
+|           10 |      855 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -4.02 | GYZER, Jotag3, max, mello, souz4h        |
+|            9 |      935 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
+|            8 |      976 | 2024-07-05 | KRÜ               | L   | 0.987      | -            | -                | -                | -         |    -4.06 | GYZER, Jotag3, max, mello, souz4h        |
+|            7 |     1677 | 2024-05-31 | Dusty Roots       | L   | 0.754      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            6 |     1731 | 2024-05-29 | Bounty Hunters    | L   | 0.740      | -            | -                | -                | -         |    -2.81 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            5 |     1744 | 2024-05-28 | Intense           | L   | 0.735      | -            | -                | -                | -         |    -5.55 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            4 |     2045 | 2024-05-17 | ODDIK             | L   | 0.661      | -            | -                | -                | -         |    -1.83 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            3 |     2076 | 2024-05-16 | KRÜ               | W   | 0.655      | 0.303        | 0.023 (0.005)    | 0.479 (0.095)    | 0 (0.000) |    18.33 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            2 |     2186 | 2024-05-14 | Solid             | L   | 0.641      | -            | -                | -                | -         |    -2.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            1 |     2243 | 2024-05-12 | RED Canids        | L   | 0.627      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
 
 <br />
 <span id="table2"></span><br />

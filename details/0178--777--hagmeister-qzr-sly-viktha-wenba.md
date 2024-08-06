@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |       30 | 2024-08-05 | ECSTATIC      | L   | 1.000      | -            | -                | -                | -         |   -19.95 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           19 |       36 | 2024-08-05 | TSM           | L   | 1.000      | -            | -                | -                | -         |    -4.70 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           18 |      581 | 2024-07-20 | Heimo         | L   | 1.000      | -            | -                | -                | -         |   -16.85 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           17 |      595 | 2024-07-19 | INFINITE      | L   | 1.000      | -            | -                | -                | -         |   -20.21 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           16 |      972 | 2024-07-06 | Revenant      | L   | 0.993      | -            | -                | -                | -         |   -11.30 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           15 |     1055 | 2024-06-16 | CPH Wolves    | L   | 0.859      | -            | -                | -                | -         |   -10.31 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           14 |     1089 | 2024-06-15 | The Prodigies | W   | 0.852      | 0.143        | 0.000 (0.000)    | 0.090 (0.011)    | 0 (0.000) |     8.10 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           13 |     1192 | 2024-06-12 | ADEPTS        | W   | 0.832      | 0.143        | 0.002 (0.000)    | 0.026 (0.003)    | 0 (0.000) |    10.85 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           12 |     1206 | 2024-06-11 | The Prodigies | L   | 0.826      | -            | -                | -                | -         |   -17.91 | Hagmeister, qzr, SLY, Viktha, Wenba          |
-|           11 |     1658 | 2024-06-01 | VP.Prodigy    | L   | 0.758      | -            | -                | -                | -         |    -6.39 | Affava, Hagmeister, qzr, Viktha, Wenba       |
-|           10 |     1791 | 2024-05-26 | Metizport X   | W   | 0.720      | 0.322        | 0.005 (0.001)    | 0.024 (0.006)    | 0 (0.000) |     8.99 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            9 |     2016 | 2024-05-18 | DMS           | L   | 0.666      | -            | -                | -                | -         |    -5.28 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            8 |     2065 | 2024-05-17 | Space         | W   | 0.658      | 0.143        | 0.006 (0.001)    | 0.429 (0.040)    | 0 (0.000) |    13.75 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            7 |     2095 | 2024-05-16 | Rounds        | W   | 0.652      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.98 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            6 |     2131 | 2024-05-15 | GUN5          | L   | 0.647      | -            | -                | -                | -         |    -4.57 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            5 |     2274 | 2024-05-11 | Metizport X   | W   | 0.620      | 0.322        | 0.005 (0.001)    | 0.024 (0.005)    | 0 (0.000) |     8.13 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            4 |     2555 | 2024-04-27 | Sashi         | L   | 0.527      | -            | -                | -                | -         |    -1.15 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            3 |     2566 | 2024-04-27 | Preasy        | W   | 0.526      | 0.336        | 0.008 (0.001)    | 0.216 (0.038)    | 0 (0.000) |     9.91 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            2 |     2935 | 2024-04-13 | Norway        | L   | 0.433      | -            | -                | -                | -         |    -6.87 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
-|            1 |     3542 | 2024-03-17 | INFURITY      | W   | 0.254      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.22 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|           20 |       31 | 2024-08-05 | ECSTATIC      | L   | 1.000      | -            | -                | -                | -         |   -19.95 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           19 |       37 | 2024-08-05 | TSM           | L   | 1.000      | -            | -                | -                | -         |    -4.70 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           18 |      582 | 2024-07-20 | Heimo         | L   | 1.000      | -            | -                | -                | -         |   -16.85 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           17 |      596 | 2024-07-19 | INFINITE      | L   | 1.000      | -            | -                | -                | -         |   -20.21 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           16 |      973 | 2024-07-06 | Revenant      | L   | 0.993      | -            | -                | -                | -         |   -11.30 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           15 |     1056 | 2024-06-16 | CPH Wolves    | L   | 0.859      | -            | -                | -                | -         |   -10.31 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           14 |     1090 | 2024-06-15 | The Prodigies | W   | 0.852      | 0.143        | 0.000 (0.000)    | 0.090 (0.011)    | 0 (0.000) |     8.10 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           13 |     1193 | 2024-06-12 | ADEPTS        | W   | 0.832      | 0.143        | 0.002 (0.000)    | 0.026 (0.003)    | 0 (0.000) |    10.85 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           12 |     1207 | 2024-06-11 | The Prodigies | L   | 0.826      | -            | -                | -                | -         |   -17.91 | Hagmeister, qzr, SLY, Viktha, Wenba          |
+|           11 |     1659 | 2024-06-01 | VP.Prodigy    | L   | 0.758      | -            | -                | -                | -         |    -6.39 | Affava, Hagmeister, qzr, Viktha, Wenba       |
+|           10 |     1792 | 2024-05-26 | Metizport X   | W   | 0.720      | 0.322        | 0.005 (0.001)    | 0.024 (0.006)    | 0 (0.000) |     8.99 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            9 |     2017 | 2024-05-18 | DMS           | L   | 0.666      | -            | -                | -                | -         |    -5.28 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            8 |     2066 | 2024-05-17 | Space         | W   | 0.658      | 0.143        | 0.006 (0.001)    | 0.429 (0.040)    | 0 (0.000) |    13.75 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            7 |     2096 | 2024-05-16 | Rounds        | W   | 0.652      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     2.98 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            6 |     2132 | 2024-05-15 | GUN5          | L   | 0.647      | -            | -                | -                | -         |    -4.57 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            5 |     2275 | 2024-05-11 | Metizport X   | W   | 0.620      | 0.322        | 0.005 (0.001)    | 0.024 (0.005)    | 0 (0.000) |     8.13 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            4 |     2556 | 2024-04-27 | Sashi         | L   | 0.527      | -            | -                | -                | -         |    -1.15 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            3 |     2567 | 2024-04-27 | Preasy        | W   | 0.526      | 0.336        | 0.008 (0.001)    | 0.216 (0.038)    | 0 (0.000) |     9.91 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            2 |     2936 | 2024-04-13 | Norway        | L   | 0.433      | -            | -                | -                | -         |    -6.87 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
+|            1 |     3543 | 2024-03-17 | INFURITY      | W   | 0.254      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.22 | Affava, Hagmeister, MadeInRed, Viktha, Wenba |
 
 <br />
 <span id="table2"></span><br />

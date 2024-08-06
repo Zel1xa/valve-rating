@@ -37,17 +37,17 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |       17 | 2024-08-06 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -15.44 | bq, dex, eraa, quix, SHiNE  |
-|           10 |      266 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.18 | bq, dex, L00m1, quix, SHiNE |
-|            9 |      453 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.67 | bq, dex, L00m1, quix, SHiNE |
-|            8 |      684 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.553 (0.079)    | 0 (0.000) |    13.47 | bq, dex, L00m1, quix, SHiNE |
-|            7 |     1086 | 2024-06-15 | Johnny Speeds   | L   | 0.853      | -            | -                | -                | -         |    -2.90 | bq, dex, poiii, quix, zyyx  |
-|            6 |     1109 | 2024-06-14 | Young Gods      | W   | 0.847      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.847) |     7.97 | bq, dex, poiii, quix, zyyx  |
-|            5 |     1128 | 2024-06-14 | Johnny Speeds   | L   | 0.846      | -            | -                | -                | -         |    -2.85 | bq, dex, poiii, quix, zyyx  |
-|            4 |     1160 | 2024-06-13 | Young Gods      | W   | 0.839      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.839) |     8.07 | bq, dex, poiii, quix, zyyx  |
-|            3 |     1295 | 2024-06-09 | Alliance        | L   | 0.812      | -            | -                | -                | -         |   -13.25 | bq, dex, poiii, quix, zyyx  |
-|            2 |     2271 | 2024-05-11 | Johnny Speeds   | L   | 0.620      | -            | -                | -                | -         |    -1.72 | bq, dex, poiii, quix, zyyx  |
-|            1 |     2280 | 2024-05-11 | AURA            | W   | 0.619      | 0.319        | 0.017 (0.003)    | 0.057 (0.011)    | 1 (0.619) |     7.23 | bq, dex, poiii, quix, zyyx  |
+|           11 |       18 | 2024-08-06 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -15.44 | bq, dex, eraa, quix, SHiNE  |
+|           10 |      267 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.18 | bq, dex, L00m1, quix, SHiNE |
+|            9 |      454 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.67 | bq, dex, L00m1, quix, SHiNE |
+|            8 |      685 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.553 (0.079)    | 0 (0.000) |    13.47 | bq, dex, L00m1, quix, SHiNE |
+|            7 |     1087 | 2024-06-15 | Johnny Speeds   | L   | 0.853      | -            | -                | -                | -         |    -2.90 | bq, dex, poiii, quix, zyyx  |
+|            6 |     1110 | 2024-06-14 | Young Gods      | W   | 0.847      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.847) |     7.97 | bq, dex, poiii, quix, zyyx  |
+|            5 |     1129 | 2024-06-14 | Johnny Speeds   | L   | 0.846      | -            | -                | -                | -         |    -2.85 | bq, dex, poiii, quix, zyyx  |
+|            4 |     1161 | 2024-06-13 | Young Gods      | W   | 0.839      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.839) |     8.07 | bq, dex, poiii, quix, zyyx  |
+|            3 |     1296 | 2024-06-09 | Alliance        | L   | 0.812      | -            | -                | -                | -         |   -13.25 | bq, dex, poiii, quix, zyyx  |
+|            2 |     2272 | 2024-05-11 | Johnny Speeds   | L   | 0.620      | -            | -                | -                | -         |    -1.72 | bq, dex, poiii, quix, zyyx  |
+|            1 |     2281 | 2024-05-11 | AURA            | W   | 0.619      | 0.319        | 0.017 (0.003)    | 0.057 (0.011)    | 1 (0.619) |     7.23 | bq, dex, poiii, quix, zyyx  |
 
 <br />
 <span id="table2"></span><br />

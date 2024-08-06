@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |     3588 | 2024-03-15 | Permitta        | L   | 0.239      | -            | -                | -                | -         |    -1.15 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|           12 |     3620 | 2024-03-14 | Endpoint        | W   | 0.233      | 0.372        | 0.012 (0.001)    | 0.540 (0.047)    | 0 (0.000) |     5.60 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|           11 |     3685 | 2024-03-12 | ARCRED          | W   | 0.220      | 0.372        | 0.041 (0.003)    | 0.369 (0.030)    | 0 (0.000) |     5.45 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|           10 |     3748 | 2024-03-09 | Passion UA      | W   | 0.200      | 0.372        | 0.173 (0.013)    | 1.000 (0.074)    | 0 (0.000) |     5.73 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            9 |     3825 | 2024-03-06 | Insilio         | L   | 0.180      | -            | -                | -                | -         |    -1.26 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            8 |     3899 | 2024-03-03 | Metizport       | L   | 0.161      | -            | -                | -                | -         |    -1.07 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            7 |     3904 | 2024-03-03 | TSM             | W   | 0.161      | 0.143        | 0.005 (0.000)    | 0.043 (0.001)    | 0 (0.000) |     2.54 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            6 |     3909 | 2024-03-03 | KOI             | W   | 0.160      | 0.143        | 0.058 (0.001)    | 0.356 (0.008)    | 0 (0.000) |     4.59 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            5 |     4081 | 2024-02-24 | brazylijski luz | L   | 0.106      | -            | -                | -                | -         |    -1.10 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            4 |     4229 | 2024-02-17 | Entropiq        | L   | 0.061      | -            | -                | -                | -         |    -1.28 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            3 |     4232 | 2024-02-17 | kONO            | L   | 0.060      | -            | -                | -                | -         |    -0.59 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            2 |     4239 | 2024-02-17 | Monte           | L   | 0.059      | -            | -                | -                | -         |    -0.27 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
-|            1 |     4386 | 2024-02-10 | ex-Anonymo      | W   | 0.014      | 0.358        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.08 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|           13 |     3589 | 2024-03-15 | Permitta        | L   | 0.239      | -            | -                | -                | -         |    -1.15 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|           12 |     3621 | 2024-03-14 | Endpoint        | W   | 0.233      | 0.372        | 0.012 (0.001)    | 0.540 (0.047)    | 0 (0.000) |     5.60 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|           11 |     3686 | 2024-03-12 | ARCRED          | W   | 0.220      | 0.372        | 0.041 (0.003)    | 0.369 (0.030)    | 0 (0.000) |     5.45 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|           10 |     3749 | 2024-03-09 | Passion UA      | W   | 0.200      | 0.372        | 0.173 (0.013)    | 1.000 (0.074)    | 0 (0.000) |     5.73 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            9 |     3826 | 2024-03-06 | Insilio         | L   | 0.180      | -            | -                | -                | -         |    -1.26 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            8 |     3900 | 2024-03-03 | Metizport       | L   | 0.161      | -            | -                | -                | -         |    -1.07 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            7 |     3905 | 2024-03-03 | TSM             | W   | 0.161      | 0.143        | 0.005 (0.000)    | 0.043 (0.001)    | 0 (0.000) |     2.54 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            6 |     3910 | 2024-03-03 | KOI             | W   | 0.160      | 0.143        | 0.058 (0.001)    | 0.356 (0.008)    | 0 (0.000) |     4.59 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            5 |     4082 | 2024-02-24 | brazylijski luz | L   | 0.106      | -            | -                | -                | -         |    -1.10 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            4 |     4230 | 2024-02-17 | Entropiq        | L   | 0.061      | -            | -                | -                | -         |    -1.28 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            3 |     4233 | 2024-02-17 | kONO            | L   | 0.060      | -            | -                | -                | -         |    -0.59 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            2 |     4240 | 2024-02-17 | Monte           | L   | 0.059      | -            | -                | -                | -         |    -0.27 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
+|            1 |     4387 | 2024-02-10 | ex-Anonymo      | W   | 0.014      | 0.358        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.08 | choiv7, KalubeR, shaiK, Skrimo, SPELLAN |
 
 <br />
 <span id="table2"></span><br />

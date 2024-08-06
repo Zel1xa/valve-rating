@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     3390 | 2024-03-27 | DXA         | W   | 0.318      | 0.333        | 0.002 (0.000)    | 0.217 (0.023)    | 0 (0.000) |     7.43 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|            9 |     3395 | 2024-03-27 | DXA         | L   | 0.318      | -            | -                | -                | -         |    -2.62 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
-|            8 |     3663 | 2024-03-13 | KZG         | W   | 0.225      | 0.333        | 0.005 (0.000)    | 0.106 (0.008)    | 0 (0.000) |     5.29 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|            7 |     3670 | 2024-03-13 | KZG         | L   | 0.225      | -            | -                | -                | -         |    -1.82 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
-|            6 |     4011 | 2024-02-27 | Vantage     | L   | 0.125      | -            | -                | -                | -         |    -1.22 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            5 |     4014 | 2024-02-27 | Vantage     | W   | 0.125      | 0.333        | 0.002 (0.000)    | 0.064 (0.003)    | 0 (0.000) |     2.73 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            4 |     4142 | 2024-02-21 | Canon Event | W   | 0.085      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            3 |     4145 | 2024-02-21 | Canon Event | W   | 0.085      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            2 |     4175 | 2024-02-20 | Mindfreak   | L   | 0.078      | -            | -                | -                | -         |    -0.63 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
-|            1 |     4368 | 2024-02-13 | KZG         | L   | 0.031      | -            | -                | -                | -         |    -0.24 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
+|           10 |     3391 | 2024-03-27 | DXA         | W   | 0.318      | 0.333        | 0.002 (0.000)    | 0.217 (0.023)    | 0 (0.000) |     7.43 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|            9 |     3396 | 2024-03-27 | DXA         | L   | 0.318      | -            | -                | -                | -         |    -2.62 | alecc, Crunchy, doom, Jynx, TRIPLUS    |
+|            8 |     3664 | 2024-03-13 | KZG         | W   | 0.225      | 0.333        | 0.005 (0.000)    | 0.106 (0.008)    | 0 (0.000) |     5.29 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|            7 |     3671 | 2024-03-13 | KZG         | L   | 0.225      | -            | -                | -                | -         |    -1.82 | alecc, Crunchy, Jynx, Poccket, TRIPLUS |
+|            6 |     4012 | 2024-02-27 | Vantage     | L   | 0.125      | -            | -                | -                | -         |    -1.22 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            5 |     4015 | 2024-02-27 | Vantage     | W   | 0.125      | 0.333        | 0.002 (0.000)    | 0.064 (0.003)    | 0 (0.000) |     2.73 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            4 |     4143 | 2024-02-21 | Canon Event | W   | 0.085      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            3 |     4146 | 2024-02-21 | Canon Event | W   | 0.085      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.39 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            2 |     4176 | 2024-02-20 | Mindfreak   | L   | 0.078      | -            | -                | -                | -         |    -0.63 | alecc, Bumb1e, Crunchy, Jynx, TRIPLUS  |
+|            1 |     4369 | 2024-02-13 | KZG         | L   | 0.031      | -            | -                | -                | -         |    -0.24 | alecc, Bumb1e, Jynx, PixeL, TRIPLUS    |
 
 <br />
 <span id="table2"></span><br />

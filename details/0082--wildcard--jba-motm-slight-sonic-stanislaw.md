@@ -37,66 +37,66 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           60 |     1040 | 2024-06-16 | Nouns            | L   | 0.861      | -            | -                | -                | -         |   -12.26 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           59 |     1066 | 2024-06-15 | Mythic           | W   | 0.855      | -            | -                | -                | 0 (0.000) |     8.58 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           58 |     1140 | 2024-06-13 | Final Form       | W   | 0.843      | -            | -                | -                | 0 (0.000) |     4.25 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           57 |     1251 | 2024-06-09 | M80              | L   | 0.815      | -            | -                | -                | -         |    -4.24 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           56 |     1312 | 2024-06-08 | Nouns            | W   | 0.809      | 0.477        | 0.057 (0.022)    | 0.541 (0.209)    | 0 (0.000) |    14.41 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           55 |     1318 | 2024-06-08 | Party Astronauts | L   | 0.808      | -            | -                | -                | -         |   -11.49 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           54 |     1369 | 2024-06-07 | LAG              | W   | 0.802      | 0.384        | 0.012 (0.004)    | 0.376 (0.116)    | 0 (0.000) |     8.63 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           53 |     1425 | 2024-06-06 | M80              | L   | 0.796      | -            | -                | -                | -         |    -3.75 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           52 |     1435 | 2024-06-06 | NRG              | L   | 0.795      | -            | -                | -                | -         |   -13.95 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           51 |     1441 | 2024-06-06 | M80              | L   | 0.794      | -            | -                | -                | -         |    -4.16 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           50 |     1460 | 2024-06-06 | NRG              | W   | 0.793      | -            | -                | -                | 0 (0.000) |    10.76 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           49 |     1496 | 2024-06-05 | Party Astronauts | W   | 0.789      | 0.477        | 0.041 (0.015)    | 0.510 (0.192)    | 0 (0.000) |    12.85 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           48 |     1550 | 2024-06-04 | Homyno           | W   | 0.782      | -            | -                | -                | 0 (0.000) |     5.60 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           47 |     1840 | 2024-05-23 | M80              | L   | 0.702      | -            | -                | -                | -         |    -3.40 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           46 |     1854 | 2024-05-22 | Take Flyte       | W   | 0.696      | -            | -                | -                | 0 (0.000) |     3.98 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           45 |     1857 | 2024-05-22 | Take Flyte       | W   | 0.696      | -            | -                | -                | 0 (0.000) |     4.13 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           44 |     1868 | 2024-05-22 | LAG              | W   | 0.695      | 0.384        | -                | 0.376 (0.100)    | -         |     7.52 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           43 |     1914 | 2024-05-21 | Limitless        | W   | 0.688      | -            | -                | -                | -         |     7.13 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           42 |     1918 | 2024-05-21 | Limitless        | W   | 0.688      | -            | -                | -                | -         |     7.53 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           41 |     1977 | 2024-05-19 | Limitless        | W   | 0.675      | -            | -                | -                | -         |     3.84 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           40 |     2037 | 2024-05-17 | Nouns            | L   | 0.662      | -            | -                | -                | -         |   -10.45 | Grizz, JBa, motm, SLIGHT, stanislaw      |
-|           39 |     2106 | 2024-05-15 | BOSS             | W   | 0.649      | 0.477        | 0.014 (0.004)    | 0.319 (0.099)    | -         |     7.21 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           38 |     2116 | 2024-05-15 | BOSS             | W   | 0.649      | 0.477        | 0.014 (0.004)    | 0.319 (0.099)    | -         |     7.60 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           37 |     2161 | 2024-05-14 | FLUFFY AIMERS    | W   | 0.643      | -            | -                | -                | -         |     6.16 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           36 |     2166 | 2024-05-14 | FLUFFY AIMERS    | W   | 0.642      | -            | -                | -                | -         |     6.46 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           35 |     2211 | 2024-05-13 | Nouns            | W   | 0.636      | 0.477        | 0.057 (0.017)    | 0.541 (0.164)    | -         |    11.81 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           34 |     2212 | 2024-05-13 | Nouns            | L   | 0.636      | -            | -                | -                | -         |    -8.32 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           33 |     2256 | 2024-05-11 | Elevate          | L   | 0.622      | -            | -                | -                | -         |    -7.43 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           32 |     2258 | 2024-05-11 | Mythic           | L   | 0.622      | -            | -                | -                | -         |   -13.17 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           31 |     2308 | 2024-05-09 | MIGHT            | W   | 0.609      | -            | -                | -                | -         |     2.17 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           30 |     2311 | 2024-05-09 | MIGHT            | W   | 0.609      | -            | -                | -                | -         |     2.21 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           29 |     2324 | 2024-05-08 | Limitless        | W   | 0.603      | -            | -                | -                | -         |     3.63 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           28 |     2327 | 2024-05-08 | Limitless        | W   | 0.602      | -            | -                | -                | -         |     3.76 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
-|           27 |     2441 | 2024-05-02 | Party Astronauts | W   | 0.562      | 0.477        | 0.041 (0.011)    | 0.510 (0.137)    | -         |    10.44 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           26 |     2442 | 2024-05-02 | Party Astronauts | L   | 0.562      | -            | -                | -                | -         |    -7.38 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           25 |     2606 | 2024-04-25 | NRG              | W   | 0.516      | 0.477        | 0.020 (0.005)    | 0.502 (0.124)    | -         |     7.85 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           24 |     2608 | 2024-04-25 | NRG              | L   | 0.516      | -            | -                | -                | -         |    -8.60 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           23 |     2648 | 2024-04-23 | Elevate          | W   | 0.503      | 0.477        | 0.027 (0.006)    | 0.501 (0.120)    | -         |    10.26 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           22 |     2650 | 2024-04-23 | Elevate          | L   | 0.502      | -            | -                | -                | -         |    -5.64 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           21 |     2842 | 2024-04-17 | Elevate          | L   | 0.462      | -            | -                | -                | -         |    -5.32 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           20 |     3095 | 2024-04-08 | Cloud9           | L   | 0.404      | -            | -                | -                | -         |    -3.50 | horvy, motm, SLIGHT, Sonic, stanislaw    |
-|           19 |     3124 | 2024-04-08 | Virtus.pro       | L   | 0.398      | -            | -                | -                | -         |    -0.14 | horvy, motm, SLIGHT, Sonic, stanislaw    |
-|           18 |     3360 | 2024-03-27 | Mythic           | W   | 0.322      | -            | -                | -                | -         |     3.72 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           17 |     3366 | 2024-03-27 | Mythic           | W   | 0.322      | -            | -                | -                | -         |     3.82 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           16 |     3401 | 2024-03-26 | LAG              | W   | 0.316      | -            | -                | -                | -         |     4.48 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           15 |     3406 | 2024-03-26 | LAG              | L   | 0.316      | -            | -                | -                | -         |    -5.59 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
-|           14 |     3601 | 2024-03-14 | Phoenix          | W   | 0.236      | -            | -                | -                | -         |     2.29 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           13 |     3604 | 2024-03-14 | Phoenix          | W   | 0.236      | -            | -                | -                | -         |     2.33 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           12 |     3628 | 2024-03-13 | M80              | W   | 0.230      | 0.477        | 0.188 (0.021)    | -                | -         |     6.32 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           11 |     3629 | 2024-03-13 | M80              | L   | 0.229      | -            | -                | -                | -         |    -0.91 | JBa, motm, SLIGHT, Sonic, stanislaw      |
-|           10 |     3677 | 2024-03-12 | Mythic           | L   | 0.222      | -            | -                | -                | -         |    -4.40 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            9 |     3917 | 2024-03-03 | M80              | L   | 0.160      | -            | -                | -                | -         |    -0.64 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            8 |     3930 | 2024-03-02 | BESTIA           | W   | 0.154      | -            | -                | -                | 1 (0.154) |     3.36 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            7 |     3950 | 2024-03-01 | RED Canids       | L   | 0.148      | -            | -                | -                | -         |    -1.15 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            6 |     4033 | 2024-02-25 | Liquid           | L   | 0.116      | -            | -                | -                | -         |    -0.07 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            5 |     4037 | 2024-02-25 | BOSS             | L   | 0.115      | -            | -                | -                | -         |    -2.16 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            4 |     4054 | 2024-02-24 | NRG              | W   | 0.109      | -            | -                | -                | -         |     1.61 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            3 |     4055 | 2024-02-24 | Party Astronauts | W   | 0.109      | -            | -                | -                | -         |     1.96 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            2 |     4064 | 2024-02-24 | Akimbo           | W   | 0.108      | -            | -                | -                | -         |     1.17 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
-|            1 |     4103 | 2024-02-22 | NRG              | L   | 0.095      | -            | -                | -                | -         |    -1.60 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|           60 |     1041 | 2024-06-16 | Nouns            | L   | 0.861      | -            | -                | -                | -         |   -12.26 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           59 |     1067 | 2024-06-15 | Mythic           | W   | 0.855      | -            | -                | -                | 0 (0.000) |     8.58 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           58 |     1141 | 2024-06-13 | Final Form       | W   | 0.843      | -            | -                | -                | 0 (0.000) |     4.25 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           57 |     1252 | 2024-06-09 | M80              | L   | 0.815      | -            | -                | -                | -         |    -4.24 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           56 |     1313 | 2024-06-08 | Nouns            | W   | 0.809      | 0.477        | 0.057 (0.022)    | 0.541 (0.209)    | 0 (0.000) |    14.41 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           55 |     1319 | 2024-06-08 | Party Astronauts | L   | 0.808      | -            | -                | -                | -         |   -11.49 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           54 |     1370 | 2024-06-07 | LAG              | W   | 0.802      | 0.384        | 0.012 (0.004)    | 0.376 (0.116)    | 0 (0.000) |     8.63 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           53 |     1426 | 2024-06-06 | M80              | L   | 0.796      | -            | -                | -                | -         |    -3.75 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           52 |     1436 | 2024-06-06 | NRG              | L   | 0.795      | -            | -                | -                | -         |   -13.95 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           51 |     1442 | 2024-06-06 | M80              | L   | 0.794      | -            | -                | -                | -         |    -4.16 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           50 |     1461 | 2024-06-06 | NRG              | W   | 0.793      | -            | -                | -                | 0 (0.000) |    10.76 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           49 |     1497 | 2024-06-05 | Party Astronauts | W   | 0.789      | 0.477        | 0.041 (0.015)    | 0.510 (0.192)    | 0 (0.000) |    12.85 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           48 |     1551 | 2024-06-04 | Homyno           | W   | 0.782      | -            | -                | -                | 0 (0.000) |     5.60 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           47 |     1841 | 2024-05-23 | M80              | L   | 0.702      | -            | -                | -                | -         |    -3.40 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           46 |     1855 | 2024-05-22 | Take Flyte       | W   | 0.696      | -            | -                | -                | 0 (0.000) |     3.98 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           45 |     1858 | 2024-05-22 | Take Flyte       | W   | 0.696      | -            | -                | -                | 0 (0.000) |     4.13 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           44 |     1869 | 2024-05-22 | LAG              | W   | 0.695      | 0.384        | -                | 0.376 (0.100)    | -         |     7.52 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           43 |     1915 | 2024-05-21 | Limitless        | W   | 0.688      | -            | -                | -                | -         |     7.13 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           42 |     1919 | 2024-05-21 | Limitless        | W   | 0.688      | -            | -                | -                | -         |     7.53 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           41 |     1978 | 2024-05-19 | Limitless        | W   | 0.675      | -            | -                | -                | -         |     3.84 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           40 |     2038 | 2024-05-17 | Nouns            | L   | 0.662      | -            | -                | -                | -         |   -10.45 | Grizz, JBa, motm, SLIGHT, stanislaw      |
+|           39 |     2107 | 2024-05-15 | BOSS             | W   | 0.649      | 0.477        | 0.014 (0.004)    | 0.319 (0.099)    | -         |     7.21 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           38 |     2117 | 2024-05-15 | BOSS             | W   | 0.649      | 0.477        | 0.014 (0.004)    | 0.319 (0.099)    | -         |     7.60 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           37 |     2162 | 2024-05-14 | FLUFFY AIMERS    | W   | 0.643      | -            | -                | -                | -         |     6.16 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           36 |     2167 | 2024-05-14 | FLUFFY AIMERS    | W   | 0.642      | -            | -                | -                | -         |     6.46 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           35 |     2212 | 2024-05-13 | Nouns            | W   | 0.636      | 0.477        | 0.057 (0.017)    | 0.541 (0.164)    | -         |    11.81 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           34 |     2213 | 2024-05-13 | Nouns            | L   | 0.636      | -            | -                | -                | -         |    -8.32 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           33 |     2257 | 2024-05-11 | Elevate          | L   | 0.622      | -            | -                | -                | -         |    -7.43 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           32 |     2259 | 2024-05-11 | Mythic           | L   | 0.622      | -            | -                | -                | -         |   -13.17 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           31 |     2309 | 2024-05-09 | MIGHT            | W   | 0.609      | -            | -                | -                | -         |     2.17 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           30 |     2312 | 2024-05-09 | MIGHT            | W   | 0.609      | -            | -                | -                | -         |     2.21 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           29 |     2325 | 2024-05-08 | Limitless        | W   | 0.603      | -            | -                | -                | -         |     3.63 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           28 |     2328 | 2024-05-08 | Limitless        | W   | 0.602      | -            | -                | -                | -         |     3.76 | Grizz, JBa, SLIGHT, Sonic, stanislaw     |
+|           27 |     2442 | 2024-05-02 | Party Astronauts | W   | 0.562      | 0.477        | 0.041 (0.011)    | 0.510 (0.137)    | -         |    10.44 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           26 |     2443 | 2024-05-02 | Party Astronauts | L   | 0.562      | -            | -                | -                | -         |    -7.38 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           25 |     2607 | 2024-04-25 | NRG              | W   | 0.516      | 0.477        | 0.020 (0.005)    | 0.502 (0.124)    | -         |     7.85 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           24 |     2609 | 2024-04-25 | NRG              | L   | 0.516      | -            | -                | -                | -         |    -8.60 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           23 |     2649 | 2024-04-23 | Elevate          | W   | 0.503      | 0.477        | 0.027 (0.006)    | 0.501 (0.120)    | -         |    10.26 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           22 |     2651 | 2024-04-23 | Elevate          | L   | 0.502      | -            | -                | -                | -         |    -5.64 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           21 |     2843 | 2024-04-17 | Elevate          | L   | 0.462      | -            | -                | -                | -         |    -5.32 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           20 |     3096 | 2024-04-08 | Cloud9           | L   | 0.404      | -            | -                | -                | -         |    -3.50 | horvy, motm, SLIGHT, Sonic, stanislaw    |
+|           19 |     3125 | 2024-04-08 | Virtus.pro       | L   | 0.398      | -            | -                | -                | -         |    -0.14 | horvy, motm, SLIGHT, Sonic, stanislaw    |
+|           18 |     3361 | 2024-03-27 | Mythic           | W   | 0.322      | -            | -                | -                | -         |     3.72 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           17 |     3367 | 2024-03-27 | Mythic           | W   | 0.322      | -            | -                | -                | -         |     3.82 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           16 |     3402 | 2024-03-26 | LAG              | W   | 0.316      | -            | -                | -                | -         |     4.48 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           15 |     3407 | 2024-03-26 | LAG              | L   | 0.316      | -            | -                | -                | -         |    -5.59 | C4LLM3SU3, JBa, SLIGHT, Sonic, stanislaw |
+|           14 |     3602 | 2024-03-14 | Phoenix          | W   | 0.236      | -            | -                | -                | -         |     2.29 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           13 |     3605 | 2024-03-14 | Phoenix          | W   | 0.236      | -            | -                | -                | -         |     2.33 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           12 |     3629 | 2024-03-13 | M80              | W   | 0.230      | 0.477        | 0.188 (0.021)    | -                | -         |     6.32 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           11 |     3630 | 2024-03-13 | M80              | L   | 0.229      | -            | -                | -                | -         |    -0.91 | JBa, motm, SLIGHT, Sonic, stanislaw      |
+|           10 |     3678 | 2024-03-12 | Mythic           | L   | 0.222      | -            | -                | -                | -         |    -4.40 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            9 |     3918 | 2024-03-03 | M80              | L   | 0.160      | -            | -                | -                | -         |    -0.64 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            8 |     3931 | 2024-03-02 | BESTIA           | W   | 0.154      | -            | -                | -                | 1 (0.154) |     3.36 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            7 |     3951 | 2024-03-01 | RED Canids       | L   | 0.148      | -            | -                | -                | -         |    -1.15 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            6 |     4034 | 2024-02-25 | Liquid           | L   | 0.116      | -            | -                | -                | -         |    -0.07 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            5 |     4038 | 2024-02-25 | BOSS             | L   | 0.115      | -            | -                | -                | -         |    -2.16 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            4 |     4055 | 2024-02-24 | NRG              | W   | 0.109      | -            | -                | -                | -         |     1.61 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            3 |     4056 | 2024-02-24 | Party Astronauts | W   | 0.109      | -            | -                | -                | -         |     1.96 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            2 |     4065 | 2024-02-24 | Akimbo           | W   | 0.108      | -            | -                | -                | -         |     1.17 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
+|            1 |     4104 | 2024-02-22 | NRG              | L   | 0.095      | -            | -                | -                | -         |    -1.60 | Infinite, JBa, SLIGHT, Sonic, stanislaw  |
 
 <br />
 <span id="table2"></span><br />

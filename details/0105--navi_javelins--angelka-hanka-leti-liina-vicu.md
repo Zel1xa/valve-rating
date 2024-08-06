@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |     1634 | 2024-06-01 | panelinha         | L   | 0.761      | -            | -                | -                | -         |   -11.97 | Angelka, Hanka, LETi, Liina, vicu |
-|           19 |     1665 | 2024-05-31 | TSM Shimmer       | W   | 0.756      | 0.524        | 0.020 (0.008)    | 0.191 (0.075)    | 1 (0.756) |     7.50 | Angelka, Hanka, LETi, Liina, vicu |
-|           18 |     1673 | 2024-05-31 | Let Her Cook      | L   | 0.754      | -            | -                | -                | -         |   -10.41 | Angelka, Hanka, LETi, Liina, vicu |
-|           17 |     1989 | 2024-05-19 | Imperial fe       | W   | 0.673      | 0.281        | 0.128 (0.024)    | 0.287 (0.054)    | 0 (0.000) |    15.64 | Angelka, Hanka, LETi, Liina, vicu |
-|           16 |     1996 | 2024-05-19 | BIG EQUIPA        | W   | 0.672      | 0.281        | 0.017 (0.003)    | 0.142 (0.027)    | 0 (0.000) |     8.65 | Angelka, Hanka, LETi, Liina, vicu |
-|           15 |     2024 | 2024-05-18 | Spirit fe         | W   | 0.666      | 0.281        | 0.005 (0.001)    | 0.136 (0.025)    | 0 (0.000) |     5.12 | Angelka, Hanka, LETi, Liina, vicu |
-|           14 |     2758 | 2024-04-19 | Crescent fe       | W   | 0.474      | 0.331        | 0.004 (0.001)    | 0.081 (0.013)    | 0 (0.000) |     3.82 | Angelka, Hanka, LETi, Liina, vicu |
-|           13 |     2886 | 2024-04-16 | Imperial fe       | W   | 0.453      | 0.303        | 0.128 (0.018)    | 0.287 (0.039)    | 0 (0.000) |    11.02 | Angelka, Hanka, LETi, Liina, vicu |
-|           12 |     2908 | 2024-04-15 | NIP Impact        | W   | 0.447      | 0.303        | 0.005 (0.001)    | 0.219 (0.030)    | 0 (0.000) |     5.31 | Angelka, Hanka, LETi, Liina, vicu |
-|           11 |     2925 | 2024-04-14 | Astralis W        | W   | 0.439      | -            | -                | -                | 0 (0.000) |     3.33 | Angelka, Hanka, LETi, Liina, vicu |
-|           10 |     2939 | 2024-04-13 | Imperial fe       | L   | 0.433      | -            | -                | -                | -         |    -3.02 | Angelka, Hanka, LETi, Liina, vicu |
-|            9 |     2980 | 2024-04-11 | Spirit fe         | W   | 0.419      | 0.303        | 0.005 (0.001)    | 0.136 (0.017)    | 0 (0.000) |     3.80 | Angelka, Hanka, LETi, Liina, vicu |
-|            8 |     3080 | 2024-04-09 | NIP Impact        | L   | 0.406      | -            | -                | -                | -         |    -8.15 | Angelka, Hanka, LETi, Liina, vicu |
-|            7 |     3206 | 2024-04-04 | Spirit fe         | W   | 0.374      | 0.331        | 0.005 (0.001)    | 0.136 (0.017)    | 0 (0.000) |     3.46 | Angelka, Hanka, LETi, Liina, vicu |
-|            6 |     3246 | 2024-04-03 | Let Her Cook      | L   | 0.367      | -            | -                | -                | -         |    -4.20 | Angelka, Hanka, LETi, Liina, vicu |
-|            5 |     3618 | 2024-03-14 | 1WIN Gang         | W   | 0.234      | -            | -                | -                | -         |     2.06 | Angelka, Hanka, LETi, Liina, vicu |
-|            4 |     3823 | 2024-03-06 | Fearless Cheetahs | W   | 0.181      | -            | -                | -                | -         |     1.78 | Angelka, Hanka, LETi, Liina, vicu |
-|            3 |     4043 | 2024-02-25 | BIG EQUIPA        | W   | 0.113      | 0.238        | 0.017 (0.000)    | 0.142 (0.004)    | -         |     1.53 | Angelka, Hanka, LETi, Liina, vicu |
-|            2 |     4048 | 2024-02-25 | ENCE Athena       | W   | 0.112      | -            | -                | -                | -         |     0.95 | Angelka, Hanka, LETi, Liina, vicu |
-|            1 |     4077 | 2024-02-24 | Crescent fe       | W   | 0.106      | -            | -                | -                | -         |     1.00 | Angelka, Hanka, LETi, Liina, vicu |
+|           20 |     1635 | 2024-06-01 | panelinha         | L   | 0.761      | -            | -                | -                | -         |   -11.97 | Angelka, Hanka, LETi, Liina, vicu |
+|           19 |     1666 | 2024-05-31 | TSM Shimmer       | W   | 0.756      | 0.524        | 0.020 (0.008)    | 0.191 (0.075)    | 1 (0.756) |     7.50 | Angelka, Hanka, LETi, Liina, vicu |
+|           18 |     1674 | 2024-05-31 | Let Her Cook      | L   | 0.754      | -            | -                | -                | -         |   -10.41 | Angelka, Hanka, LETi, Liina, vicu |
+|           17 |     1990 | 2024-05-19 | Imperial fe       | W   | 0.673      | 0.281        | 0.128 (0.024)    | 0.287 (0.054)    | 0 (0.000) |    15.64 | Angelka, Hanka, LETi, Liina, vicu |
+|           16 |     1997 | 2024-05-19 | BIG EQUIPA        | W   | 0.672      | 0.281        | 0.017 (0.003)    | 0.142 (0.027)    | 0 (0.000) |     8.65 | Angelka, Hanka, LETi, Liina, vicu |
+|           15 |     2025 | 2024-05-18 | Spirit fe         | W   | 0.666      | 0.281        | 0.005 (0.001)    | 0.136 (0.025)    | 0 (0.000) |     5.12 | Angelka, Hanka, LETi, Liina, vicu |
+|           14 |     2759 | 2024-04-19 | Crescent fe       | W   | 0.474      | 0.331        | 0.004 (0.001)    | 0.081 (0.013)    | 0 (0.000) |     3.82 | Angelka, Hanka, LETi, Liina, vicu |
+|           13 |     2887 | 2024-04-16 | Imperial fe       | W   | 0.453      | 0.303        | 0.128 (0.018)    | 0.287 (0.039)    | 0 (0.000) |    11.02 | Angelka, Hanka, LETi, Liina, vicu |
+|           12 |     2909 | 2024-04-15 | NIP Impact        | W   | 0.447      | 0.303        | 0.005 (0.001)    | 0.219 (0.030)    | 0 (0.000) |     5.31 | Angelka, Hanka, LETi, Liina, vicu |
+|           11 |     2926 | 2024-04-14 | Astralis W        | W   | 0.439      | -            | -                | -                | 0 (0.000) |     3.33 | Angelka, Hanka, LETi, Liina, vicu |
+|           10 |     2940 | 2024-04-13 | Imperial fe       | L   | 0.433      | -            | -                | -                | -         |    -3.02 | Angelka, Hanka, LETi, Liina, vicu |
+|            9 |     2981 | 2024-04-11 | Spirit fe         | W   | 0.419      | 0.303        | 0.005 (0.001)    | 0.136 (0.017)    | 0 (0.000) |     3.80 | Angelka, Hanka, LETi, Liina, vicu |
+|            8 |     3081 | 2024-04-09 | NIP Impact        | L   | 0.406      | -            | -                | -                | -         |    -8.15 | Angelka, Hanka, LETi, Liina, vicu |
+|            7 |     3207 | 2024-04-04 | Spirit fe         | W   | 0.374      | 0.331        | 0.005 (0.001)    | 0.136 (0.017)    | 0 (0.000) |     3.46 | Angelka, Hanka, LETi, Liina, vicu |
+|            6 |     3247 | 2024-04-03 | Let Her Cook      | L   | 0.367      | -            | -                | -                | -         |    -4.20 | Angelka, Hanka, LETi, Liina, vicu |
+|            5 |     3619 | 2024-03-14 | 1WIN Gang         | W   | 0.234      | -            | -                | -                | -         |     2.06 | Angelka, Hanka, LETi, Liina, vicu |
+|            4 |     3824 | 2024-03-06 | Fearless Cheetahs | W   | 0.181      | -            | -                | -                | -         |     1.78 | Angelka, Hanka, LETi, Liina, vicu |
+|            3 |     4044 | 2024-02-25 | BIG EQUIPA        | W   | 0.113      | 0.238        | 0.017 (0.000)    | 0.142 (0.004)    | -         |     1.53 | Angelka, Hanka, LETi, Liina, vicu |
+|            2 |     4049 | 2024-02-25 | ENCE Athena       | W   | 0.112      | -            | -                | -                | -         |     0.95 | Angelka, Hanka, LETi, Liina, vicu |
+|            1 |     4078 | 2024-02-24 | Crescent fe       | W   | 0.106      | -            | -                | -                | -         |     1.00 | Angelka, Hanka, LETi, Liina, vicu |
 
 <br />
 <span id="table2"></span><br />

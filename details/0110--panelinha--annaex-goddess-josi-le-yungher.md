@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      341 | 2024-07-27 | MIBR fe       | L   | 1.000      | -            | -                | -                | -         |   -21.81 | annaEX, goddess, josi, Le, yungher       |
-|           11 |     1614 | 2024-06-02 | Imperial fe   | L   | 0.766      | -            | -                | -                | -         |    -6.48 | annaEX, goddess, julih, poppins, yungher |
-|           10 |     1634 | 2024-06-01 | NAVI Javelins | W   | 0.761      | 0.524        | 0.026 (0.010)    | 0.179 (0.071)    | 1 (0.761) |    11.97 | annaEX, goddess, julih, poppins, yungher |
-|            9 |     1667 | 2024-05-31 | Let Her Cook  | L   | 0.755      | -            | -                | -                | -         |   -10.04 | annaEX, goddess, julih, poppins, yungher |
-|            8 |     1671 | 2024-05-31 | TSM Shimmer   | W   | 0.754      | 0.524        | 0.020 (0.008)    | 0.191 (0.075)    | 1 (0.754) |     7.67 | annaEX, goddess, julih, poppins, yungher |
-|            7 |     2746 | 2024-04-19 | FURIA fe      | W   | 0.474      | 0.332        | 0.003 (0.001)    | 0.069 (0.011)    | 0 (0.000) |     4.08 | annaEX, goddess, julih, poppins, yungher |
-|            6 |     3009 | 2024-04-10 | GENKID4M4     | W   | 0.414      | 0.332        | 0.002 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     2.64 | annaEX, goddess, julih, poppins, yungher |
-|            5 |     3201 | 2024-04-04 | KG fe         | W   | 0.374      | 0.332        | 0.001 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.61 | annaEX, goddess, julih, poppins, yungher |
-|            4 |     3374 | 2024-03-27 | Divina fe     | W   | 0.321      | 0.332        | 0.002 (0.000)    | 0.019 (0.002)    | 0 (0.000) |     2.32 | annaEX, goddess, julih, poppins, yungher |
-|            3 |     3492 | 2024-03-20 | MIBR fe       | W   | 0.275      | 0.332        | 0.007 (0.001)    | 0.102 (0.009)    | 0 (0.000) |     2.55 | annaEX, goddess, julih, poppins, yungher |
-|            2 |     3610 | 2024-03-14 | W7M fe        | W   | 0.235      | 0.332        | 0.002 (0.000)    | 0.030 (0.002)    | 0 (0.000) |     1.71 | annaEX, goddess, julih, poppins, yungher |
-|            1 |     3816 | 2024-03-06 | Atrix         | W   | 0.181      | 0.332        | 0.003 (0.000)    | 0.056 (0.003)    | 0 (0.000) |     1.41 | annaEX, goddess, julih, poppins, yungher |
+|           12 |      342 | 2024-07-27 | MIBR fe       | L   | 1.000      | -            | -                | -                | -         |   -21.81 | annaEX, goddess, josi, Le, yungher       |
+|           11 |     1615 | 2024-06-02 | Imperial fe   | L   | 0.766      | -            | -                | -                | -         |    -6.48 | annaEX, goddess, julih, poppins, yungher |
+|           10 |     1635 | 2024-06-01 | NAVI Javelins | W   | 0.761      | 0.524        | 0.026 (0.010)    | 0.179 (0.071)    | 1 (0.761) |    11.97 | annaEX, goddess, julih, poppins, yungher |
+|            9 |     1668 | 2024-05-31 | Let Her Cook  | L   | 0.755      | -            | -                | -                | -         |   -10.04 | annaEX, goddess, julih, poppins, yungher |
+|            8 |     1672 | 2024-05-31 | TSM Shimmer   | W   | 0.754      | 0.524        | 0.020 (0.008)    | 0.191 (0.075)    | 1 (0.754) |     7.67 | annaEX, goddess, julih, poppins, yungher |
+|            7 |     2747 | 2024-04-19 | FURIA fe      | W   | 0.474      | 0.332        | 0.003 (0.001)    | 0.069 (0.011)    | 0 (0.000) |     4.08 | annaEX, goddess, julih, poppins, yungher |
+|            6 |     3010 | 2024-04-10 | GENKID4M4     | W   | 0.414      | 0.332        | 0.002 (0.000)    | 0.010 (0.001)    | 0 (0.000) |     2.64 | annaEX, goddess, julih, poppins, yungher |
+|            5 |     3202 | 2024-04-04 | KG fe         | W   | 0.374      | 0.332        | 0.001 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     1.61 | annaEX, goddess, julih, poppins, yungher |
+|            4 |     3375 | 2024-03-27 | Divina fe     | W   | 0.321      | 0.332        | 0.002 (0.000)    | 0.019 (0.002)    | 0 (0.000) |     2.32 | annaEX, goddess, julih, poppins, yungher |
+|            3 |     3493 | 2024-03-20 | MIBR fe       | W   | 0.275      | 0.332        | 0.007 (0.001)    | 0.102 (0.009)    | 0 (0.000) |     2.55 | annaEX, goddess, julih, poppins, yungher |
+|            2 |     3611 | 2024-03-14 | W7M fe        | W   | 0.235      | 0.332        | 0.002 (0.000)    | 0.030 (0.002)    | 0 (0.000) |     1.71 | annaEX, goddess, julih, poppins, yungher |
+|            1 |     3817 | 2024-03-06 | Atrix         | W   | 0.181      | 0.332        | 0.003 (0.000)    | 0.056 (0.003)    | 0 (0.000) |     1.41 | annaEX, goddess, julih, poppins, yungher |
 
 <br />
 <span id="table2"></span><br />

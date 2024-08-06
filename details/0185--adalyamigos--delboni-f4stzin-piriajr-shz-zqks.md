@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |     2946 | 2024-04-12 | Case        | L   | 0.429      | -            | -                | -                | -         |    -2.28 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           22 |     2966 | 2024-04-11 | Imperial    | L   | 0.422      | -            | -                | -                | -         |    -0.35 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           21 |     3054 | 2024-04-09 | MIBR        | L   | 0.409      | -            | -                | -                | -         |    -0.16 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           20 |     3059 | 2024-04-09 | MIBR        | L   | 0.408      | -            | -                | -                | -         |    -0.16 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           19 |     3131 | 2024-04-07 | Case        | W   | 0.395      | 0.435        | 0.029 (0.005)    | 0.778 (0.134)    | 0 (0.000) |    10.49 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           18 |     3166 | 2024-04-05 | 2GAME       | L   | 0.382      | -            | -                | -                | -         |    -5.17 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           17 |     3167 | 2024-04-05 | 2GAME       | W   | 0.381      | 0.450        | 0.002 (0.000)    | 0.049 (0.008)    | 0 (0.000) |     6.99 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           16 |     3185 | 2024-04-04 | BESTIA      | W   | 0.376      | 0.450        | 0.096 (0.016)    | 0.776 (0.131)    | 0 (0.000) |    10.64 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           15 |     3194 | 2024-04-04 | BESTIA      | L   | 0.375      | -            | -                | -                | -         |    -1.18 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           14 |     3678 | 2024-03-12 | Solid       | L   | 0.222      | -            | -                | -                | -         |    -1.18 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           13 |     3717 | 2024-03-10 | BESTIA      | W   | 0.209      | 0.435        | 0.096 (0.009)    | 0.776 (0.070)    | 0 (0.000) |     6.00 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           12 |     3770 | 2024-03-08 | Flamengo    | W   | 0.193      | -            | -                | -                | 0 (0.000) |     2.22 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           11 |     3851 | 2024-03-05 | Case        | W   | 0.176      | 0.450        | 0.029 (0.002)    | 0.778 (0.061)    | 0 (0.000) |     4.80 | delboNi, f4stzin, piriajr, shz, zqkS |
-|           10 |     3853 | 2024-03-05 | Case        | W   | 0.175      | 0.450        | 0.029 (0.002)    | 0.778 (0.061)    | 0 (0.000) |     4.82 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            9 |     4121 | 2024-02-21 | Galorys     | W   | 0.089      | 0.450        | 0.030 (0.001)    | 0.530 (0.021)    | 0 (0.000) |     2.39 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            8 |     4125 | 2024-02-21 | Galorys     | W   | 0.088      | 0.450        | 0.030 (0.001)    | 0.530 (0.021)    | 0 (0.000) |     2.39 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            7 |     4201 | 2024-02-18 | Solid       | L   | 0.068      | -            | -                | -                | -         |    -0.31 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            6 |     4227 | 2024-02-17 | Imperial    | L   | 0.061      | -            | -                | -                | -         |    -0.04 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            5 |     4310 | 2024-02-14 | Corinthians | W   | 0.042      | -            | -                | -                | 0 (0.000) |     0.53 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            4 |     4317 | 2024-02-14 | Corinthians | W   | 0.042      | -            | -                | -                | -         |     0.53 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            3 |     4350 | 2024-02-13 | Solid       | W   | 0.036      | 0.450        | 0.024 (0.000)    | 0.807 (0.013)    | -         |     0.96 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            2 |     4353 | 2024-02-13 | Solid       | W   | 0.035      | 0.450        | 0.024 (0.000)    | 0.807 (0.013)    | -         |     0.95 | delboNi, f4stzin, piriajr, shz, zqkS |
-|            1 |     4364 | 2024-02-13 | inSanitY    | W   | 0.033      | -            | -                | -                | -         |     0.28 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           23 |     2947 | 2024-04-12 | Case        | L   | 0.429      | -            | -                | -                | -         |    -2.28 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           22 |     2967 | 2024-04-11 | Imperial    | L   | 0.422      | -            | -                | -                | -         |    -0.35 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           21 |     3055 | 2024-04-09 | MIBR        | L   | 0.409      | -            | -                | -                | -         |    -0.16 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           20 |     3060 | 2024-04-09 | MIBR        | L   | 0.408      | -            | -                | -                | -         |    -0.16 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           19 |     3132 | 2024-04-07 | Case        | W   | 0.395      | 0.435        | 0.029 (0.005)    | 0.778 (0.134)    | 0 (0.000) |    10.49 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           18 |     3167 | 2024-04-05 | 2GAME       | L   | 0.382      | -            | -                | -                | -         |    -5.17 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           17 |     3168 | 2024-04-05 | 2GAME       | W   | 0.381      | 0.450        | 0.002 (0.000)    | 0.049 (0.008)    | 0 (0.000) |     6.99 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           16 |     3186 | 2024-04-04 | BESTIA      | W   | 0.376      | 0.450        | 0.096 (0.016)    | 0.776 (0.131)    | 0 (0.000) |    10.64 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           15 |     3195 | 2024-04-04 | BESTIA      | L   | 0.375      | -            | -                | -                | -         |    -1.18 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           14 |     3679 | 2024-03-12 | Solid       | L   | 0.222      | -            | -                | -                | -         |    -1.18 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           13 |     3718 | 2024-03-10 | BESTIA      | W   | 0.209      | 0.435        | 0.096 (0.009)    | 0.776 (0.070)    | 0 (0.000) |     6.00 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           12 |     3771 | 2024-03-08 | Flamengo    | W   | 0.193      | -            | -                | -                | 0 (0.000) |     2.22 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           11 |     3852 | 2024-03-05 | Case        | W   | 0.176      | 0.450        | 0.029 (0.002)    | 0.778 (0.061)    | 0 (0.000) |     4.80 | delboNi, f4stzin, piriajr, shz, zqkS |
+|           10 |     3854 | 2024-03-05 | Case        | W   | 0.175      | 0.450        | 0.029 (0.002)    | 0.778 (0.061)    | 0 (0.000) |     4.82 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            9 |     4122 | 2024-02-21 | Galorys     | W   | 0.089      | 0.450        | 0.030 (0.001)    | 0.530 (0.021)    | 0 (0.000) |     2.39 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            8 |     4126 | 2024-02-21 | Galorys     | W   | 0.088      | 0.450        | 0.030 (0.001)    | 0.530 (0.021)    | 0 (0.000) |     2.39 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            7 |     4202 | 2024-02-18 | Solid       | L   | 0.068      | -            | -                | -                | -         |    -0.31 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            6 |     4228 | 2024-02-17 | Imperial    | L   | 0.061      | -            | -                | -                | -         |    -0.04 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            5 |     4311 | 2024-02-14 | Corinthians | W   | 0.042      | -            | -                | -                | 0 (0.000) |     0.53 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            4 |     4318 | 2024-02-14 | Corinthians | W   | 0.042      | -            | -                | -                | -         |     0.53 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            3 |     4351 | 2024-02-13 | Solid       | W   | 0.036      | 0.450        | 0.024 (0.000)    | 0.807 (0.013)    | -         |     0.96 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            2 |     4354 | 2024-02-13 | Solid       | W   | 0.035      | 0.450        | 0.024 (0.000)    | 0.807 (0.013)    | -         |     0.95 | delboNi, f4stzin, piriajr, shz, zqkS |
+|            1 |     4365 | 2024-02-13 | inSanitY    | W   | 0.033      | -            | -                | -                | -         |     0.28 | delboNi, f4stzin, piriajr, shz, zqkS |
 
 <br />
 <span id="table2"></span><br />

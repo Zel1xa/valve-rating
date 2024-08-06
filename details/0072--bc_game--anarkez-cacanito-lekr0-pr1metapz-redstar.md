@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |       50 | 2024-08-04 | B8                | L   | 1.000      | -            | -                | -                | -         |    -7.29 | anarkez, CacaNito, Lekr0, pr1metapz, REDSTAR |
-|           14 |       63 | 2024-08-04 | RUSH B            | W   | 1.000      | 0.342        | 0.026 (0.009)    | 0.371 (0.127)    | 0 (0.000) |    15.63 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|           13 |       92 | 2024-08-03 | ARCRED            | W   | 1.000      | 0.342        | 0.041 (0.014)    | 0.369 (0.126)    | 0 (0.000) |    17.35 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|           12 |      127 | 2024-08-02 | Space             | W   | 1.000      | 0.342        | 0.006 (0.002)    | 0.429 (0.147)    | 0 (0.000) |    12.45 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|           11 |      167 | 2024-08-01 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.25 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|           10 |      260 | 2024-07-30 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.488 (0.212)    | 0 (0.000) |    11.40 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            9 |      315 | 2024-07-28 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -14.74 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            8 |      381 | 2024-07-26 | GUN5              | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    15.34 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            7 |      418 | 2024-07-25 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -5.41 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            6 |      444 | 2024-07-24 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |   -12.49 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            5 |      488 | 2024-07-23 | GUN5              | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    16.65 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            4 |      518 | 2024-07-22 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -6.91 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            3 |      562 | 2024-07-20 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -13.76 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            2 |      669 | 2024-07-18 | Metizport         | W   | 1.000      | 0.435        | 0.036 (0.016)    | 0.510 (0.222)    | 0 (0.000) |    18.50 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
-|            1 |      797 | 2024-07-16 | SINNERS           | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.800 (0.348)    | 0 (0.000) |    19.77 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|           15 |       51 | 2024-08-04 | B8                | L   | 1.000      | -            | -                | -                | -         |    -7.29 | anarkez, CacaNito, Lekr0, pr1metapz, REDSTAR |
+|           14 |       64 | 2024-08-04 | RUSH B            | W   | 1.000      | 0.342        | 0.026 (0.009)    | 0.371 (0.127)    | 0 (0.000) |    15.63 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|           13 |       93 | 2024-08-03 | ARCRED            | W   | 1.000      | 0.342        | 0.041 (0.014)    | 0.369 (0.126)    | 0 (0.000) |    17.35 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|           12 |      128 | 2024-08-02 | Space             | W   | 1.000      | 0.342        | 0.006 (0.002)    | 0.429 (0.147)    | 0 (0.000) |    12.45 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|           11 |      168 | 2024-08-01 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    14.25 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|           10 |      261 | 2024-07-30 | EYEBALLERS        | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.488 (0.212)    | 0 (0.000) |    11.40 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            9 |      316 | 2024-07-28 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -14.74 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            8 |      382 | 2024-07-26 | GUN5              | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    15.34 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            7 |      419 | 2024-07-25 | SAW               | L   | 1.000      | -            | -                | -                | -         |    -5.41 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            6 |      445 | 2024-07-24 | 1WIN              | L   | 1.000      | -            | -                | -                | -         |   -12.49 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            5 |      489 | 2024-07-23 | GUN5              | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    16.65 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            4 |      519 | 2024-07-22 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -6.91 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            3 |      563 | 2024-07-20 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -13.76 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            2 |      670 | 2024-07-18 | Metizport         | W   | 1.000      | 0.435        | 0.036 (0.016)    | 0.510 (0.222)    | 0 (0.000) |    18.50 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
+|            1 |      798 | 2024-07-16 | SINNERS           | W   | 1.000      | 0.435        | 0.037 (0.016)    | 0.800 (0.348)    | 0 (0.000) |    19.77 | anarkez, CacaNito, joel, Lekr0, pr1metapz    |
 
 <br />
 <span id="table2"></span><br />

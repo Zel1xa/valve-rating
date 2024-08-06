@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |       18 | 2024-08-06 | Chinggis Warriors | W   | 1.000      | 0.380        | 0.013 (0.005)    | 0.187 (0.071)    | 1 (1.000) |    13.88 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
-|           14 |       33 | 2024-08-05 | Rare Atom         | W   | 1.000      | 0.380        | 0.009 (0.003)    | 0.465 (0.177)    | 1 (1.000) |    13.51 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
-|           13 |       62 | 2024-08-04 | Gaimin Gladiators | W   | 1.000      | 0.380        | 0.037 (0.014)    | 0.331 (0.126)    | 1 (1.000) |    13.80 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
-|           12 |      130 | 2024-08-02 | Rare Atom         | L   | 1.000      | -            | -                | -                | -         |   -17.64 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|           11 |      170 | 2024-08-01 | Rare Atom         | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.465 (0.066)    | 0 (0.000) |    13.08 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|           10 |      180 | 2024-08-01 | CatEvil           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     4.41 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|            9 |      869 | 2024-07-13 | Rare Atom         | L   | 1.000      | -            | -                | -                | -         |   -19.57 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|            8 |      871 | 2024-07-13 | CatEvil           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     3.52 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|            7 |      882 | 2024-07-12 | Chinggis Warriors | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.187 (0.027)    | 0 (0.000) |    15.95 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|            6 |      886 | 2024-07-12 | Alter Ego         | W   | 1.000      | 0.143        | -                | 0.077 (0.011)    | 0 (0.000) |     2.20 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
-|            5 |     1355 | 2024-06-08 | Lynn Vision       | L   | 0.805      | -            | -                | -                | -         |   -10.16 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
-|            4 |     1408 | 2024-06-07 | GR                | W   | 0.799      | 0.416        | 0.008 (0.003)    | 0.072 (0.024)    | 0 (0.000) |     3.85 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
-|            3 |     1475 | 2024-06-06 | The QUBE          | W   | 0.792      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |     3.97 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
-|            2 |     1532 | 2024-06-05 | Lynn Vision       | L   | 0.785      | -            | -                | -                | -         |    -9.72 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
-|            1 |     1574 | 2024-06-04 | LYG               | W   | 0.779      | 0.416        | 0.003 (0.001)    | -                | -         |     4.29 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
+|           15 |       19 | 2024-08-06 | Chinggis Warriors | W   | 1.000      | 0.380        | 0.013 (0.005)    | 0.187 (0.071)    | 1 (1.000) |    13.88 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
+|           14 |       34 | 2024-08-05 | Rare Atom         | W   | 1.000      | 0.380        | 0.009 (0.003)    | 0.465 (0.177)    | 1 (1.000) |    13.51 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
+|           13 |       63 | 2024-08-04 | Gaimin Gladiators | W   | 1.000      | 0.380        | 0.037 (0.014)    | 0.331 (0.126)    | 1 (1.000) |    13.80 | JamYoung, Jee, Mercury, Moseyuh, Starry  |
+|           12 |      131 | 2024-08-02 | Rare Atom         | L   | 1.000      | -            | -                | -                | -         |   -17.64 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|           11 |      171 | 2024-08-01 | Rare Atom         | W   | 1.000      | 0.143        | 0.009 (0.001)    | 0.465 (0.066)    | 0 (0.000) |    13.08 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|           10 |      181 | 2024-08-01 | CatEvil           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     4.41 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|            9 |      870 | 2024-07-13 | Rare Atom         | L   | 1.000      | -            | -                | -                | -         |   -19.57 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|            8 |      872 | 2024-07-13 | CatEvil           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.231 (0.033)    | 0 (0.000) |     3.52 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|            7 |      883 | 2024-07-12 | Chinggis Warriors | W   | 1.000      | 0.143        | 0.013 (0.002)    | 0.187 (0.027)    | 0 (0.000) |    15.95 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|            6 |      887 | 2024-07-12 | Alter Ego         | W   | 1.000      | 0.143        | -                | 0.077 (0.011)    | 0 (0.000) |     2.20 | JamYoung, Jee, Mercury, Moseyuh, zhokiNg |
+|            5 |     1356 | 2024-06-08 | Lynn Vision       | L   | 0.805      | -            | -                | -                | -         |   -10.16 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
+|            4 |     1409 | 2024-06-07 | GR                | W   | 0.799      | 0.416        | 0.008 (0.003)    | 0.072 (0.024)    | 0 (0.000) |     3.85 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
+|            3 |     1476 | 2024-06-06 | The QUBE          | W   | 0.792      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |     3.97 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
+|            2 |     1533 | 2024-06-05 | Lynn Vision       | L   | 0.785      | -            | -                | -                | -         |    -9.72 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
+|            1 |     1575 | 2024-06-04 | LYG               | W   | 0.779      | 0.416        | 0.003 (0.001)    | -                | -         |     4.29 | JamYoung, k4Mi, Mercury, Moseyuh, zdr    |
 
 <br />
 <span id="table2"></span><br />

@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     2487 | 2024-05-01 | Sampi           | L   | 0.551      | -            | -                | -                | -         |    -4.01 | HENU, myltsi, podi, S1rva, teme |
-|           13 |     2503 | 2024-04-30 | Endpoint        | L   | 0.546      | -            | -                | -                | -         |    -4.37 | HENU, myltsi, podi, S1rva, teme |
-|           12 |     2515 | 2024-04-29 | RUSH B          | L   | 0.541      | -            | -                | -                | -         |    -5.00 | HENU, myltsi, podi, S1rva, teme |
-|           11 |     2546 | 2024-04-28 | Heimo           | L   | 0.532      | -            | -                | -                | -         |    -9.46 | HENU, myltsi, podi, S1rva, teme |
-|           10 |     2680 | 2024-04-22 | ALTERNATE aTTaX | L   | 0.492      | -            | -                | -                | -         |    -3.57 | HENU, myltsi, podi, S1rva, teme |
-|            9 |     2727 | 2024-04-20 | SINNERS         | W   | 0.479      | 0.371        | 0.037 (0.007)    | 0.800 (0.142)    | 0 (0.000) |    13.82 | HENU, myltsi, podi, S1rva, teme |
-|            8 |     2781 | 2024-04-19 | Viperio         | L   | 0.471      | -            | -                | -                | -         |    -9.37 | HENU, myltsi, podi, S1rva, teme |
-|            7 |     2827 | 2024-04-18 | MOUZ NXT        | L   | 0.465      | -            | -                | -                | -         |    -2.07 | HENU, myltsi, podi, S1rva, teme |
-|            6 |     2889 | 2024-04-16 | 1WIN            | L   | 0.453      | -            | -                | -                | -         |    -3.28 | HENU, myltsi, podi, S1rva, teme |
-|            5 |     2909 | 2024-04-15 | Sampi           | W   | 0.446      | 0.371        | 0.027 (0.004)    | 1.000 (0.165)    | 0 (0.000) |    10.47 | HENU, myltsi, podi, S1rva, teme |
-|            4 |     2913 | 2024-04-15 | Viperio         | W   | 0.445      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     5.28 | HENU, myltsi, podi, S1rva, teme |
-|            3 |     2986 | 2024-04-11 | Secret          | W   | 0.418      | 0.371        | 0.000 (0.000)    | 0.055 (0.008)    | 0 (0.000) |     3.69 | HENU, myltsi, podi, S1rva, teme |
-|            2 |     4068 | 2024-02-24 | HAVU            | W   | 0.108      | 0.306        | 0.001 (0.000)    | 0.152 (0.005)    | 1 (0.108) |     1.67 | HENU, myltsi, podi, S1rva, teme |
-|            1 |     4084 | 2024-02-24 | ex-sYnck        | W   | 0.105      | 0.306        | 0.000 (0.000)    | 0.015 (0.000)    | 1 (0.105) |     0.76 | HENU, myltsi, podi, S1rva, teme |
+|           14 |     2488 | 2024-05-01 | Sampi           | L   | 0.551      | -            | -                | -                | -         |    -4.01 | HENU, myltsi, podi, S1rva, teme |
+|           13 |     2504 | 2024-04-30 | Endpoint        | L   | 0.546      | -            | -                | -                | -         |    -4.37 | HENU, myltsi, podi, S1rva, teme |
+|           12 |     2516 | 2024-04-29 | RUSH B          | L   | 0.541      | -            | -                | -                | -         |    -5.00 | HENU, myltsi, podi, S1rva, teme |
+|           11 |     2547 | 2024-04-28 | Heimo           | L   | 0.532      | -            | -                | -                | -         |    -9.46 | HENU, myltsi, podi, S1rva, teme |
+|           10 |     2681 | 2024-04-22 | ALTERNATE aTTaX | L   | 0.492      | -            | -                | -                | -         |    -3.57 | HENU, myltsi, podi, S1rva, teme |
+|            9 |     2728 | 2024-04-20 | SINNERS         | W   | 0.479      | 0.371        | 0.037 (0.007)    | 0.800 (0.142)    | 0 (0.000) |    13.82 | HENU, myltsi, podi, S1rva, teme |
+|            8 |     2782 | 2024-04-19 | Viperio         | L   | 0.471      | -            | -                | -                | -         |    -9.37 | HENU, myltsi, podi, S1rva, teme |
+|            7 |     2828 | 2024-04-18 | MOUZ NXT        | L   | 0.465      | -            | -                | -                | -         |    -2.07 | HENU, myltsi, podi, S1rva, teme |
+|            6 |     2890 | 2024-04-16 | 1WIN            | L   | 0.453      | -            | -                | -                | -         |    -3.28 | HENU, myltsi, podi, S1rva, teme |
+|            5 |     2910 | 2024-04-15 | Sampi           | W   | 0.446      | 0.371        | 0.027 (0.004)    | 1.000 (0.165)    | 0 (0.000) |    10.47 | HENU, myltsi, podi, S1rva, teme |
+|            4 |     2914 | 2024-04-15 | Viperio         | W   | 0.445      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     5.28 | HENU, myltsi, podi, S1rva, teme |
+|            3 |     2987 | 2024-04-11 | Secret          | W   | 0.418      | 0.371        | 0.000 (0.000)    | 0.055 (0.008)    | 0 (0.000) |     3.69 | HENU, myltsi, podi, S1rva, teme |
+|            2 |     4069 | 2024-02-24 | HAVU            | W   | 0.108      | 0.306        | 0.001 (0.000)    | 0.152 (0.005)    | 1 (0.108) |     1.67 | HENU, myltsi, podi, S1rva, teme |
+|            1 |     4085 | 2024-02-24 | ex-sYnck        | W   | 0.105      | 0.306        | 0.000 (0.000)    | 0.015 (0.000)    | 1 (0.105) |     0.76 | HENU, myltsi, podi, S1rva, teme |
 
 <br />
 <span id="table2"></span><br />

@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |       11 | 2024-08-06 | NAVI Junior     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.19 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
-|           32 |      584 | 2024-07-20 | Insilio         | L   | 1.000      | -            | -                | -                | -         |   -15.00 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
-|           31 |      616 | 2024-07-19 | Enterprise      | L   | 1.000      | -            | -                | -                | -         |   -17.55 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
-|           30 |      844 | 2024-07-15 | kONO            | W   | 1.000      | 0.371        | 0.028 (0.010)    | 0.553 (0.205)    | 0 (0.000) |    11.30 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
-|           29 |      903 | 2024-07-11 | ALTERNATE aTTaX | W   | 1.000      | 0.371        | 0.031 (0.012)    | 0.537 (0.199)    | 0 (0.000) |    12.75 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
-|           28 |     1029 | 2024-06-18 | kONO            | L   | 0.871      | -            | -                | -                | -         |   -17.64 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           27 |     1032 | 2024-06-17 | K10             | W   | 0.865      | -            | -                | -                | 0 (0.000) |     5.01 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           26 |     1061 | 2024-06-16 | Verdant         | W   | 0.858      | 0.333        | 0.015 (0.004)    | 0.287 (0.082)    | 0 (0.000) |    10.31 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           25 |     1604 | 2024-06-03 | Enterprise      | L   | 0.771      | -            | -                | -                | -         |   -13.71 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           24 |     1613 | 2024-06-02 | ECLOT           | L   | 0.766      | -            | -                | -                | -         |    -6.38 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           23 |     1619 | 2024-06-02 | SINNERS         | W   | 0.766      | 0.346        | 0.037 (0.010)    | 0.800 (0.212)    | 1 (0.766) |    15.39 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           22 |     1628 | 2024-06-02 | Passion UA      | L   | 0.764      | -            | -                | -                | -         |    -8.65 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           21 |     1645 | 2024-06-01 | ECLOT           | L   | 0.760      | -            | -                | -                | -         |    -6.48 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           20 |     1688 | 2024-05-31 | SINNERS         | W   | 0.752      | 0.346        | 0.037 (0.010)    | 0.800 (0.208)    | 1 (0.752) |    15.92 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           19 |     1692 | 2024-05-31 | Johnny Speeds   | W   | 0.751      | 0.371        | 0.122 (0.034)    | 1.000 (0.278)    | 0 (0.000) |    20.25 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           18 |     1737 | 2024-05-29 | Rebels          | W   | 0.739      | 0.371        | 0.038 (0.010)    | 0.578 (0.158)    | 0 (0.000) |    13.83 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           17 |     1750 | 2024-05-28 | GL Academy      | L   | 0.734      | -            | -                | -                | -         |   -17.02 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           16 |     1820 | 2024-05-25 | Serbia          | L   | 0.712      | -            | -                | -                | -         |   -16.39 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           15 |     1845 | 2024-05-23 | SINNERS         | L   | 0.700      | -            | -                | -                | -         |    -7.72 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           14 |     1938 | 2024-05-21 | Rebels          | W   | 0.684      | 0.371        | 0.038 (0.010)    | 0.578 (0.147)    | -         |    12.18 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           13 |     2225 | 2024-05-13 | Johnny Speeds   | L   | 0.632      | -            | -                | -                | -         |    -2.73 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           12 |     2828 | 2024-04-18 | Johnny Speeds   | L   | 0.465      | -            | -                | -                | -         |    -2.00 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           11 |     2875 | 2024-04-17 | Viperio         | W   | 0.458      | -            | -                | -                | -         |     1.97 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|           10 |     2898 | 2024-04-16 | Lilmix          | W   | 0.451      | -            | -                | -                | -         |     0.60 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            9 |     2929 | 2024-04-14 | Sashi           | L   | 0.438      | -            | -                | -                | -         |    -3.79 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            8 |     3043 | 2024-04-10 | SINNERS         | L   | 0.411      | -            | -                | -                | -         |    -3.23 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            7 |     3163 | 2024-04-06 | Sashi           | L   | 0.384      | -            | -                | -                | -         |    -3.40 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            6 |     3175 | 2024-04-05 | ECLOT           | W   | 0.378      | 0.333        | 0.061 (0.008)    | 0.537 (0.068)    | -         |     9.45 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            5 |     3220 | 2024-04-04 | Sashi           | L   | 0.372      | -            | -                | -                | -         |    -3.25 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            4 |     3299 | 2024-04-02 | Illuminar       | W   | 0.358      | -            | -                | -                | -         |     0.89 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            3 |     3554 | 2024-03-17 | SINNERS         | L   | 0.253      | -            | -                | -                | -         |    -2.17 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            2 |     3566 | 2024-03-16 | ECLOT           | L   | 0.247      | -            | -                | -                | -         |    -1.67 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
-|            1 |     3581 | 2024-03-15 | SINNERS         | W   | 0.241      | 0.345        | 0.037 (0.003)    | 0.800 (0.066)    | 1 (0.241) |     5.56 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           33 |       12 | 2024-08-06 | NAVI Junior     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.19 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
+|           32 |      585 | 2024-07-20 | Insilio         | L   | 1.000      | -            | -                | -                | -         |   -15.00 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
+|           31 |      617 | 2024-07-19 | Enterprise      | L   | 1.000      | -            | -                | -                | -         |   -17.55 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
+|           30 |      845 | 2024-07-15 | kONO            | W   | 1.000      | 0.371        | 0.028 (0.010)    | 0.553 (0.205)    | 0 (0.000) |    11.30 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
+|           29 |      904 | 2024-07-11 | ALTERNATE aTTaX | W   | 1.000      | 0.371        | 0.031 (0.012)    | 0.537 (0.199)    | 0 (0.000) |    12.75 | Blogg1s, K1-FiDa, Levi, M1key, Pechyn |
+|           28 |     1030 | 2024-06-18 | kONO            | L   | 0.871      | -            | -                | -                | -         |   -17.64 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           27 |     1033 | 2024-06-17 | K10             | W   | 0.865      | -            | -                | -                | 0 (0.000) |     5.01 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           26 |     1062 | 2024-06-16 | Verdant         | W   | 0.858      | 0.333        | 0.015 (0.004)    | 0.287 (0.082)    | 0 (0.000) |    10.31 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           25 |     1605 | 2024-06-03 | Enterprise      | L   | 0.771      | -            | -                | -                | -         |   -13.71 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           24 |     1614 | 2024-06-02 | ECLOT           | L   | 0.766      | -            | -                | -                | -         |    -6.38 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           23 |     1620 | 2024-06-02 | SINNERS         | W   | 0.766      | 0.346        | 0.037 (0.010)    | 0.800 (0.212)    | 1 (0.766) |    15.39 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           22 |     1629 | 2024-06-02 | Passion UA      | L   | 0.764      | -            | -                | -                | -         |    -8.65 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           21 |     1646 | 2024-06-01 | ECLOT           | L   | 0.760      | -            | -                | -                | -         |    -6.48 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           20 |     1689 | 2024-05-31 | SINNERS         | W   | 0.752      | 0.346        | 0.037 (0.010)    | 0.800 (0.208)    | 1 (0.752) |    15.92 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           19 |     1693 | 2024-05-31 | Johnny Speeds   | W   | 0.751      | 0.371        | 0.122 (0.034)    | 1.000 (0.278)    | 0 (0.000) |    20.25 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           18 |     1738 | 2024-05-29 | Rebels          | W   | 0.739      | 0.371        | 0.038 (0.010)    | 0.578 (0.158)    | 0 (0.000) |    13.83 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           17 |     1751 | 2024-05-28 | GL Academy      | L   | 0.734      | -            | -                | -                | -         |   -17.02 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           16 |     1821 | 2024-05-25 | Serbia          | L   | 0.712      | -            | -                | -                | -         |   -16.39 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           15 |     1846 | 2024-05-23 | SINNERS         | L   | 0.700      | -            | -                | -                | -         |    -7.72 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           14 |     1939 | 2024-05-21 | Rebels          | W   | 0.684      | 0.371        | 0.038 (0.010)    | 0.578 (0.147)    | -         |    12.18 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           13 |     2226 | 2024-05-13 | Johnny Speeds   | L   | 0.632      | -            | -                | -                | -         |    -2.73 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           12 |     2829 | 2024-04-18 | Johnny Speeds   | L   | 0.465      | -            | -                | -                | -         |    -2.00 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           11 |     2876 | 2024-04-17 | Viperio         | W   | 0.458      | -            | -                | -                | -         |     1.97 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|           10 |     2899 | 2024-04-16 | Lilmix          | W   | 0.451      | -            | -                | -                | -         |     0.60 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            9 |     2930 | 2024-04-14 | Sashi           | L   | 0.438      | -            | -                | -                | -         |    -3.79 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            8 |     3044 | 2024-04-10 | SINNERS         | L   | 0.411      | -            | -                | -                | -         |    -3.23 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            7 |     3164 | 2024-04-06 | Sashi           | L   | 0.384      | -            | -                | -                | -         |    -3.40 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            6 |     3176 | 2024-04-05 | ECLOT           | W   | 0.378      | 0.333        | 0.061 (0.008)    | 0.537 (0.068)    | -         |     9.45 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            5 |     3221 | 2024-04-04 | Sashi           | L   | 0.372      | -            | -                | -                | -         |    -3.25 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            4 |     3300 | 2024-04-02 | Illuminar       | W   | 0.358      | -            | -                | -                | -         |     0.89 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            3 |     3555 | 2024-03-17 | SINNERS         | L   | 0.253      | -            | -                | -                | -         |    -2.17 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            2 |     3567 | 2024-03-16 | ECLOT           | L   | 0.247      | -            | -                | -                | -         |    -1.67 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
+|            1 |     3582 | 2024-03-15 | SINNERS         | W   | 0.241      | 0.345        | 0.037 (0.003)    | 0.800 (0.066)    | 1 (0.241) |     5.56 | K1-FiDa, Levi, M1key, NIO, Pechyn     |
 
 <br />
 <span id="table2"></span><br />

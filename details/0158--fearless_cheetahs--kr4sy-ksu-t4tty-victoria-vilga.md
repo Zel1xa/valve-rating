@@ -8,7 +8,7 @@ Regional Rank: [102]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  692.8<br />
 <br />
-Final Rank Value (692.8) = Starting Rank Value (679.4) + Head To Head Adjustments (13.4)<br />
+Final Rank Value (692.8) = Starting Rank Value (679.4) + Head To Head Adjustments (13.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2689 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            9 |     2707 | 2024-04-20 | BIG EQUIPA    | L   | 0.480      | -            | -                | -                | -         |    -6.03 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            8 |     2754 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.53 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            7 |     2972 | 2024-04-11 | Crescent fe   | W   | 0.420      | 0.331        | 0.004 (0.001)    | 0.081 (0.011)    | 0 (0.000) |     5.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            6 |     3144 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            5 |     3160 | 2024-04-06 | Let Her Cook  | W   | 0.385      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.55 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            4 |     3381 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            3 |     3466 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.09 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            2 |     3823 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            1 |     4041 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.69 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|           10 |     2690 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            9 |     2708 | 2024-04-20 | BIG EQUIPA    | L   | 0.480      | -            | -                | -                | -         |    -6.03 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            8 |     2755 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.53 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            7 |     2973 | 2024-04-11 | Crescent fe   | W   | 0.420      | 0.331        | 0.004 (0.001)    | 0.081 (0.011)    | 0 (0.000) |     5.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            6 |     3145 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.85 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            5 |     3161 | 2024-04-06 | Let Her Cook  | W   | 0.385      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.55 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            4 |     3382 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            3 |     3467 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.09 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            2 |     3824 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            1 |     4042 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.69 | kr4sy, Ksu, t4tty, Victoria, vilga |
 
 <br />
 <span id="table2"></span><br />

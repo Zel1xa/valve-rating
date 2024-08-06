@@ -95,8 +95,8 @@
 | 90       |    785 | Nexus             | 7kick, BTN, Ciocardau, ragga, XELLOW             | [details](details/0130--nexus--7kick-btn-ciocardau-ragga-xellow.md)                   |
 | 91       |    782 | Serbia            | c0llins, choiv7, Dragon, emi, Kind0              | [details](details/0132--serbia--c0llins-choiv7-dragon-emi-kind0.md)                   |
 | 92       |    771 | Preasy            | Beccie, Equip, JBOEN, Skejs, tOPZ                | [details](details/0135--preasy--beccie-equip-jboen-skejs-topz.md)                     |
-| 93       |    756 | BIG EQUIPA        | JennyR, juliano, kyossa, pauliiee, Zana          | [details](details/0140--big_equipa--jennyr-juliano-kyossa-pauliiee-zana.md)           |
-| 94       |    746 | dream catchers fe | Elizabeth, f6tal, k175un4, sosya, wieenN         | [details](details/0144--dream_catchers_fe--elizabeth-f6tal-k175un4-sosya-wieenn.md)   |
+| 93       |    769 | dream catchers fe | Elizabeth, f6tal, k175un4, sosya, wieenN         | [details](details/0136--dream_catchers_fe--elizabeth-f6tal-k175un4-sosya-wieenn.md)   |
+| 94       |    756 | BIG EQUIPA        | JennyR, juliano, kyossa, pauliiee, Zana          | [details](details/0141--big_equipa--jennyr-juliano-kyossa-pauliiee-zana.md)           |
 | 95       |    743 | Into the Breach   | BOROS, juanflatroo, Keoz, sinnopsyy, smooya      | [details](details/0145--into_the_breach--boros-juanflatroo-keoz-sinnopsyy-smooya.md)  |
 | 96       |    739 | NIP Impact        | aiM, Nayomy, Qiyarah, ramziiN, vilga             | [details](details/0146--nip_impact--aim-nayomy-qiyarah-ramziin-vilga.md)              |
 | 97       |    728 | NAVI Junior       | cmtry, dem0n, dziugss, Krabeni, makazze          | [details](details/0149--navi_junior--cmtry-dem0n-dziugss-krabeni-makazze.md)          |

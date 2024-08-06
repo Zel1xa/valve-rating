@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      602 | 2024-07-19 | FURIA Academy     | L   | 1.000      | -            | -                | -                | -         |   -15.41 | guidimon, KUN, nacho, santt1g, wait  |
-|            9 |      705 | 2024-07-17 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.72 | guidimon, KUN, nacho, santt1g, wait  |
-|            8 |      819 | 2024-07-15 | Solid             | L   | 1.000      | -            | -                | -                | -         |    -4.67 | guidimon, KUN, nacho, santt1g, wait  |
-|            7 |      892 | 2024-07-11 | Case              | L   | 1.000      | -            | -                | -                | -         |    -4.12 | guidimon, KUN, nacho, santt1g, wait  |
-|            6 |      967 | 2024-07-07 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.67 | F4QQ, guidimon, KUN, santt1g, wait   |
-|            5 |     1611 | 2024-06-02 | Bounty Hunters    | L   | 0.767      | -            | -                | -                | -         |    -3.38 | ABM, christo, guidimon, KUN, santt1g |
-|            4 |     1670 | 2024-05-31 | Vikings KR        | L   | 0.754      | -            | -                | -                | -         |    -4.51 | ABM, christo, guidimon, KUN, santt1g |
-|            3 |     1694 | 2024-05-30 | Galorys           | L   | 0.748      | -            | -                | -                | -         |    -2.89 | ABM, christo, guidimon, KUN, santt1g |
-|            2 |     1775 | 2024-05-27 | Case              | W   | 0.727      | 0.371        | 0.029 (0.008)    | 0.778 (0.210)    | 0 (0.000) |    20.39 | ABM, christo, guidimon, KUN, santt1g |
-|            1 |     4312 | 2024-02-14 | W7M               | L   | 0.042      | -            | -                | -                | -         |    -0.20 | guidimon, KUN, nacho, nasher, PABLEK |
+|           10 |      603 | 2024-07-19 | FURIA Academy     | L   | 1.000      | -            | -                | -                | -         |   -15.41 | guidimon, KUN, nacho, santt1g, wait  |
+|            9 |      706 | 2024-07-17 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.72 | guidimon, KUN, nacho, santt1g, wait  |
+|            8 |      820 | 2024-07-15 | Solid             | L   | 1.000      | -            | -                | -                | -         |    -4.67 | guidimon, KUN, nacho, santt1g, wait  |
+|            7 |      893 | 2024-07-11 | Case              | L   | 1.000      | -            | -                | -                | -         |    -4.12 | guidimon, KUN, nacho, santt1g, wait  |
+|            6 |      968 | 2024-07-07 | Hype              | L   | 1.000      | -            | -                | -                | -         |    -3.67 | F4QQ, guidimon, KUN, santt1g, wait   |
+|            5 |     1612 | 2024-06-02 | Bounty Hunters    | L   | 0.767      | -            | -                | -                | -         |    -3.38 | ABM, christo, guidimon, KUN, santt1g |
+|            4 |     1671 | 2024-05-31 | Vikings KR        | L   | 0.754      | -            | -                | -                | -         |    -4.51 | ABM, christo, guidimon, KUN, santt1g |
+|            3 |     1695 | 2024-05-30 | Galorys           | L   | 0.748      | -            | -                | -                | -         |    -2.89 | ABM, christo, guidimon, KUN, santt1g |
+|            2 |     1776 | 2024-05-27 | Case              | W   | 0.727      | 0.371        | 0.029 (0.008)    | 0.778 (0.210)    | 0 (0.000) |    20.39 | ABM, christo, guidimon, KUN, santt1g |
+|            1 |     4313 | 2024-02-14 | W7M               | L   | 0.042      | -            | -                | -                | -         |    -0.20 | guidimon, KUN, nacho, nasher, PABLEK |
 
 <br />
 <span id="table2"></span><br />

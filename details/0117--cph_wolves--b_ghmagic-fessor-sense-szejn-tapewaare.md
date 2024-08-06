@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |       64 | 2024-08-04 | The Suspect      | L   | 1.000      | -            | -                | -                | -         |   -14.06 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           22 |      256 | 2024-07-30 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -6.15 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           21 |      322 | 2024-07-28 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.70 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           20 |      347 | 2024-07-27 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -10.26 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           19 |      457 | 2024-07-24 | Space            | W   | 1.000      | 0.435        | 0.006 (0.003)    | 0.429 (0.187)    | 0 (0.000) |    18.69 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           18 |      483 | 2024-07-23 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -13.39 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           17 |      505 | 2024-07-22 | TSM              | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.500 (0.071)    | 0 (0.000) |    22.88 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           16 |      515 | 2024-07-22 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |    -9.33 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           15 |      560 | 2024-07-20 | INFINITE         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.182 (0.026)    | 0 (0.000) |     6.28 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           14 |      572 | 2024-07-20 | Space            | L   | 1.000      | -            | -                | -                | -         |   -12.27 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           13 |      607 | 2024-07-19 | Heimo            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |     7.58 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           12 |      683 | 2024-07-18 | Passion UA       | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    23.74 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|           11 |      781 | 2024-07-16 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.33 | BøghmagiC, Fessor, sense, shadiy, Tapewaare |
-|           10 |      836 | 2024-07-15 | GUN5             | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    22.32 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
-|            9 |     1055 | 2024-06-16 | 777              | W   | 0.859      | 0.143        | 0.015 (0.002)    | 0.173 (0.021)    | 0 (0.000) |    10.31 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            8 |     1123 | 2024-06-14 | FLuffy Gangsters | W   | 0.846      | 0.143        | -                | 0.216 (0.026)    | 0 (0.000) |     6.47 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            7 |     1164 | 2024-06-13 | INFINITE         | W   | 0.839      | 0.143        | -                | 0.182 (0.022)    | 0 (0.000) |     5.60 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            6 |     1179 | 2024-06-12 | Sashi            | L   | 0.834      | -            | -                | -                | -         |    -2.40 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            5 |     1189 | 2024-06-12 | WOPA             | W   | 0.833      | 0.340        | 0.001 (0.000)    | 0.121 (0.034)    | 0 (0.000) |     7.16 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
-|            4 |     2026 | 2024-05-18 | VP.Prodigy       | L   | 0.665      | -            | -                | -                | -         |    -7.94 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            3 |     2052 | 2024-05-17 | MASONIC          | W   | 0.660      | 0.143        | 0.009 (0.001)    | -                | -         |    10.11 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            2 |     2088 | 2024-05-16 | Rhyno            | L   | 0.653      | -            | -                | -                | -         |    -5.31 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
-|            1 |     2145 | 2024-05-15 | MASONIC          | W   | 0.646      | 0.143        | 0.009 (0.001)    | -                | -         |     9.93 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|           23 |       65 | 2024-08-04 | The Suspect      | L   | 1.000      | -            | -                | -                | -         |   -14.06 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           22 |      257 | 2024-07-30 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -6.15 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           21 |      323 | 2024-07-28 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.70 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           20 |      348 | 2024-07-27 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -10.26 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           19 |      458 | 2024-07-24 | Space            | W   | 1.000      | 0.435        | 0.006 (0.003)    | 0.429 (0.187)    | 0 (0.000) |    18.69 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           18 |      484 | 2024-07-23 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -13.39 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           17 |      506 | 2024-07-22 | TSM              | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.500 (0.071)    | 0 (0.000) |    22.88 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           16 |      516 | 2024-07-22 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |    -9.33 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           15 |      561 | 2024-07-20 | INFINITE         | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.182 (0.026)    | 0 (0.000) |     6.28 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           14 |      573 | 2024-07-20 | Space            | L   | 1.000      | -            | -                | -                | -         |   -12.27 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           13 |      608 | 2024-07-19 | Heimo            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |     7.58 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           12 |      684 | 2024-07-18 | Passion UA       | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    23.74 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|           11 |      782 | 2024-07-16 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -12.33 | BøghmagiC, Fessor, sense, shadiy, Tapewaare |
+|           10 |      837 | 2024-07-15 | GUN5             | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    22.32 | BøghmagiC, Fessor, sense, szejn, Tapewaare  |
+|            9 |     1056 | 2024-06-16 | 777              | W   | 0.859      | 0.143        | 0.015 (0.002)    | 0.173 (0.021)    | 0 (0.000) |    10.31 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            8 |     1124 | 2024-06-14 | FLuffy Gangsters | W   | 0.846      | 0.143        | -                | 0.216 (0.026)    | 0 (0.000) |     6.47 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            7 |     1165 | 2024-06-13 | INFINITE         | W   | 0.839      | 0.143        | -                | 0.182 (0.022)    | 0 (0.000) |     5.60 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            6 |     1180 | 2024-06-12 | Sashi            | L   | 0.834      | -            | -                | -                | -         |    -2.40 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            5 |     1190 | 2024-06-12 | WOPA             | W   | 0.833      | 0.340        | 0.001 (0.000)    | 0.121 (0.034)    | 0 (0.000) |     7.16 | BøghmagiC, Fessor, szejn, Tapewaare, tOPZ   |
+|            4 |     2027 | 2024-05-18 | VP.Prodigy       | L   | 0.665      | -            | -                | -                | -         |    -7.94 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            3 |     2053 | 2024-05-17 | MASONIC          | W   | 0.660      | 0.143        | 0.009 (0.001)    | -                | -         |    10.11 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            2 |     2089 | 2024-05-16 | Rhyno            | L   | 0.653      | -            | -                | -                | -         |    -5.31 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
+|            1 |     2146 | 2024-05-15 | MASONIC          | W   | 0.646      | 0.143        | 0.009 (0.001)    | -                | -         |     9.93 | Basso, BøghmagiC, Fessor, szejn, vigg0      |
 
 <br />
 <span id="table2"></span><br />

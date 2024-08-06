@@ -37,11 +37,11 @@
 | 32       |    803 | W7M               | card, fokiu, jz, stormzyn, t9rnay                | [details](details/0123--w7m--card-fokiu-jz-stormzyn-t9rnay.md)                         |
 | 33       |    800 | E-Xolos LAZER     | danoco, land1n, mawth, tatazin, w1               | [details](details/0124--e-xolos_lazer--danoco-land1n-mawth-tatazin-w1.md)              |
 | 34       |    783 | BOSS              | Cryptic, d4rty, freshie, micro, SLIGHT           | [details](details/0131--boss--cryptic-d4rty-freshie-micro-slight.md)                   |
-| 35       |    760 | Sharks            | doc, drg, rdnzao, supLexN1, togs                 | [details](details/0137--sharks--doc-drg-rdnzao-suplexn1-togs.md)                       |
-| 36       |    759 | Mythic            | Austin, Cooper, fl0m, freakazoid, Trucklover86   | [details](details/0138--mythic--austin-cooper-fl0m-freakazoid-trucklover86.md)         |
-| 37       |    758 | LAG               | Experative, nicx, Nyyx, ogwizard, Weeza          | [details](details/0139--lag--experative-nicx-nyyx-ogwizard-weeza.md)                   |
-| 38       |    749 | FlyQuest RED      | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa | [details](details/0141--flyquest_red--bibiahn-emy-goosebreeder-shakezullah-vanessa.md) |
-| 39       |    747 | Patins da Ferrari | CSO, CutzMeretz, Leomonster, Misfit, zede        | [details](details/0143--patins_da_ferrari--cso-cutzmeretz-leomonster-misfit-zede.md)   |
+| 35       |    760 | Sharks            | doc, drg, rdnzao, supLexN1, togs                 | [details](details/0138--sharks--doc-drg-rdnzao-suplexn1-togs.md)                       |
+| 36       |    759 | Mythic            | Austin, Cooper, fl0m, freakazoid, Trucklover86   | [details](details/0139--mythic--austin-cooper-fl0m-freakazoid-trucklover86.md)         |
+| 37       |    758 | LAG               | Experative, nicx, Nyyx, ogwizard, Weeza          | [details](details/0140--lag--experative-nicx-nyyx-ogwizard-weeza.md)                   |
+| 38       |    749 | FlyQuest RED      | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa | [details](details/0142--flyquest_red--bibiahn-emy-goosebreeder-shakezullah-vanessa.md) |
+| 39       |    747 | Patins da Ferrari | CSO, CutzMeretz, Leomonster, Misfit, zede        | [details](details/0144--patins_da_ferrari--cso-cutzmeretz-leomonster-misfit-zede.md)   |
 | 40       |    738 | FLUFFY AIMERS     | ayy, jason, nooz, PNDLM, sacrifice               | [details](details/0147--fluffy_aimers--ayy-jason-nooz-pndlm-sacrifice.md)              |
 | 41       |    734 | FLUFFY AIMERS     | bezymecc, brett, jason, sacrifice, slump         | [details](details/0148--fluffy_aimers--bezymecc-brett-jason-sacrifice-slump.md)        |
 | 42       |    701 | Smoke             | dok, dzt, MITHPUTTINI, s1cko, spinnie            | [details](details/0155--smoke--dok-dzt-mithputtini-s1cko-spinnie.md)                   |

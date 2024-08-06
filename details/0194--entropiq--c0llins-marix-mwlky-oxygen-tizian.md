@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     3590 | 2024-03-15 | MOUZ NXT        | L   | 0.239      | -            | -                | -                | -         |    -0.47 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           13 |     3626 | 2024-03-14 | ex-Preasy       | L   | 0.231      | -            | -                | -                | -         |    -1.57 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           12 |     3716 | 2024-03-11 | ECLOT           | W   | 0.211      | 0.371        | 0.061 (0.005)    | 0.537 (0.042)    | 0 (0.000) |     6.49 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           11 |     3732 | 2024-03-10 | ALTERNATE aTTaX | W   | 0.206      | 0.371        | 0.031 (0.002)    | 0.537 (0.041)    | 0 (0.000) |     5.96 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           10 |     3762 | 2024-03-09 | Alliance        | L   | 0.198      | -            | -                | -                | -         |    -0.97 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            9 |     3778 | 2024-03-08 | Passion UA      | L   | 0.192      | -            | -                | -                | -         |    -0.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            8 |     3878 | 2024-03-05 | 500             | L   | 0.172      | -            | -                | -                | -         |    -1.58 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            7 |     3895 | 2024-03-04 | Sashi           | W   | 0.165      | 0.371        | 0.184 (0.011)    | 0.958 (0.058)    | 0 (0.000) |     5.01 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            6 |     4024 | 2024-02-26 | 9INE            | W   | 0.119      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     1.64 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            5 |     4045 | 2024-02-25 | Secret          | W   | 0.112      | 0.358        | 0.000 (0.000)    | 0.055 (0.002)    | 0 (0.000) |     1.73 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            4 |     4095 | 2024-02-23 | Sampi           | L   | 0.098      | -            | -                | -                | -         |    -0.40 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            3 |     4148 | 2024-02-21 | MOUZ NXT        | L   | 0.085      | -            | -                | -                | -         |    -0.15 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            2 |     4229 | 2024-02-17 | The Chosen Few  | W   | 0.061      | 0.358        | 0.001 (0.000)    | 0.038 (0.001)    | 0 (0.000) |     1.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            1 |     4378 | 2024-02-11 | ALTERNATE aTTaX | L   | 0.021      | -            | -                | -                | -         |    -0.05 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           14 |     3591 | 2024-03-15 | MOUZ NXT        | L   | 0.239      | -            | -                | -                | -         |    -0.47 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           13 |     3627 | 2024-03-14 | ex-Preasy       | L   | 0.231      | -            | -                | -                | -         |    -1.57 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           12 |     3717 | 2024-03-11 | ECLOT           | W   | 0.211      | 0.371        | 0.061 (0.005)    | 0.537 (0.042)    | 0 (0.000) |     6.49 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           11 |     3733 | 2024-03-10 | ALTERNATE aTTaX | W   | 0.206      | 0.371        | 0.031 (0.002)    | 0.537 (0.041)    | 0 (0.000) |     5.96 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           10 |     3763 | 2024-03-09 | Alliance        | L   | 0.198      | -            | -                | -                | -         |    -0.97 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            9 |     3779 | 2024-03-08 | Passion UA      | L   | 0.192      | -            | -                | -                | -         |    -0.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            8 |     3879 | 2024-03-05 | 500             | L   | 0.172      | -            | -                | -                | -         |    -1.58 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            7 |     3896 | 2024-03-04 | Sashi           | W   | 0.165      | 0.371        | 0.184 (0.011)    | 0.958 (0.058)    | 0 (0.000) |     5.01 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            6 |     4025 | 2024-02-26 | 9INE            | W   | 0.119      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     1.64 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            5 |     4046 | 2024-02-25 | Secret          | W   | 0.112      | 0.358        | 0.000 (0.000)    | 0.055 (0.002)    | 0 (0.000) |     1.73 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            4 |     4096 | 2024-02-23 | Sampi           | L   | 0.098      | -            | -                | -                | -         |    -0.40 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            3 |     4149 | 2024-02-21 | MOUZ NXT        | L   | 0.085      | -            | -                | -                | -         |    -0.15 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            2 |     4230 | 2024-02-17 | The Chosen Few  | W   | 0.061      | 0.358        | 0.001 (0.000)    | 0.038 (0.001)    | 0 (0.000) |     1.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            1 |     4379 | 2024-02-11 | ALTERNATE aTTaX | L   | 0.021      | -            | -                | -                | -         |    -0.05 | c0llins, Marix, mwlky, oxygeN, tiziaN |
 
 <br />
 <span id="table2"></span><br />

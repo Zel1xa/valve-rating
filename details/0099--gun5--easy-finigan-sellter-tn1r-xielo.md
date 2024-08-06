@@ -37,45 +37,45 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           39 |        3 | 2024-08-06 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |    -6.71 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           38 |       89 | 2024-08-03 | PARIVISION        | W   | 1.000      | 0.500        | 0.049 (0.024)    | 0.590 (0.295)    | 0 (0.000) |    25.75 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           37 |       94 | 2024-08-03 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |    -7.36 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           36 |      160 | 2024-08-01 | Into the Breach   | L   | 1.000      | -            | -                | -                | -         |   -20.81 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           35 |      178 | 2024-08-01 | NOM               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.34 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           34 |      225 | 2024-07-31 | K27               | L   | 1.000      | -            | -                | -                | -         |   -27.00 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           33 |      268 | 2024-07-30 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.540 (0.235)    | 0 (0.000) |    13.47 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           32 |      304 | 2024-07-29 | TSM               | W   | 1.000      | 0.143        | 0.040 (0.006)    | -                | 0 (0.000) |    20.41 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           31 |      333 | 2024-07-28 | Astralis Talent   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.71 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           30 |      338 | 2024-07-28 | NOM               | L   | 1.000      | -            | -                | -                | -         |   -26.22 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           29 |      381 | 2024-07-26 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -15.34 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           28 |      417 | 2024-07-25 | CYBERSHOKE        | L   | 1.000      | -            | -                | -                | -         |   -15.62 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           27 |      488 | 2024-07-23 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -16.65 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           26 |      541 | 2024-07-21 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.540 (0.235)    | 0 (0.000) |    12.84 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           25 |      582 | 2024-07-20 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -15.62 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           24 |      724 | 2024-07-17 | TSM               | L   | 1.000      | -            | -                | -                | -         |   -11.21 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           23 |      747 | 2024-07-17 | WOPA              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.85 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           22 |      783 | 2024-07-16 | Betera            | L   | 1.000      | -            | -                | -                | -         |   -27.82 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           21 |      836 | 2024-07-15 | CPH Wolves        | L   | 1.000      | -            | -                | -                | -         |   -22.32 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           20 |     1073 | 2024-06-15 | 3DMAX             | L   | 0.854      | -            | -                | -                | -         |    -1.89 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           19 |     1117 | 2024-06-14 | Gaimin Gladiators | W   | 0.847      | 0.435        | 0.037 (0.014)    | 0.331 (0.122)    | 0 (0.000) |    12.28 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           18 |     1134 | 2024-06-14 | Spirit Academy    | L   | 0.845      | -            | -                | -                | -         |   -21.51 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           17 |     1238 | 2024-06-10 | EYEBALLERS        | W   | 0.819      | 0.435        | -                | 0.488 (0.173)    | 0 (0.000) |     9.51 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           16 |     1392 | 2024-06-07 | HAVU              | W   | 0.800      | -            | -                | -                | 0 (0.000) |     4.55 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           15 |     1519 | 2024-06-05 | CYBERSHOKE        | W   | 0.787      | 0.435        | 0.039 (0.013)    | 0.378 (0.129)    | -         |     8.15 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           14 |     1603 | 2024-06-03 | Permitta          | L   | 0.772      | -            | -                | -                | -         |   -14.52 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           13 |     1616 | 2024-06-02 | FURIA             | W   | 0.766      | 0.435        | 0.284 (0.095)    | 0.468 (0.156)    | -         |    23.36 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           12 |     1627 | 2024-06-02 | VP.Prodigy        | W   | 0.765      | 0.435        | 0.025 (0.008)    | 0.383 (0.127)    | -         |    10.83 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           11 |     1636 | 2024-06-01 | SINNERS           | W   | 0.761      | 0.435        | 0.037 (0.012)    | 0.800 (0.264)    | -         |    16.13 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|           10 |     1681 | 2024-05-31 | GamerLegion       | W   | 0.753      | 0.435        | 0.173 (0.056)    | -                | -         |    18.69 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            9 |     1760 | 2024-05-28 | Permitta          | L   | 0.731      | -            | -                | -                | -         |   -11.75 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            8 |     1800 | 2024-05-26 | DMS               | W   | 0.718      | 0.435        | -                | 0.428 (0.133)    | -         |    10.65 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            7 |     1826 | 2024-05-24 | SINNERS           | L   | 0.707      | -            | -                | -                | -         |    -7.14 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            6 |     1841 | 2024-05-23 | Sampi             | L   | 0.700      | -            | -                | -                | -         |   -12.08 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            5 |     2012 | 2024-05-18 | NOM               | W   | 0.667      | -            | -                | -                | -         |     2.33 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            4 |     2084 | 2024-05-16 | Space             | W   | 0.654      | -            | -                | -                | -         |     7.69 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            3 |     2131 | 2024-05-15 | 777               | W   | 0.647      | -            | -                | -                | -         |     4.57 | easy, FinigaN, SELLTER, tN1R, xiELO  |
-|            2 |     3242 | 2024-04-03 | 3DMAX             | L   | 0.367      | -            | -                | -                | -         |    -0.20 | easy, kelieN, SELLTER, spirit, tN1R  |
-|            1 |     3347 | 2024-03-28 | Space             | W   | 0.327      | -            | -                | -                | -         |     3.52 | easy, r3salt, SELLTER, shalfey, tN1R |
+|           39 |        4 | 2024-08-06 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |    -6.71 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           38 |       90 | 2024-08-03 | PARIVISION        | W   | 1.000      | 0.500        | 0.049 (0.024)    | 0.590 (0.295)    | 0 (0.000) |    25.75 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           37 |       95 | 2024-08-03 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |    -7.36 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           36 |      161 | 2024-08-01 | Into the Breach   | L   | 1.000      | -            | -                | -                | -         |   -20.81 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           35 |      179 | 2024-08-01 | NOM               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.34 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           34 |      226 | 2024-07-31 | K27               | L   | 1.000      | -            | -                | -                | -         |   -27.00 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           33 |      269 | 2024-07-30 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.540 (0.235)    | 0 (0.000) |    13.47 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           32 |      305 | 2024-07-29 | TSM               | W   | 1.000      | 0.143        | 0.040 (0.006)    | -                | 0 (0.000) |    20.41 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           31 |      334 | 2024-07-28 | Astralis Talent   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.71 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           30 |      339 | 2024-07-28 | NOM               | L   | 1.000      | -            | -                | -                | -         |   -26.22 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           29 |      382 | 2024-07-26 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -15.34 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           28 |      418 | 2024-07-25 | CYBERSHOKE        | L   | 1.000      | -            | -                | -                | -         |   -15.62 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           27 |      489 | 2024-07-23 | BC.Game           | L   | 1.000      | -            | -                | -                | -         |   -16.65 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           26 |      542 | 2024-07-21 | Endpoint          | W   | 1.000      | 0.435        | 0.012 (0.005)    | 0.540 (0.235)    | 0 (0.000) |    12.84 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           25 |      583 | 2024-07-20 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -15.62 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           24 |      725 | 2024-07-17 | TSM               | L   | 1.000      | -            | -                | -                | -         |   -11.21 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           23 |      748 | 2024-07-17 | WOPA              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.85 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           22 |      784 | 2024-07-16 | Betera            | L   | 1.000      | -            | -                | -                | -         |   -27.82 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           21 |      837 | 2024-07-15 | CPH Wolves        | L   | 1.000      | -            | -                | -                | -         |   -22.32 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           20 |     1074 | 2024-06-15 | 3DMAX             | L   | 0.854      | -            | -                | -                | -         |    -1.89 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           19 |     1118 | 2024-06-14 | Gaimin Gladiators | W   | 0.847      | 0.435        | 0.037 (0.014)    | 0.331 (0.122)    | 0 (0.000) |    12.28 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           18 |     1135 | 2024-06-14 | Spirit Academy    | L   | 0.845      | -            | -                | -                | -         |   -21.51 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           17 |     1239 | 2024-06-10 | EYEBALLERS        | W   | 0.819      | 0.435        | -                | 0.488 (0.173)    | 0 (0.000) |     9.51 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           16 |     1393 | 2024-06-07 | HAVU              | W   | 0.800      | -            | -                | -                | 0 (0.000) |     4.55 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           15 |     1520 | 2024-06-05 | CYBERSHOKE        | W   | 0.787      | 0.435        | 0.039 (0.013)    | 0.378 (0.129)    | -         |     8.15 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           14 |     1604 | 2024-06-03 | Permitta          | L   | 0.772      | -            | -                | -                | -         |   -14.52 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           13 |     1617 | 2024-06-02 | FURIA             | W   | 0.766      | 0.435        | 0.284 (0.095)    | 0.468 (0.156)    | -         |    23.36 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           12 |     1628 | 2024-06-02 | VP.Prodigy        | W   | 0.765      | 0.435        | 0.025 (0.008)    | 0.383 (0.127)    | -         |    10.83 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           11 |     1637 | 2024-06-01 | SINNERS           | W   | 0.761      | 0.435        | 0.037 (0.012)    | 0.800 (0.264)    | -         |    16.13 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|           10 |     1682 | 2024-05-31 | GamerLegion       | W   | 0.753      | 0.435        | 0.173 (0.056)    | -                | -         |    18.69 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            9 |     1761 | 2024-05-28 | Permitta          | L   | 0.731      | -            | -                | -                | -         |   -11.75 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            8 |     1801 | 2024-05-26 | DMS               | W   | 0.718      | 0.435        | -                | 0.428 (0.133)    | -         |    10.65 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            7 |     1827 | 2024-05-24 | SINNERS           | L   | 0.707      | -            | -                | -                | -         |    -7.14 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            6 |     1842 | 2024-05-23 | Sampi             | L   | 0.700      | -            | -                | -                | -         |   -12.08 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            5 |     2013 | 2024-05-18 | NOM               | W   | 0.667      | -            | -                | -                | -         |     2.33 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            4 |     2085 | 2024-05-16 | Space             | W   | 0.654      | -            | -                | -                | -         |     7.69 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            3 |     2132 | 2024-05-15 | 777               | W   | 0.647      | -            | -                | -                | -         |     4.57 | easy, FinigaN, SELLTER, tN1R, xiELO  |
+|            2 |     3243 | 2024-04-03 | 3DMAX             | L   | 0.367      | -            | -                | -                | -         |    -0.20 | easy, kelieN, SELLTER, spirit, tN1R  |
+|            1 |     3348 | 2024-03-28 | Space             | W   | 0.327      | -            | -                | -                | -         |     3.52 | easy, r3salt, SELLTER, shalfey, tN1R |
 
 <br />
 <span id="table2"></span><br />

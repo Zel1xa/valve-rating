@@ -37,42 +37,42 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |       37 | 2024-08-05 | HAVU            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.05 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           35 |      120 | 2024-08-02 | B8              | L   | 1.000      | -            | -                | -                | -         |    -4.33 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           34 |      127 | 2024-08-02 | BC.Game         | L   | 1.000      | -            | -                | -                | -         |   -12.45 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           33 |      204 | 2024-07-31 | Nemiga          | L   | 1.000      | -            | -                | -                | -         |    -4.74 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           32 |      251 | 2024-07-30 | PERA            | L   | 1.000      | -            | -                | -                | -         |   -11.82 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           31 |      337 | 2024-07-28 | Endpoint        | L   | 1.000      | -            | -                | -                | -         |   -17.56 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           30 |      366 | 2024-07-26 | Permitta        | L   | 1.000      | -            | -                | -                | -         |   -15.25 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           29 |      387 | 2024-07-26 | Monte           | L   | 1.000      | -            | -                | -                | -         |    -9.51 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           28 |      457 | 2024-07-24 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |   -18.69 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           27 |      572 | 2024-07-20 | CPH Wolves      | W   | 1.000      | 0.435        | -                | 0.354 (0.154)    | 0 (0.000) |    12.27 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           26 |      645 | 2024-07-18 | DMS             | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    16.21 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           25 |      831 | 2024-07-15 | Permitta        | W   | 1.000      | 0.435        | 0.039 (0.017)    | 0.919 (0.399)    | 0 (0.000) |    18.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           24 |     1124 | 2024-06-14 | BIG             | L   | 0.846      | -            | -                | -                | -         |    -2.32 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           23 |     1209 | 2024-06-11 | Rare Atom       | W   | 0.826      | 0.435        | 0.009 (0.003)    | 0.465 (0.167)    | 0 (0.000) |    11.90 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           22 |     1230 | 2024-06-10 | Passion UA      | L   | 0.819      | -            | -                | -                | -         |    -6.63 | danistzz, fozil, H4SAN4TOR, Vert, X5G7V   |
-|           21 |     1337 | 2024-06-08 | Permitta        | L   | 0.807      | -            | -                | -                | -         |   -10.52 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
-|           20 |     1458 | 2024-06-06 | VP.Prodigy      | W   | 0.793      | 0.435        | 0.025 (0.009)    | 0.383 (0.132)    | 0 (0.000) |    14.18 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           19 |     1595 | 2024-06-03 | EYEBALLERS      | W   | 0.773      | 0.435        | 0.005 (0.002)    | 0.488 (0.164)    | 0 (0.000) |    11.89 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           18 |     1808 | 2024-05-25 | 9 Pandas        | L   | 0.714      | -            | -                | -                | -         |    -6.19 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           17 |     1852 | 2024-05-23 | Metizport       | W   | 0.698      | 0.435        | 0.036 (0.011)    | 0.510 (0.155)    | 0 (0.000) |    14.28 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           16 |     1924 | 2024-05-21 | System5         | W   | 0.687      | -            | -                | -                | 0 (0.000) |     5.83 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           15 |     1986 | 2024-05-19 | DMS             | W   | 0.673      | -            | -                | -                | 0 (0.000) |    12.72 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           14 |     2034 | 2024-05-18 | Verdant         | W   | 0.664      | 0.435        | 0.015 (0.004)    | -                | -         |    13.02 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           13 |     2065 | 2024-05-17 | 777             | L   | 0.658      | -            | -                | -                | -         |   -13.75 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           12 |     2084 | 2024-05-16 | GUN5            | L   | 0.654      | -            | -                | -                | -         |    -7.69 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           11 |     2140 | 2024-05-15 | Rounds          | W   | 0.646      | -            | -                | -                | -         |     1.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|           10 |     2158 | 2024-05-15 | Nexus           | W   | 0.644      | 0.435        | 0.014 (0.004)    | -                | -         |     9.03 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|            9 |     2190 | 2024-05-14 | EYEBALLERS      | W   | 0.640      | 0.500        | 0.005 (0.002)    | 0.488 (0.156)    | -         |    11.87 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|            8 |     2231 | 2024-05-13 | MOUZ NXT        | L   | 0.631      | -            | -                | -                | -         |    -4.46 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|            7 |     2283 | 2024-05-11 | Viperio         | W   | 0.618      | -            | -                | -                | -         |     4.46 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|            6 |     2709 | 2024-04-20 | ALTERNATE aTTaX | W   | 0.480      | 0.500        | 0.031 (0.007)    | 0.537 (0.129)    | -         |    10.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
-|            5 |     3214 | 2024-04-04 | 3DMAX           | L   | 0.373      | -            | -                | -                | -         |    -0.10 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
-|            4 |     3253 | 2024-04-03 | PARIVISION      | L   | 0.366      | -            | -                | -                | -         |    -1.64 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
-|            3 |     3331 | 2024-03-29 | B8              | W   | 0.333      | 0.500        | 0.170 (0.028)    | 0.912 (0.152)    | -         |     8.70 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
-|            2 |     3347 | 2024-03-28 | GUN5            | L   | 0.327      | -            | -                | -                | -         |    -3.52 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
-|            1 |     3800 | 2024-03-07 | Apeks           | L   | 0.187      | -            | -                | -                | -         |    -2.28 | enzero, fozil, TruNiQ, Vert, waterfaLLZ   |
+|           36 |       38 | 2024-08-05 | HAVU            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.05 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           35 |      121 | 2024-08-02 | B8              | L   | 1.000      | -            | -                | -                | -         |    -4.33 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           34 |      128 | 2024-08-02 | BC.Game         | L   | 1.000      | -            | -                | -                | -         |   -12.45 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           33 |      205 | 2024-07-31 | Nemiga          | L   | 1.000      | -            | -                | -                | -         |    -4.74 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           32 |      252 | 2024-07-30 | PERA            | L   | 1.000      | -            | -                | -                | -         |   -11.82 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           31 |      338 | 2024-07-28 | Endpoint        | L   | 1.000      | -            | -                | -                | -         |   -17.56 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           30 |      367 | 2024-07-26 | Permitta        | L   | 1.000      | -            | -                | -                | -         |   -15.25 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           29 |      388 | 2024-07-26 | Monte           | L   | 1.000      | -            | -                | -                | -         |    -9.51 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           28 |      458 | 2024-07-24 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |   -18.69 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           27 |      573 | 2024-07-20 | CPH Wolves      | W   | 1.000      | 0.435        | -                | 0.354 (0.154)    | 0 (0.000) |    12.27 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           26 |      646 | 2024-07-18 | DMS             | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    16.21 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           25 |      832 | 2024-07-15 | Permitta        | W   | 1.000      | 0.435        | 0.039 (0.017)    | 0.919 (0.399)    | 0 (0.000) |    18.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           24 |     1125 | 2024-06-14 | BIG             | L   | 0.846      | -            | -                | -                | -         |    -2.32 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           23 |     1210 | 2024-06-11 | Rare Atom       | W   | 0.826      | 0.435        | 0.009 (0.003)    | 0.465 (0.167)    | 0 (0.000) |    11.90 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           22 |     1231 | 2024-06-10 | Passion UA      | L   | 0.819      | -            | -                | -                | -         |    -6.63 | danistzz, fozil, H4SAN4TOR, Vert, X5G7V   |
+|           21 |     1338 | 2024-06-08 | Permitta        | L   | 0.807      | -            | -                | -                | -         |   -10.52 | danistzz, fozil, H4SAN4TOR, TruNiQ, X5G7V |
+|           20 |     1459 | 2024-06-06 | VP.Prodigy      | W   | 0.793      | 0.435        | 0.025 (0.009)    | 0.383 (0.132)    | 0 (0.000) |    14.18 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           19 |     1596 | 2024-06-03 | EYEBALLERS      | W   | 0.773      | 0.435        | 0.005 (0.002)    | 0.488 (0.164)    | 0 (0.000) |    11.89 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           18 |     1809 | 2024-05-25 | 9 Pandas        | L   | 0.714      | -            | -                | -                | -         |    -6.19 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           17 |     1853 | 2024-05-23 | Metizport       | W   | 0.698      | 0.435        | 0.036 (0.011)    | 0.510 (0.155)    | 0 (0.000) |    14.28 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           16 |     1925 | 2024-05-21 | System5         | W   | 0.687      | -            | -                | -                | 0 (0.000) |     5.83 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           15 |     1987 | 2024-05-19 | DMS             | W   | 0.673      | -            | -                | -                | 0 (0.000) |    12.72 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           14 |     2035 | 2024-05-18 | Verdant         | W   | 0.664      | 0.435        | 0.015 (0.004)    | -                | -         |    13.02 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           13 |     2066 | 2024-05-17 | 777             | L   | 0.658      | -            | -                | -                | -         |   -13.75 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           12 |     2085 | 2024-05-16 | GUN5            | L   | 0.654      | -            | -                | -                | -         |    -7.69 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           11 |     2141 | 2024-05-15 | Rounds          | W   | 0.646      | -            | -                | -                | -         |     1.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|           10 |     2159 | 2024-05-15 | Nexus           | W   | 0.644      | 0.435        | 0.014 (0.004)    | -                | -         |     9.03 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|            9 |     2191 | 2024-05-14 | EYEBALLERS      | W   | 0.640      | 0.500        | 0.005 (0.002)    | 0.488 (0.156)    | -         |    11.87 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|            8 |     2232 | 2024-05-13 | MOUZ NXT        | L   | 0.631      | -            | -                | -                | -         |    -4.46 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|            7 |     2284 | 2024-05-11 | Viperio         | W   | 0.618      | -            | -                | -                | -         |     4.46 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|            6 |     2710 | 2024-04-20 | ALTERNATE aTTaX | W   | 0.480      | 0.500        | 0.031 (0.007)    | 0.537 (0.129)    | -         |    10.49 | danistzz, fozil, TruNiQ, Vert, X5G7V      |
+|            5 |     3215 | 2024-04-04 | 3DMAX           | L   | 0.373      | -            | -                | -                | -         |    -0.10 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
+|            4 |     3254 | 2024-04-03 | PARIVISION      | L   | 0.366      | -            | -                | -                | -         |    -1.64 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
+|            3 |     3332 | 2024-03-29 | B8              | W   | 0.333      | 0.500        | 0.170 (0.028)    | 0.912 (0.152)    | -         |     8.70 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
+|            2 |     3348 | 2024-03-28 | GUN5            | L   | 0.327      | -            | -                | -                | -         |    -3.52 | danistzz, fozil, TruNiQ, Vert, waterfaLLZ |
+|            1 |     3801 | 2024-03-07 | Apeks           | L   | 0.187      | -            | -                | -                | -         |    -2.28 | enzero, fozil, TruNiQ, Vert, waterfaLLZ   |
 
 <br />
 <span id="table2"></span><br />

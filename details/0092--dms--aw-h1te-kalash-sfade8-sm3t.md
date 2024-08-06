@@ -37,50 +37,50 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           44 |       10 | 2024-08-06 | Endpoint        | L   | 1.000      | -            | -                | -                | -         |   -17.13 | AW, h1te, kAlash, sFade8, sm3t |
-|           43 |      385 | 2024-07-26 | AMKAL           | L   | 1.000      | -            | -                | -                | -         |    -5.08 | AW, h1te, kAlash, sFade8, sm3t |
-|           42 |      389 | 2024-07-26 | Revenant        | W   | 1.000      | 0.650        | 0.027 (0.018)    | 0.259 (0.169)    | 1 (1.000) |    13.78 | AW, h1te, kAlash, sFade8, sm3t |
-|           41 |      427 | 2024-07-25 | 3DMAX           | L   | 1.000      | -            | -                | -                | -         |    -2.13 | AW, h1te, kAlash, sFade8, sm3t |
-|           40 |      451 | 2024-07-24 | Eternal Fire    | L   | 1.000      | -            | -                | -                | -         |    -0.56 | AW, h1te, kAlash, sFade8, sm3t |
-|           39 |      598 | 2024-07-19 | SINNERS         | L   | 1.000      | -            | -                | -                | -         |   -12.40 | AW, h1te, kAlash, sFade8, sm3t |
-|           38 |      645 | 2024-07-18 | Space           | L   | 1.000      | -            | -                | -                | -         |   -16.21 | AW, h1te, kAlash, sFade8, sm3t |
-|           37 |      775 | 2024-07-16 | ALTERNATE aTTaX | W   | 1.000      | 0.435        | 0.031 (0.014)    | 0.537 (0.233)    | 0 (0.000) |    13.22 | AW, h1te, kAlash, sFade8, sm3t |
-|           36 |     1180 | 2024-06-12 | Verdant         | L   | 0.833      | -            | -                | -                | -         |   -14.41 | AW, h1te, kAlash, sFade8, sm3t |
-|           35 |     1203 | 2024-06-11 | Zero Tenacity   | L   | 0.827      | -            | -                | -                | -         |    -7.69 | AW, h1te, kAlash, sFade8, sm3t |
-|           34 |     1381 | 2024-06-07 | Zero Tenacity   | L   | 0.801      | -            | -                | -                | -         |    -7.69 | AW, h1te, kAlash, sFade8, sm3t |
-|           33 |     1485 | 2024-06-06 | CYBERSHOKE      | L   | 0.791      | -            | -                | -                | -         |   -15.84 | AW, h1te, kAlash, sFade8, sm3t |
-|           32 |     1581 | 2024-06-04 | Sampi           | L   | 0.778      | -            | -                | -                | -         |   -14.41 | AW, h1te, kAlash, sFade8, sm3t |
-|           31 |     1599 | 2024-06-03 | ARCRED          | L   | 0.773      | -            | -                | -                | -         |   -13.81 | AW, h1te, kAlash, sFade8, sm3t |
-|           30 |     1608 | 2024-06-02 | Zero Tenacity   | L   | 0.767      | -            | -                | -                | -         |    -7.73 | AW, h1te, kAlash, sFade8, sm3t |
-|           29 |     1620 | 2024-06-02 | fnatic          | W   | 0.765      | 0.143        | 0.371 (0.041)    | 0.680 (0.074)    | 0 (0.000) |    22.54 | AW, h1te, kAlash, sFade8, sm3t |
-|           28 |     1638 | 2024-06-01 | ENCE            | W   | 0.760      | 0.143        | 0.173 (0.019)    | 0.422 (0.046)    | 0 (0.000) |    21.68 | AW, h1te, kAlash, sFade8, sm3t |
-|           27 |     1651 | 2024-06-01 | Zero Tenacity   | L   | 0.759      | -            | -                | -                | -         |    -6.73 | AW, h1te, kAlash, sFade8, sm3t |
-|           26 |     1657 | 2024-06-01 | ENCE            | W   | 0.759      | 0.143        | 0.173 (0.019)    | -                | 0 (0.000) |    22.00 | AW, h1te, kAlash, sFade8, sm3t |
-|           25 |     1678 | 2024-05-31 | Spirit Academy  | W   | 0.753      | -            | -                | -                | 0 (0.000) |     5.92 | AW, h1te, kAlash, sFade8, sm3t |
-|           24 |     1709 | 2024-05-30 | Nemiga          | W   | 0.746      | 0.372        | 0.314 (0.087)    | 0.704 (0.195)    | 0 (0.000) |    18.42 | AW, h1te, kAlash, sFade8, sm3t |
-|           23 |     1727 | 2024-05-29 | Verdant         | W   | 0.741      | 0.372        | 0.015 (0.004)    | 0.287 (0.079)    | 0 (0.000) |    11.80 | AW, h1te, kAlash, sFade8, sm3t |
-|           22 |     1800 | 2024-05-26 | GUN5            | L   | 0.718      | -            | -                | -                | -         |   -10.65 | AW, h1te, kAlash, sFade8, sm3t |
-|           21 |     1829 | 2024-05-24 | VP.Prodigy      | L   | 0.706      | -            | -                | -                | -         |   -12.00 | AW, h1te, kAlash, sFade8, sm3t |
-|           20 |     1838 | 2024-05-24 | BetBoom         | L   | 0.704      | -            | -                | -                | -         |    -1.68 | AW, h1te, kAlash, sFade8, sm3t |
-|           19 |     1848 | 2024-05-23 | B8              | L   | 0.699      | -            | -                | -                | -         |    -5.02 | AW, h1te, kAlash, sFade8, sm3t |
-|           18 |     1927 | 2024-05-21 | EYEBALLERS      | W   | 0.687      | 0.435        | -                | 0.488 (0.145)    | 0 (0.000) |     9.50 | AW, h1te, kAlash, sFade8, sm3t |
-|           17 |     1931 | 2024-05-21 | MOUZ NXT        | W   | 0.686      | 0.435        | 0.139 (0.041)    | 0.961 (0.286)    | 0 (0.000) |    14.69 | AW, h1te, kAlash, sFade8, sm3t |
-|           16 |     1986 | 2024-05-19 | Space           | L   | 0.673      | -            | -                | -                | -         |   -12.72 | AW, h1te, kAlash, sFade8, sm3t |
-|           15 |     2016 | 2024-05-18 | 777             | W   | 0.666      | -            | -                | -                | -         |     5.28 | AW, h1te, kAlash, sFade8, sm3t |
-|           14 |     2028 | 2024-05-18 | Sampi           | W   | 0.665      | 0.435        | 0.027 (0.008)    | 1.000 (0.289)    | -         |    10.48 | AW, h1te, kAlash, sFade8, sm3t |
-|           13 |     2066 | 2024-05-17 | MOUZ NXT        | L   | 0.658      | -            | -                | -                | -         |    -6.44 | AW, h1te, kAlash, sFade8, sm3t |
-|           12 |     2087 | 2024-05-16 | B8              | L   | 0.654      | -            | -                | -                | -         |    -5.24 | AW, h1te, kAlash, sFade8, sm3t |
-|           11 |     2139 | 2024-05-15 | Monte           | L   | 0.646      | -            | -                | -                | -         |    -8.20 | AW, h1te, kAlash, sFade8, sm3t |
-|           10 |     2199 | 2024-05-14 | Rare Atom       | W   | 0.640      | -            | -                | -                | -         |     8.83 | AW, h1te, kAlash, sFade8, sm3t |
-|            9 |     2210 | 2024-05-14 | Sangal          | W   | 0.638      | 0.435        | 0.288 (0.080)    | 0.858 (0.238)    | -         |    15.62 | AW, h1te, kAlash, sFade8, sm3t |
-|            8 |     2226 | 2024-05-13 | Heimo           | W   | 0.632      | -            | -                | -                | -         |     4.88 | AW, h1te, kAlash, sFade8, sm3t |
-|            7 |     2279 | 2024-05-11 | CYBERSHOKE      | W   | 0.619      | -            | -                | -                | -         |     9.75 | AW, h1te, kAlash, sFade8, sm3t |
-|            6 |     2545 | 2024-04-28 | Alliance        | L   | 0.532      | -            | -                | -                | -         |    -9.18 | AW, h1te, kAlash, sFade8, sm3t |
-|            5 |     2594 | 2024-04-26 | BLEED           | L   | 0.519      | -            | -                | -                | -         |    -4.77 | AW, h1te, kAlash, sFade8, sm3t |
-|            4 |     2799 | 2024-04-18 | Apeks           | L   | 0.467      | -            | -                | -                | -         |    -6.88 | AW, h1te, kAlash, sFade8, sm3t |
-|            3 |     2809 | 2024-04-18 | EYEBALLERS      | W   | 0.467      | -            | -                | -                | -         |     6.90 | AW, h1te, kAlash, sFade8, sm3t |
-|            2 |     3996 | 2024-02-27 | kONO            | L   | 0.127      | -            | -                | -                | -         |    -2.52 | AW, h1te, kAlash, sFade8, sm3t |
-|            1 |     4000 | 2024-02-27 | B8              | W   | 0.127      | -            | -                | -                | -         |     2.93 | AW, h1te, kAlash, sFade8, sm3t |
+|           44 |       11 | 2024-08-06 | Endpoint        | L   | 1.000      | -            | -                | -                | -         |   -17.13 | AW, h1te, kAlash, sFade8, sm3t |
+|           43 |      386 | 2024-07-26 | AMKAL           | L   | 1.000      | -            | -                | -                | -         |    -5.08 | AW, h1te, kAlash, sFade8, sm3t |
+|           42 |      390 | 2024-07-26 | Revenant        | W   | 1.000      | 0.650        | 0.027 (0.018)    | 0.259 (0.169)    | 1 (1.000) |    13.78 | AW, h1te, kAlash, sFade8, sm3t |
+|           41 |      428 | 2024-07-25 | 3DMAX           | L   | 1.000      | -            | -                | -                | -         |    -2.13 | AW, h1te, kAlash, sFade8, sm3t |
+|           40 |      452 | 2024-07-24 | Eternal Fire    | L   | 1.000      | -            | -                | -                | -         |    -0.56 | AW, h1te, kAlash, sFade8, sm3t |
+|           39 |      599 | 2024-07-19 | SINNERS         | L   | 1.000      | -            | -                | -                | -         |   -12.40 | AW, h1te, kAlash, sFade8, sm3t |
+|           38 |      646 | 2024-07-18 | Space           | L   | 1.000      | -            | -                | -                | -         |   -16.21 | AW, h1te, kAlash, sFade8, sm3t |
+|           37 |      776 | 2024-07-16 | ALTERNATE aTTaX | W   | 1.000      | 0.435        | 0.031 (0.014)    | 0.537 (0.233)    | 0 (0.000) |    13.22 | AW, h1te, kAlash, sFade8, sm3t |
+|           36 |     1181 | 2024-06-12 | Verdant         | L   | 0.833      | -            | -                | -                | -         |   -14.41 | AW, h1te, kAlash, sFade8, sm3t |
+|           35 |     1204 | 2024-06-11 | Zero Tenacity   | L   | 0.827      | -            | -                | -                | -         |    -7.69 | AW, h1te, kAlash, sFade8, sm3t |
+|           34 |     1382 | 2024-06-07 | Zero Tenacity   | L   | 0.801      | -            | -                | -                | -         |    -7.69 | AW, h1te, kAlash, sFade8, sm3t |
+|           33 |     1486 | 2024-06-06 | CYBERSHOKE      | L   | 0.791      | -            | -                | -                | -         |   -15.84 | AW, h1te, kAlash, sFade8, sm3t |
+|           32 |     1582 | 2024-06-04 | Sampi           | L   | 0.778      | -            | -                | -                | -         |   -14.41 | AW, h1te, kAlash, sFade8, sm3t |
+|           31 |     1600 | 2024-06-03 | ARCRED          | L   | 0.773      | -            | -                | -                | -         |   -13.81 | AW, h1te, kAlash, sFade8, sm3t |
+|           30 |     1609 | 2024-06-02 | Zero Tenacity   | L   | 0.767      | -            | -                | -                | -         |    -7.73 | AW, h1te, kAlash, sFade8, sm3t |
+|           29 |     1621 | 2024-06-02 | fnatic          | W   | 0.765      | 0.143        | 0.371 (0.041)    | 0.680 (0.074)    | 0 (0.000) |    22.54 | AW, h1te, kAlash, sFade8, sm3t |
+|           28 |     1639 | 2024-06-01 | ENCE            | W   | 0.760      | 0.143        | 0.173 (0.019)    | 0.422 (0.046)    | 0 (0.000) |    21.68 | AW, h1te, kAlash, sFade8, sm3t |
+|           27 |     1652 | 2024-06-01 | Zero Tenacity   | L   | 0.759      | -            | -                | -                | -         |    -6.73 | AW, h1te, kAlash, sFade8, sm3t |
+|           26 |     1658 | 2024-06-01 | ENCE            | W   | 0.759      | 0.143        | 0.173 (0.019)    | -                | 0 (0.000) |    22.00 | AW, h1te, kAlash, sFade8, sm3t |
+|           25 |     1679 | 2024-05-31 | Spirit Academy  | W   | 0.753      | -            | -                | -                | 0 (0.000) |     5.92 | AW, h1te, kAlash, sFade8, sm3t |
+|           24 |     1710 | 2024-05-30 | Nemiga          | W   | 0.746      | 0.372        | 0.314 (0.087)    | 0.704 (0.195)    | 0 (0.000) |    18.42 | AW, h1te, kAlash, sFade8, sm3t |
+|           23 |     1728 | 2024-05-29 | Verdant         | W   | 0.741      | 0.372        | 0.015 (0.004)    | 0.287 (0.079)    | 0 (0.000) |    11.80 | AW, h1te, kAlash, sFade8, sm3t |
+|           22 |     1801 | 2024-05-26 | GUN5            | L   | 0.718      | -            | -                | -                | -         |   -10.65 | AW, h1te, kAlash, sFade8, sm3t |
+|           21 |     1830 | 2024-05-24 | VP.Prodigy      | L   | 0.706      | -            | -                | -                | -         |   -12.00 | AW, h1te, kAlash, sFade8, sm3t |
+|           20 |     1839 | 2024-05-24 | BetBoom         | L   | 0.704      | -            | -                | -                | -         |    -1.68 | AW, h1te, kAlash, sFade8, sm3t |
+|           19 |     1849 | 2024-05-23 | B8              | L   | 0.699      | -            | -                | -                | -         |    -5.02 | AW, h1te, kAlash, sFade8, sm3t |
+|           18 |     1928 | 2024-05-21 | EYEBALLERS      | W   | 0.687      | 0.435        | -                | 0.488 (0.145)    | 0 (0.000) |     9.50 | AW, h1te, kAlash, sFade8, sm3t |
+|           17 |     1932 | 2024-05-21 | MOUZ NXT        | W   | 0.686      | 0.435        | 0.139 (0.041)    | 0.961 (0.286)    | 0 (0.000) |    14.69 | AW, h1te, kAlash, sFade8, sm3t |
+|           16 |     1987 | 2024-05-19 | Space           | L   | 0.673      | -            | -                | -                | -         |   -12.72 | AW, h1te, kAlash, sFade8, sm3t |
+|           15 |     2017 | 2024-05-18 | 777             | W   | 0.666      | -            | -                | -                | -         |     5.28 | AW, h1te, kAlash, sFade8, sm3t |
+|           14 |     2029 | 2024-05-18 | Sampi           | W   | 0.665      | 0.435        | 0.027 (0.008)    | 1.000 (0.289)    | -         |    10.48 | AW, h1te, kAlash, sFade8, sm3t |
+|           13 |     2067 | 2024-05-17 | MOUZ NXT        | L   | 0.658      | -            | -                | -                | -         |    -6.44 | AW, h1te, kAlash, sFade8, sm3t |
+|           12 |     2088 | 2024-05-16 | B8              | L   | 0.654      | -            | -                | -                | -         |    -5.24 | AW, h1te, kAlash, sFade8, sm3t |
+|           11 |     2140 | 2024-05-15 | Monte           | L   | 0.646      | -            | -                | -                | -         |    -8.20 | AW, h1te, kAlash, sFade8, sm3t |
+|           10 |     2200 | 2024-05-14 | Rare Atom       | W   | 0.640      | -            | -                | -                | -         |     8.83 | AW, h1te, kAlash, sFade8, sm3t |
+|            9 |     2211 | 2024-05-14 | Sangal          | W   | 0.638      | 0.435        | 0.288 (0.080)    | 0.858 (0.238)    | -         |    15.62 | AW, h1te, kAlash, sFade8, sm3t |
+|            8 |     2227 | 2024-05-13 | Heimo           | W   | 0.632      | -            | -                | -                | -         |     4.88 | AW, h1te, kAlash, sFade8, sm3t |
+|            7 |     2280 | 2024-05-11 | CYBERSHOKE      | W   | 0.619      | -            | -                | -                | -         |     9.75 | AW, h1te, kAlash, sFade8, sm3t |
+|            6 |     2546 | 2024-04-28 | Alliance        | L   | 0.532      | -            | -                | -                | -         |    -9.18 | AW, h1te, kAlash, sFade8, sm3t |
+|            5 |     2595 | 2024-04-26 | BLEED           | L   | 0.519      | -            | -                | -                | -         |    -4.77 | AW, h1te, kAlash, sFade8, sm3t |
+|            4 |     2800 | 2024-04-18 | Apeks           | L   | 0.467      | -            | -                | -                | -         |    -6.88 | AW, h1te, kAlash, sFade8, sm3t |
+|            3 |     2810 | 2024-04-18 | EYEBALLERS      | W   | 0.467      | -            | -                | -                | -         |     6.90 | AW, h1te, kAlash, sFade8, sm3t |
+|            2 |     3997 | 2024-02-27 | kONO            | L   | 0.127      | -            | -                | -                | -         |    -2.52 | AW, h1te, kAlash, sFade8, sm3t |
+|            1 |     4001 | 2024-02-27 | B8              | W   | 0.127      | -            | -                | -                | -         |     2.93 | AW, h1te, kAlash, sFade8, sm3t |
 
 <br />
 <span id="table2"></span><br />

@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      852 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.00 | Frip, keen, prelideN, rud, shadiy    |
-|            9 |      915 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
-|            8 |      951 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.510 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.10 | Frip, keen, prelideN, rud, shadiy    |
-|            7 |      959 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.74 | Frip, keen, prelideN, rud, shadiy    |
-|            6 |     1306 | 2024-06-09 | Esprots         | L   | 0.811      | -            | -                | -                | -         |   -17.85 | Frip, keen, prelideN, raw, shadiy    |
-|            5 |     1324 | 2024-06-08 | hypewrld        | W   | 0.807      | 0.334        | 0.002 (0.001)    | 0.026 (0.007)    | 1 (0.807) |     5.88 | Frip, keen, prelideN, raw, shadiy    |
-|            4 |     2388 | 2024-05-05 | hypewrld        | W   | 0.580      | 0.257        | 0.002 (0.000)    | 0.026 (0.004)    | 1 (0.580) |     4.43 | flairr, Frip, Mairel, rud, shadiy    |
-|            3 |     2395 | 2024-05-05 | MightyWolves    | W   | 0.579      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.579) |     1.27 | flairr, Frip, Mairel, rud, shadiy    |
-|            2 |     4070 | 2024-02-24 | hypewrld        | W   | 0.107      | 0.262        | 0.002 (0.000)    | 0.026 (0.001)    | 1 (0.107) |     0.82 | EIZA, keen, prelideN, shadiy, shield |
-|            1 |     4075 | 2024-02-24 | kloogarand      | W   | 0.106      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.106) |     0.39 | EIZA, keen, prelideN, shadiy, shield |
+|           10 |      853 | 2024-07-14 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -15.00 | Frip, keen, prelideN, rud, shadiy    |
+|            9 |      916 | 2024-07-10 | Norway          | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.103 (0.015)    | 0 (0.000) |     7.91 | Frip, keen, prelideN, rud, shadiy    |
+|            8 |      952 | 2024-07-08 | 3DMAX           | W   | 1.000      | 0.143        | 0.510 (0.073)    | 1.000 (0.143)    | 0 (0.000) |    30.10 | Frip, keen, prelideN, rud, shadiy    |
+|            7 |      960 | 2024-07-08 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -16.74 | Frip, keen, prelideN, rud, shadiy    |
+|            6 |     1307 | 2024-06-09 | Esprots         | L   | 0.811      | -            | -                | -                | -         |   -17.85 | Frip, keen, prelideN, raw, shadiy    |
+|            5 |     1325 | 2024-06-08 | hypewrld        | W   | 0.807      | 0.334        | 0.002 (0.001)    | 0.026 (0.007)    | 1 (0.807) |     5.88 | Frip, keen, prelideN, raw, shadiy    |
+|            4 |     2389 | 2024-05-05 | hypewrld        | W   | 0.580      | 0.257        | 0.002 (0.000)    | 0.026 (0.004)    | 1 (0.580) |     4.43 | flairr, Frip, Mairel, rud, shadiy    |
+|            3 |     2396 | 2024-05-05 | MightyWolves    | W   | 0.579      | 0.257        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.579) |     1.27 | flairr, Frip, Mairel, rud, shadiy    |
+|            2 |     4071 | 2024-02-24 | hypewrld        | W   | 0.107      | 0.262        | 0.002 (0.000)    | 0.026 (0.001)    | 1 (0.107) |     0.82 | EIZA, keen, prelideN, shadiy, shield |
+|            1 |     4076 | 2024-02-24 | kloogarand      | W   | 0.106      | 0.262        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.106) |     0.39 | EIZA, keen, prelideN, shadiy, shield |
 
 <br />
 <span id="table2"></span><br />

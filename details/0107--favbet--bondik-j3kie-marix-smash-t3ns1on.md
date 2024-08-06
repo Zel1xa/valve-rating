@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |       17 | 2024-08-06 | Lilmix            | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.095 (0.014)    | 0 (0.000) |    15.44 | bondik, j3kie, Marix, Smash, t3ns1on    |
-|           27 |      172 | 2024-08-01 | Meteor            | L   | 1.000      | -            | -                | -                | -         |   -19.02 | bondik, j3kie, Marix, Smash, t3ns1on    |
-|           26 |      489 | 2024-07-23 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |   -10.02 | bondik, j3kie, Marix, Smash, t3ns1on    |
-|           25 |      790 | 2024-07-16 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.37 | bondik, j3kie, Marix, Smash, t3ns1on    |
-|           24 |     1045 | 2024-06-16 | Zero Tenacity     | L   | 0.860      | -            | -                | -                | -         |    -5.50 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           23 |     1075 | 2024-06-15 | 9INE              | W   | 0.853      | -            | -                | -                | 0 (0.000) |     4.58 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           22 |     1113 | 2024-06-14 | ARCRED            | L   | 0.847      | -            | -                | -                | -         |    -8.98 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           21 |     1182 | 2024-06-12 | Nemiga            | W   | 0.833      | 0.143        | 0.314 (0.037)    | 0.704 (0.084)    | 0 (0.000) |    22.76 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           20 |     1204 | 2024-06-11 | Nexus             | W   | 0.827      | 0.143        | 0.014 (0.002)    | 0.447 (0.053)    | 0 (0.000) |    10.58 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           19 |     1442 | 2024-06-06 | Zero Tenacity     | L   | 0.794      | -            | -                | -                | -         |    -3.73 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           18 |     1471 | 2024-06-06 | 1WIN              | W   | 0.792      | 0.372        | 0.033 (0.010)    | 0.718 (0.212)    | 0 (0.000) |    18.78 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           17 |     1573 | 2024-06-04 | RUSTEC            | W   | 0.779      | -            | -                | -                | 0 (0.000) |     2.55 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           16 |     1622 | 2024-06-02 | JANO              | W   | 0.765      | -            | -                | -                | 0 (0.000) |     8.36 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           15 |     1682 | 2024-05-31 | Sangal            | L   | 0.753      | -            | -                | -                | -         |    -2.78 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           14 |     1690 | 2024-05-31 | SAW               | L   | 0.752      | -            | -                | -                | -         |    -2.16 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           13 |     1703 | 2024-05-30 | ARCRED            | L   | 0.747      | -            | -                | -                | -         |    -7.91 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           12 |     1733 | 2024-05-29 | Aurora Young Blud | W   | 0.740      | 0.372        | 0.019 (0.005)    | 0.522 (0.144)    | 0 (0.000) |    14.92 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           11 |     2302 | 2024-05-10 | Johnny Speeds     | L   | 0.611      | -            | -                | -                | -         |    -1.08 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|           10 |     3254 | 2024-04-03 | Metizport         | L   | 0.366      | -            | -                | -                | -         |    -3.65 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            9 |     3284 | 2024-04-02 | Ninjas in Pyjamas | L   | 0.360      | -            | -                | -                | -         |    -0.07 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            8 |     3291 | 2024-04-02 | GamerLegion       | W   | 0.359      | 0.143        | 0.173 (0.009)    | 0.259 (0.013)    | 0 (0.000) |     9.91 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            7 |     3317 | 2024-03-31 | Passion UA        | W   | 0.346      | 0.276        | 0.173 (0.017)    | 1.000 (0.095)    | -         |     9.01 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            6 |     3322 | 2024-03-30 | L&G               | W   | 0.339      | -            | -                | -                | -         |     2.04 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            5 |     3379 | 2024-03-27 | ALTERNATE aTTaX   | W   | 0.321      | 0.143        | 0.031 (0.001)    | 0.537 (0.025)    | -         |     7.81 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            4 |     3388 | 2024-03-27 | BetBoom           | W   | 0.320      | 0.143        | 0.248 (0.011)    | 0.513 (0.023)    | -         |     9.83 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            3 |     3725 | 2024-03-10 | AURA              | L   | 0.207      | -            | -                | -                | -         |    -5.36 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            2 |     3769 | 2024-03-08 | Nexus             | L   | 0.193      | -            | -                | -                | -         |    -2.41 | bondik, guthriee, j3kie, Smash, t3ns1on |
-|            1 |     3826 | 2024-03-06 | CYBERSHOKE        | W   | 0.180      | -            | -                | -                | -         |     2.09 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           28 |       18 | 2024-08-06 | Lilmix            | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.095 (0.014)    | 0 (0.000) |    15.44 | bondik, j3kie, Marix, Smash, t3ns1on    |
+|           27 |      173 | 2024-08-01 | Meteor            | L   | 1.000      | -            | -                | -                | -         |   -19.02 | bondik, j3kie, Marix, Smash, t3ns1on    |
+|           26 |      490 | 2024-07-23 | Rhyno             | L   | 1.000      | -            | -                | -                | -         |   -10.02 | bondik, j3kie, Marix, Smash, t3ns1on    |
+|           25 |      791 | 2024-07-16 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.37 | bondik, j3kie, Marix, Smash, t3ns1on    |
+|           24 |     1046 | 2024-06-16 | Zero Tenacity     | L   | 0.860      | -            | -                | -                | -         |    -5.50 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           23 |     1076 | 2024-06-15 | 9INE              | W   | 0.853      | -            | -                | -                | 0 (0.000) |     4.58 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           22 |     1114 | 2024-06-14 | ARCRED            | L   | 0.847      | -            | -                | -                | -         |    -8.98 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           21 |     1183 | 2024-06-12 | Nemiga            | W   | 0.833      | 0.143        | 0.314 (0.037)    | 0.704 (0.084)    | 0 (0.000) |    22.76 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           20 |     1205 | 2024-06-11 | Nexus             | W   | 0.827      | 0.143        | 0.014 (0.002)    | 0.447 (0.053)    | 0 (0.000) |    10.58 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           19 |     1443 | 2024-06-06 | Zero Tenacity     | L   | 0.794      | -            | -                | -                | -         |    -3.73 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           18 |     1472 | 2024-06-06 | 1WIN              | W   | 0.792      | 0.372        | 0.033 (0.010)    | 0.718 (0.212)    | 0 (0.000) |    18.78 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           17 |     1574 | 2024-06-04 | RUSTEC            | W   | 0.779      | -            | -                | -                | 0 (0.000) |     2.55 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           16 |     1623 | 2024-06-02 | JANO              | W   | 0.765      | -            | -                | -                | 0 (0.000) |     8.36 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           15 |     1683 | 2024-05-31 | Sangal            | L   | 0.753      | -            | -                | -                | -         |    -2.78 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           14 |     1691 | 2024-05-31 | SAW               | L   | 0.752      | -            | -                | -                | -         |    -2.16 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           13 |     1704 | 2024-05-30 | ARCRED            | L   | 0.747      | -            | -                | -                | -         |    -7.91 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           12 |     1734 | 2024-05-29 | Aurora Young Blud | W   | 0.740      | 0.372        | 0.019 (0.005)    | 0.522 (0.144)    | 0 (0.000) |    14.92 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           11 |     2303 | 2024-05-10 | Johnny Speeds     | L   | 0.611      | -            | -                | -                | -         |    -1.08 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|           10 |     3255 | 2024-04-03 | Metizport         | L   | 0.366      | -            | -                | -                | -         |    -3.65 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            9 |     3285 | 2024-04-02 | Ninjas in Pyjamas | L   | 0.360      | -            | -                | -                | -         |    -0.07 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            8 |     3292 | 2024-04-02 | GamerLegion       | W   | 0.359      | 0.143        | 0.173 (0.009)    | 0.259 (0.013)    | 0 (0.000) |     9.91 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            7 |     3318 | 2024-03-31 | Passion UA        | W   | 0.346      | 0.276        | 0.173 (0.017)    | 1.000 (0.095)    | -         |     9.01 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            6 |     3323 | 2024-03-30 | L&G               | W   | 0.339      | -            | -                | -                | -         |     2.04 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            5 |     3380 | 2024-03-27 | ALTERNATE aTTaX   | W   | 0.321      | 0.143        | 0.031 (0.001)    | 0.537 (0.025)    | -         |     7.81 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            4 |     3389 | 2024-03-27 | BetBoom           | W   | 0.320      | 0.143        | 0.248 (0.011)    | 0.513 (0.023)    | -         |     9.83 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            3 |     3726 | 2024-03-10 | AURA              | L   | 0.207      | -            | -                | -                | -         |    -5.36 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            2 |     3770 | 2024-03-08 | Nexus             | L   | 0.193      | -            | -                | -                | -         |    -2.41 | bondik, guthriee, j3kie, Smash, t3ns1on |
+|            1 |     3827 | 2024-03-06 | CYBERSHOKE        | W   | 0.180      | -            | -                | -                | -         |     2.09 | bondik, guthriee, j3kie, Smash, t3ns1on |
 
 <br />
 <span id="table2"></span><br />

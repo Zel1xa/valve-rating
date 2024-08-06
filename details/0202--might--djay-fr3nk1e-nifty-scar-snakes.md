@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           29 |     1859 | 2024-05-22 | Limitless        | L   | 0.696      | -            | -                | -                | -         |    -4.02 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           28 |     1864 | 2024-05-22 | Limitless        | L   | 0.696      | -            | -                | -                | -         |    -4.17 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           27 |     1941 | 2024-05-20 | Take Flyte       | L   | 0.683      | -            | -                | -                | -         |    -6.62 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           26 |     1945 | 2024-05-20 | Take Flyte       | W   | 0.682      | 0.477        | 0.002 (0.001)    | 0.231 (0.075)    | 0 (0.000) |    15.28 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           25 |     2105 | 2024-05-15 | FLUFFY AIMERS    | L   | 0.649      | -            | -                | -                | -         |    -4.48 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           24 |     2112 | 2024-05-15 | FLUFFY AIMERS    | L   | 0.649      | -            | -                | -                | -         |    -4.66 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           23 |     2165 | 2024-05-14 | BOSS             | L   | 0.642      | -            | -                | -                | -         |    -3.49 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           22 |     2173 | 2024-05-14 | BOSS             | L   | 0.642      | -            | -                | -                | -         |    -3.60 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           21 |     2308 | 2024-05-09 | Wildcard         | L   | 0.609      | -            | -                | -                | -         |    -2.17 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           20 |     2311 | 2024-05-09 | Wildcard         | L   | 0.609      | -            | -                | -                | -         |    -2.21 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           19 |     2326 | 2024-05-08 | Elevate          | L   | 0.603      | -            | -                | -                | -         |    -1.45 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           18 |     2328 | 2024-05-08 | Elevate          | L   | 0.602      | -            | -                | -                | -         |    -1.47 | djay, Fr3nk1e, Nifty, scar, Snakes |
-|           17 |     2993 | 2024-04-10 | Phoenix          | W   | 0.416      | 0.477        | 0.004 (0.001)    | 0.270 (0.054)    | 0 (0.000) |    10.11 | danss, djay, Nifty, scar, Snakes   |
-|           16 |     2998 | 2024-04-10 | Phoenix          | L   | 0.416      | -            | -                | -                | -         |    -3.00 | danss, djay, Nifty, scar, Snakes   |
-|           15 |     3046 | 2024-04-09 | Nouns            | L   | 0.409      | -            | -                | -                | -         |    -1.33 | danss, djay, Louie, scar, Snakes   |
-|           14 |     3050 | 2024-04-09 | Nouns            | L   | 0.409      | -            | -                | -                | -         |    -1.35 | danss, djay, Nifty, scar, Snakes   |
-|           13 |     3177 | 2024-04-04 | Party Astronauts | L   | 0.376      | -            | -                | -                | -         |    -1.14 | danss, djay, Nifty, scar, Snakes   |
-|           12 |     3184 | 2024-04-04 | Party Astronauts | L   | 0.376      | -            | -                | -                | -         |    -1.15 | danss, djay, Nifty, scar, Snakes   |
-|           11 |     3353 | 2024-03-27 | Limitless        | L   | 0.323      | -            | -                | -                | -         |    -3.43 | danss, djay, Nifty, scar, Snakes   |
-|           10 |     3359 | 2024-03-27 | Limitless        | L   | 0.323      | -            | -                | -                | -         |    -3.52 | danss, djay, Nifty, scar, Snakes   |
-|            9 |     3404 | 2024-03-26 | NRG              | L   | 0.316      | -            | -                | -                | -         |    -1.50 | danss, djay, Nifty, scar, Snakes   |
-|            8 |     3409 | 2024-03-26 | NRG              | L   | 0.316      | -            | -                | -                | -         |    -1.52 | danss, djay, Nifty, scar, Snakes   |
-|            7 |     3809 | 2024-03-06 | LAG              | L   | 0.183      | -            | -                | -                | -         |    -0.95 | danss, djay, Nifty, scar, Snakes   |
-|            6 |     3810 | 2024-03-06 | LAG              | W   | 0.183      | 0.477        | 0.012 (0.001)    | 0.376 (0.033)    | 0 (0.000) |     4.84 | danss, djay, Nifty, scar, Snakes   |
-|            5 |     3848 | 2024-03-05 | Mythic           | W   | 0.176      | 0.477        | 0.010 (0.001)    | 0.285 (0.024)    | 0 (0.000) |     4.46 | danss, djay, Nifty, scar, Snakes   |
-|            4 |     3850 | 2024-03-05 | Mythic           | W   | 0.176      | 0.477        | 0.010 (0.001)    | 0.285 (0.024)    | 0 (0.000) |     4.50 | danss, djay, Nifty, scar, Snakes   |
-|            3 |     4099 | 2024-02-22 | Liquid           | L   | 0.095      | -            | -                | -                | -         |    -0.01 | danss, djay, Nifty, scar, Snakes   |
-|            2 |     4102 | 2024-02-22 | Phoenix          | W   | 0.095      | 0.143        | 0.004 (0.000)    | 0.270 (0.004)    | 0 (0.000) |     2.29 | danss, djay, Nifty, scar, Snakes   |
-|            1 |     4249 | 2024-02-16 | Rocket           | L   | 0.055      | -            | -                | -                | -         |    -0.97 | danss, djay, Nifty, scar, Snakes   |
+|           29 |     1860 | 2024-05-22 | Limitless        | L   | 0.696      | -            | -                | -                | -         |    -4.02 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           28 |     1865 | 2024-05-22 | Limitless        | L   | 0.696      | -            | -                | -                | -         |    -4.17 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           27 |     1942 | 2024-05-20 | Take Flyte       | L   | 0.683      | -            | -                | -                | -         |    -6.62 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           26 |     1946 | 2024-05-20 | Take Flyte       | W   | 0.682      | 0.477        | 0.002 (0.001)    | 0.231 (0.075)    | 0 (0.000) |    15.28 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           25 |     2106 | 2024-05-15 | FLUFFY AIMERS    | L   | 0.649      | -            | -                | -                | -         |    -4.48 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           24 |     2113 | 2024-05-15 | FLUFFY AIMERS    | L   | 0.649      | -            | -                | -                | -         |    -4.66 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           23 |     2166 | 2024-05-14 | BOSS             | L   | 0.642      | -            | -                | -                | -         |    -3.49 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           22 |     2174 | 2024-05-14 | BOSS             | L   | 0.642      | -            | -                | -                | -         |    -3.60 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           21 |     2309 | 2024-05-09 | Wildcard         | L   | 0.609      | -            | -                | -                | -         |    -2.17 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           20 |     2312 | 2024-05-09 | Wildcard         | L   | 0.609      | -            | -                | -                | -         |    -2.21 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           19 |     2327 | 2024-05-08 | Elevate          | L   | 0.603      | -            | -                | -                | -         |    -1.45 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           18 |     2329 | 2024-05-08 | Elevate          | L   | 0.602      | -            | -                | -                | -         |    -1.47 | djay, Fr3nk1e, Nifty, scar, Snakes |
+|           17 |     2994 | 2024-04-10 | Phoenix          | W   | 0.416      | 0.477        | 0.004 (0.001)    | 0.270 (0.054)    | 0 (0.000) |    10.11 | danss, djay, Nifty, scar, Snakes   |
+|           16 |     2999 | 2024-04-10 | Phoenix          | L   | 0.416      | -            | -                | -                | -         |    -3.00 | danss, djay, Nifty, scar, Snakes   |
+|           15 |     3047 | 2024-04-09 | Nouns            | L   | 0.409      | -            | -                | -                | -         |    -1.33 | danss, djay, Louie, scar, Snakes   |
+|           14 |     3051 | 2024-04-09 | Nouns            | L   | 0.409      | -            | -                | -                | -         |    -1.35 | danss, djay, Nifty, scar, Snakes   |
+|           13 |     3178 | 2024-04-04 | Party Astronauts | L   | 0.376      | -            | -                | -                | -         |    -1.14 | danss, djay, Nifty, scar, Snakes   |
+|           12 |     3185 | 2024-04-04 | Party Astronauts | L   | 0.376      | -            | -                | -                | -         |    -1.15 | danss, djay, Nifty, scar, Snakes   |
+|           11 |     3354 | 2024-03-27 | Limitless        | L   | 0.323      | -            | -                | -                | -         |    -3.43 | danss, djay, Nifty, scar, Snakes   |
+|           10 |     3360 | 2024-03-27 | Limitless        | L   | 0.323      | -            | -                | -                | -         |    -3.52 | danss, djay, Nifty, scar, Snakes   |
+|            9 |     3405 | 2024-03-26 | NRG              | L   | 0.316      | -            | -                | -                | -         |    -1.50 | danss, djay, Nifty, scar, Snakes   |
+|            8 |     3410 | 2024-03-26 | NRG              | L   | 0.316      | -            | -                | -                | -         |    -1.52 | danss, djay, Nifty, scar, Snakes   |
+|            7 |     3810 | 2024-03-06 | LAG              | L   | 0.183      | -            | -                | -                | -         |    -0.95 | danss, djay, Nifty, scar, Snakes   |
+|            6 |     3811 | 2024-03-06 | LAG              | W   | 0.183      | 0.477        | 0.012 (0.001)    | 0.376 (0.033)    | 0 (0.000) |     4.84 | danss, djay, Nifty, scar, Snakes   |
+|            5 |     3849 | 2024-03-05 | Mythic           | W   | 0.176      | 0.477        | 0.010 (0.001)    | 0.285 (0.024)    | 0 (0.000) |     4.46 | danss, djay, Nifty, scar, Snakes   |
+|            4 |     3851 | 2024-03-05 | Mythic           | W   | 0.176      | 0.477        | 0.010 (0.001)    | 0.285 (0.024)    | 0 (0.000) |     4.50 | danss, djay, Nifty, scar, Snakes   |
+|            3 |     4100 | 2024-02-22 | Liquid           | L   | 0.095      | -            | -                | -                | -         |    -0.01 | danss, djay, Nifty, scar, Snakes   |
+|            2 |     4103 | 2024-02-22 | Phoenix          | W   | 0.095      | 0.143        | 0.004 (0.000)    | 0.270 (0.004)    | 0 (0.000) |     2.29 | danss, djay, Nifty, scar, Snakes   |
+|            1 |     4250 | 2024-02-16 | Rocket           | L   | 0.055      | -            | -                | -                | -         |    -0.97 | danss, djay, Nifty, scar, Snakes   |
 
 <br />
 <span id="table2"></span><br />

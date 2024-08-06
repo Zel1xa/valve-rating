@@ -37,22 +37,22 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     2565 | 2024-04-27 | M80             | L   | 0.526      | -            | -                | -                | -         |    -1.13 | advent, JamYoung, kaze, Mercury, zdr    |
-|           15 |     2585 | 2024-04-26 | Sharks          | W   | 0.520      | 0.889        | 0.020 (0.009)    | 0.031 (0.014)    | 1 (0.520) |     8.12 | advent, JamYoung, kaze, Mercury, zdr    |
-|           14 |     2623 | 2024-04-25 | Falcons         | L   | 0.512      | -            | -                | -                | -         |    -0.43 | advent, JamYoung, kaze, Mercury, zdr    |
-|           13 |     2644 | 2024-04-24 | G2              | L   | 0.505      | -            | -                | -                | -         |    -0.02 | advent, JamYoung, kaze, Mercury, zdr    |
-|           12 |     2779 | 2024-04-19 | Rare Atom       | L   | 0.471      | -            | -                | -                | -         |    -5.32 | advent, JamYoung, kaze, Mercury, zdr    |
-|           11 |     2819 | 2024-04-18 | The MongolZ     | L   | 0.466      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
-|           10 |     2831 | 2024-04-18 | Lynn Vision     | W   | 0.465      | 0.143        | 0.086 (0.006)    | 0.182 (0.012)    | 0 (0.000) |    12.35 | advent, JamYoung, kaze, Mercury, zdr    |
-|            9 |     2858 | 2024-04-17 | Sheer Conquer   | W   | 0.459      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.69 | advent, JamYoung, kaze, Mercury, zdr    |
-|            8 |     2862 | 2024-04-17 | The Huns        | W   | 0.458      | 0.143        | 0.000 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     1.72 | advent, JamYoung, kaze, Mercury, zdr    |
-|            7 |     3116 | 2024-04-08 | Lynn Vision     | L   | 0.399      | -            | -                | -                | -         |    -1.90 | advent, JamYoung, kaze, Mercury, zdr    |
-|            6 |     3126 | 2024-04-07 | MOUZ            | L   | 0.397      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
-|            5 |     3660 | 2024-03-13 | LYG             | L   | 0.225      | -            | -                | -                | -         |    -4.08 | advent, JamYoung, lyrics3, Mercury, zdr |
-|            4 |     3667 | 2024-03-13 | padaem Holodnie | W   | 0.225      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.82 | advent, JamYoung, lyrics3, Mercury, zdr |
-|            3 |     4016 | 2024-02-26 | ATOX            | L   | 0.124      | -            | -                | -                | -         |    -1.41 | advent, aumaN, JamYoung, kaze, Mercury  |
-|            2 |     4028 | 2024-02-25 | Lynn Vision     | L   | 0.117      | -            | -                | -                | -         |    -0.60 | advent, aumaN, JamYoung, kaze, Mercury  |
-|            1 |     4030 | 2024-02-25 | JiJieHao        | W   | 0.117      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.117) |     0.44 | advent, aumaN, JamYoung, kaze, Mercury  |
+|           16 |     2566 | 2024-04-27 | M80             | L   | 0.526      | -            | -                | -                | -         |    -1.13 | advent, JamYoung, kaze, Mercury, zdr    |
+|           15 |     2586 | 2024-04-26 | Sharks          | W   | 0.520      | 0.889        | 0.020 (0.009)    | 0.031 (0.014)    | 1 (0.520) |     8.12 | advent, JamYoung, kaze, Mercury, zdr    |
+|           14 |     2624 | 2024-04-25 | Falcons         | L   | 0.512      | -            | -                | -                | -         |    -0.43 | advent, JamYoung, kaze, Mercury, zdr    |
+|           13 |     2645 | 2024-04-24 | G2              | L   | 0.505      | -            | -                | -                | -         |    -0.02 | advent, JamYoung, kaze, Mercury, zdr    |
+|           12 |     2780 | 2024-04-19 | Rare Atom       | L   | 0.471      | -            | -                | -                | -         |    -5.32 | advent, JamYoung, kaze, Mercury, zdr    |
+|           11 |     2820 | 2024-04-18 | The MongolZ     | L   | 0.466      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
+|           10 |     2832 | 2024-04-18 | Lynn Vision     | W   | 0.465      | 0.143        | 0.086 (0.006)    | 0.182 (0.012)    | 0 (0.000) |    12.35 | advent, JamYoung, kaze, Mercury, zdr    |
+|            9 |     2859 | 2024-04-17 | Sheer Conquer   | W   | 0.459      | 0.143        | 0.000 (0.000)    | 0.018 (0.001)    | 0 (0.000) |     2.69 | advent, JamYoung, kaze, Mercury, zdr    |
+|            8 |     2863 | 2024-04-17 | The Huns        | W   | 0.458      | 0.143        | 0.000 (0.000)    | 0.001 (0.000)    | 0 (0.000) |     1.72 | advent, JamYoung, kaze, Mercury, zdr    |
+|            7 |     3117 | 2024-04-08 | Lynn Vision     | L   | 0.399      | -            | -                | -                | -         |    -1.90 | advent, JamYoung, kaze, Mercury, zdr    |
+|            6 |     3127 | 2024-04-07 | MOUZ            | L   | 0.397      | -            | -                | -                | -         |    -0.03 | advent, JamYoung, kaze, Mercury, zdr    |
+|            5 |     3661 | 2024-03-13 | LYG             | L   | 0.225      | -            | -                | -                | -         |    -4.08 | advent, JamYoung, lyrics3, Mercury, zdr |
+|            4 |     3668 | 2024-03-13 | padaem Holodnie | W   | 0.225      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.82 | advent, JamYoung, lyrics3, Mercury, zdr |
+|            3 |     4017 | 2024-02-26 | ATOX            | L   | 0.124      | -            | -                | -                | -         |    -1.41 | advent, aumaN, JamYoung, kaze, Mercury  |
+|            2 |     4029 | 2024-02-25 | Lynn Vision     | L   | 0.117      | -            | -                | -                | -         |    -0.60 | advent, aumaN, JamYoung, kaze, Mercury  |
+|            1 |     4031 | 2024-02-25 | JiJieHao        | W   | 0.117      | 0.143        | 0.000 (0.000)    | 0.005 (0.000)    | 1 (0.117) |     0.44 | advent, aumaN, JamYoung, kaze, Mercury  |
 
 <br />
 <span id="table2"></span><br />

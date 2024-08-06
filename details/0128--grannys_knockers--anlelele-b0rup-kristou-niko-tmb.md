@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2344 | 2024-05-08 | Sashi             | L   | 0.599      | -            | -                | -                | -         |    -1.64 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            9 |     2368 | 2024-05-07 | Gaimin Gladiators | W   | 0.591      | 0.396        | 0.037 (0.009)    | 0.331 (0.077)    | 0 (0.000) |    14.48 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            8 |     2383 | 2024-05-06 | brazylijski luz   | W   | 0.584      | 0.396        | 0.008 (0.002)    | 0.250 (0.058)    | 0 (0.000) |    11.08 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            7 |     2459 | 2024-05-02 | Endpoint          | L   | 0.559      | -            | -                | -                | -         |    -5.24 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            6 |     2529 | 2024-04-29 | MOUZ NXT          | L   | 0.538      | -            | -                | -                | -         |    -3.00 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            5 |     2548 | 2024-04-28 | Nemiga            | W   | 0.532      | 0.435        | 0.314 (0.073)    | 0.704 (0.163)    | 0 (0.000) |    15.22 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            4 |     2625 | 2024-04-25 | Nexus             | W   | 0.512      | 0.435        | 0.014 (0.003)    | 0.447 (0.099)    | 0 (0.000) |    10.08 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            3 |     2668 | 2024-04-23 | Sangal            | L   | 0.498      | -            | -                | -                | -         |    -1.52 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            2 |     2671 | 2024-04-22 | Zero Tenacity     | L   | 0.493      | -            | -                | -                | -         |    -2.12 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            1 |     2683 | 2024-04-22 | Permitta          | L   | 0.491      | -            | -                | -                | -         |    -3.26 | b0RUP, Kristou, niko, refrezh, TMB  |
+|           10 |     2345 | 2024-05-08 | Sashi             | L   | 0.599      | -            | -                | -                | -         |    -1.64 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            9 |     2369 | 2024-05-07 | Gaimin Gladiators | W   | 0.591      | 0.396        | 0.037 (0.009)    | 0.331 (0.077)    | 0 (0.000) |    14.48 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            8 |     2384 | 2024-05-06 | brazylijski luz   | W   | 0.584      | 0.396        | 0.008 (0.002)    | 0.250 (0.058)    | 0 (0.000) |    11.08 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            7 |     2460 | 2024-05-02 | Endpoint          | L   | 0.559      | -            | -                | -                | -         |    -5.24 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            6 |     2530 | 2024-04-29 | MOUZ NXT          | L   | 0.538      | -            | -                | -                | -         |    -3.00 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            5 |     2549 | 2024-04-28 | Nemiga            | W   | 0.532      | 0.435        | 0.314 (0.073)    | 0.704 (0.163)    | 0 (0.000) |    15.22 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            4 |     2626 | 2024-04-25 | Nexus             | W   | 0.512      | 0.435        | 0.014 (0.003)    | 0.447 (0.099)    | 0 (0.000) |    10.08 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            3 |     2669 | 2024-04-23 | Sangal            | L   | 0.498      | -            | -                | -                | -         |    -1.52 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            2 |     2672 | 2024-04-22 | Zero Tenacity     | L   | 0.493      | -            | -                | -                | -         |    -2.12 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            1 |     2684 | 2024-04-22 | Permitta          | L   | 0.491      | -            | -                | -                | -         |    -3.26 | b0RUP, Kristou, niko, refrezh, TMB  |
 
 <br />
 <span id="table2"></span><br />

@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           35 |      272 | 2024-07-30 | Above The Rest     | L   | 1.000      | -            | -                | -                | -         |   -22.79 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           34 |      493 | 2024-07-23 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |    14.49 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           33 |      497 | 2024-07-23 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |    15.83 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           32 |      520 | 2024-07-22 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    15.50 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           31 |      522 | 2024-07-22 | Arcade             | L   | 1.000      | -            | -                | -                | -         |   -16.02 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           30 |     1893 | 2024-05-22 | Bad News Kangaroos | L   | 0.692      | -            | -                | -                | -         |    -6.65 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           29 |     1898 | 2024-05-22 | Bad News Kangaroos | L   | 0.691      | -            | -                | -                | -         |    -7.01 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           28 |     2148 | 2024-05-15 | DXA                | W   | 0.645      | 0.333        | 0.002 (0.000)    | 0.217 (0.047)    | 0 (0.000) |     9.53 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           27 |     2155 | 2024-05-15 | DXA                | W   | 0.645      | 0.333        | 0.002 (0.000)    | 0.217 (0.047)    | 0 (0.000) |    10.09 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           26 |     2345 | 2024-05-08 | Rooster            | L   | 0.598      | -            | -                | -                | -         |    -5.89 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           25 |     2348 | 2024-05-08 | Rooster            | L   | 0.598      | -            | -                | -                | -         |    -6.16 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
-|           24 |     2601 | 2024-04-26 | Rooster            | L   | 0.518      | -            | -                | -                | -         |    -5.57 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           23 |     2605 | 2024-04-25 | MIBR               | L   | 0.516      | -            | -                | -                | -         |    -0.22 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           22 |     2861 | 2024-04-17 | Mindfreak          | L   | 0.458      | -            | -                | -                | -         |    -7.02 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs    |
-|           21 |     3035 | 2024-04-10 | Canon Event        | W   | 0.411      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.32 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           20 |     3040 | 2024-04-10 | Canon Event        | W   | 0.411      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.42 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           19 |     3261 | 2024-04-03 | Vantage            | L   | 0.365      | -            | -                | -                | -         |    -6.08 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           18 |     3268 | 2024-04-03 | Vantage            | L   | 0.365      | -            | -                | -                | -         |    -6.27 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           17 |     3394 | 2024-03-27 | FlyQuest           | L   | 0.318      | -            | -                | -                | -         |    -0.70 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           16 |     3399 | 2024-03-27 | FlyQuest           | L   | 0.318      | -            | -                | -                | -         |    -0.70 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           15 |     3442 | 2024-03-23 | Arcade             | W   | 0.291      | 0.315        | 0.002 (0.000)    | 0.130 (0.012)    | 1 (0.291) |     4.53 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           14 |     3443 | 2024-03-23 | DXA                | L   | 0.291      | -            | -                | -                | -         |    -4.55 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
-|           13 |     3663 | 2024-03-13 | RKON               | L   | 0.225      | -            | -                | -                | -         |    -5.29 | bebest, Estate, Hassie, Mingovi, Samuukxs  |
-|           12 |     3670 | 2024-03-13 | RKON               | W   | 0.225      | 0.333        | -                | 0.029 (0.002)    | 0 (0.000) |     1.82 | bebest, Estate, Hassie, Mingovi, Samuukxs  |
-|           11 |     3838 | 2024-03-06 | Arcade             | L   | 0.178      | -            | -                | -                | -         |    -2.92 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|           10 |     3844 | 2024-03-06 | Arcade             | L   | 0.178      | -            | -                | -                | -         |    -2.96 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            9 |     4141 | 2024-02-21 | Mindfreak          | L   | 0.085      | -            | -                | -                | -         |    -1.47 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            8 |     4146 | 2024-02-21 | Mindfreak          | L   | 0.085      | -            | -                | -                | -         |    -1.48 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            7 |     4174 | 2024-02-20 | Cringexe           | L   | 0.078      | -            | -                | -                | -         |    -1.91 | dpr, Estate, Hassie, Mingovi, Samuukxs     |
-|            6 |     4219 | 2024-02-18 | Arcade             | L   | 0.065      | -            | -                | -                | -         |    -1.10 | dpr, Hassie, Lexon, Mingovi, Samuukxs      |
-|            5 |     4273 | 2024-02-16 | sunday school      | L   | 0.052      | -            | -                | -                | -         |    -0.98 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            4 |     4301 | 2024-02-15 | sunday school      | W   | 0.045      | 0.143        | 0.003 (0.000)    | -                | 0 (0.000) |     0.56 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            3 |     4302 | 2024-02-14 | Vantage            | W   | 0.044      | 0.143        | -                | 0.064 (0.000)    | -         |     0.59 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            2 |     4343 | 2024-02-13 | Mindfreak          | W   | 0.037      | 0.143        | 0.004 (0.000)    | 0.047 (0.000)    | -         |     0.52 | Estate, Hassie, Mingovi, pain, Samuukxs    |
-|            1 |     4368 | 2024-02-13 | RKON               | W   | 0.031      | 0.143        | -                | 0.029 (0.000)    | -         |     0.24 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|           35 |      273 | 2024-07-30 | Above The Rest     | L   | 1.000      | -            | -                | -                | -         |   -22.79 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           34 |      494 | 2024-07-23 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |    14.49 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           33 |      498 | 2024-07-23 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.217 (0.072)    | 0 (0.000) |    15.83 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           32 |      521 | 2024-07-22 | Arcade             | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.130 (0.043)    | 0 (0.000) |    15.50 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           31 |      523 | 2024-07-22 | Arcade             | L   | 1.000      | -            | -                | -                | -         |   -16.02 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           30 |     1894 | 2024-05-22 | Bad News Kangaroos | L   | 0.692      | -            | -                | -                | -         |    -6.65 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           29 |     1899 | 2024-05-22 | Bad News Kangaroos | L   | 0.691      | -            | -                | -                | -         |    -7.01 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           28 |     2149 | 2024-05-15 | DXA                | W   | 0.645      | 0.333        | 0.002 (0.000)    | 0.217 (0.047)    | 0 (0.000) |     9.53 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           27 |     2156 | 2024-05-15 | DXA                | W   | 0.645      | 0.333        | 0.002 (0.000)    | 0.217 (0.047)    | 0 (0.000) |    10.09 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           26 |     2346 | 2024-05-08 | Rooster            | L   | 0.598      | -            | -                | -                | -         |    -5.89 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           25 |     2349 | 2024-05-08 | Rooster            | L   | 0.598      | -            | -                | -                | -         |    -6.16 | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs |
+|           24 |     2602 | 2024-04-26 | Rooster            | L   | 0.518      | -            | -                | -                | -         |    -5.57 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           23 |     2606 | 2024-04-25 | MIBR               | L   | 0.516      | -            | -                | -                | -         |    -0.22 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           22 |     2862 | 2024-04-17 | Mindfreak          | L   | 0.458      | -            | -                | -                | -         |    -7.02 | Hassie, Jynx, KRAXYT, Mingovi, Samuukxs    |
+|           21 |     3036 | 2024-04-10 | Canon Event        | W   | 0.411      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.32 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           20 |     3041 | 2024-04-10 | Canon Event        | W   | 0.411      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     3.42 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           19 |     3262 | 2024-04-03 | Vantage            | L   | 0.365      | -            | -                | -                | -         |    -6.08 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           18 |     3269 | 2024-04-03 | Vantage            | L   | 0.365      | -            | -                | -                | -         |    -6.27 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           17 |     3395 | 2024-03-27 | FlyQuest           | L   | 0.318      | -            | -                | -                | -         |    -0.70 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           16 |     3400 | 2024-03-27 | FlyQuest           | L   | 0.318      | -            | -                | -                | -         |    -0.70 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           15 |     3443 | 2024-03-23 | Arcade             | W   | 0.291      | 0.315        | 0.002 (0.000)    | 0.130 (0.012)    | 1 (0.291) |     4.53 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           14 |     3444 | 2024-03-23 | DXA                | L   | 0.291      | -            | -                | -                | -         |    -4.55 | Estate, Hassie, KRAXYT, Mingovi, Samuukxs  |
+|           13 |     3664 | 2024-03-13 | RKON               | L   | 0.225      | -            | -                | -                | -         |    -5.29 | bebest, Estate, Hassie, Mingovi, Samuukxs  |
+|           12 |     3671 | 2024-03-13 | RKON               | W   | 0.225      | 0.333        | -                | 0.029 (0.002)    | 0 (0.000) |     1.82 | bebest, Estate, Hassie, Mingovi, Samuukxs  |
+|           11 |     3839 | 2024-03-06 | Arcade             | L   | 0.178      | -            | -                | -                | -         |    -2.92 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|           10 |     3845 | 2024-03-06 | Arcade             | L   | 0.178      | -            | -                | -                | -         |    -2.96 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            9 |     4142 | 2024-02-21 | Mindfreak          | L   | 0.085      | -            | -                | -                | -         |    -1.47 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            8 |     4147 | 2024-02-21 | Mindfreak          | L   | 0.085      | -            | -                | -                | -         |    -1.48 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            7 |     4175 | 2024-02-20 | Cringexe           | L   | 0.078      | -            | -                | -                | -         |    -1.91 | dpr, Estate, Hassie, Mingovi, Samuukxs     |
+|            6 |     4220 | 2024-02-18 | Arcade             | L   | 0.065      | -            | -                | -                | -         |    -1.10 | dpr, Hassie, Lexon, Mingovi, Samuukxs      |
+|            5 |     4274 | 2024-02-16 | sunday school      | L   | 0.052      | -            | -                | -                | -         |    -0.98 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            4 |     4302 | 2024-02-15 | sunday school      | W   | 0.045      | 0.143        | 0.003 (0.000)    | -                | 0 (0.000) |     0.56 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            3 |     4303 | 2024-02-14 | Vantage            | W   | 0.044      | 0.143        | -                | 0.064 (0.000)    | -         |     0.59 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            2 |     4344 | 2024-02-13 | Mindfreak          | W   | 0.037      | 0.143        | 0.004 (0.000)    | 0.047 (0.000)    | -         |     0.52 | Estate, Hassie, Mingovi, pain, Samuukxs    |
+|            1 |     4369 | 2024-02-13 | RKON               | W   | 0.031      | 0.143        | -                | 0.029 (0.000)    | -         |     0.24 | Estate, Hassie, Mingovi, pain, Samuukxs    |
 
 <br />
 <span id="table2"></span><br />
