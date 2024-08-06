@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1657 | 2024-06-01 | WOPA          | W   | 0.758      | 0.143        | 0.001 (0.000)    | 0.121 (0.013)    | 0 (0.000) |    13.72 | ANeraX, b1elany, phr, splawik, ultimate |
-|            9 |     2569 | 2024-04-27 | EYEBALLERS    | L   | 0.525      | -            | -                | -                | -         |    -2.19 | ANeraX, Furlan, keis, phr, ultimate     |
-|            8 |     2595 | 2024-04-26 | Zero Tenacity | L   | 0.518      | -            | -                | -                | -         |    -0.97 | ANeraX, Furlan, keis, phr, ultimate     |
-|            7 |     2659 | 2024-04-23 | Nexus         | W   | 0.499      | 0.435        | 0.014 (0.003)    | 0.447 (0.097)    | 0 (0.000) |    13.33 | ANeraX, Furlan, keis, phr, ultimate     |
-|            6 |     2685 | 2024-04-21 | BLEED         | L   | 0.487      | -            | -                | -                | -         |    -0.92 | ANeraX, Furlan, keis, phr, ultimate     |
-|            5 |     2724 | 2024-04-20 | Viperio       | W   | 0.479      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     9.54 | ANeraX, Furlan, keis, phr, ultimate     |
-|            4 |     2798 | 2024-04-18 | Portugal      | W   | 0.467      | 0.143        | 0.003 (0.000)    | 0.115 (0.008)    | 0 (0.000) |    10.54 | ANeraX, Furlan, keis, phr, ultimate     |
-|            3 |     2844 | 2024-04-17 | Secret        | W   | 0.461      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     7.87 | ANeraX, Furlan, keis, phr, ultimate     |
-|            2 |     3252 | 2024-04-03 | PGE Turow     | L   | 0.366      | -            | -                | -                | -         |    -3.68 | ANeraX, Furlan, keis, phr, ultimate     |
-|            1 |     3294 | 2024-04-02 | UNiTY         | L   | 0.359      | -            | -                | -                | -         |    -0.89 | ANeraX, Furlan, keis, phr, ultimate     |
+|           10 |     1658 | 2024-06-01 | WOPA          | W   | 0.758      | 0.143        | 0.001 (0.000)    | 0.121 (0.013)    | 0 (0.000) |    13.72 | ANeraX, b1elany, phr, splawik, ultimate |
+|            9 |     2570 | 2024-04-27 | EYEBALLERS    | L   | 0.525      | -            | -                | -                | -         |    -2.19 | ANeraX, Furlan, keis, phr, ultimate     |
+|            8 |     2596 | 2024-04-26 | Zero Tenacity | L   | 0.518      | -            | -                | -                | -         |    -0.97 | ANeraX, Furlan, keis, phr, ultimate     |
+|            7 |     2660 | 2024-04-23 | Nexus         | W   | 0.499      | 0.435        | 0.014 (0.003)    | 0.447 (0.097)    | 0 (0.000) |    13.33 | ANeraX, Furlan, keis, phr, ultimate     |
+|            6 |     2686 | 2024-04-21 | BLEED         | L   | 0.487      | -            | -                | -                | -         |    -0.92 | ANeraX, Furlan, keis, phr, ultimate     |
+|            5 |     2725 | 2024-04-20 | Viperio       | W   | 0.479      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     9.54 | ANeraX, Furlan, keis, phr, ultimate     |
+|            4 |     2799 | 2024-04-18 | Portugal      | W   | 0.467      | 0.143        | 0.003 (0.000)    | 0.115 (0.008)    | 0 (0.000) |    10.54 | ANeraX, Furlan, keis, phr, ultimate     |
+|            3 |     2845 | 2024-04-17 | Secret        | W   | 0.461      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     7.87 | ANeraX, Furlan, keis, phr, ultimate     |
+|            2 |     3253 | 2024-04-03 | PGE Turow     | L   | 0.366      | -            | -                | -                | -         |    -3.68 | ANeraX, Furlan, keis, phr, ultimate     |
+|            1 |     3295 | 2024-04-02 | UNiTY         | L   | 0.359      | -            | -                | -                | -         |    -0.89 | ANeraX, Furlan, keis, phr, ultimate     |
 
 <br />
 <span id="table2"></span><br />

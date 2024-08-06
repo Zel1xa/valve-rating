@@ -37,19 +37,19 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      294 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -20.20 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           12 |      325 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.67 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           11 |      372 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.99 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           10 |      875 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.49 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            9 |      879 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |    -4.43 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            8 |     1403 | 2024-06-07 | TYLOO             | L   | 0.799      | -            | -                | -                | -         |    -3.85 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            7 |     1474 | 2024-06-06 | Clutch            | W   | 0.792      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |    12.82 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            6 |     1531 | 2024-06-05 | ATOX              | L   | 0.786      | -            | -                | -                | -         |    -5.80 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
-|            5 |     4239 | 2024-02-16 | FlyQuest          | L   | 0.057      | -            | -                | -                | -         |    -0.12 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            4 |     4265 | 2024-02-16 | MAG               | L   | 0.053      | -            | -                | -                | -         |    -1.23 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            3 |     4269 | 2024-02-16 | Newhappy          | L   | 0.052      | -            | -                | -                | -         |    -1.18 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            2 |     4293 | 2024-02-15 | The Huns          | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.25 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            1 |     4333 | 2024-02-14 | ZEUS              | W   | 0.039      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|           13 |      295 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -20.20 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           12 |      326 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.67 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           11 |      373 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.99 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           10 |      876 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.49 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            9 |      880 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |    -4.43 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            8 |     1404 | 2024-06-07 | TYLOO             | L   | 0.799      | -            | -                | -                | -         |    -3.85 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            7 |     1475 | 2024-06-06 | Clutch            | W   | 0.792      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |    12.82 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            6 |     1532 | 2024-06-05 | ATOX              | L   | 0.786      | -            | -                | -                | -         |    -5.80 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
+|            5 |     4240 | 2024-02-16 | FlyQuest          | L   | 0.057      | -            | -                | -                | -         |    -0.12 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            4 |     4266 | 2024-02-16 | MAG               | L   | 0.053      | -            | -                | -                | -         |    -1.23 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            3 |     4270 | 2024-02-16 | Newhappy          | L   | 0.052      | -            | -                | -                | -         |    -1.18 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            2 |     4294 | 2024-02-15 | The Huns          | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.25 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            1 |     4334 | 2024-02-14 | ZEUS              | W   | 0.039      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
 
 <br />
 <span id="table2"></span><br />

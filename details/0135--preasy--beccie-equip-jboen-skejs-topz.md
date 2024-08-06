@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |       24 | 2024-08-05 | Young Ninjas      | L   | 1.000      | -            | -                | -                | -         |   -15.55 | Beccie, Equip, JBOEN, Skejs, tOPZ      |
-|           20 |      543 | 2024-07-21 | TSM               | L   | 1.000      | -            | -                | -                | -         |    -6.38 | AcilioN, Beccie, Equip, Griller, Skejs |
-|           19 |      598 | 2024-07-19 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -2.65 | Beccie, Equip, Griller, JBOEN, Skejs   |
-|           18 |      613 | 2024-07-19 | FORZE Reload      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.038 (0.013)    | 0 (0.000) |     6.96 | Beccie, Equip, Griller, JBOEN, Skejs   |
-|           17 |      654 | 2024-07-18 | Into the Breach   | L   | 1.000      | -            | -                | -                | -         |   -20.86 | Beccie, Equip, Griller, JBOEN, Skejs   |
-|           16 |      729 | 2024-07-17 | kONO              | W   | 1.000      | 0.333        | 0.028 (0.009)    | 0.553 (0.184)    | 0 (0.000) |    17.55 | Beccie, Equip, Griller, JBOEN, Skejs   |
-|           15 |      731 | 2024-07-17 | LEON              | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.124 (0.018)    | 0 (0.000) |    11.07 | Beccie, Equip, Griller, JBOEN, Skejs   |
-|           14 |      917 | 2024-07-10 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -8.62 | Beccie, Equip, Griller, Skejs, VireZ   |
-|           13 |     1054 | 2024-06-16 | Aurora Young Blud | L   | 0.858      | -            | -                | -                | -         |    -8.58 | Beccie, Equip, Griller, Skejs, VireZ   |
-|           12 |     1089 | 2024-06-15 | LEON              | W   | 0.852      | 0.143        | 0.007 (0.001)    | 0.124 (0.015)    | 0 (0.000) |     9.60 | Beccie, Equip, Griller, Skejs, VireZ   |
-|           11 |     1190 | 2024-06-12 | MASONIC           | W   | 0.832      | 0.143        | 0.009 (0.001)    | 0.081 (0.010)    | 0 (0.000) |    12.06 | Beccie, Equip, Griller, Skejs, VireZ   |
-|           10 |     1206 | 2024-06-11 | CYBERSHOKE        | L   | 0.826      | -            | -                | -                | -         |    -9.44 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            9 |     1753 | 2024-05-28 | Permitta          | L   | 0.732      | -            | -                | -                | -         |    -6.96 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            8 |     1792 | 2024-05-26 | Johnny Speeds     | L   | 0.719      | -            | -                | -                | -         |    -1.45 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            7 |     1885 | 2024-05-22 | ECLOT             | W   | 0.692      | 0.371        | 0.061 (0.016)    | 0.537 (0.138)    | 0 (0.000) |    19.63 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            6 |     2154 | 2024-05-15 | kONO              | L   | 0.645      | -            | -                | -                | -         |    -7.66 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            5 |     2249 | 2024-05-12 | Johnny Speeds     | W   | 0.625      | 0.333        | 0.122 (0.025)    | 1.000 (0.208)    | 0 (0.000) |    18.67 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            4 |     2283 | 2024-05-11 | Passion UA        | L   | 0.618      | -            | -                | -                | -         |    -3.48 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            3 |     2561 | 2024-04-27 | 777               | L   | 0.526      | -            | -                | -                | -         |    -9.92 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            2 |     2695 | 2024-04-21 | Astralis Talent   | L   | 0.485      | -            | -                | -                | -         |    -7.81 | Beccie, Equip, Griller, Skejs, VireZ   |
-|            1 |     2703 | 2024-04-20 | Sashi Academy     | W   | 0.481      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.481) |     1.58 | Beccie, Equip, Griller, Skejs, VireZ   |
+|           21 |       25 | 2024-08-05 | Young Ninjas      | L   | 1.000      | -            | -                | -                | -         |   -15.55 | Beccie, Equip, JBOEN, Skejs, tOPZ      |
+|           20 |      544 | 2024-07-21 | TSM               | L   | 1.000      | -            | -                | -                | -         |    -6.38 | AcilioN, Beccie, Equip, Griller, Skejs |
+|           19 |      599 | 2024-07-19 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -2.65 | Beccie, Equip, Griller, JBOEN, Skejs   |
+|           18 |      614 | 2024-07-19 | FORZE Reload      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.038 (0.013)    | 0 (0.000) |     6.96 | Beccie, Equip, Griller, JBOEN, Skejs   |
+|           17 |      655 | 2024-07-18 | Into the Breach   | L   | 1.000      | -            | -                | -                | -         |   -20.86 | Beccie, Equip, Griller, JBOEN, Skejs   |
+|           16 |      730 | 2024-07-17 | kONO              | W   | 1.000      | 0.333        | 0.028 (0.009)    | 0.553 (0.184)    | 0 (0.000) |    17.55 | Beccie, Equip, Griller, JBOEN, Skejs   |
+|           15 |      732 | 2024-07-17 | LEON              | W   | 1.000      | 0.143        | 0.007 (0.001)    | 0.124 (0.018)    | 0 (0.000) |    11.07 | Beccie, Equip, Griller, JBOEN, Skejs   |
+|           14 |      918 | 2024-07-10 | Insilio           | L   | 1.000      | -            | -                | -                | -         |    -8.62 | Beccie, Equip, Griller, Skejs, VireZ   |
+|           13 |     1055 | 2024-06-16 | Aurora Young Blud | L   | 0.858      | -            | -                | -                | -         |    -8.58 | Beccie, Equip, Griller, Skejs, VireZ   |
+|           12 |     1090 | 2024-06-15 | LEON              | W   | 0.852      | 0.143        | 0.007 (0.001)    | 0.124 (0.015)    | 0 (0.000) |     9.60 | Beccie, Equip, Griller, Skejs, VireZ   |
+|           11 |     1191 | 2024-06-12 | MASONIC           | W   | 0.832      | 0.143        | 0.009 (0.001)    | 0.081 (0.010)    | 0 (0.000) |    12.06 | Beccie, Equip, Griller, Skejs, VireZ   |
+|           10 |     1207 | 2024-06-11 | CYBERSHOKE        | L   | 0.826      | -            | -                | -                | -         |    -9.44 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            9 |     1754 | 2024-05-28 | Permitta          | L   | 0.732      | -            | -                | -                | -         |    -6.96 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            8 |     1793 | 2024-05-26 | Johnny Speeds     | L   | 0.719      | -            | -                | -                | -         |    -1.45 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            7 |     1886 | 2024-05-22 | ECLOT             | W   | 0.692      | 0.371        | 0.061 (0.016)    | 0.537 (0.138)    | 0 (0.000) |    19.63 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            6 |     2155 | 2024-05-15 | kONO              | L   | 0.645      | -            | -                | -                | -         |    -7.66 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            5 |     2250 | 2024-05-12 | Johnny Speeds     | W   | 0.625      | 0.333        | 0.122 (0.025)    | 1.000 (0.208)    | 0 (0.000) |    18.67 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            4 |     2284 | 2024-05-11 | Passion UA        | L   | 0.618      | -            | -                | -                | -         |    -3.47 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            3 |     2562 | 2024-04-27 | 777               | L   | 0.526      | -            | -                | -                | -         |    -9.92 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            2 |     2696 | 2024-04-21 | Astralis Talent   | L   | 0.485      | -            | -                | -                | -         |    -7.81 | Beccie, Equip, Griller, Skejs, VireZ   |
+|            1 |     2704 | 2024-04-20 | Sashi Academy     | W   | 0.481      | 0.318        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.481) |     1.58 | Beccie, Equip, Griller, Skejs, VireZ   |
 
 <br />
 <span id="table2"></span><br />

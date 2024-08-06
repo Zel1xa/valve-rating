@@ -45,10 +45,10 @@
 | 40       |   1128 | Sashi              | Cabbi, IceBerg, kwezz, Lucky, MistR               | [details](details/0040--sashi--cabbi-iceberg-kwezz-lucky-mistr.md)                      |
 | 41       |   1114 | PARIVISION         | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert        | [details](details/0041--parivision--alpha-artfr0st-belchonokk-patsi-qikert.md)          |
 | 42       |   1112 | Legacy             | b4rtiN, dumau, latto, NEKIZ, saadzin              | [details](details/0042--legacy--b4rtin-dumau-latto-nekiz-saadzin.md)                    |
-| 43       |   1106 | MOUZ NXT           | Burmylov, Neityu, PR, sirah, TOBIZ                | [details](details/0043--mouz_nxt--burmylov-neityu-pr-sirah-tobiz.md)                    |
-| 44       |   1104 | Monte              | DemQQ, dycha, hades, kRaSnaL, STYKO               | [details](details/0044--monte--demqq-dycha-hades-krasnal-styko.md)                      |
-| 45       |   1103 | ODDIK              | ksloks, matios, naitte, togs, WOOD7               | [details](details/0045--oddik--ksloks-matios-naitte-togs-wood7.md)                      |
-| 46       |   1102 | 9 Pandas           | clax, d1Ledez, glowiing, iDISBALANCE, shalfey     | [details](details/0046--9_pandas--clax-d1ledez-glowiing-idisbalance-shalfey.md)         |
+| 43       |   1111 | 9 Pandas           | clax, d1Ledez, glowiing, iDISBALANCE, shalfey     | [details](details/0043--9_pandas--clax-d1ledez-glowiing-idisbalance-shalfey.md)         |
+| 44       |   1106 | MOUZ NXT           | Burmylov, Neityu, PR, sirah, TOBIZ                | [details](details/0044--mouz_nxt--burmylov-neityu-pr-sirah-tobiz.md)                    |
+| 45       |   1104 | Monte              | DemQQ, dycha, hades, kRaSnaL, STYKO               | [details](details/0045--monte--demqq-dycha-hades-krasnal-styko.md)                      |
+| 46       |   1103 | ODDIK              | ksloks, matios, naitte, togs, WOOD7               | [details](details/0046--oddik--ksloks-matios-naitte-togs-wood7.md)                      |
 | 47       |   1099 | Passion UA         | fear, jackasmo, jambo, s-chilla, zeRRoFIX         | [details](details/0047--passion_ua--fear-jackasmo-jambo-s-chilla-zerrofix.md)           |
 | 48       |   1091 | ECLOT              | Blytz, Dytor, forsyy, kreaz, nbqq                 | [details](details/0048--eclot--blytz-dytor-forsyy-kreaz-nbqq.md)                        |
 | 49       |   1084 | KOI                | adamS, dav1g, JUST, mopoz, stadodo                | [details](details/0049--koi--adams-dav1g-just-mopoz-stadodo.md)                         |
@@ -87,7 +87,7 @@
 | 82       |    945 | Wildcard           | JBa, motm, SLIGHT, Sonic, stanislaw               | [details](details/0082--wildcard--jba-motm-slight-sonic-stanislaw.md)                   |
 | 83       |    939 | Rare Atom          | ChildKing, kaze, L1haNg, somebody, Summer         | [details](details/0083--rare_atom--childking-kaze-l1hang-somebody-summer.md)            |
 | 84       |    936 | 9INE               | mantuu, misutaaa, raalz, refrezh, s0und           | [details](details/0084--9ine--mantuu-misutaaa-raalz-refrezh-s0und.md)                   |
-| 85       |    932 | Gaimin Gladiators  | kraghen, nicoodoz, Nodios, Queenix, roeJ          | [details](details/0085--gaimin_gladiators--kraghen-nicoodoz-nodios-queenix-roej.md)     |
+| 85       |    933 | Gaimin Gladiators  | kraghen, nicoodoz, Nodios, Queenix, roeJ          | [details](details/0085--gaimin_gladiators--kraghen-nicoodoz-nodios-queenix-roej.md)     |
 | 86       |    932 | CYBERSHOKE         | FenomeN, levantino, lov1kus, notineki, sstiNiX    | [details](details/0086--cybershoke--fenomen-levantino-lov1kus-notineki-sstinix.md)      |
 | 87       |    931 | FORZE              | NickelBack, SELLTER, shalfey, smooya, tN1R        | [details](details/0087--forze--nickelback-sellter-shalfey-smooya-tn1r.md)               |
 | 88       |    928 | Let Her Cook       | ASTRA, Joanana, ManeschijnX, meli, RacheLL        | [details](details/0088--let_her_cook--astra-joanana-maneschijnx-meli-rachell.md)        |
@@ -100,10 +100,10 @@
 | 95       |    887 | Sampi              | fino, manguss, sAvana1, The eLiVe, ZEDKO          | [details](details/0095--sampi--fino-manguss-savana1-the_elive-zedko.md)                 |
 | 96       |    880 | Endpoint           | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal         | [details](details/0096--endpoint--azuwu-cej0t-cruc1al-mightymax-surreal.md)             |
 | 97       |    879 | KRÜ                | atarax1a, deco, laser, reversive, righi           | [details](details/0097--kr_--atarax1a-deco-laser-reversive-righi.md)                    |
-| 98       |    878 | GUN5               | easy, FinigaN, SELLTER, tN1R, xiELO               | [details](details/0098--gun5--easy-finigan-sellter-tn1r-xielo.md)                       |
-| 99       |    874 | ATOX               | Annihilation, dobu, kabal, MiQ, yAmi              | [details](details/0099--atox--annihilation-dobu-kabal-miq-yami.md)                      |
+| 98       |    874 | ATOX               | Annihilation, dobu, kabal, MiQ, yAmi              | [details](details/0098--atox--annihilation-dobu-kabal-miq-yami.md)                      |
+| 99       |    872 | GUN5               | easy, FinigaN, SELLTER, tN1R, xiELO               | [details](details/0099--gun5--easy-finigan-sellter-tn1r-xielo.md)                       |
 | 100      |    868 | The Suspect        | BledarD, Caleyy, Dementor, HYPERI1, vAloN         | [details](details/0100--the_suspect--bledard-caleyy-dementor-hyperi1-valon.md)          |
-| 101      |    865 | ALTERNATE aTTaX    | ArroW, awzek, FreeZe, hyped, PerX                 | [details](details/0101--alternate_attax--arrow-awzek-freeze-hyped-perx.md)              |
+| 101      |    866 | ALTERNATE aTTaX    | ArroW, awzek, FreeZe, hyped, PerX                 | [details](details/0101--alternate_attax--arrow-awzek-freeze-hyped-perx.md)              |
 | 102      |    863 | kONO               | amster, byr9, kensizor, Polbandana, s4ltovsk1yy   | [details](details/0102--kono--amster-byr9-kensizor-polbandana-s4ltovsk1yy.md)           |
 | 103      |    862 | Latvia             | Frip, keen, prelideN, rud, shadiy                 | [details](details/0103--latvia--frip-keen-preliden-rud-shadiy.md)                       |
 | 104      |    857 | ex-Guild Eagles    | deb0, gxx-, juanflatroo, SENER1, sinnopsyy        | [details](details/0104--ex-guild_eagles--deb0-gxx--juanflatroo-sener1-sinnopsyy.md)     |
@@ -113,7 +113,7 @@
 | 108      |    843 | Galorys            | detr0ittJ, happ, hoax, ninjaZ, Tomate             | [details](details/0108--galorys--detr0ittj-happ-hoax-ninjaz-tomate.md)                  |
 | 109      |    842 | panelinha          | annaEX, goddess, josi, Le, yungher                | [details](details/0109--panelinha--annaex-goddess-josi-le-yungher.md)                   |
 | 110      |    841 | Verdant            | arTisT, Diviiii, Extinct, Girafffe, Vacancy       | [details](details/0110--verdant--artist-diviiii-extinct-girafffe-vacancy.md)            |
-| 111      |    840 | VP.Prodigy         | b1st, dwushka, KusMe, Something, xdENiSZERA       | [details](details/0111--vp_prodigy--b1st-dwushka-kusme-something-xdeniszera.md)         |
+| 111      |    841 | VP.Prodigy         | b1st, dwushka, KusMe, Something, xdENiSZERA       | [details](details/0111--vp_prodigy--b1st-dwushka-kusme-something-xdeniszera.md)         |
 | 112      |    838 | brazylijski luz    | POLO, Prism, Qlocuu, swiz, virtuoso               | [details](details/0112--brazylijski_luz--polo-prism-qlocuu-swiz-virtuoso.md)            |
 | 113      |    838 | Hype               | history, leo_drk, MaLLby, rainny, vinaabEAST      | [details](details/0113--hype--history-leo_drk-mallby-rainny-vinaabeast.md)              |
 | 114      |    836 | Vikings KR         | honda, lukiz, realz1n, remix, zmb                 | [details](details/0114--vikings_kr--honda-lukiz-realz1n-remix-zmb.md)                   |
@@ -121,7 +121,7 @@
 | 116      |    827 | Lilmix             | bq, dex, eraa, quix, SHiNE                        | [details](details/0116--lilmix--bq-dex-eraa-quix-shine.md)                              |
 | 117      |    826 | CPH Wolves         | BøghmagiC, Fessor, sense, szejn, Tapewaare        | [details](details/0117--cph_wolves--b_ghmagic-fessor-sense-szejn-tapewaare.md)          |
 | 118      |    824 | Dusty Roots        | 1962, alexer, maxxkor, OwensinhoM, tom1jed        | [details](details/0118--dusty_roots--1962-alexer-maxxkor-owensinhom-tom1jed.md)         |
-| 119      |    820 | Alliance           | avid, b0denmaster, PlesseN, twist, upE            | [details](details/0119--alliance--avid-b0denmaster-plessen-twist-upe.md)                |
+| 119      |    821 | Alliance           | avid, b0denmaster, PlesseN, twist, upE            | [details](details/0119--alliance--avid-b0denmaster-plessen-twist-upe.md)                |
 | 120      |    819 | ex-Preasy          | Altekz, Kristou, refrezh, roeJ, TMB               | [details](details/0120--ex-preasy--altekz-kristou-refrezh-roej-tmb.md)                  |
 | 121      |    810 | Rooster            | asap, chelleos, dangeR, Hatz, TjP                 | [details](details/0121--rooster--asap-chelleos-danger-hatz-tjp.md)                      |
 | 122      |    808 | Intense            | ckzao, diozera, fREQ, keiz, mxa                   | [details](details/0122--intense--ckzao-diozera-freq-keiz-mxa.md)                        |

@@ -6,9 +6,9 @@ Global Rank: [81](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [58]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  947.5<br />
+Final Rank Value:  947.7<br />
 <br />
-Final Rank Value (947.5) = Starting Rank Value (861.2) + Head To Head Adjustments (86.4)<br />
+Final Rank Value (947.7) = Starting Rank Value (861.2) + Head To Head Adjustments (86.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |       58 | 2024-08-04 | BC.Game         | L   | 1.000      | -            | -                | -                | -         |   -15.56 | executor, kinqie, Kiro, nota, tex1y |
-|           30 |       96 | 2024-08-03 | Alliance        | W   | 1.000      | 0.342        | 0.017 (0.006)    | 0.283 (0.097)    | 0 (0.000) |    11.51 | executor, kinqie, Kiro, nota, tex1y |
-|           29 |      134 | 2024-08-02 | Astralis Talent | W   | 1.000      | 0.342        | -                | 0.156 (0.054)    | 0 (0.000) |     6.66 | executor, kinqie, Kiro, nota, tex1y |
-|           28 |      245 | 2024-07-30 | Rebels          | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    19.63 | executor, kinqie, Kiro, nota, tex1y |
-|           27 |      476 | 2024-07-23 | SINNERS         | W   | 1.000      | 0.500        | 0.037 (0.019)    | 0.800 (0.400)    | 0 (0.000) |    19.14 | executor, kinqie, Kiro, nota, tex1y |
-|           26 |      600 | 2024-07-19 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -5.32 | executor, kinqie, Kiro, nota, tex1y |
-|           25 |      718 | 2024-07-17 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |   -19.04 | executor, kinqie, Kiro, nota, tex1y |
-|           24 |      819 | 2024-07-15 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -5.23 | executor, kinqie, Kiro, nota, tex1y |
-|           23 |     1229 | 2024-06-10 | PARIVISION      | L   | 0.819      | -            | -                | -                | -         |    -7.93 | executor, kinqie, Kiro, nota, tex1y |
-|           22 |     1237 | 2024-06-10 | SAW             | L   | 0.819      | -            | -                | -                | -         |    -5.80 | executor, kinqie, Kiro, nota, tex1y |
-|           21 |     1242 | 2024-06-10 | Monte           | W   | 0.819      | 0.143        | 0.080 (0.009)    | 0.598 (0.070)    | 0 (0.000) |    15.99 | executor, kinqie, Kiro, nota, tex1y |
-|           20 |     1271 | 2024-06-09 | 9 Pandas        | W   | 0.813      | 0.143        | 0.081 (0.009)    | 0.700 (0.081)    | 0 (0.000) |    17.67 | executor, kinqie, Kiro, nota, tex1y |
-|           19 |     1280 | 2024-06-09 | Aurora          | W   | 0.813      | 0.143        | 0.420 (0.049)    | 0.758 (0.088)    | 0 (0.000) |    24.54 | executor, kinqie, Kiro, nota, tex1y |
-|           18 |     1287 | 2024-06-09 | SINNERS         | W   | 0.812      | 0.143        | 0.037 (0.004)    | 0.800 (0.093)    | 0 (0.000) |    18.13 | executor, kinqie, Kiro, nota, tex1y |
-|           17 |     1298 | 2024-06-09 | 3DMAX           | L   | 0.812      | -            | -                | -                | -         |    -0.84 | executor, kinqie, Kiro, nota, tex1y |
-|           16 |     1449 | 2024-06-06 | Aurora          | L   | 0.794      | -            | -                | -                | -         |    -0.63 | executor, kinqie, Kiro, nota, tex1y |
-|           15 |     1512 | 2024-06-05 | SINNERS         | L   | 0.787      | -            | -                | -                | -         |    -7.55 | executor, kinqie, Kiro, nota, tex1y |
-|           14 |     1560 | 2024-06-04 | SAW             | W   | 0.781      | 0.500        | 0.104 (0.041)    | 0.516 (0.201)    | 0 (0.000) |    21.02 | executor, kinqie, Kiro, nota, tex1y |
-|           13 |     2358 | 2024-05-07 | MOUZ NXT        | L   | 0.593      | -            | -                | -                | -         |    -5.26 | executor, kinqie, Kiro, nota, tex1y |
-|           12 |     2387 | 2024-05-05 | Sampi           | L   | 0.580      | -            | -                | -                | -         |    -7.87 | executor, kinqie, Kiro, nota, tex1y |
-|           11 |     2408 | 2024-05-04 | HAVU            | W   | 0.573      | -            | -                | -                | 0 (0.000) |     5.14 | executor, kinqie, Kiro, nota, tex1y |
-|           10 |     2453 | 2024-05-02 | EYEBALLERS      | L   | 0.559      | -            | -                | -                | -         |    -8.26 | executor, kinqie, Kiro, nota, tex1y |
-|            9 |     2510 | 2024-04-29 | ENCE Academy    | W   | 0.541      | -            | -                | -                | -         |     5.03 | executor, kinqie, Kiro, nota, tex1y |
-|            8 |     3013 | 2024-04-10 | KOI             | L   | 0.414      | -            | -                | -                | -         |    -3.21 | executor, kinqie, Kiro, nota, tex1y |
-|            7 |     3067 | 2024-04-09 | PARIVISION      | W   | 0.407      | 0.500        | 0.017 (0.004)    | 0.590 (0.120)    | -         |    10.10 | executor, kinqie, Kiro, nota, tex1y |
-|            6 |     3302 | 2024-04-01 | PERA            | L   | 0.354      | -            | -                | -                | -         |    -4.88 | executor, kinqie, Kiro, nota, tex1y |
-|            5 |     3311 | 2024-03-31 | Monte           | W   | 0.347      | 0.500        | 0.057 (0.010)    | -                | -         |     7.21 | executor, kinqie, Kiro, nota, tex1y |
-|            4 |     3323 | 2024-03-29 | System5         | W   | 0.334      | -            | -                | -                | -         |     2.75 | executor, kinqie, Kiro, nota, tex1y |
-|            3 |     3640 | 2024-03-13 | Betera          | W   | 0.228      | -            | -                | -                | -         |     2.04 | executor, kinqie, Kiro, nota, tex1y |
-|            2 |     3905 | 2024-03-03 | Metizport       | L   | 0.161      | -            | -                | -                | -         |    -2.21 | executor, kinqie, Kiro, nota, tex1y |
-|            1 |     4016 | 2024-02-26 | SAW             | L   | 0.121      | -            | -                | -                | -         |    -0.60 | executor, kinqie, Kiro, nota, tex1y |
+|           31 |       59 | 2024-08-04 | BC.Game         | L   | 1.000      | -            | -                | -                | -         |   -15.56 | executor, kinqie, Kiro, nota, tex1y |
+|           30 |       97 | 2024-08-03 | Alliance        | W   | 1.000      | 0.342        | 0.017 (0.006)    | 0.283 (0.097)    | 0 (0.000) |    11.51 | executor, kinqie, Kiro, nota, tex1y |
+|           29 |      135 | 2024-08-02 | Astralis Talent | W   | 1.000      | 0.342        | -                | 0.156 (0.054)    | 0 (0.000) |     6.65 | executor, kinqie, Kiro, nota, tex1y |
+|           28 |      246 | 2024-07-30 | Rebels          | W   | 1.000      | 0.500        | 0.038 (0.019)    | 0.578 (0.289)    | 0 (0.000) |    19.63 | executor, kinqie, Kiro, nota, tex1y |
+|           27 |      477 | 2024-07-23 | SINNERS         | W   | 1.000      | 0.500        | 0.037 (0.019)    | 0.800 (0.400)    | 0 (0.000) |    19.14 | executor, kinqie, Kiro, nota, tex1y |
+|           26 |      601 | 2024-07-19 | SAW             | L   | 1.000      | -            | -                | -                | -         |    -5.31 | executor, kinqie, Kiro, nota, tex1y |
+|           25 |      719 | 2024-07-17 | brazylijski luz | L   | 1.000      | -            | -                | -                | -         |   -19.05 | executor, kinqie, Kiro, nota, tex1y |
+|           24 |      820 | 2024-07-15 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -5.23 | executor, kinqie, Kiro, nota, tex1y |
+|           23 |     1230 | 2024-06-10 | PARIVISION      | L   | 0.819      | -            | -                | -                | -         |    -7.93 | executor, kinqie, Kiro, nota, tex1y |
+|           22 |     1238 | 2024-06-10 | SAW             | L   | 0.819      | -            | -                | -                | -         |    -5.80 | executor, kinqie, Kiro, nota, tex1y |
+|           21 |     1243 | 2024-06-10 | Monte           | W   | 0.819      | 0.143        | 0.080 (0.009)    | 0.598 (0.070)    | 0 (0.000) |    15.99 | executor, kinqie, Kiro, nota, tex1y |
+|           20 |     1272 | 2024-06-09 | 9 Pandas        | W   | 0.813      | 0.143        | 0.081 (0.009)    | 0.700 (0.081)    | 0 (0.000) |    17.80 | executor, kinqie, Kiro, nota, tex1y |
+|           19 |     1281 | 2024-06-09 | Aurora          | W   | 0.813      | 0.143        | 0.420 (0.049)    | 0.758 (0.088)    | 0 (0.000) |    24.54 | executor, kinqie, Kiro, nota, tex1y |
+|           18 |     1288 | 2024-06-09 | SINNERS         | W   | 0.812      | 0.143        | 0.037 (0.004)    | 0.800 (0.093)    | 0 (0.000) |    18.13 | executor, kinqie, Kiro, nota, tex1y |
+|           17 |     1299 | 2024-06-09 | 3DMAX           | L   | 0.812      | -            | -                | -                | -         |    -0.84 | executor, kinqie, Kiro, nota, tex1y |
+|           16 |     1450 | 2024-06-06 | Aurora          | L   | 0.794      | -            | -                | -                | -         |    -0.63 | executor, kinqie, Kiro, nota, tex1y |
+|           15 |     1513 | 2024-06-05 | SINNERS         | L   | 0.787      | -            | -                | -                | -         |    -7.54 | executor, kinqie, Kiro, nota, tex1y |
+|           14 |     1561 | 2024-06-04 | SAW             | W   | 0.781      | 0.500        | 0.104 (0.041)    | 0.516 (0.201)    | 0 (0.000) |    21.02 | executor, kinqie, Kiro, nota, tex1y |
+|           13 |     2359 | 2024-05-07 | MOUZ NXT        | L   | 0.593      | -            | -                | -                | -         |    -5.25 | executor, kinqie, Kiro, nota, tex1y |
+|           12 |     2388 | 2024-05-05 | Sampi           | L   | 0.580      | -            | -                | -                | -         |    -7.87 | executor, kinqie, Kiro, nota, tex1y |
+|           11 |     2409 | 2024-05-04 | HAVU            | W   | 0.573      | -            | -                | -                | 0 (0.000) |     5.14 | executor, kinqie, Kiro, nota, tex1y |
+|           10 |     2454 | 2024-05-02 | EYEBALLERS      | L   | 0.559      | -            | -                | -                | -         |    -8.25 | executor, kinqie, Kiro, nota, tex1y |
+|            9 |     2511 | 2024-04-29 | ENCE Academy    | W   | 0.541      | -            | -                | -                | -         |     5.03 | executor, kinqie, Kiro, nota, tex1y |
+|            8 |     3014 | 2024-04-10 | KOI             | L   | 0.414      | -            | -                | -                | -         |    -3.21 | executor, kinqie, Kiro, nota, tex1y |
+|            7 |     3068 | 2024-04-09 | PARIVISION      | W   | 0.407      | 0.500        | 0.017 (0.004)    | 0.590 (0.120)    | -         |    10.10 | executor, kinqie, Kiro, nota, tex1y |
+|            6 |     3303 | 2024-04-01 | PERA            | L   | 0.354      | -            | -                | -                | -         |    -4.88 | executor, kinqie, Kiro, nota, tex1y |
+|            5 |     3312 | 2024-03-31 | Monte           | W   | 0.347      | 0.500        | 0.057 (0.010)    | -                | -         |     7.21 | executor, kinqie, Kiro, nota, tex1y |
+|            4 |     3324 | 2024-03-29 | System5         | W   | 0.334      | -            | -                | -                | -         |     2.75 | executor, kinqie, Kiro, nota, tex1y |
+|            3 |     3641 | 2024-03-13 | Betera          | W   | 0.228      | -            | -                | -                | -         |     2.04 | executor, kinqie, Kiro, nota, tex1y |
+|            2 |     3906 | 2024-03-03 | Metizport       | L   | 0.161      | -            | -                | -                | -         |    -2.21 | executor, kinqie, Kiro, nota, tex1y |
+|            1 |     4017 | 2024-02-26 | SAW             | L   | 0.121      | -            | -                | -                | -         |    -0.60 | executor, kinqie, Kiro, nota, tex1y |
 
 <br />
 <span id="table2"></span><br />

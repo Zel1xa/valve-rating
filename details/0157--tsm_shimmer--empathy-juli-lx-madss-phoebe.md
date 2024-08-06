@@ -37,29 +37,29 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      305 | 2024-07-28 | Nouns fe         | W   | 1.000      | 0.250        | 0.003 (0.001)    | 0.032 (0.008)    | 0 (0.000) |    12.61 | empathy, Juli, Lx, madss, phoebe   |
-|           22 |     1033 | 2024-06-16 | Lotus fe         | W   | 0.862      | 0.250        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |    12.08 | abby, empathy, Juli, Lx, madss     |
-|           21 |     1258 | 2024-06-09 | Perseverance     | L   | 0.814      | -            | -                | -                | -         |   -17.96 | abby, empathy, Florence, Lx, madss |
-|           20 |     1360 | 2024-06-07 | Zomblers         | L   | 0.803      | -            | -                | -                | -         |   -18.61 | abby, empathy, Florence, Lx, madss |
-|           19 |     1508 | 2024-06-05 | Asian Kings      | W   | 0.787      | -            | -                | -                | 0 (0.000) |     3.70 | abby, empathy, Florence, Lx, madss |
-|           18 |     1551 | 2024-06-04 | Nouns            | L   | 0.782      | -            | -                | -                | -         |    -4.50 | abby, empathy, Florence, Lx, madss |
-|           17 |     1553 | 2024-06-04 | Homyno           | L   | 0.781      | -            | -                | -                | -         |   -12.54 | abby, empathy, Florence, Lx, madss |
-|           16 |     1660 | 2024-05-31 | NAVI Javelins    | L   | 0.756      | -            | -                | -                | -         |    -7.50 | abby, empathy, Lx, madss, phoebe   |
-|           15 |     1666 | 2024-05-31 | panelinha        | L   | 0.755      | -            | -                | -                | -         |    -7.67 | abby, empathy, Lx, madss, phoebe   |
-|           14 |     1780 | 2024-05-26 | FlyQuest RED     | L   | 0.721      | -            | -                | -                | -         |   -10.48 | abby, empathy, Lx, madss, phoebe   |
-|           13 |     1781 | 2024-05-26 | Karma            | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.068 (0.015)    | 0 (0.000) |     9.18 | abby, empathy, Lx, madss, phoebe   |
-|           12 |     2379 | 2024-05-05 | Lotus fe         | W   | 0.582      | 0.250        | 0.004 (0.001)    | 0.037 (0.005)    | 0 (0.000) |     7.21 | abby, empathy, Lx, madss, phoebe   |
-|           11 |     2735 | 2024-04-19 | Limitless Angels | W   | 0.476      | 0.322        | 0.003 (0.000)    | 0.045 (0.007)    | 0 (0.000) |     5.88 | abby, empathy, Lx, madss, phoebe   |
-|           10 |     2913 | 2024-04-14 | FlyQuest RED     | L   | 0.442      | -            | -                | -                | -         |    -6.58 | abby, empathy, Lx, madss, phoebe   |
-|            9 |     2960 | 2024-04-11 | COVEN            | W   | 0.422      | 0.322        | 0.001 (0.000)    | -                | 0 (0.000) |     3.17 | abby, empathy, Lx, madss, phoebe   |
-|            8 |     3127 | 2024-04-07 | Limitless Angels | W   | 0.396      | 0.250        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     4.89 | abby, empathy, Lx, madss, phoebe   |
-|            7 |     3225 | 2024-04-03 | WG Bandits       | W   | 0.369      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     4.15 | abby, empathy, Lx, madss, phoebe   |
-|            6 |     3358 | 2024-03-27 | cleanup crew fe  | W   | 0.323      | 0.322        | -                | 0.020 (0.002)    | 0 (0.000) |     3.94 | abby, empathy, Lx, madss, phoebe   |
-|            5 |     3453 | 2024-03-21 | Karma            | W   | 0.283      | 0.322        | 0.004 (0.000)    | 0.068 (0.006)    | -         |     3.76 | abby, empathy, Lx, madss, phoebe   |
-|            4 |     3597 | 2024-03-14 | Nouns fe         | W   | 0.236      | 0.322        | 0.003 (0.000)    | 0.032 (0.002)    | -         |     3.11 | abby, empathy, Lx, madss, phoebe   |
-|            3 |     3807 | 2024-03-06 | FlyQuest RED     | L   | 0.183      | -            | -                | -                | -         |    -2.74 | abby, empathy, Lx, madss, phoebe   |
-|            2 |     3891 | 2024-03-03 | FlyQuest RED     | L   | 0.162      | -            | -                | -                | -         |    -2.47 | abby, empathy, Lx, madss, phoebe   |
-|            1 |     4031 | 2024-02-25 | FlyQuest RED     | L   | 0.116      | -            | -                | -                | -         |    -1.78 | abby, empathy, Lx, madss, phoebe   |
+|           23 |      306 | 2024-07-28 | Nouns fe         | W   | 1.000      | 0.250        | 0.003 (0.001)    | 0.032 (0.008)    | 0 (0.000) |    12.61 | empathy, Juli, Lx, madss, phoebe   |
+|           22 |     1034 | 2024-06-16 | Lotus fe         | W   | 0.862      | 0.250        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |    12.08 | abby, empathy, Juli, Lx, madss     |
+|           21 |     1259 | 2024-06-09 | Perseverance     | L   | 0.814      | -            | -                | -                | -         |   -17.96 | abby, empathy, Florence, Lx, madss |
+|           20 |     1361 | 2024-06-07 | Zomblers         | L   | 0.803      | -            | -                | -                | -         |   -18.61 | abby, empathy, Florence, Lx, madss |
+|           19 |     1509 | 2024-06-05 | Asian Kings      | W   | 0.787      | -            | -                | -                | 0 (0.000) |     3.70 | abby, empathy, Florence, Lx, madss |
+|           18 |     1552 | 2024-06-04 | Nouns            | L   | 0.782      | -            | -                | -                | -         |    -4.50 | abby, empathy, Florence, Lx, madss |
+|           17 |     1554 | 2024-06-04 | Homyno           | L   | 0.781      | -            | -                | -                | -         |   -12.54 | abby, empathy, Florence, Lx, madss |
+|           16 |     1661 | 2024-05-31 | NAVI Javelins    | L   | 0.756      | -            | -                | -                | -         |    -7.50 | abby, empathy, Lx, madss, phoebe   |
+|           15 |     1667 | 2024-05-31 | panelinha        | L   | 0.755      | -            | -                | -                | -         |    -7.67 | abby, empathy, Lx, madss, phoebe   |
+|           14 |     1781 | 2024-05-26 | FlyQuest RED     | L   | 0.721      | -            | -                | -                | -         |   -10.48 | abby, empathy, Lx, madss, phoebe   |
+|           13 |     1782 | 2024-05-26 | Karma            | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.068 (0.015)    | 0 (0.000) |     9.18 | abby, empathy, Lx, madss, phoebe   |
+|           12 |     2380 | 2024-05-05 | Lotus fe         | W   | 0.582      | 0.250        | 0.004 (0.001)    | 0.037 (0.005)    | 0 (0.000) |     7.21 | abby, empathy, Lx, madss, phoebe   |
+|           11 |     2736 | 2024-04-19 | Limitless Angels | W   | 0.476      | 0.322        | 0.003 (0.000)    | 0.045 (0.007)    | 0 (0.000) |     5.88 | abby, empathy, Lx, madss, phoebe   |
+|           10 |     2914 | 2024-04-14 | FlyQuest RED     | L   | 0.442      | -            | -                | -                | -         |    -6.58 | abby, empathy, Lx, madss, phoebe   |
+|            9 |     2961 | 2024-04-11 | COVEN            | W   | 0.422      | 0.322        | 0.001 (0.000)    | -                | 0 (0.000) |     3.17 | abby, empathy, Lx, madss, phoebe   |
+|            8 |     3128 | 2024-04-07 | Limitless Angels | W   | 0.396      | 0.250        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     4.89 | abby, empathy, Lx, madss, phoebe   |
+|            7 |     3226 | 2024-04-03 | WG Bandits       | W   | 0.369      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     4.15 | abby, empathy, Lx, madss, phoebe   |
+|            6 |     3359 | 2024-03-27 | cleanup crew fe  | W   | 0.323      | 0.322        | -                | 0.020 (0.002)    | 0 (0.000) |     3.94 | abby, empathy, Lx, madss, phoebe   |
+|            5 |     3454 | 2024-03-21 | Karma            | W   | 0.283      | 0.322        | 0.004 (0.000)    | 0.068 (0.006)    | -         |     3.76 | abby, empathy, Lx, madss, phoebe   |
+|            4 |     3598 | 2024-03-14 | Nouns fe         | W   | 0.236      | 0.322        | 0.003 (0.000)    | 0.032 (0.002)    | -         |     3.11 | abby, empathy, Lx, madss, phoebe   |
+|            3 |     3808 | 2024-03-06 | FlyQuest RED     | L   | 0.183      | -            | -                | -                | -         |    -2.74 | abby, empathy, Lx, madss, phoebe   |
+|            2 |     3892 | 2024-03-03 | FlyQuest RED     | L   | 0.162      | -            | -                | -                | -         |    -2.47 | abby, empathy, Lx, madss, phoebe   |
+|            1 |     4032 | 2024-02-25 | FlyQuest RED     | L   | 0.116      | -            | -                | -                | -         |    -1.78 | abby, empathy, Lx, madss, phoebe   |
 
 <br />
 <span id="table2"></span><br />

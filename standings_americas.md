@@ -14,7 +14,7 @@
 | 9        |   1141 | RED Canids        | coldzera, dav1deuS, HEN1, nython, venomzera      | [details](details/0038--red_canids--coldzera-dav1deus-hen1-nython-venomzera.md)        |
 | 10       |   1129 | Fluxo             | arT, chayJESUS, Lucaozy, nicks, zevy             | [details](details/0039--fluxo--art-chayjesus-lucaozy-nicks-zevy.md)                    |
 | 11       |   1112 | Legacy            | b4rtiN, dumau, latto, NEKIZ, saadzin             | [details](details/0042--legacy--b4rtin-dumau-latto-nekiz-saadzin.md)                   |
-| 12       |   1103 | ODDIK             | ksloks, matios, naitte, togs, WOOD7              | [details](details/0045--oddik--ksloks-matios-naitte-togs-wood7.md)                     |
+| 12       |   1103 | ODDIK             | ksloks, matios, naitte, togs, WOOD7              | [details](details/0046--oddik--ksloks-matios-naitte-togs-wood7.md)                     |
 | 13       |   1026 | Nouns             | cJ dA K1nG, Jeorge, junior, nosraC, RUSH         | [details](details/0054--nouns--cj_da_k1ng-jeorge-junior-nosrac-rush.md)                |
 | 14       |   1022 | Sharks            | doc, gafolo, koala, pepe, rdnzao                 | [details](details/0055--sharks--doc-gafolo-koala-pepe-rdnzao.md)                       |
 | 15       |    997 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0065--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |

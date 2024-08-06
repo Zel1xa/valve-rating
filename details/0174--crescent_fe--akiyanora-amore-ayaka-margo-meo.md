@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1325 | 2024-06-08 | NOFEAR5           | L   | 0.807      | -            | -                | -                | -         |   -12.03 | akiyanora, amore, ayaka, Margo, meo |
-|           14 |     1347 | 2024-06-08 | ENCE Athena       | W   | 0.806      | 0.270        | 0.002 (0.001)    | 0.033 (0.007)    | 0 (0.000) |    11.57 | akiyanora, amore, ayaka, Margo, meo |
-|           13 |     1784 | 2024-05-26 | NIP Impact        | W   | 0.721      | 0.250        | 0.005 (0.001)    | 0.219 (0.039)    | 0 (0.000) |    13.92 | akiyanora, amore, ayaka, Margo, meo |
-|           12 |     2010 | 2024-05-18 | Imperial fe       | L   | 0.667      | -            | -                | -                | -         |    -1.97 | akiyanora, amore, ayaka, Margo, meo |
-|           11 |     2392 | 2024-05-05 | Imperial fe       | L   | 0.580      | -            | -                | -                | -         |    -1.74 | akiyanora, amore, ayaka, Margo, meo |
-|           10 |     2753 | 2024-04-19 | NAVI Javelins     | L   | 0.474      | -            | -                | -                | -         |    -3.79 | akiyanora, amore, ayaka, Margo, meo |
-|            9 |     2967 | 2024-04-11 | Fearless Cheetahs | L   | 0.421      | -            | -                | -                | -         |    -5.79 | akiyanora, amore, ayaka, Margo, meo |
-|            8 |     3020 | 2024-04-10 | Permitta W        | L   | 0.413      | -            | -                | -                | -         |    -9.29 | akiyanora, amore, ayaka, Margo, meo |
-|            7 |     3103 | 2024-04-08 | Imperial fe       | L   | 0.400      | -            | -                | -                | -         |    -1.36 | akiyanora, amore, ayaka, Margo, meo |
-|            6 |     3338 | 2024-03-28 | 1WIN Gang         | W   | 0.328      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     5.07 | akiyanora, amore, ayaka, Margo, meo |
-|            5 |     3490 | 2024-03-20 | Spirit fe         | L   | 0.274      | -            | -                | -                | -         |    -4.25 | akiyanora, amore, ayaka, Margo, meo |
-|            4 |     3644 | 2024-03-13 | Let Her Cook      | L   | 0.228      | -            | -                | -                | -         |    -1.33 | akiyanora, amore, ayaka, Margo, meo |
-|            3 |     3645 | 2024-03-13 | Let Her Cook      | L   | 0.228      | -            | -                | -                | -         |    -1.31 | akiyanora, amore, ayaka, Margo, meo |
-|            2 |     4072 | 2024-02-24 | NAVI Javelins     | L   | 0.106      | -            | -                | -                | -         |    -1.00 | akiyanora, amore, ayaka, Margo, meo |
-|            1 |     4203 | 2024-02-18 | dream catchers fe | W   | 0.067      | 0.143        | 0.016 (0.000)    | 0.167 (0.002)    | 0 (0.000) |     1.22 | akiyanora, amore, ayaka, Margo, meo |
+|           15 |     1326 | 2024-06-08 | NOFEAR5           | L   | 0.807      | -            | -                | -                | -         |   -12.03 | akiyanora, amore, ayaka, Margo, meo |
+|           14 |     1348 | 2024-06-08 | ENCE Athena       | W   | 0.806      | 0.270        | 0.002 (0.001)    | 0.033 (0.007)    | 0 (0.000) |    11.57 | akiyanora, amore, ayaka, Margo, meo |
+|           13 |     1785 | 2024-05-26 | NIP Impact        | W   | 0.721      | 0.250        | 0.005 (0.001)    | 0.219 (0.039)    | 0 (0.000) |    13.92 | akiyanora, amore, ayaka, Margo, meo |
+|           12 |     2011 | 2024-05-18 | Imperial fe       | L   | 0.667      | -            | -                | -                | -         |    -1.97 | akiyanora, amore, ayaka, Margo, meo |
+|           11 |     2393 | 2024-05-05 | Imperial fe       | L   | 0.580      | -            | -                | -                | -         |    -1.74 | akiyanora, amore, ayaka, Margo, meo |
+|           10 |     2754 | 2024-04-19 | NAVI Javelins     | L   | 0.474      | -            | -                | -                | -         |    -3.79 | akiyanora, amore, ayaka, Margo, meo |
+|            9 |     2968 | 2024-04-11 | Fearless Cheetahs | L   | 0.421      | -            | -                | -                | -         |    -5.79 | akiyanora, amore, ayaka, Margo, meo |
+|            8 |     3021 | 2024-04-10 | Permitta W        | L   | 0.413      | -            | -                | -                | -         |    -9.29 | akiyanora, amore, ayaka, Margo, meo |
+|            7 |     3104 | 2024-04-08 | Imperial fe       | L   | 0.400      | -            | -                | -                | -         |    -1.36 | akiyanora, amore, ayaka, Margo, meo |
+|            6 |     3339 | 2024-03-28 | 1WIN Gang         | W   | 0.328      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     5.07 | akiyanora, amore, ayaka, Margo, meo |
+|            5 |     3491 | 2024-03-20 | Spirit fe         | L   | 0.274      | -            | -                | -                | -         |    -4.25 | akiyanora, amore, ayaka, Margo, meo |
+|            4 |     3645 | 2024-03-13 | Let Her Cook      | L   | 0.228      | -            | -                | -                | -         |    -1.33 | akiyanora, amore, ayaka, Margo, meo |
+|            3 |     3646 | 2024-03-13 | Let Her Cook      | L   | 0.228      | -            | -                | -                | -         |    -1.31 | akiyanora, amore, ayaka, Margo, meo |
+|            2 |     4073 | 2024-02-24 | NAVI Javelins     | L   | 0.106      | -            | -                | -                | -         |    -1.00 | akiyanora, amore, ayaka, Margo, meo |
+|            1 |     4204 | 2024-02-18 | dream catchers fe | W   | 0.067      | 0.143        | 0.016 (0.000)    | 0.167 (0.002)    | 0 (0.000) |     1.22 | akiyanora, amore, ayaka, Margo, meo |
 
 <br />
 <span id="table2"></span><br />

@@ -6,9 +6,9 @@ Global Rank: [76](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [53]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  955.8<br />
+Final Rank Value:  956.1<br />
 <br />
-Final Rank Value (955.8) = Starting Rank Value (895.6) + Head To Head Adjustments (60.2)<br />
+Final Rank Value (956.1) = Starting Rank Value (895.6) + Head To Head Adjustments (60.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,59 +37,59 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           53 |       61 | 2024-08-04 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -10.94 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           52 |      100 | 2024-08-03 | 1WIN              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    16.89 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           51 |      129 | 2024-08-02 | ARCRED            | L   | 1.000      | -            | -                | -                | -         |   -14.72 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           50 |      168 | 2024-08-01 | Metizport         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    14.08 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           49 |      213 | 2024-07-31 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -7.02 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           48 |      253 | 2024-07-30 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -11.35 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           47 |      318 | 2024-07-28 | Metizport         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    14.45 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           46 |      444 | 2024-07-24 | Zero Tenacity     | L   | 1.000      | -            | -                | -                | -         |    -8.44 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           45 |      514 | 2024-07-22 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -13.92 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           44 |      579 | 2024-07-20 | UNiTY             | W   | 1.000      | 0.371        | 0.024 (0.009)    | -                | 0 (0.000) |    15.02 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           43 |      617 | 2024-07-19 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -17.24 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           42 |      657 | 2024-07-18 | EYEBALLERS        | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |    10.06 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           41 |      777 | 2024-07-16 | KOI               | L   | 1.000      | -            | -                | -                | -         |   -10.26 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           40 |      854 | 2024-07-14 | Permitta          | W   | 1.000      | 0.371        | 0.039 (0.014)    | 0.919 (0.340)    | 0 (0.000) |    16.03 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           39 |      917 | 2024-07-10 | Preasy            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.62 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           38 |      939 | 2024-07-09 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |   -11.45 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           37 |      958 | 2024-07-08 | FLuffy Gangsters  | L   | 1.000      | -            | -                | -                | -         |   -27.87 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           36 |     1215 | 2024-06-10 | ARCRED            | W   | 0.821      | 0.372        | 0.041 (0.013)    | -                | 0 (0.000) |    11.84 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           35 |     1262 | 2024-06-09 | RUBY              | W   | 0.814      | 0.372        | 0.095 (0.029)    | 0.479 (0.145)    | 0 (0.000) |    10.68 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           34 |     1318 | 2024-06-08 | Zero Tenacity     | W   | 0.808      | 0.372        | 0.143 (0.043)    | 1.000 (0.301)    | 0 (0.000) |    17.53 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           33 |     1384 | 2024-06-07 | Aurora Young Blud | W   | 0.801      | 0.372        | -                | 0.521 (0.155)    | -         |    11.05 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           32 |     1587 | 2024-06-03 | RUBY              | L   | 0.774      | -            | -                | -                | -         |   -12.22 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           31 |     1644 | 2024-06-01 | 1WIN              | W   | 0.760      | 0.372        | 0.033 (0.009)    | 0.718 (0.203)    | -         |    14.42 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           30 |     1697 | 2024-05-30 | VP.Prodigy        | W   | 0.748      | -            | -                | -                | -         |    11.44 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           29 |     2353 | 2024-05-07 | RUBY              | L   | 0.594      | -            | -                | -                | -         |    -9.44 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           28 |     2372 | 2024-05-06 | Zero Tenacity     | L   | 0.587      | -            | -                | -                | -         |    -6.49 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           27 |     2376 | 2024-05-06 | BLEED             | L   | 0.585      | -            | -                | -                | -         |    -6.30 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           26 |     2421 | 2024-05-03 | Permitta          | W   | 0.567      | 0.435        | 0.039 (0.010)    | 0.919 (0.226)    | -         |     8.94 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           25 |     2433 | 2024-05-03 | BetBoom           | L   | 0.565      | -            | -                | -                | -         |    -1.24 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           24 |     2468 | 2024-05-01 | OG                | W   | 0.554      | 0.435        | 0.137 (0.033)    | -                | -         |    11.57 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           23 |     2477 | 2024-05-01 | Nexus             | W   | 0.552      | -            | -                | -                | -         |     6.41 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           22 |     2519 | 2024-04-29 | HAVU              | L   | 0.539      | -            | -                | -                | -         |   -13.56 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           21 |     2555 | 2024-04-27 | ex-Guild Eagles   | W   | 0.527      | -            | -                | -                | -         |     6.45 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           20 |     2564 | 2024-04-27 | Permitta          | W   | 0.526      | 0.396        | 0.039 (0.008)    | 0.919 (0.192)    | -         |     9.41 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           19 |     2583 | 2024-04-26 | ARCRED            | L   | 0.520      | -            | -                | -                | -         |    -8.47 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           18 |     2588 | 2024-04-26 | Enterprise        | W   | 0.519      | 0.396        | -                | 0.641 (0.132)    | -         |     7.71 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           17 |     2624 | 2024-04-25 | MOUZ NXT          | W   | 0.511      | 0.435        | 0.139 (0.031)    | 0.962 (0.214)    | -         |    10.70 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           16 |     2649 | 2024-04-23 | EYEBALLERS        | W   | 0.501      | -            | -                | -                | -         |     7.28 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           15 |     2698 | 2024-04-21 | Permitta          | L   | 0.485      | -            | -                | -                | -         |    -6.14 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           14 |     3235 | 2024-04-03 | AMKAL             | L   | 0.368      | -            | -                | -                | -         |    -2.66 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           13 |     3276 | 2024-04-02 | ex-Guild Eagles   | W   | 0.361      | -            | -                | -                | -         |     4.16 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           12 |     3291 | 2024-04-02 | PARIVISION        | W   | 0.359      | -            | -                | -                | -         |     8.73 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           11 |     3518 | 2024-03-18 | Sashi             | L   | 0.260      | -            | -                | -                | -         |    -1.77 | faydett, FpSSS, Pipw, Polt, sugaR |
-|           10 |     3577 | 2024-03-15 | CYBERSHOKE        | W   | 0.241      | -            | -                | -                | -         |     1.63 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            9 |     3649 | 2024-03-13 | INGLORIOUS        | W   | 0.227      | -            | -                | -                | -         |     0.83 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            8 |     3701 | 2024-03-11 | 1WIN              | W   | 0.214      | -            | -                | -                | -         |     3.65 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            7 |     3745 | 2024-03-09 | Fraud5            | W   | 0.200      | -            | -                | -                | -         |     1.24 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            6 |     3785 | 2024-03-07 | Sashi             | L   | 0.188      | -            | -                | -                | -         |    -1.20 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            5 |     3820 | 2024-03-06 | The Chosen Few    | W   | 0.181      | -            | -                | -                | -         |     1.27 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            4 |     3859 | 2024-03-05 | Johnny Speeds     | L   | 0.174      | -            | -                | -                | -         |    -0.50 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            3 |     3866 | 2024-03-05 | Betera            | W   | 0.174      | -            | -                | -                | -         |     1.35 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            2 |     4403 | 2024-02-09 | Sashi             | L   | 0.007      | -            | -                | -                | -         |    -0.04 | faydett, FpSSS, Pipw, Polt, sugaR |
-|            1 |     4412 | 2024-02-08 | ex-Guild Eagles   | W   | 0.001      | -            | -                | -                | -         |     0.01 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           53 |       62 | 2024-08-04 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -10.83 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           52 |      101 | 2024-08-03 | 1WIN              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    16.89 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           51 |      130 | 2024-08-02 | ARCRED            | L   | 1.000      | -            | -                | -                | -         |   -14.73 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           50 |      169 | 2024-08-01 | Metizport         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    14.07 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           49 |      214 | 2024-07-31 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -7.02 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           48 |      254 | 2024-07-30 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -11.20 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           47 |      319 | 2024-07-28 | Metizport         | W   | 1.000      | -            | -                | -                | 0 (0.000) |    14.46 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           46 |      445 | 2024-07-24 | Zero Tenacity     | L   | 1.000      | -            | -                | -                | -         |    -8.44 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           45 |      515 | 2024-07-22 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -13.92 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           44 |      580 | 2024-07-20 | UNiTY             | W   | 1.000      | 0.371        | 0.024 (0.009)    | -                | 0 (0.000) |    15.02 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           43 |      618 | 2024-07-19 | 9INE              | L   | 1.000      | -            | -                | -                | -         |   -17.24 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           42 |      658 | 2024-07-18 | EYEBALLERS        | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |    10.06 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           41 |      778 | 2024-07-16 | KOI               | L   | 1.000      | -            | -                | -                | -         |   -10.26 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           40 |      855 | 2024-07-14 | Permitta          | W   | 1.000      | 0.371        | 0.039 (0.014)    | 0.919 (0.340)    | 0 (0.000) |    16.03 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           39 |      918 | 2024-07-10 | Preasy            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.62 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           38 |      940 | 2024-07-09 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |   -11.43 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           37 |      959 | 2024-07-08 | FLuffy Gangsters  | L   | 1.000      | -            | -                | -                | -         |   -27.87 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           36 |     1216 | 2024-06-10 | ARCRED            | W   | 0.821      | 0.372        | 0.041 (0.013)    | -                | 0 (0.000) |    11.84 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           35 |     1263 | 2024-06-09 | RUBY              | W   | 0.814      | 0.372        | 0.095 (0.029)    | 0.479 (0.145)    | 0 (0.000) |    10.68 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           34 |     1319 | 2024-06-08 | Zero Tenacity     | W   | 0.808      | 0.372        | 0.143 (0.043)    | 1.000 (0.301)    | 0 (0.000) |    17.53 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           33 |     1385 | 2024-06-07 | Aurora Young Blud | W   | 0.801      | 0.372        | -                | 0.521 (0.155)    | -         |    11.05 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           32 |     1588 | 2024-06-03 | RUBY              | L   | 0.774      | -            | -                | -                | -         |   -12.21 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           31 |     1645 | 2024-06-01 | 1WIN              | W   | 0.760      | 0.372        | 0.033 (0.009)    | 0.718 (0.203)    | -         |    14.43 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           30 |     1698 | 2024-05-30 | VP.Prodigy        | W   | 0.748      | -            | -                | -                | -         |    11.44 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           29 |     2354 | 2024-05-07 | RUBY              | L   | 0.594      | -            | -                | -                | -         |    -9.44 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           28 |     2373 | 2024-05-06 | Zero Tenacity     | L   | 0.587      | -            | -                | -                | -         |    -6.49 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           27 |     2377 | 2024-05-06 | BLEED             | L   | 0.585      | -            | -                | -                | -         |    -6.30 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           26 |     2422 | 2024-05-03 | Permitta          | W   | 0.567      | 0.435        | 0.039 (0.010)    | 0.919 (0.226)    | -         |     8.94 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           25 |     2434 | 2024-05-03 | BetBoom           | L   | 0.565      | -            | -                | -                | -         |    -1.24 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           24 |     2469 | 2024-05-01 | OG                | W   | 0.554      | 0.435        | 0.137 (0.033)    | -                | -         |    11.57 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           23 |     2478 | 2024-05-01 | Nexus             | W   | 0.552      | -            | -                | -                | -         |     6.41 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           22 |     2520 | 2024-04-29 | HAVU              | L   | 0.539      | -            | -                | -                | -         |   -13.56 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           21 |     2556 | 2024-04-27 | ex-Guild Eagles   | W   | 0.527      | -            | -                | -                | -         |     6.45 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           20 |     2565 | 2024-04-27 | Permitta          | W   | 0.526      | 0.396        | 0.039 (0.008)    | 0.919 (0.192)    | -         |     9.41 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           19 |     2584 | 2024-04-26 | ARCRED            | L   | 0.520      | -            | -                | -                | -         |    -8.47 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           18 |     2589 | 2024-04-26 | Enterprise        | W   | 0.519      | 0.396        | -                | 0.641 (0.132)    | -         |     7.71 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           17 |     2625 | 2024-04-25 | MOUZ NXT          | W   | 0.511      | 0.435        | 0.139 (0.031)    | 0.962 (0.214)    | -         |    10.70 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           16 |     2650 | 2024-04-23 | EYEBALLERS        | W   | 0.501      | -            | -                | -                | -         |     7.28 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           15 |     2699 | 2024-04-21 | Permitta          | L   | 0.485      | -            | -                | -                | -         |    -6.14 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           14 |     3236 | 2024-04-03 | AMKAL             | L   | 0.368      | -            | -                | -                | -         |    -2.66 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           13 |     3277 | 2024-04-02 | ex-Guild Eagles   | W   | 0.361      | -            | -                | -                | -         |     4.16 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           12 |     3292 | 2024-04-02 | PARIVISION        | W   | 0.359      | -            | -                | -                | -         |     8.73 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           11 |     3519 | 2024-03-18 | Sashi             | L   | 0.260      | -            | -                | -                | -         |    -1.77 | faydett, FpSSS, Pipw, Polt, sugaR |
+|           10 |     3578 | 2024-03-15 | CYBERSHOKE        | W   | 0.241      | -            | -                | -                | -         |     1.63 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            9 |     3650 | 2024-03-13 | INGLORIOUS        | W   | 0.227      | -            | -                | -                | -         |     0.83 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            8 |     3702 | 2024-03-11 | 1WIN              | W   | 0.214      | -            | -                | -                | -         |     3.65 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            7 |     3746 | 2024-03-09 | Fraud5            | W   | 0.200      | -            | -                | -                | -         |     1.24 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            6 |     3786 | 2024-03-07 | Sashi             | L   | 0.188      | -            | -                | -                | -         |    -1.20 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            5 |     3821 | 2024-03-06 | The Chosen Few    | W   | 0.181      | -            | -                | -                | -         |     1.27 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            4 |     3860 | 2024-03-05 | Johnny Speeds     | L   | 0.174      | -            | -                | -                | -         |    -0.50 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            3 |     3867 | 2024-03-05 | Betera            | W   | 0.174      | -            | -                | -                | -         |     1.35 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            2 |     4404 | 2024-02-09 | Sashi             | L   | 0.007      | -            | -                | -                | -         |    -0.04 | faydett, FpSSS, Pipw, Polt, sugaR |
+|            1 |     4413 | 2024-02-08 | ex-Guild Eagles   | W   | 0.001      | -            | -                | -                | -         |     0.01 | faydett, FpSSS, Pipw, Polt, sugaR |
 
 <br />
 <span id="table2"></span><br />

@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |       48 | 2024-08-04 | Monte Gen       | L   | 1.000      | -            | -                | -                | -         |   -26.97 | HS, lauNX, NBK-, Nivera, reiko   |
-|           19 |      384 | 2024-07-26 | DMS             | L   | 1.000      | -            | -                | -                | -         |   -13.85 | adeX, Jeebs, NBK-, Nivera, reiko |
-|           18 |      410 | 2024-07-25 | 3DMAX           | L   | 1.000      | -            | -                | -                | -         |    -1.80 | adeX, Jeebs, NBK-, Nivera, reiko |
-|           17 |      440 | 2024-07-24 | AMKAL           | L   | 1.000      | -            | -                | -                | -         |    -4.28 | adeX, lauNX, NBK-, Nivera, reiko |
-|           16 |      455 | 2024-07-24 | Eternal Fire    | L   | 1.000      | -            | -                | -                | -         |    -0.48 | adeX, lauNX, NBK-, Nivera, reiko |
-|           15 |      880 | 2024-07-12 | Verdant         | W   | 1.000      | 0.371        | 0.015 (0.005)    | 0.287 (0.106)    | 0 (0.000) |    14.73 | adeX, lauNX, NBK-, Nivera, reiko |
-|           14 |      940 | 2024-07-09 | Johnny Speeds   | W   | 1.000      | 0.333        | 0.122 (0.041)    | 1.000 (0.333)    | 0 (0.000) |    28.47 | adeX, lauNX, NBK-, Nivera, reiko |
-|           13 |      957 | 2024-07-08 | Enterprise      | L   | 1.000      | -            | -                | -                | -         |   -10.99 | adeX, lauNX, NBK-, Nivera, reiko |
-|           12 |      960 | 2024-07-08 | lajtbitexe      | W   | 1.000      | 0.333        | 0.007 (0.002)    | 0.108 (0.036)    | 0 (0.000) |    10.75 | adeX, lauNX, NBK-, Nivera, reiko |
-|           11 |      964 | 2024-07-07 | kONO            | W   | 0.998      | 0.333        | 0.028 (0.009)    | 0.553 (0.184)    | 0 (0.000) |    17.30 | adeX, lauNX, NBK-, Nivera, reiko |
-|           10 |      967 | 2024-07-06 | 777             | W   | 0.993      | 0.333        | 0.015 (0.005)    | 0.173 (0.057)    | 0 (0.000) |    11.31 | adeX, lauNX, NBK-, Nivera, reiko |
-|            9 |      972 | 2024-07-05 | lajtbitexe      | L   | 0.985      | -            | -                | -                | -         |   -19.62 | adeX, lauNX, NBK-, Nivera, reiko |
-|            8 |     1003 | 2024-06-27 | Johnny Speeds   | L   | 0.931      | -            | -                | -                | -         |    -2.46 | adeX, lauNX, NBK-, Nivera, reiko |
-|            7 |     1006 | 2024-06-26 | lajtbitexe      | W   | 0.925      | 0.333        | 0.007 (0.002)    | 0.108 (0.033)    | 0 (0.000) |    10.32 | adeX, lauNX, NBK-, Nivera, reiko |
-|            6 |     1007 | 2024-06-25 | Johnny Speeds   | L   | 0.919      | -            | -                | -                | -         |    -2.36 | adeX, lauNX, NBK-, Nivera, reiko |
-|            5 |     1015 | 2024-06-23 | Heimo           | W   | 0.905      | 0.333        | 0.006 (0.002)    | 0.103 (0.031)    | 0 (0.000) |     8.65 | adeX, lauNX, NBK-, Nivera, reiko |
-|            4 |     1038 | 2024-06-16 | CYBERSHOKE      | L   | 0.861      | -            | -                | -                | -         |   -10.97 | adeX, lauNX, NBK-, Nivera, reiko |
-|            3 |     1067 | 2024-06-15 | Verdant         | W   | 0.854      | 0.143        | 0.015 (0.002)    | 0.287 (0.035)    | 0 (0.000) |    16.08 | adeX, lauNX, NBK-, Nivera, reiko |
-|            2 |     1125 | 2024-06-14 | Astralis Talent | W   | 0.846      | 0.143        | 0.009 (0.001)    | 0.156 (0.019)    | 0 (0.000) |    10.53 | adeX, lauNX, NBK-, Nivera, reiko |
-|            1 |     1152 | 2024-06-13 | Verdant         | L   | 0.840      | -            | -                | -                | -         |    -9.56 | adeX, lauNX, NBK-, Nivera, reiko |
+|           20 |       49 | 2024-08-04 | Monte Gen       | L   | 1.000      | -            | -                | -                | -         |   -26.97 | HS, lauNX, NBK-, Nivera, reiko   |
+|           19 |      385 | 2024-07-26 | DMS             | L   | 1.000      | -            | -                | -                | -         |   -13.85 | adeX, Jeebs, NBK-, Nivera, reiko |
+|           18 |      411 | 2024-07-25 | 3DMAX           | L   | 1.000      | -            | -                | -                | -         |    -1.80 | adeX, Jeebs, NBK-, Nivera, reiko |
+|           17 |      441 | 2024-07-24 | AMKAL           | L   | 1.000      | -            | -                | -                | -         |    -4.28 | adeX, lauNX, NBK-, Nivera, reiko |
+|           16 |      456 | 2024-07-24 | Eternal Fire    | L   | 1.000      | -            | -                | -                | -         |    -0.48 | adeX, lauNX, NBK-, Nivera, reiko |
+|           15 |      881 | 2024-07-12 | Verdant         | W   | 1.000      | 0.371        | 0.015 (0.005)    | 0.287 (0.106)    | 0 (0.000) |    14.73 | adeX, lauNX, NBK-, Nivera, reiko |
+|           14 |      941 | 2024-07-09 | Johnny Speeds   | W   | 1.000      | 0.333        | 0.122 (0.041)    | 1.000 (0.333)    | 0 (0.000) |    28.47 | adeX, lauNX, NBK-, Nivera, reiko |
+|           13 |      958 | 2024-07-08 | Enterprise      | L   | 1.000      | -            | -                | -                | -         |   -10.99 | adeX, lauNX, NBK-, Nivera, reiko |
+|           12 |      961 | 2024-07-08 | lajtbitexe      | W   | 1.000      | 0.333        | 0.007 (0.002)    | 0.108 (0.036)    | 0 (0.000) |    10.75 | adeX, lauNX, NBK-, Nivera, reiko |
+|           11 |      965 | 2024-07-07 | kONO            | W   | 0.998      | 0.333        | 0.028 (0.009)    | 0.553 (0.184)    | 0 (0.000) |    17.30 | adeX, lauNX, NBK-, Nivera, reiko |
+|           10 |      968 | 2024-07-06 | 777             | W   | 0.993      | 0.333        | 0.015 (0.005)    | 0.173 (0.057)    | 0 (0.000) |    11.31 | adeX, lauNX, NBK-, Nivera, reiko |
+|            9 |      973 | 2024-07-05 | lajtbitexe      | L   | 0.985      | -            | -                | -                | -         |   -19.62 | adeX, lauNX, NBK-, Nivera, reiko |
+|            8 |     1004 | 2024-06-27 | Johnny Speeds   | L   | 0.931      | -            | -                | -                | -         |    -2.46 | adeX, lauNX, NBK-, Nivera, reiko |
+|            7 |     1007 | 2024-06-26 | lajtbitexe      | W   | 0.925      | 0.333        | 0.007 (0.002)    | 0.108 (0.033)    | 0 (0.000) |    10.32 | adeX, lauNX, NBK-, Nivera, reiko |
+|            6 |     1008 | 2024-06-25 | Johnny Speeds   | L   | 0.919      | -            | -                | -                | -         |    -2.36 | adeX, lauNX, NBK-, Nivera, reiko |
+|            5 |     1016 | 2024-06-23 | Heimo           | W   | 0.905      | 0.333        | 0.006 (0.002)    | 0.103 (0.031)    | 0 (0.000) |     8.65 | adeX, lauNX, NBK-, Nivera, reiko |
+|            4 |     1039 | 2024-06-16 | CYBERSHOKE      | L   | 0.861      | -            | -                | -                | -         |   -10.97 | adeX, lauNX, NBK-, Nivera, reiko |
+|            3 |     1068 | 2024-06-15 | Verdant         | W   | 0.854      | 0.143        | 0.015 (0.002)    | 0.287 (0.035)    | 0 (0.000) |    16.08 | adeX, lauNX, NBK-, Nivera, reiko |
+|            2 |     1126 | 2024-06-14 | Astralis Talent | W   | 0.846      | 0.143        | 0.009 (0.001)    | 0.156 (0.019)    | 0 (0.000) |    10.53 | adeX, lauNX, NBK-, Nivera, reiko |
+|            1 |     1153 | 2024-06-13 | Verdant         | L   | 0.840      | -            | -                | -                | -         |    -9.56 | adeX, lauNX, NBK-, Nivera, reiko |
 
 <br />
 <span id="table2"></span><br />

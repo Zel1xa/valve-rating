@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3029 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.30 | Forleks, gump, Sliimey, supar, tucks |
-|           11 |     3033 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.53 | Forleks, gump, Sliimey, supar, tucks |
-|           10 |     3259 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.15 | Forleks, gump, Sliimey, supar, tucks |
-|            9 |     3264 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.23 | Forleks, gump, Sliimey, supar, tucks |
-|            8 |     3388 | 2024-03-27 | Bad News Kangaroos | W   | 0.319      | 0.333        | 0.016 (0.002)    | 0.217 (0.023)    | 0 (0.000) |     6.72 | Forleks, gump, Sliimey, supar, tucks |
-|            7 |     3393 | 2024-03-27 | Bad News Kangaroos | L   | 0.319      | -            | -                | -                | -         |    -3.36 | Forleks, gump, Sliimey, supar, tucks |
-|            6 |     3834 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.93 | Forleks, gump, Sliimey, supar, tucks |
-|            5 |     3840 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.95 | Forleks, gump, Sliimey, supar, tucks |
-|            4 |     4136 | 2024-02-21 | KZG                | W   | 0.086      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
-|            3 |     4141 | 2024-02-21 | KZG                | W   | 0.085      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
-|            2 |     4338 | 2024-02-13 | KZG                | L   | 0.038      | -            | -                | -                | -         |    -0.53 | deStiny, gump, Sliimey, supar, tucks |
-|            1 |     4361 | 2024-02-13 | DEMESIS            | W   | 0.032      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.18 | deStiny, gump, Sliimey, supar, tucks |
+|           12 |     3030 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.30 | Forleks, gump, Sliimey, supar, tucks |
+|           11 |     3034 | 2024-04-10 | DXA                | W   | 0.412      | 0.333        | 0.002 (0.000)    | 0.217 (0.030)    | 0 (0.000) |     6.53 | Forleks, gump, Sliimey, supar, tucks |
+|           10 |     3260 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.15 | Forleks, gump, Sliimey, supar, tucks |
+|            9 |     3265 | 2024-04-03 | Canon Event        | W   | 0.365      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.23 | Forleks, gump, Sliimey, supar, tucks |
+|            8 |     3389 | 2024-03-27 | Bad News Kangaroos | W   | 0.319      | 0.333        | 0.016 (0.002)    | 0.217 (0.023)    | 0 (0.000) |     6.72 | Forleks, gump, Sliimey, supar, tucks |
+|            7 |     3394 | 2024-03-27 | Bad News Kangaroos | L   | 0.319      | -            | -                | -                | -         |    -3.36 | Forleks, gump, Sliimey, supar, tucks |
+|            6 |     3835 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.93 | Forleks, gump, Sliimey, supar, tucks |
+|            5 |     3841 | 2024-03-06 | Rooster            | L   | 0.179      | -            | -                | -                | -         |    -1.95 | Forleks, gump, Sliimey, supar, tucks |
+|            4 |     4137 | 2024-02-21 | KZG                | W   | 0.086      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
+|            3 |     4142 | 2024-02-21 | KZG                | W   | 0.085      | 0.333        | 0.005 (0.000)    | 0.106 (0.003)    | 0 (0.000) |     1.48 | Forleks, gump, Sliimey, supar, tucks |
+|            2 |     4339 | 2024-02-13 | KZG                | L   | 0.038      | -            | -                | -                | -         |    -0.53 | deStiny, gump, Sliimey, supar, tucks |
+|            1 |     4362 | 2024-02-13 | DEMESIS            | W   | 0.032      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.18 | deStiny, gump, Sliimey, supar, tucks |
 
 <br />
 <span id="table2"></span><br />

@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |       99 | 2024-08-03 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |    -8.04 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           26 |      258 | 2024-07-30 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -16.77 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           25 |      279 | 2024-07-29 | 1WIN             | W   | 1.000      | 0.435        | 0.033 (0.014)    | 0.718 (0.312)    | 0 (0.000) |    18.38 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           24 |      284 | 2024-07-29 | MOUZ NXT         | L   | 1.000      | -            | -                | -                | -         |    -8.39 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           23 |      296 | 2024-07-29 | Sampi            | W   | 1.000      | 0.426        | 0.027 (0.011)    | 1.000 (0.426)    | 0 (0.000) |    14.95 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           22 |      346 | 2024-07-27 | EYEBALLERS       | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.488 (0.212)    | 0 (0.000) |    11.28 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           21 |      412 | 2024-07-25 | GUN5             | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    15.56 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           20 |      603 | 2024-07-19 | fnatic           | L   | 1.000      | -            | -                | -                | -         |    -1.57 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           19 |      677 | 2024-07-18 | EYEBALLERS       | W   | 1.000      | 0.500        | 0.005 (0.003)    | 0.488 (0.244)    | 0 (0.000) |    13.60 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           18 |      780 | 2024-07-16 | fnatic           | L   | 1.000      | -            | -                | -                | -         |    -1.28 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
-|           17 |     1038 | 2024-06-16 | Revenant         | W   | 0.861      | 0.143        | 0.027 (0.003)    | 0.259 (0.032)    | 0 (0.000) |    10.97 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           16 |     1161 | 2024-06-13 | ARCRED           | L   | 0.839      | -            | -                | -                | -         |   -10.85 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           15 |     1182 | 2024-06-12 | LEON             | W   | 0.833      | -            | -                | -                | 0 (0.000) |     6.78 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           14 |     1206 | 2024-06-11 | Preasy           | W   | 0.826      | 0.143        | -                | 0.216 (0.026)    | 0 (0.000) |     9.44 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           13 |     1224 | 2024-06-10 | Rhyno            | L   | 0.820      | -            | -                | -                | -         |    -8.74 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           12 |     1266 | 2024-06-09 | EYEBALLERS       | W   | 0.813      | 0.500        | 0.005 (0.002)    | 0.488 (0.198)    | 0 (0.000) |    14.20 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           11 |     1358 | 2024-06-08 | Sampi            | W   | 0.805      | 0.500        | 0.027 (0.011)    | 1.000 (0.403)    | 0 (0.000) |    14.79 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|           10 |     1415 | 2024-06-07 | Illuminar        | L   | 0.798      | -            | -                | -                | -         |   -13.49 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            9 |     1480 | 2024-06-06 | DMS              | W   | 0.792      | 0.500        | 0.003 (0.001)    | 0.428 (0.169)    | -         |    15.80 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            8 |     1514 | 2024-06-05 | GUN5             | L   | 0.787      | -            | -                | -                | -         |    -8.21 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            7 |     1557 | 2024-06-04 | Zero Tenacity    | L   | 0.781      | -            | -                | -                | -         |    -4.48 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            6 |     1564 | 2024-06-04 | Nemiga           | L   | 0.780      | -            | -                | -                | -         |    -4.81 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            5 |     1591 | 2024-06-03 | Grannys Knockers | L   | 0.774      | -            | -                | -                | -         |   -15.07 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            4 |     1637 | 2024-06-01 | K10              | W   | 0.761      | -            | -                | -                | -         |     5.97 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            3 |     1682 | 2024-05-31 | HOTU             | W   | 0.753      | 0.372        | 0.007 (0.002)    | -                | -         |     5.69 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            2 |     1743 | 2024-05-28 | VP.Prodigy       | L   | 0.735      | -            | -                | -                | -         |   -10.34 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
-|            1 |     2274 | 2024-05-11 | DMS              | L   | 0.620      | -            | -                | -                | -         |    -9.81 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           27 |      100 | 2024-08-03 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |    -8.03 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           26 |      259 | 2024-07-30 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -16.77 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           25 |      280 | 2024-07-29 | 1WIN             | W   | 1.000      | 0.435        | 0.033 (0.014)    | 0.718 (0.312)    | 0 (0.000) |    18.39 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           24 |      285 | 2024-07-29 | MOUZ NXT         | L   | 1.000      | -            | -                | -                | -         |    -8.39 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           23 |      297 | 2024-07-29 | Sampi            | W   | 1.000      | 0.426        | 0.027 (0.011)    | 1.000 (0.426)    | 0 (0.000) |    14.95 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           22 |      347 | 2024-07-27 | EYEBALLERS       | W   | 1.000      | 0.435        | 0.005 (0.002)    | 0.488 (0.212)    | 0 (0.000) |    11.28 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           21 |      413 | 2024-07-25 | GUN5             | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    15.56 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           20 |      604 | 2024-07-19 | fnatic           | L   | 1.000      | -            | -                | -                | -         |    -1.57 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           19 |      678 | 2024-07-18 | EYEBALLERS       | W   | 1.000      | 0.500        | 0.005 (0.003)    | 0.488 (0.244)    | 0 (0.000) |    13.60 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           18 |      781 | 2024-07-16 | fnatic           | L   | 1.000      | -            | -                | -                | -         |    -1.28 | FenomeN, levantino, lov1kus, notineki, sstiNiX |
+|           17 |     1039 | 2024-06-16 | Revenant         | W   | 0.861      | 0.143        | 0.027 (0.003)    | 0.259 (0.032)    | 0 (0.000) |    10.97 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           16 |     1162 | 2024-06-13 | ARCRED           | L   | 0.839      | -            | -                | -                | -         |   -10.84 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           15 |     1183 | 2024-06-12 | LEON             | W   | 0.833      | -            | -                | -                | 0 (0.000) |     6.78 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           14 |     1207 | 2024-06-11 | Preasy           | W   | 0.826      | 0.143        | -                | 0.216 (0.026)    | 0 (0.000) |     9.44 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           13 |     1225 | 2024-06-10 | Rhyno            | L   | 0.820      | -            | -                | -                | -         |    -8.74 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           12 |     1267 | 2024-06-09 | EYEBALLERS       | W   | 0.813      | 0.500        | 0.005 (0.002)    | 0.488 (0.198)    | 0 (0.000) |    14.20 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           11 |     1359 | 2024-06-08 | Sampi            | W   | 0.805      | 0.500        | 0.027 (0.011)    | 1.000 (0.403)    | 0 (0.000) |    14.79 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|           10 |     1416 | 2024-06-07 | Illuminar        | L   | 0.798      | -            | -                | -                | -         |   -13.49 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            9 |     1481 | 2024-06-06 | DMS              | W   | 0.792      | 0.500        | 0.003 (0.001)    | 0.428 (0.169)    | -         |    15.80 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            8 |     1515 | 2024-06-05 | GUN5             | L   | 0.787      | -            | -                | -                | -         |    -8.21 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            7 |     1558 | 2024-06-04 | Zero Tenacity    | L   | 0.781      | -            | -                | -                | -         |    -4.48 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            6 |     1565 | 2024-06-04 | Nemiga           | L   | 0.780      | -            | -                | -                | -         |    -4.80 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            5 |     1592 | 2024-06-03 | Grannys Knockers | L   | 0.774      | -            | -                | -                | -         |   -15.07 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            4 |     1638 | 2024-06-01 | K10              | W   | 0.761      | -            | -                | -                | -         |     5.97 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            3 |     1683 | 2024-05-31 | HOTU             | W   | 0.753      | 0.372        | 0.007 (0.002)    | -                | -         |     5.69 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            2 |     1744 | 2024-05-28 | VP.Prodigy       | L   | 0.735      | -            | -                | -                | -         |   -10.34 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
+|            1 |     2275 | 2024-05-11 | DMS              | L   | 0.620      | -            | -                | -                | -         |    -9.81 | FenomeN, kelieN, lov1kus, notineki, sstiNiX    |
 
 <br />
 <span id="table2"></span><br />

@@ -8,7 +8,7 @@ Regional Rank: [35]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  1091.0<br />
 <br />
-Final Rank Value (1091.0) = Starting Rank Value (1220.3) + Head To Head Adjustments (-129.4)<br />
+Final Rank Value (1091.0) = Starting Rank Value (1220.3) + Head To Head Adjustments (-129.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,63 +37,63 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           57 |       81 | 2024-08-03 | AVEZ            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.49 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           56 |      113 | 2024-08-02 | SINNERS         | W   | 1.000      | 0.345        | 0.037 (0.013)    | 0.800 (0.276)    | 1 (1.000) |    11.17 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           55 |      256 | 2024-07-30 | 1WIN            | W   | 1.000      | -            | -                | -                | 0 (0.000) |    12.37 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           54 |      300 | 2024-07-29 | DASH            | L   | 1.000      | -            | -                | -                | -         |   -29.76 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           53 |      414 | 2024-07-25 | HAVU            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.34 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           52 |      785 | 2024-07-16 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -25.38 | Dytor, forsyy, kreaz, nbqq, olik  |
-|           51 |      841 | 2024-07-14 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -25.58 | Dytor, forsyy, nbqq, NEOFRAG, PR  |
-|           50 |      852 | 2024-07-14 | The Suspect     | W   | 1.000      | -            | -                | -                | -         |     4.97 | Dytor, forsyy, nbqq, NEOFRAG, PR  |
-|           49 |      858 | 2024-07-13 | ALTERNATE aTTaX | W   | 1.000      | -            | -                | -                | -         |     6.15 | Dytor, forsyy, K1-FiDa, nbqq, PR  |
-|           48 |      953 | 2024-07-08 | Hungary         | W   | 1.000      | -            | -                | -                | -         |     4.22 | Dytor, forsyy, K1-FiDa, nbqq, PR  |
-|           47 |     1126 | 2024-06-14 | 5W              | L   | 0.846      | -            | -                | -                | -         |   -19.06 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           46 |     1195 | 2024-06-11 | PERA            | L   | 0.828      | -            | -                | -                | -         |   -19.75 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           45 |     1277 | 2024-06-09 | Enterprise      | W   | 0.813      | 0.450        | 0.039 (0.014)    | 0.641 (0.234)    | -         |     5.01 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           44 |     1351 | 2024-06-08 | MOUZ NXT        | W   | 0.806      | 0.450        | 0.139 (0.050)    | 0.962 (0.349)    | -         |    11.02 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           43 |     1411 | 2024-06-07 | GhoulsW         | W   | 0.798      | -            | -                | -                | -         |     0.37 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           42 |     1442 | 2024-06-06 | GamerLegion     | L   | 0.794      | -            | -                | -                | -         |   -12.20 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           41 |     1608 | 2024-06-02 | UNiTY           | W   | 0.767      | 0.346        | 0.024 (0.006)    | -                | 1 (0.767) |     6.38 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           40 |     1640 | 2024-06-01 | UNiTY           | W   | 0.760      | 0.346        | 0.024 (0.006)    | -                | 1 (0.760) |     6.49 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           39 |     1672 | 2024-05-31 | Sampi           | W   | 0.754      | 0.346        | 0.027 (0.007)    | 1.000 (0.261)    | 1 (0.754) |     4.94 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           38 |     1797 | 2024-05-26 | Permitta        | L   | 0.718      | -            | -                | -                | -         |   -17.69 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           37 |     1885 | 2024-05-22 | Preasy          | L   | 0.692      | -            | -                | -                | -         |   -19.63 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           36 |     2225 | 2024-05-13 | Johnny Speeds   | L   | 0.631      | -            | -                | -                | -         |    -7.38 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           35 |     2295 | 2024-05-10 | Verdant         | W   | 0.612      | -            | -                | -                | -         |     3.87 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           34 |     2488 | 2024-04-30 | MOUZ NXT        | L   | 0.547      | -            | -                | -                | -         |   -12.03 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           33 |     2515 | 2024-04-29 | 1WIN            | W   | 0.540      | 0.500        | 0.033 (0.009)    | 0.718 (0.194)    | -         |     3.41 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           32 |     2552 | 2024-04-27 | MOUZ NXT        | L   | 0.527      | -            | -                | -                | -         |   -11.95 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           31 |     2623 | 2024-04-25 | Sampi           | W   | 0.511      | 0.371        | -                | 1.000 (0.189)    | -         |     2.84 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           30 |     2661 | 2024-04-23 | Sampi           | W   | 0.498      | 0.371        | -                | 1.000 (0.185)    | -         |     2.72 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           29 |     2693 | 2024-04-21 | MOUZ NXT        | W   | 0.485      | 0.371        | 0.139 (0.025)    | 0.962 (0.173)    | -         |     4.65 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           28 |     2777 | 2024-04-19 | SINNERS         | W   | 0.471      | 0.371        | 0.037 (0.006)    | 0.800 (0.140)    | -         |     6.77 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           27 |     2859 | 2024-04-17 | Alliance        | W   | 0.459      | -            | -                | -                | -         |     1.97 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           26 |     2911 | 2024-04-15 | Astralis Talent | W   | 0.445      | -            | -                | -                | -         |     1.26 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           25 |     3082 | 2024-04-09 | ALTERNATE aTTaX | L   | 0.406      | -            | -                | -                | -         |   -10.00 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           24 |     3170 | 2024-04-05 | UNiTY           | L   | 0.378      | -            | -                | -                | -         |    -9.46 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           23 |     3217 | 2024-04-04 | PGE Turow       | W   | 0.371      | -            | -                | -                | -         |     0.53 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           22 |     3257 | 2024-04-03 | Permitta        | W   | 0.365      | 0.333        | -                | 0.919 (0.112)    | -         |     2.67 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           21 |     3543 | 2024-03-17 | SINNERS         | W   | 0.254      | -            | -                | -                | 1 (0.254) |     3.36 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           20 |     3561 | 2024-03-16 | UNiTY           | W   | 0.247      | -            | -                | -                | 1 (0.247) |     1.68 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           19 |     3582 | 2024-03-15 | Sampi           | W   | 0.240      | -            | -                | -                | 1 (0.240) |     1.21 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           18 |     3586 | 2024-03-15 | Sashi           | L   | 0.239      | -            | -                | -                | -         |    -4.47 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           17 |     3653 | 2024-03-13 | Permitta        | L   | 0.226      | -            | -                | -                | -         |    -5.46 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           16 |     3668 | 2024-03-13 | Permitta        | L   | 0.225      | -            | -                | -                | -         |    -5.51 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           15 |     3711 | 2024-03-11 | Entropiq        | L   | 0.212      | -            | -                | -                | -         |    -6.50 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           14 |     3729 | 2024-03-10 | Zero Tenacity   | L   | 0.206      | -            | -                | -                | -         |    -4.27 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           13 |     3872 | 2024-03-05 | 9INE            | W   | 0.172      | -            | -                | -                | -         |     0.10 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           12 |     3916 | 2024-03-03 | Metizport       | W   | 0.159      | -            | -                | -                | -         |     0.74 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           11 |     3957 | 2024-03-01 | Viperio         | W   | 0.145      | -            | -                | -                | -         |     0.05 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|           10 |     3985 | 2024-02-28 | Permitta        | W   | 0.132      | -            | -                | -                | -         |     0.88 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            9 |     4003 | 2024-02-27 | MOUZ NXT        | W   | 0.126      | 0.333        | 0.139 (0.006)    | -                | -         |     1.11 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            8 |     4005 | 2024-02-27 | ex-sYnck        | W   | 0.125      | -            | -                | -                | -         |     0.07 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            7 |     4022 | 2024-02-26 | PGE Turow       | W   | 0.118      | -            | -                | -                | -         |     0.15 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            6 |     4044 | 2024-02-25 | Sampi           | W   | 0.112      | -            | -                | -                | -         |     0.48 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            5 |     4077 | 2024-02-24 | Permitta        | L   | 0.106      | -            | -                | -                | -         |    -2.63 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            4 |     4106 | 2024-02-22 | BIG Academy     | W   | 0.092      | -            | -                | -                | -         |     0.03 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            3 |     4144 | 2024-02-21 | Permitta        | W   | 0.085      | -            | -                | -                | -         |     0.56 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            2 |     4161 | 2024-02-20 | NAVI Junior     | W   | 0.079      | -            | -                | -                | -         |     0.14 | Blytz, Dytor, forsyy, kreaz, nbqq |
-|            1 |     4189 | 2024-02-19 | Permitta        | L   | 0.072      | -            | -                | -                | -         |    -1.81 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           57 |       82 | 2024-08-03 | AVEZ            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.49 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           56 |      114 | 2024-08-02 | SINNERS         | W   | 1.000      | 0.345        | 0.037 (0.013)    | 0.800 (0.276)    | 1 (1.000) |    11.18 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           55 |      257 | 2024-07-30 | 1WIN            | W   | 1.000      | -            | -                | -                | 0 (0.000) |    12.37 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           54 |      301 | 2024-07-29 | DASH            | L   | 1.000      | -            | -                | -                | -         |   -29.76 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           53 |      415 | 2024-07-25 | HAVU            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.34 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           52 |      786 | 2024-07-16 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -25.38 | Dytor, forsyy, kreaz, nbqq, olik  |
+|           51 |      842 | 2024-07-14 | The Suspect     | L   | 1.000      | -            | -                | -                | -         |   -25.58 | Dytor, forsyy, nbqq, NEOFRAG, PR  |
+|           50 |      853 | 2024-07-14 | The Suspect     | W   | 1.000      | -            | -                | -                | -         |     4.97 | Dytor, forsyy, nbqq, NEOFRAG, PR  |
+|           49 |      859 | 2024-07-13 | ALTERNATE aTTaX | W   | 1.000      | -            | -                | -                | -         |     6.15 | Dytor, forsyy, K1-FiDa, nbqq, PR  |
+|           48 |      954 | 2024-07-08 | Hungary         | W   | 1.000      | -            | -                | -                | -         |     4.22 | Dytor, forsyy, K1-FiDa, nbqq, PR  |
+|           47 |     1127 | 2024-06-14 | 5W              | L   | 0.846      | -            | -                | -                | -         |   -19.06 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           46 |     1196 | 2024-06-11 | PERA            | L   | 0.828      | -            | -                | -                | -         |   -19.75 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           45 |     1278 | 2024-06-09 | Enterprise      | W   | 0.813      | 0.450        | 0.039 (0.014)    | 0.641 (0.234)    | -         |     5.01 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           44 |     1352 | 2024-06-08 | MOUZ NXT        | W   | 0.806      | 0.450        | 0.139 (0.050)    | 0.962 (0.349)    | -         |    11.02 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           43 |     1412 | 2024-06-07 | GhoulsW         | W   | 0.798      | -            | -                | -                | -         |     0.37 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           42 |     1443 | 2024-06-06 | GamerLegion     | L   | 0.794      | -            | -                | -                | -         |   -12.20 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           41 |     1609 | 2024-06-02 | UNiTY           | W   | 0.767      | 0.346        | 0.024 (0.006)    | -                | 1 (0.767) |     6.38 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           40 |     1641 | 2024-06-01 | UNiTY           | W   | 0.760      | 0.346        | 0.024 (0.006)    | -                | 1 (0.760) |     6.49 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           39 |     1673 | 2024-05-31 | Sampi           | W   | 0.754      | 0.346        | 0.027 (0.007)    | 1.000 (0.261)    | 1 (0.754) |     4.94 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           38 |     1798 | 2024-05-26 | Permitta        | L   | 0.718      | -            | -                | -                | -         |   -17.69 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           37 |     1886 | 2024-05-22 | Preasy          | L   | 0.692      | -            | -                | -                | -         |   -19.63 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           36 |     2226 | 2024-05-13 | Johnny Speeds   | L   | 0.631      | -            | -                | -                | -         |    -7.38 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           35 |     2296 | 2024-05-10 | Verdant         | W   | 0.612      | -            | -                | -                | -         |     3.87 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           34 |     2489 | 2024-04-30 | MOUZ NXT        | L   | 0.547      | -            | -                | -                | -         |   -12.03 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           33 |     2516 | 2024-04-29 | 1WIN            | W   | 0.540      | 0.500        | 0.033 (0.009)    | 0.718 (0.194)    | -         |     3.41 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           32 |     2553 | 2024-04-27 | MOUZ NXT        | L   | 0.527      | -            | -                | -                | -         |   -11.95 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           31 |     2624 | 2024-04-25 | Sampi           | W   | 0.511      | 0.371        | -                | 1.000 (0.189)    | -         |     2.84 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           30 |     2662 | 2024-04-23 | Sampi           | W   | 0.498      | 0.371        | -                | 1.000 (0.185)    | -         |     2.72 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           29 |     2694 | 2024-04-21 | MOUZ NXT        | W   | 0.485      | 0.371        | 0.139 (0.025)    | 0.962 (0.173)    | -         |     4.65 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           28 |     2778 | 2024-04-19 | SINNERS         | W   | 0.471      | 0.371        | 0.037 (0.006)    | 0.800 (0.140)    | -         |     6.78 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           27 |     2860 | 2024-04-17 | Alliance        | W   | 0.459      | -            | -                | -                | -         |     1.97 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           26 |     2912 | 2024-04-15 | Astralis Talent | W   | 0.445      | -            | -                | -                | -         |     1.26 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           25 |     3083 | 2024-04-09 | ALTERNATE aTTaX | L   | 0.406      | -            | -                | -                | -         |   -10.00 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           24 |     3171 | 2024-04-05 | UNiTY           | L   | 0.378      | -            | -                | -                | -         |    -9.46 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           23 |     3218 | 2024-04-04 | PGE Turow       | W   | 0.371      | -            | -                | -                | -         |     0.53 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           22 |     3258 | 2024-04-03 | Permitta        | W   | 0.365      | 0.333        | -                | 0.919 (0.112)    | -         |     2.67 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           21 |     3544 | 2024-03-17 | SINNERS         | W   | 0.254      | -            | -                | -                | 1 (0.254) |     3.36 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           20 |     3562 | 2024-03-16 | UNiTY           | W   | 0.247      | -            | -                | -                | 1 (0.247) |     1.68 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           19 |     3583 | 2024-03-15 | Sampi           | W   | 0.240      | -            | -                | -                | 1 (0.240) |     1.21 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           18 |     3587 | 2024-03-15 | Sashi           | L   | 0.239      | -            | -                | -                | -         |    -4.47 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           17 |     3654 | 2024-03-13 | Permitta        | L   | 0.226      | -            | -                | -                | -         |    -5.46 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           16 |     3669 | 2024-03-13 | Permitta        | L   | 0.225      | -            | -                | -                | -         |    -5.51 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           15 |     3712 | 2024-03-11 | Entropiq        | L   | 0.212      | -            | -                | -                | -         |    -6.50 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           14 |     3730 | 2024-03-10 | Zero Tenacity   | L   | 0.206      | -            | -                | -                | -         |    -4.27 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           13 |     3873 | 2024-03-05 | 9INE            | W   | 0.172      | -            | -                | -                | -         |     0.10 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           12 |     3917 | 2024-03-03 | Metizport       | W   | 0.159      | -            | -                | -                | -         |     0.74 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           11 |     3958 | 2024-03-01 | Viperio         | W   | 0.145      | -            | -                | -                | -         |     0.05 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|           10 |     3986 | 2024-02-28 | Permitta        | W   | 0.132      | -            | -                | -                | -         |     0.88 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            9 |     4004 | 2024-02-27 | MOUZ NXT        | W   | 0.126      | 0.333        | 0.139 (0.006)    | -                | -         |     1.11 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            8 |     4006 | 2024-02-27 | ex-sYnck        | W   | 0.125      | -            | -                | -                | -         |     0.07 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            7 |     4023 | 2024-02-26 | PGE Turow       | W   | 0.118      | -            | -                | -                | -         |     0.15 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            6 |     4045 | 2024-02-25 | Sampi           | W   | 0.112      | -            | -                | -                | -         |     0.48 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            5 |     4078 | 2024-02-24 | Permitta        | L   | 0.106      | -            | -                | -                | -         |    -2.63 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            4 |     4107 | 2024-02-22 | BIG Academy     | W   | 0.092      | -            | -                | -                | -         |     0.03 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            3 |     4145 | 2024-02-21 | Permitta        | W   | 0.085      | -            | -                | -                | -         |     0.56 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            2 |     4162 | 2024-02-20 | NAVI Junior     | W   | 0.079      | -            | -                | -                | -         |     0.14 | Blytz, Dytor, forsyy, kreaz, nbqq |
+|            1 |     4190 | 2024-02-19 | Permitta        | L   | 0.072      | -            | -                | -                | -         |    -1.81 | Blytz, Dytor, forsyy, kreaz, nbqq |
 
 <br />
 <span id="table2"></span><br />

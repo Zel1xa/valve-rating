@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           17 |       41 | 2024-08-04 | FLUFFY AIMERS  | L   | 1.000      | -            | -                | -                | -         |   -13.38 | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE |
-|           16 |      338 | 2024-07-27 | Revenge Nation | W   | 1.000      | 0.371        | 0.006 (0.002)    | 0.097 (0.036)    | 0 (0.000) |    17.22 | BiNoX, Gabie, J0LZ, Melio, TENSKEE    |
-|           15 |     1059 | 2024-06-15 | E-Xolos LAZER  | L   | 0.856      | -            | -                | -                | -         |    -9.03 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|           14 |     1095 | 2024-06-14 | Akimbo         | L   | 0.849      | -            | -                | -                | -         |    -8.95 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|           13 |     1136 | 2024-06-13 | DETONATE       | W   | 0.843      | 0.143        | 0.000 (0.000)    | 0.071 (0.008)    | 0 (0.000) |     8.16 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|           12 |     1168 | 2024-06-12 | E-Xolos LAZER  | L   | 0.836      | -            | -                | -                | -         |    -9.25 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|           11 |     1170 | 2024-06-12 | DETONATE       | W   | 0.835      | 0.143        | 0.000 (0.000)    | 0.071 (0.008)    | 0 (0.000) |     7.81 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|           10 |     1191 | 2024-06-11 | Final Form     | L   | 0.828      | -            | -                | -                | -         |   -14.48 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            9 |     1220 | 2024-06-10 | E-Xolos LAZER  | L   | 0.821      | -            | -                | -                | -         |   -10.22 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            8 |     1309 | 2024-06-08 | LAG            | L   | 0.809      | -            | -                | -                | -         |    -8.70 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            7 |     1362 | 2024-06-07 | E-Xolos LAZER  | L   | 0.803      | -            | -                | -                | -         |   -11.24 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            6 |     1432 | 2024-06-06 | Limitless      | W   | 0.795      | 0.371        | 0.001 (0.000)    | 0.159 (0.047)    | 0 (0.000) |     9.05 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            5 |     1545 | 2024-06-04 | Wildcard       | L   | 0.783      | -            | -                | -                | -         |    -5.60 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            4 |     1553 | 2024-06-04 | TSM Shimmer    | W   | 0.781      | 0.371        | 0.020 (0.006)    | 0.191 (0.055)    | 0 (0.000) |    12.54 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            3 |     3425 | 2024-03-23 | Revenge Nation | L   | 0.296      | -            | -                | -                | -         |    -4.63 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            2 |     3452 | 2024-03-21 | Final Form     | W   | 0.283      | 0.359        | 0.003 (0.000)    | 0.063 (0.006)    | 0 (0.000) |     3.85 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
-|            1 |     3503 | 2024-03-19 | Akimbo         | W   | 0.270      | 0.359        | 0.003 (0.000)    | 0.071 (0.007)    | 0 (0.000) |     3.81 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           17 |       42 | 2024-08-04 | FLUFFY AIMERS  | L   | 1.000      | -            | -                | -                | -         |   -13.38 | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE |
+|           16 |      339 | 2024-07-27 | Revenge Nation | W   | 1.000      | 0.371        | 0.006 (0.002)    | 0.097 (0.036)    | 0 (0.000) |    17.22 | BiNoX, Gabie, J0LZ, Melio, TENSKEE    |
+|           15 |     1060 | 2024-06-15 | E-Xolos LAZER  | L   | 0.856      | -            | -                | -                | -         |    -9.03 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           14 |     1096 | 2024-06-14 | Akimbo         | L   | 0.849      | -            | -                | -                | -         |    -8.95 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           13 |     1137 | 2024-06-13 | DETONATE       | W   | 0.843      | 0.143        | 0.000 (0.000)    | 0.071 (0.008)    | 0 (0.000) |     8.16 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           12 |     1169 | 2024-06-12 | E-Xolos LAZER  | L   | 0.836      | -            | -                | -                | -         |    -9.25 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           11 |     1171 | 2024-06-12 | DETONATE       | W   | 0.835      | 0.143        | 0.000 (0.000)    | 0.071 (0.008)    | 0 (0.000) |     7.81 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|           10 |     1192 | 2024-06-11 | Final Form     | L   | 0.828      | -            | -                | -                | -         |   -14.48 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            9 |     1221 | 2024-06-10 | E-Xolos LAZER  | L   | 0.821      | -            | -                | -                | -         |   -10.22 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            8 |     1310 | 2024-06-08 | LAG            | L   | 0.809      | -            | -                | -                | -         |    -8.70 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            7 |     1363 | 2024-06-07 | E-Xolos LAZER  | L   | 0.803      | -            | -                | -                | -         |   -11.24 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            6 |     1433 | 2024-06-06 | Limitless      | W   | 0.795      | 0.371        | 0.001 (0.000)    | 0.159 (0.047)    | 0 (0.000) |     9.05 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            5 |     1546 | 2024-06-04 | Wildcard       | L   | 0.783      | -            | -                | -                | -         |    -5.60 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            4 |     1554 | 2024-06-04 | TSM Shimmer    | W   | 0.781      | 0.371        | 0.020 (0.006)    | 0.191 (0.055)    | 0 (0.000) |    12.54 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            3 |     3426 | 2024-03-23 | Revenge Nation | L   | 0.296      | -            | -                | -                | -         |    -4.63 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            2 |     3453 | 2024-03-21 | Final Form     | W   | 0.283      | 0.359        | 0.003 (0.000)    | 0.063 (0.006)    | 0 (0.000) |     3.85 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
+|            1 |     3504 | 2024-03-19 | Akimbo         | W   | 0.270      | 0.359        | 0.003 (0.000)    | 0.071 (0.007)    | 0 (0.000) |     3.81 | Gabie, J0LZ, Melio, TENSKEE, YuZ      |
 
 <br />
 <span id="table2"></span><br />

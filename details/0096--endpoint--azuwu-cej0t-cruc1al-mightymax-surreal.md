@@ -37,63 +37,63 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           57 |        5 | 2024-08-06 | DMS              | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    17.11 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           56 |      208 | 2024-07-31 | K27              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.51 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           55 |      218 | 2024-07-31 | Permitta         | W   | 1.000      | 0.426        | 0.039 (0.017)    | 0.919 (0.392)    | 0 (0.000) |    19.69 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           54 |      263 | 2024-07-30 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -13.47 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           53 |      332 | 2024-07-28 | Space            | W   | 1.000      | 0.435        | -                | 0.429 (0.187)    | 0 (0.000) |    17.59 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           52 |      365 | 2024-07-26 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.70 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           51 |      417 | 2024-07-25 | Monte            | L   | 1.000      | -            | -                | -                | -         |    -7.66 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           50 |      536 | 2024-07-21 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -12.86 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           49 |      609 | 2024-07-19 | ALTERNATE aTTaX  | W   | 1.000      | 0.435        | 0.031 (0.014)    | 0.537 (0.233)    | 0 (0.000) |    15.51 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           48 |      723 | 2024-07-17 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |   -10.66 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           47 |      732 | 2024-07-17 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -13.88 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           46 |      783 | 2024-07-16 | Metizport        | L   | 1.000      | -            | -                | -                | -         |   -11.79 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           45 |      830 | 2024-07-15 | Johnny Speeds    | L   | 1.000      | -            | -                | -                | -         |    -4.01 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           44 |      891 | 2024-07-11 | Sashi            | L   | 1.000      | -            | -                | -                | -         |    -4.86 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           43 |      896 | 2024-07-11 | 9INE             | W   | 1.000      | 0.358        | 0.022 (0.008)    | 0.523 (0.187)    | 0 (0.000) |    16.94 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           42 |      916 | 2024-07-10 | Johnny Speeds    | L   | 1.000      | -            | -                | -                | -         |    -3.71 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           41 |      936 | 2024-07-09 | ROSOMAHA         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.93 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           40 |     1117 | 2024-06-14 | GamerLegion      | L   | 0.847      | -            | -                | -                | -         |    -4.46 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           39 |     1227 | 2024-06-10 | MOUZ NXT         | W   | 0.819      | 0.450        | 0.139 (0.051)    | 0.962 (0.355)    | 0 (0.000) |    20.04 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           38 |     1357 | 2024-06-08 | Entropiq         | W   | 0.805      | -            | -                | -                | 0 (0.000) |     1.78 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           37 |     1381 | 2024-06-07 | 9INE             | L   | 0.801      | -            | -                | -                | -         |   -11.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           36 |     1469 | 2024-06-06 | NAVI Junior      | L   | 0.793      | -            | -                | -                | -         |   -17.56 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           35 |     1481 | 2024-06-06 | 5W               | L   | 0.792      | -            | -                | -                | -         |   -11.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           34 |     1555 | 2024-06-04 | Rhyno            | L   | 0.781      | -            | -                | -                | -         |    -9.77 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           33 |     1776 | 2024-05-27 | Rhyno            | L   | 0.726      | -            | -                | -                | -         |    -9.25 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           32 |     1828 | 2024-05-24 | ALTERNATE aTTaX  | W   | 0.706      | 0.435        | 0.031 (0.010)    | 0.537 (0.165)    | 0 (0.000) |    10.76 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           31 |     1882 | 2024-05-22 | Permitta         | L   | 0.693      | -            | -                | -                | -         |   -11.31 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           30 |     1932 | 2024-05-21 | RUBY             | L   | 0.685      | -            | -                | -                | -         |   -10.15 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           29 |     1985 | 2024-05-19 | Sangal           | L   | 0.673      | -            | -                | -                | -         |    -6.00 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           28 |     2050 | 2024-05-17 | Zero Tenacity    | L   | 0.660      | -            | -                | -                | -         |    -6.72 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           27 |     2136 | 2024-05-15 | Passion UA       | W   | 0.646      | 0.435        | 0.173 (0.049)    | 1.000 (0.281)    | -         |    12.74 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           26 |     2144 | 2024-05-15 | Sashi            | L   | 0.645      | -            | -                | -                | -         |    -3.50 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           25 |     2200 | 2024-05-14 | ALTERNATE aTTaX  | L   | 0.639      | -            | -                | -                | -         |    -9.06 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           24 |     2262 | 2024-05-11 | MOUZ NXT         | L   | 0.621      | -            | -                | -                | -         |    -6.92 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           23 |     2313 | 2024-05-09 | PARIVISION       | W   | 0.607      | -            | -                | -                | -         |    13.13 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           22 |     2395 | 2024-05-05 | SINNERS          | L   | 0.579      | -            | -                | -                | -         |    -5.84 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           21 |     2416 | 2024-05-04 | Sampi            | W   | 0.572      | 0.435        | 0.027 (0.007)    | 1.000 (0.248)    | -         |     8.71 | AZUWU, CRUC1AL, Frøg, MiGHTYMAX, Surreal  |
-|           20 |     2442 | 2024-05-02 | MOUZ NXT         | W   | 0.561      | 0.435        | 0.139 (0.034)    | 0.962 (0.234)    | -         |    11.87 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           19 |     2454 | 2024-05-02 | Grannys Knockers | W   | 0.559      | -            | -                | -                | -         |     5.26 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           18 |     2493 | 2024-04-30 | ALTERNATE aTTaX  | W   | 0.547      | 0.396        | 0.031 (0.007)    | -                | -         |    10.09 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           17 |     2498 | 2024-04-30 | ENCE Academy     | W   | 0.546      | -            | -                | -                | -         |     4.39 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           16 |     2513 | 2024-04-29 | Nexus            | W   | 0.540      | -            | -                | -                | -         |     7.10 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           15 |     2527 | 2024-04-29 | Alliance         | L   | 0.538      | -            | -                | -                | -         |    -9.22 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           14 |     2637 | 2024-04-24 | SINNERS          | W   | 0.506      | 0.384        | 0.037 (0.007)    | -                | -         |    12.65 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           13 |     2869 | 2024-04-17 | EYEBALLERS       | W   | 0.458      | -            | -                | -                | -         |     7.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
-|           12 |     3584 | 2024-03-15 | ex-sYnck         | W   | 0.239      | -            | -                | -                | -         |     0.79 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|           11 |     3615 | 2024-03-14 | The Chosen Few   | L   | 0.234      | -            | -                | -                | -         |    -5.60 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|           10 |     3687 | 2024-03-12 | Secret           | W   | 0.219      | -            | -                | -                | -         |     0.84 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            9 |     3722 | 2024-03-10 | Nemiga           | L   | 0.207      | -            | -                | -                | -         |    -1.14 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            8 |     3758 | 2024-03-09 | BLEED            | L   | 0.199      | -            | -                | -                | -         |    -2.48 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            7 |     3790 | 2024-03-07 | kONO             | W   | 0.188      | -            | -                | -                | -         |     2.29 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            6 |     3826 | 2024-03-06 | V1dar            | W   | 0.180      | -            | -                | -                | -         |     0.65 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            5 |     3869 | 2024-03-05 | AURA             | W   | 0.173      | -            | -                | -                | -         |     0.53 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            4 |     3964 | 2024-02-29 | Metizport        | L   | 0.140      | -            | -                | -                | -         |    -2.13 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            3 |     4021 | 2024-02-26 | ALTERNATE aTTaX  | L   | 0.119      | -            | -                | -                | -         |    -1.41 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            2 |     4399 | 2024-02-09 | 3DMAX            | L   | 0.007      | -            | -                | -                | -         |    -0.00 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
-|            1 |     4405 | 2024-02-09 | fnatic           | L   | 0.006      | -            | -                | -                | -         |    -0.01 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|           57 |        6 | 2024-08-06 | DMS              | W   | 1.000      | 0.435        | -                | 0.428 (0.186)    | 0 (0.000) |    17.11 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           56 |      209 | 2024-07-31 | K27              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.51 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           55 |      219 | 2024-07-31 | Permitta         | W   | 1.000      | 0.426        | 0.039 (0.017)    | 0.919 (0.392)    | 0 (0.000) |    19.69 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           54 |      264 | 2024-07-30 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -13.47 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           53 |      333 | 2024-07-28 | Space            | W   | 1.000      | 0.435        | -                | 0.429 (0.187)    | 0 (0.000) |    17.59 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           52 |      366 | 2024-07-26 | Sampi            | L   | 1.000      | -            | -                | -                | -         |   -12.70 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           51 |      418 | 2024-07-25 | Monte            | L   | 1.000      | -            | -                | -                | -         |    -7.66 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           50 |      537 | 2024-07-21 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -12.86 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           49 |      610 | 2024-07-19 | ALTERNATE aTTaX  | W   | 1.000      | 0.435        | 0.031 (0.014)    | 0.537 (0.233)    | 0 (0.000) |    15.51 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           48 |      724 | 2024-07-17 | SINNERS          | L   | 1.000      | -            | -                | -                | -         |   -10.65 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           47 |      733 | 2024-07-17 | 9INE             | L   | 1.000      | -            | -                | -                | -         |   -13.88 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           46 |      784 | 2024-07-16 | Metizport        | L   | 1.000      | -            | -                | -                | -         |   -11.79 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           45 |      831 | 2024-07-15 | Johnny Speeds    | L   | 1.000      | -            | -                | -                | -         |    -4.01 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           44 |      892 | 2024-07-11 | Sashi            | L   | 1.000      | -            | -                | -                | -         |    -4.86 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           43 |      897 | 2024-07-11 | 9INE             | W   | 1.000      | 0.358        | 0.022 (0.008)    | 0.523 (0.187)    | 0 (0.000) |    16.94 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           42 |      917 | 2024-07-10 | Johnny Speeds    | L   | 1.000      | -            | -                | -                | -         |    -3.71 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           41 |      937 | 2024-07-09 | ROSOMAHA         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.93 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           40 |     1118 | 2024-06-14 | GamerLegion      | L   | 0.847      | -            | -                | -                | -         |    -4.46 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           39 |     1228 | 2024-06-10 | MOUZ NXT         | W   | 0.819      | 0.450        | 0.139 (0.051)    | 0.962 (0.355)    | 0 (0.000) |    20.04 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           38 |     1358 | 2024-06-08 | Entropiq         | W   | 0.805      | -            | -                | -                | 0 (0.000) |     1.78 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           37 |     1382 | 2024-06-07 | 9INE             | L   | 0.801      | -            | -                | -                | -         |   -11.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           36 |     1470 | 2024-06-06 | NAVI Junior      | L   | 0.793      | -            | -                | -                | -         |   -17.56 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           35 |     1482 | 2024-06-06 | 5W               | L   | 0.792      | -            | -                | -                | -         |   -11.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           34 |     1556 | 2024-06-04 | Rhyno            | L   | 0.781      | -            | -                | -                | -         |    -9.78 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           33 |     1777 | 2024-05-27 | Rhyno            | L   | 0.726      | -            | -                | -                | -         |    -9.25 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           32 |     1829 | 2024-05-24 | ALTERNATE aTTaX  | W   | 0.706      | 0.435        | 0.031 (0.010)    | 0.537 (0.165)    | 0 (0.000) |    10.76 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           31 |     1883 | 2024-05-22 | Permitta         | L   | 0.693      | -            | -                | -                | -         |   -11.31 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           30 |     1933 | 2024-05-21 | RUBY             | L   | 0.685      | -            | -                | -                | -         |   -10.15 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           29 |     1986 | 2024-05-19 | Sangal           | L   | 0.673      | -            | -                | -                | -         |    -6.00 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           28 |     2051 | 2024-05-17 | Zero Tenacity    | L   | 0.660      | -            | -                | -                | -         |    -6.71 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           27 |     2137 | 2024-05-15 | Passion UA       | W   | 0.646      | 0.435        | 0.173 (0.049)    | 1.000 (0.281)    | -         |    12.75 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           26 |     2145 | 2024-05-15 | Sashi            | L   | 0.645      | -            | -                | -                | -         |    -3.50 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           25 |     2201 | 2024-05-14 | ALTERNATE aTTaX  | L   | 0.639      | -            | -                | -                | -         |    -9.06 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           24 |     2263 | 2024-05-11 | MOUZ NXT         | L   | 0.621      | -            | -                | -                | -         |    -6.91 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           23 |     2314 | 2024-05-09 | PARIVISION       | W   | 0.607      | -            | -                | -                | -         |    13.14 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           22 |     2396 | 2024-05-05 | SINNERS          | L   | 0.579      | -            | -                | -                | -         |    -5.83 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           21 |     2417 | 2024-05-04 | Sampi            | W   | 0.572      | 0.435        | 0.027 (0.007)    | 1.000 (0.248)    | -         |     8.71 | AZUWU, CRUC1AL, Frøg, MiGHTYMAX, Surreal  |
+|           20 |     2443 | 2024-05-02 | MOUZ NXT         | W   | 0.561      | 0.435        | 0.139 (0.034)    | 0.962 (0.234)    | -         |    11.87 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           19 |     2455 | 2024-05-02 | Grannys Knockers | W   | 0.559      | -            | -                | -                | -         |     5.26 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           18 |     2494 | 2024-04-30 | ALTERNATE aTTaX  | W   | 0.547      | 0.396        | 0.031 (0.007)    | -                | -         |    10.09 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           17 |     2499 | 2024-04-30 | ENCE Academy     | W   | 0.546      | -            | -                | -                | -         |     4.39 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           16 |     2514 | 2024-04-29 | Nexus            | W   | 0.540      | -            | -                | -                | -         |     7.10 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           15 |     2528 | 2024-04-29 | Alliance         | L   | 0.538      | -            | -                | -                | -         |    -9.22 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           14 |     2638 | 2024-04-24 | SINNERS          | W   | 0.506      | 0.384        | 0.037 (0.007)    | -                | -         |    12.65 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           13 |     2870 | 2024-04-17 | EYEBALLERS       | W   | 0.458      | -            | -                | -                | -         |     7.30 | AZUWU, cej0t, CRUC1AL, MiGHTYMAX, Surreal |
+|           12 |     3585 | 2024-03-15 | ex-sYnck         | W   | 0.239      | -            | -                | -                | -         |     0.79 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|           11 |     3616 | 2024-03-14 | The Chosen Few   | L   | 0.234      | -            | -                | -                | -         |    -5.60 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|           10 |     3688 | 2024-03-12 | Secret           | W   | 0.219      | -            | -                | -                | -         |     0.84 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            9 |     3723 | 2024-03-10 | Nemiga           | L   | 0.207      | -            | -                | -                | -         |    -1.14 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            8 |     3759 | 2024-03-09 | BLEED            | L   | 0.199      | -            | -                | -                | -         |    -2.48 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            7 |     3791 | 2024-03-07 | kONO             | W   | 0.188      | -            | -                | -                | -         |     2.29 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            6 |     3827 | 2024-03-06 | V1dar            | W   | 0.180      | -            | -                | -                | -         |     0.65 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            5 |     3870 | 2024-03-05 | AURA             | W   | 0.173      | -            | -                | -                | -         |     0.53 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            4 |     3965 | 2024-02-29 | Metizport        | L   | 0.140      | -            | -                | -                | -         |    -2.13 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            3 |     4022 | 2024-02-26 | ALTERNATE aTTaX  | L   | 0.119      | -            | -                | -                | -         |    -1.41 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            2 |     4400 | 2024-02-09 | 3DMAX            | L   | 0.007      | -            | -                | -                | -         |    -0.00 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
+|            1 |     4406 | 2024-02-09 | fnatic           | L   | 0.006      | -            | -                | -                | -         |    -0.01 | AZUWU, MiGHTYMAX, sl3nd, Surreal, swicher |
 
 <br />
 <span id="table2"></span><br />

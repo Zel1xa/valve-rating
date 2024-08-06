@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     3339 | 2024-03-28 | Rebels          | L   | 0.327      | -            | -                | -                | -         |    -0.61 | cej0t, podi, raalz, reiko, Sdaim     |
-|            9 |     3413 | 2024-03-25 | ALTERNATE aTTaX | L   | 0.307      | -            | -                | -                | -         |    -0.62 | cej0t, podi, raalz, reiko, Sdaim     |
-|            8 |     3442 | 2024-03-22 | Aurora          | L   | 0.287      | -            | -                | -                | -         |    -0.01 | cej0t, podi, raalz, reiko, Sdaim     |
-|            7 |     3514 | 2024-03-19 | B8              | L   | 0.266      | -            | -                | -                | -         |    -0.30 | cej0t, podi, raalz, reiko, Sdaim     |
-|            6 |     3800 | 2024-03-07 | Alliance        | L   | 0.186      | -            | -                | -                | -         |    -0.72 | cej0t, raalz, reiko, Sdaim, sL1m3    |
-|            5 |     3864 | 2024-03-05 | KOI             | L   | 0.174      | -            | -                | -                | -         |    -0.21 | cej0t, raalz, reiko, Sdaim, sL1m3    |
-|            4 |     3906 | 2024-03-03 | BetBoom         | L   | 0.161      | -            | -                | -                | -         |    -0.03 | Buzz, cej0t, raalz, reiko, sL1m3     |
-|            3 |     4377 | 2024-02-11 | Metizport       | L   | 0.019      | -            | -                | -                | -         |    -0.06 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
-|            2 |     4401 | 2024-02-09 | fnatic          | W   | 0.007      | 0.143        | 0.371 (0.000)    | 0.680 (0.001)    | 0 (0.000) |     0.21 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
-|            1 |     4404 | 2024-02-09 | 3DMAX           | W   | 0.006      | 0.143        | 0.510 (0.000)    | 1.000 (0.001)    | 0 (0.000) |     0.20 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|           10 |     3340 | 2024-03-28 | Rebels          | L   | 0.327      | -            | -                | -                | -         |    -0.61 | cej0t, podi, raalz, reiko, Sdaim     |
+|            9 |     3414 | 2024-03-25 | ALTERNATE aTTaX | L   | 0.307      | -            | -                | -                | -         |    -0.62 | cej0t, podi, raalz, reiko, Sdaim     |
+|            8 |     3443 | 2024-03-22 | Aurora          | L   | 0.287      | -            | -                | -                | -         |    -0.01 | cej0t, podi, raalz, reiko, Sdaim     |
+|            7 |     3515 | 2024-03-19 | B8              | L   | 0.266      | -            | -                | -                | -         |    -0.30 | cej0t, podi, raalz, reiko, Sdaim     |
+|            6 |     3801 | 2024-03-07 | Alliance        | L   | 0.186      | -            | -                | -                | -         |    -0.72 | cej0t, raalz, reiko, Sdaim, sL1m3    |
+|            5 |     3865 | 2024-03-05 | KOI             | L   | 0.174      | -            | -                | -                | -         |    -0.21 | cej0t, raalz, reiko, Sdaim, sL1m3    |
+|            4 |     3907 | 2024-03-03 | BetBoom         | L   | 0.161      | -            | -                | -                | -         |    -0.03 | Buzz, cej0t, raalz, reiko, sL1m3     |
+|            3 |     4378 | 2024-02-11 | Metizport       | L   | 0.019      | -            | -                | -                | -         |    -0.06 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|            2 |     4402 | 2024-02-09 | fnatic          | W   | 0.007      | 0.143        | 0.371 (0.000)    | 0.680 (0.001)    | 0 (0.000) |     0.21 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|            1 |     4405 | 2024-02-09 | 3DMAX           | W   | 0.006      | 0.143        | 0.510 (0.000)    | 1.000 (0.001)    | 0 (0.000) |     0.20 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
 
 <br />
 <span id="table2"></span><br />

@@ -37,52 +37,52 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           46 |       29 | 2024-08-05 | PARIVISION         | L   | 1.000      | -            | -                | -                | -         |   -25.58 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           45 |       42 | 2024-08-04 | 9INE               | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.523 (0.227)    | -         |     2.69 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           44 |      344 | 2024-07-27 | 3DMAX              | L   | 1.000      | -            | -                | -                | -         |   -15.34 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           43 |      371 | 2024-07-26 | True Rippers       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.79 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           42 |      411 | 2024-07-25 | PARIVISION         | W   | 1.000      | 0.650        | 0.017 (0.011)    | 0.590 (0.384)    | 1 (1.000) |     5.57 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           41 |      421 | 2024-07-25 | Aurora             | L   | 1.000      | -            | -                | -                | -         |   -12.14 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           40 |      438 | 2024-07-24 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -3.90 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           39 |      451 | 2024-07-24 | BLEED              | W   | 1.000      | 0.650        | 0.126 (0.082)    | 0.538 (0.350)    | 1 (1.000) |    12.87 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           38 |     1051 | 2024-06-16 | Falcons            | L   | 0.859      | -            | -                | -                | -         |   -11.36 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           37 |     1115 | 2024-06-14 | Complexity         | W   | 0.847      | 0.500        | 0.341 (0.144)    | 0.364 (0.154)    | 1 (0.847) |    21.07 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           36 |     1124 | 2024-06-14 | MIBR               | W   | 0.846      | 0.500        | 0.208 (0.088)    | 0.633 (0.268)    | 1 (0.846) |    15.22 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           35 |     1457 | 2024-06-06 | HEROIC             | L   | 0.794      | -            | -                | -                | -         |    -6.03 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           34 |     1468 | 2024-06-06 | Astralis           | L   | 0.793      | -            | -                | -                | -         |    -3.07 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           33 |     1504 | 2024-06-05 | Sashi              | W   | 0.788      | 0.715        | 0.184 (0.103)    | 0.958 (0.540)    | 1 (0.788) |     7.79 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           32 |     1517 | 2024-06-05 | The MongolZ        | L   | 0.787      | -            | -                | -                | -         |    -1.08 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           31 |     1526 | 2024-06-05 | Ninjas in Pyjamas  | L   | 0.786      | -            | -                | -                | -         |    -6.04 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           30 |     1633 | 2024-06-01 | DMS                | L   | 0.761      | -            | -                | -                | -         |   -21.70 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           29 |     1642 | 2024-06-01 | KOI                | W   | 0.760      | -            | -                | -                | -         |     3.21 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           28 |     1652 | 2024-06-01 | DMS                | L   | 0.759      | -            | -                | -                | -         |   -22.01 | gla1ve, Goofy, Kylar, podi, sdy    |
-|           27 |     1931 | 2024-05-21 | Liquid             | L   | 0.685      | -            | -                | -                | -         |    -5.51 | dycha, gla1ve, Goofy, hades, Kylar |
-|           26 |     2017 | 2024-05-18 | fnatic             | W   | 0.666      | 0.769        | 0.371 (0.190)    | 0.680 (0.348)    | -         |    12.81 | dycha, gla1ve, Goofy, hades, Kylar |
-|           25 |     2040 | 2024-05-17 | Gaimin Gladiators  | W   | 0.662      | 0.769        | 0.037 (0.019)    | 0.331 (0.168)    | -         |     2.07 | dycha, gla1ve, Goofy, hades, Kylar |
-|           24 |     2051 | 2024-05-17 | fnatic             | L   | 0.660      | -            | -                | -                | -         |    -7.59 | dycha, gla1ve, Goofy, hades, Kylar |
-|           23 |     2409 | 2024-05-04 | FURIA              | L   | 0.573      | -            | -                | -                | -         |    -3.78 | dycha, gla1ve, Goofy, hades, Kylar |
-|           22 |     2423 | 2024-05-03 | GamerLegion        | L   | 0.567      | -            | -                | -                | -         |   -14.68 | dycha, gla1ve, Goofy, hades, Kylar |
-|           21 |     2443 | 2024-05-02 | Monte              | W   | 0.561      | 0.889        | 0.057 (0.028)    | -                | 1 (0.561) |     1.58 | dycha, gla1ve, Goofy, hades, Kylar |
-|           20 |     2471 | 2024-05-01 | Bad News Kangaroos | W   | 0.553      | 0.889        | 0.016 (0.008)    | 0.217 (0.107)    | 1 (0.553) |     0.54 | dycha, gla1ve, Goofy, hades, Kylar |
-|           19 |     2502 | 2024-04-30 | GamerLegion        | L   | 0.546      | -            | -                | -                | -         |   -14.56 | dycha, gla1ve, Goofy, hades, Kylar |
-|           18 |     2763 | 2024-04-19 | AMKAL              | L   | 0.473      | -            | -                | -                | -         |   -12.55 | dycha, gla1ve, Goofy, hades, Kylar |
-|           17 |     2850 | 2024-04-17 | Enterprise         | W   | 0.459      | 0.384        | -                | 0.641 (0.113)    | -         |     0.76 | dycha, gla1ve, Goofy, hades, Kylar |
-|           16 |     3021 | 2024-04-10 | OG                 | L   | 0.413      | -            | -                | -                | -         |   -12.00 | dycha, gla1ve, Goofy, hades, Kylar |
-|           15 |     3106 | 2024-04-08 | FORZE              | L   | 0.400      | -            | -                | -                | -         |   -12.00 | dycha, gla1ve, Goofy, hades, Kylar |
-|           14 |     3214 | 2024-04-04 | Aurora Young Blud  | W   | 0.373      | -            | -                | -                | -         |     0.51 | dycha, gla1ve, Goofy, hades, Kylar |
-|           13 |     3508 | 2024-03-19 | FURIA              | L   | 0.267      | -            | -                | -                | -         |    -1.70 | dycha, gla1ve, Goofy, hades, Kylar |
-|           12 |     3524 | 2024-03-18 | paiN               | L   | 0.259      | -            | -                | -                | -         |    -4.84 | dycha, gla1ve, Goofy, hades, Kylar |
-|           11 |     3531 | 2024-03-17 | KOI                | W   | 0.255      | -            | -                | -                | 1 (0.255) |     0.82 | dycha, gla1ve, Goofy, hades, Kylar |
-|           10 |     3551 | 2024-03-17 | Imperial           | L   | 0.253      | -            | -                | -                | -         |    -6.13 | dycha, gla1ve, Goofy, hades, Kylar |
-|            9 |     3682 | 2024-03-12 | B8                 | L   | 0.220      | -            | -                | -                | -         |    -6.21 | dycha, gla1ve, Goofy, hades, Kylar |
-|            8 |     3695 | 2024-03-11 | HEROIC             | L   | 0.214      | -            | -                | -                | -         |    -2.69 | dycha, gla1ve, Goofy, hades, Kylar |
-|            7 |     3705 | 2024-03-11 | Metizport          | W   | 0.213      | -            | -                | -                | -         |     0.27 | dycha, gla1ve, Goofy, hades, Kylar |
-|            6 |     4107 | 2024-02-22 | Astralis           | W   | 0.092      | -            | -                | -                | 1 (0.092) |     2.32 | dycha, gla1ve, Goofy, hades, Kylar |
-|            5 |     4129 | 2024-02-21 | Vitality           | L   | 0.087      | -            | -                | -                | -         |    -0.30 | dycha, gla1ve, Goofy, hades, Kylar |
-|            4 |     4162 | 2024-02-20 | GamerLegion        | W   | 0.079      | -            | -                | -                | -         |     0.05 | dycha, gla1ve, Goofy, hades, Kylar |
-|            3 |     4182 | 2024-02-19 | ex-Guild Eagles    | W   | 0.074      | -            | -                | -                | -         |     0.05 | dycha, gla1ve, Goofy, hades, Kylar |
-|            2 |     4190 | 2024-02-19 | Spirit             | L   | 0.072      | -            | -                | -                | -         |    -0.19 | dycha, gla1ve, Goofy, hades, Kylar |
-|            1 |     4395 | 2024-02-09 | Falcons            | L   | 0.008      | -            | -                | -                | -         |    -0.14 | dycha, gla1ve, Goofy, hades, Kylar |
+|           46 |       30 | 2024-08-05 | PARIVISION         | L   | 1.000      | -            | -                | -                | -         |   -25.57 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           45 |       43 | 2024-08-04 | 9INE               | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.523 (0.227)    | -         |     2.69 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           44 |      345 | 2024-07-27 | 3DMAX              | L   | 1.000      | -            | -                | -                | -         |   -15.33 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           43 |      372 | 2024-07-26 | True Rippers       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.78 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           42 |      412 | 2024-07-25 | PARIVISION         | W   | 1.000      | 0.650        | 0.017 (0.011)    | 0.590 (0.384)    | 1 (1.000) |     5.57 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           41 |      422 | 2024-07-25 | Aurora             | L   | 1.000      | -            | -                | -                | -         |   -12.13 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           40 |      439 | 2024-07-24 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -3.90 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           39 |      452 | 2024-07-24 | BLEED              | W   | 1.000      | 0.650        | 0.126 (0.082)    | 0.538 (0.350)    | 1 (1.000) |    12.87 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           38 |     1052 | 2024-06-16 | Falcons            | L   | 0.859      | -            | -                | -                | -         |   -11.36 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           37 |     1116 | 2024-06-14 | Complexity         | W   | 0.847      | 0.500        | 0.341 (0.144)    | 0.364 (0.154)    | 1 (0.847) |    21.07 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           36 |     1125 | 2024-06-14 | MIBR               | W   | 0.846      | 0.500        | 0.208 (0.088)    | 0.633 (0.268)    | 1 (0.846) |    15.22 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           35 |     1458 | 2024-06-06 | HEROIC             | L   | 0.794      | -            | -                | -                | -         |    -6.03 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           34 |     1469 | 2024-06-06 | Astralis           | L   | 0.793      | -            | -                | -                | -         |    -3.07 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           33 |     1505 | 2024-06-05 | Sashi              | W   | 0.788      | 0.715        | 0.184 (0.103)    | 0.958 (0.540)    | 1 (0.788) |     7.80 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           32 |     1518 | 2024-06-05 | The MongolZ        | L   | 0.787      | -            | -                | -                | -         |    -1.08 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           31 |     1527 | 2024-06-05 | Ninjas in Pyjamas  | L   | 0.786      | -            | -                | -                | -         |    -6.04 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           30 |     1634 | 2024-06-01 | DMS                | L   | 0.761      | -            | -                | -                | -         |   -21.70 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           29 |     1643 | 2024-06-01 | KOI                | W   | 0.760      | -            | -                | -                | -         |     3.21 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           28 |     1653 | 2024-06-01 | DMS                | L   | 0.759      | -            | -                | -                | -         |   -22.01 | gla1ve, Goofy, Kylar, podi, sdy    |
+|           27 |     1932 | 2024-05-21 | Liquid             | L   | 0.685      | -            | -                | -                | -         |    -5.51 | dycha, gla1ve, Goofy, hades, Kylar |
+|           26 |     2018 | 2024-05-18 | fnatic             | W   | 0.666      | 0.769        | 0.371 (0.190)    | 0.680 (0.348)    | -         |    12.81 | dycha, gla1ve, Goofy, hades, Kylar |
+|           25 |     2041 | 2024-05-17 | Gaimin Gladiators  | W   | 0.662      | 0.769        | 0.037 (0.019)    | 0.331 (0.168)    | -         |     2.07 | dycha, gla1ve, Goofy, hades, Kylar |
+|           24 |     2052 | 2024-05-17 | fnatic             | L   | 0.660      | -            | -                | -                | -         |    -7.59 | dycha, gla1ve, Goofy, hades, Kylar |
+|           23 |     2410 | 2024-05-04 | FURIA              | L   | 0.573      | -            | -                | -                | -         |    -3.78 | dycha, gla1ve, Goofy, hades, Kylar |
+|           22 |     2424 | 2024-05-03 | GamerLegion        | L   | 0.567      | -            | -                | -                | -         |   -14.68 | dycha, gla1ve, Goofy, hades, Kylar |
+|           21 |     2444 | 2024-05-02 | Monte              | W   | 0.561      | 0.889        | 0.057 (0.028)    | -                | 1 (0.561) |     1.58 | dycha, gla1ve, Goofy, hades, Kylar |
+|           20 |     2472 | 2024-05-01 | Bad News Kangaroos | W   | 0.553      | 0.889        | 0.016 (0.008)    | 0.217 (0.107)    | 1 (0.553) |     0.54 | dycha, gla1ve, Goofy, hades, Kylar |
+|           19 |     2503 | 2024-04-30 | GamerLegion        | L   | 0.546      | -            | -                | -                | -         |   -14.56 | dycha, gla1ve, Goofy, hades, Kylar |
+|           18 |     2764 | 2024-04-19 | AMKAL              | L   | 0.473      | -            | -                | -                | -         |   -12.55 | dycha, gla1ve, Goofy, hades, Kylar |
+|           17 |     2851 | 2024-04-17 | Enterprise         | W   | 0.459      | 0.384        | -                | 0.641 (0.113)    | -         |     0.76 | dycha, gla1ve, Goofy, hades, Kylar |
+|           16 |     3022 | 2024-04-10 | OG                 | L   | 0.413      | -            | -                | -                | -         |   -12.00 | dycha, gla1ve, Goofy, hades, Kylar |
+|           15 |     3107 | 2024-04-08 | FORZE              | L   | 0.400      | -            | -                | -                | -         |   -12.00 | dycha, gla1ve, Goofy, hades, Kylar |
+|           14 |     3215 | 2024-04-04 | Aurora Young Blud  | W   | 0.373      | -            | -                | -                | -         |     0.51 | dycha, gla1ve, Goofy, hades, Kylar |
+|           13 |     3509 | 2024-03-19 | FURIA              | L   | 0.267      | -            | -                | -                | -         |    -1.70 | dycha, gla1ve, Goofy, hades, Kylar |
+|           12 |     3525 | 2024-03-18 | paiN               | L   | 0.259      | -            | -                | -                | -         |    -4.84 | dycha, gla1ve, Goofy, hades, Kylar |
+|           11 |     3532 | 2024-03-17 | KOI                | W   | 0.255      | -            | -                | -                | 1 (0.255) |     0.82 | dycha, gla1ve, Goofy, hades, Kylar |
+|           10 |     3552 | 2024-03-17 | Imperial           | L   | 0.253      | -            | -                | -                | -         |    -6.13 | dycha, gla1ve, Goofy, hades, Kylar |
+|            9 |     3683 | 2024-03-12 | B8                 | L   | 0.220      | -            | -                | -                | -         |    -6.21 | dycha, gla1ve, Goofy, hades, Kylar |
+|            8 |     3696 | 2024-03-11 | HEROIC             | L   | 0.214      | -            | -                | -                | -         |    -2.69 | dycha, gla1ve, Goofy, hades, Kylar |
+|            7 |     3706 | 2024-03-11 | Metizport          | W   | 0.213      | -            | -                | -                | -         |     0.27 | dycha, gla1ve, Goofy, hades, Kylar |
+|            6 |     4108 | 2024-02-22 | Astralis           | W   | 0.092      | -            | -                | -                | 1 (0.092) |     2.32 | dycha, gla1ve, Goofy, hades, Kylar |
+|            5 |     4130 | 2024-02-21 | Vitality           | L   | 0.087      | -            | -                | -                | -         |    -0.30 | dycha, gla1ve, Goofy, hades, Kylar |
+|            4 |     4163 | 2024-02-20 | GamerLegion        | W   | 0.079      | -            | -                | -                | -         |     0.05 | dycha, gla1ve, Goofy, hades, Kylar |
+|            3 |     4183 | 2024-02-19 | ex-Guild Eagles    | W   | 0.074      | -            | -                | -                | -         |     0.05 | dycha, gla1ve, Goofy, hades, Kylar |
+|            2 |     4191 | 2024-02-19 | Spirit             | L   | 0.072      | -            | -                | -                | -         |    -0.19 | dycha, gla1ve, Goofy, hades, Kylar |
+|            1 |     4396 | 2024-02-09 | Falcons            | L   | 0.008      | -            | -                | -                | -         |    -0.14 | dycha, gla1ve, Goofy, hades, Kylar |
 
 <br />
 <span id="table2"></span><br />

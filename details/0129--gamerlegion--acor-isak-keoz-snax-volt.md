@@ -37,20 +37,20 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     3494 | 2024-03-20 | Imperial        | L   | 0.273      | -            | -                | -                | -         |    -0.59 | acoR, isak, Keoz, Snax, volt |
-|           13 |     3512 | 2024-03-19 | Eternal Fire    | L   | 0.266      | -            | -                | -                | -         |    -0.05 | acoR, isak, Keoz, Snax, volt |
-|           12 |     3521 | 2024-03-18 | Legacy          | W   | 0.259      | 0.143        | 0.122 (0.005)    | 0.621 (0.023)    | 1 (0.259) |     6.47 | acoR, isak, Keoz, Snax, volt |
-|           11 |     3530 | 2024-03-17 | SAW             | L   | 0.255      | -            | -                | -                | -         |    -0.80 | acoR, isak, Keoz, Snax, volt |
-|           10 |     3546 | 2024-03-17 | AMKAL           | W   | 0.253      | 0.143        | 0.130 (0.005)    | 0.452 (0.016)    | 1 (0.253) |     7.06 | acoR, isak, Keoz, Snax, volt |
-|            9 |     3766 | 2024-03-08 | BIG             | L   | 0.194      | -            | -                | -                | -         |    -0.30 | acoR, isak, Keoz, Snax, volt |
-|            8 |     4071 | 2024-02-24 | 9 Pandas        | L   | 0.106      | -            | -                | -                | -         |    -0.75 | acoR, isak, Keoz, Snax, volt |
-|            7 |     4078 | 2024-02-24 | ex-Guild Eagles | W   | 0.106      | 0.143        | 0.007 (0.000)    | 0.207 (0.003)    | 1 (0.106) |     1.86 | acoR, isak, Keoz, Snax, volt |
-|            6 |     4086 | 2024-02-23 | fnatic          | W   | 0.100      | 0.143        | 0.371 (0.005)    | 0.680 (0.010)    | 1 (0.100) |     3.11 | acoR, isak, Keoz, Snax, volt |
-|            5 |     4104 | 2024-02-22 | HEROIC          | L   | 0.094      | -            | -                | -                | -         |    -0.04 | acoR, isak, Keoz, Snax, volt |
-|            4 |     4130 | 2024-02-21 | OG              | W   | 0.086      | 0.143        | 0.137 (0.002)    | 0.120 (0.001)    | 1 (0.086) |     2.12 | acoR, isak, Keoz, Snax, volt |
-|            3 |     4162 | 2024-02-20 | ENCE            | L   | 0.079      | -            | -                | -                | -         |    -0.05 | acoR, isak, Keoz, Snax, volt |
-|            2 |     4183 | 2024-02-19 | PERA            | W   | 0.074      | 0.143        | 0.047 (0.001)    | 0.435 (0.005)    | 1 (0.074) |     1.65 | acoR, isak, Keoz, Snax, volt |
-|            1 |     4192 | 2024-02-19 | Vitality        | L   | 0.072      | -            | -                | -                | -         |    -0.01 | acoR, isak, Keoz, Snax, volt |
+|           14 |     3495 | 2024-03-20 | Imperial        | L   | 0.273      | -            | -                | -                | -         |    -0.59 | acoR, isak, Keoz, Snax, volt |
+|           13 |     3513 | 2024-03-19 | Eternal Fire    | L   | 0.266      | -            | -                | -                | -         |    -0.05 | acoR, isak, Keoz, Snax, volt |
+|           12 |     3522 | 2024-03-18 | Legacy          | W   | 0.259      | 0.143        | 0.122 (0.005)    | 0.621 (0.023)    | 1 (0.259) |     6.47 | acoR, isak, Keoz, Snax, volt |
+|           11 |     3531 | 2024-03-17 | SAW             | L   | 0.255      | -            | -                | -                | -         |    -0.80 | acoR, isak, Keoz, Snax, volt |
+|           10 |     3547 | 2024-03-17 | AMKAL           | W   | 0.253      | 0.143        | 0.130 (0.005)    | 0.452 (0.016)    | 1 (0.253) |     7.06 | acoR, isak, Keoz, Snax, volt |
+|            9 |     3767 | 2024-03-08 | BIG             | L   | 0.194      | -            | -                | -                | -         |    -0.30 | acoR, isak, Keoz, Snax, volt |
+|            8 |     4072 | 2024-02-24 | 9 Pandas        | L   | 0.106      | -            | -                | -                | -         |    -0.72 | acoR, isak, Keoz, Snax, volt |
+|            7 |     4079 | 2024-02-24 | ex-Guild Eagles | W   | 0.106      | 0.143        | 0.007 (0.000)    | 0.207 (0.003)    | 1 (0.106) |     1.86 | acoR, isak, Keoz, Snax, volt |
+|            6 |     4087 | 2024-02-23 | fnatic          | W   | 0.100      | 0.143        | 0.371 (0.005)    | 0.680 (0.010)    | 1 (0.100) |     3.11 | acoR, isak, Keoz, Snax, volt |
+|            5 |     4105 | 2024-02-22 | HEROIC          | L   | 0.094      | -            | -                | -                | -         |    -0.04 | acoR, isak, Keoz, Snax, volt |
+|            4 |     4131 | 2024-02-21 | OG              | W   | 0.086      | 0.143        | 0.137 (0.002)    | 0.120 (0.001)    | 1 (0.086) |     2.12 | acoR, isak, Keoz, Snax, volt |
+|            3 |     4163 | 2024-02-20 | ENCE            | L   | 0.079      | -            | -                | -                | -         |    -0.05 | acoR, isak, Keoz, Snax, volt |
+|            2 |     4184 | 2024-02-19 | PERA            | W   | 0.074      | 0.143        | 0.047 (0.001)    | 0.435 (0.005)    | 1 (0.074) |     1.65 | acoR, isak, Keoz, Snax, volt |
+|            1 |     4193 | 2024-02-19 | Vitality        | L   | 0.072      | -            | -                | -                | -         |    -0.01 | acoR, isak, Keoz, Snax, volt |
 
 <br />
 <span id="table2"></span><br />

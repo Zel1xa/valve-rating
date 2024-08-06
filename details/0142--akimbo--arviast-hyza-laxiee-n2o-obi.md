@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |      276 | 2024-07-29 | jahsdnmasjdm     | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.75 | arviast, hyza, laxiee, N2o, obi        |
-|           21 |      354 | 2024-07-26 | undefined        | L   | 1.000      | -            | -                | -                | -         |   -23.94 | hyza, kmrn, laxiee, N2o, obi           |
-|           20 |     1031 | 2024-06-16 | E-Xolos LAZER    | L   | 0.863      | -            | -                | -                | -         |   -12.64 | calamity, kralz , laxiee, N2o, obi     |
-|           19 |     1058 | 2024-06-15 | Take Flyte       | L   | 0.856      | -            | -                | -                | -         |   -17.43 | calamity, kralz , laxiee, N2o, obi     |
-|           18 |     1063 | 2024-06-15 | Legacy           | L   | 0.855      | -            | -                | -                | -         |    -5.87 | calamity, kralz , laxiee, N2o, obi     |
-|           17 |     1095 | 2024-06-14 | Homyno           | W   | 0.849      | 0.143        | 0.007 (0.001)    | 0.153 (0.019)    | 0 (0.000) |     8.95 | calamity, kralz , laxiee, N2o, obi     |
-|           16 |     1100 | 2024-06-14 | Phoenix          | W   | 0.848      | 0.371        | 0.004 (0.001)    | 0.270 (0.085)    | 0 (0.000) |    11.38 | calamity, kralz , laxiee, N2o, obi     |
-|           15 |     1211 | 2024-06-10 | Legacy           | L   | 0.823      | -            | -                | -                | -         |    -5.50 | calamity, kralz , laxiee, N2o, obi     |
-|           14 |     1244 | 2024-06-09 | E-Xolos LAZER    | W   | 0.816      | 0.368        | 0.011 (0.003)    | 0.376 (0.113)    | 0 (0.000) |    12.53 | calamity, kralz , laxiee, N2o, obi     |
-|           13 |     1417 | 2024-06-06 | FLUFFY AIMERS    | W   | 0.797      | 0.371        | 0.003 (0.001)    | 0.304 (0.090)    | 0 (0.000) |    10.22 | calamity, kralz , laxiee, N2o, obi     |
-|           12 |     1426 | 2024-06-06 | Legacy           | L   | 0.795      | -            | -                | -                | -         |    -5.27 | calamity, kralz , laxiee, N2o, obi     |
-|           11 |     1544 | 2024-06-04 | Final Form       | W   | 0.783      | 0.371        | 0.003 (0.001)    | 0.063 (0.018)    | 0 (0.000) |     8.36 | calamity, kralz , laxiee, N2o, obi     |
-|           10 |     1579 | 2024-06-03 | Villainous       | W   | 0.776      | 0.368        | 0.003 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     5.56 | calamity, kralz , laxiee, N2o, obi     |
-|            9 |     1934 | 2024-05-20 | Party Astronauts | L   | 0.683      | -            | -                | -                | -         |    -6.09 | calamity, kralz , laxiee, N2o, obi     |
-|            8 |     2833 | 2024-04-17 | Liquid           | L   | 0.462      | -            | -                | -                | -         |    -0.14 | calamity, kralz , laxiee, N2o, obi     |
-|            7 |     2839 | 2024-04-17 | NRG              | W   | 0.462      | 0.143        | 0.020 (0.001)    | 0.502 (0.033)    | 0 (0.000) |     9.43 | calamity, kralz , laxiee, N2o, obi     |
-|            6 |     3526 | 2024-03-17 | LAG              | L   | 0.257      | -            | -                | -                | -         |    -3.17 | arviast, C4LLM3SU3, calamity, N2o, obi |
-|            5 |     3527 | 2024-03-17 | Xiaoma           | W   | 0.256      | 0.333        | 0.001 (0.000)    | 0.010 (0.001)    | 1 (0.256) |     1.87 | arviast, C4LLM3SU3, calamity, N2o, obi |
-|            4 |     3535 | 2024-03-17 | Snakes Den       | W   | 0.255      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.255) |     0.96 | arviast, C4LLM3SU3, calamity, N2o, obi |
-|            3 |     4059 | 2024-02-24 | Wildcard         | L   | 0.109      | -            | -                | -                | -         |    -1.18 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
-|            2 |     4172 | 2024-02-19 | Mythic           | L   | 0.077      | -            | -                | -                | -         |    -1.09 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
-|            1 |     4174 | 2024-02-19 | Party Astronauts | L   | 0.075      | -            | -                | -                | -         |    -0.68 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
+|           22 |      277 | 2024-07-29 | jahsdnmasjdm     | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.75 | arviast, hyza, laxiee, N2o, obi        |
+|           21 |      355 | 2024-07-26 | undefined        | L   | 1.000      | -            | -                | -                | -         |   -23.94 | hyza, kmrn, laxiee, N2o, obi           |
+|           20 |     1032 | 2024-06-16 | E-Xolos LAZER    | L   | 0.863      | -            | -                | -                | -         |   -12.64 | calamity, kralz , laxiee, N2o, obi     |
+|           19 |     1059 | 2024-06-15 | Take Flyte       | L   | 0.856      | -            | -                | -                | -         |   -17.43 | calamity, kralz , laxiee, N2o, obi     |
+|           18 |     1064 | 2024-06-15 | Legacy           | L   | 0.855      | -            | -                | -                | -         |    -5.87 | calamity, kralz , laxiee, N2o, obi     |
+|           17 |     1096 | 2024-06-14 | Homyno           | W   | 0.849      | 0.143        | 0.007 (0.001)    | 0.153 (0.019)    | 0 (0.000) |     8.95 | calamity, kralz , laxiee, N2o, obi     |
+|           16 |     1101 | 2024-06-14 | Phoenix          | W   | 0.848      | 0.371        | 0.004 (0.001)    | 0.270 (0.085)    | 0 (0.000) |    11.38 | calamity, kralz , laxiee, N2o, obi     |
+|           15 |     1212 | 2024-06-10 | Legacy           | L   | 0.823      | -            | -                | -                | -         |    -5.50 | calamity, kralz , laxiee, N2o, obi     |
+|           14 |     1245 | 2024-06-09 | E-Xolos LAZER    | W   | 0.816      | 0.368        | 0.011 (0.003)    | 0.376 (0.113)    | 0 (0.000) |    12.53 | calamity, kralz , laxiee, N2o, obi     |
+|           13 |     1418 | 2024-06-06 | FLUFFY AIMERS    | W   | 0.797      | 0.371        | 0.003 (0.001)    | 0.304 (0.090)    | 0 (0.000) |    10.22 | calamity, kralz , laxiee, N2o, obi     |
+|           12 |     1427 | 2024-06-06 | Legacy           | L   | 0.795      | -            | -                | -                | -         |    -5.27 | calamity, kralz , laxiee, N2o, obi     |
+|           11 |     1545 | 2024-06-04 | Final Form       | W   | 0.783      | 0.371        | 0.003 (0.001)    | 0.063 (0.018)    | 0 (0.000) |     8.36 | calamity, kralz , laxiee, N2o, obi     |
+|           10 |     1580 | 2024-06-03 | Villainous       | W   | 0.776      | 0.368        | 0.003 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     5.56 | calamity, kralz , laxiee, N2o, obi     |
+|            9 |     1935 | 2024-05-20 | Party Astronauts | L   | 0.683      | -            | -                | -                | -         |    -6.09 | calamity, kralz , laxiee, N2o, obi     |
+|            8 |     2834 | 2024-04-17 | Liquid           | L   | 0.462      | -            | -                | -                | -         |    -0.14 | calamity, kralz , laxiee, N2o, obi     |
+|            7 |     2840 | 2024-04-17 | NRG              | W   | 0.462      | 0.143        | 0.020 (0.001)    | 0.502 (0.033)    | 0 (0.000) |     9.43 | calamity, kralz , laxiee, N2o, obi     |
+|            6 |     3527 | 2024-03-17 | LAG              | L   | 0.257      | -            | -                | -                | -         |    -3.17 | arviast, C4LLM3SU3, calamity, N2o, obi |
+|            5 |     3528 | 2024-03-17 | Xiaoma           | W   | 0.256      | 0.333        | 0.001 (0.000)    | 0.010 (0.001)    | 1 (0.256) |     1.87 | arviast, C4LLM3SU3, calamity, N2o, obi |
+|            4 |     3536 | 2024-03-17 | Snakes Den       | W   | 0.255      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.255) |     0.96 | arviast, C4LLM3SU3, calamity, N2o, obi |
+|            3 |     4060 | 2024-02-24 | Wildcard         | L   | 0.109      | -            | -                | -                | -         |    -1.18 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
+|            2 |     4173 | 2024-02-19 | Mythic           | L   | 0.077      | -            | -                | -                | -         |    -1.09 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
+|            1 |     4175 | 2024-02-19 | Party Astronauts | L   | 0.075      | -            | -                | -                | -         |    -0.68 | C4LLM3SU3, calamity, laxiee, N2o, obi  |
 
 <br />
 <span id="table2"></span><br />

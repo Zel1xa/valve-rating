@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2684 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            9 |     2702 | 2024-04-20 | BIG EQUIPA    | L   | 0.481      | -            | -                | -                | -         |    -6.04 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            8 |     2749 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.54 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            7 |     2967 | 2024-04-11 | Crescent fe   | W   | 0.421      | 0.331        | 0.004 (0.001)    | 0.074 (0.010)    | 0 (0.000) |     5.79 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            6 |     3139 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            5 |     3155 | 2024-04-06 | Let Her Cook  | W   | 0.386      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.56 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            4 |     3376 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            3 |     3461 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.10 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            2 |     3818 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            1 |     4036 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.70 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|           10 |     2685 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            9 |     2703 | 2024-04-20 | BIG EQUIPA    | L   | 0.481      | -            | -                | -                | -         |    -6.04 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            8 |     2750 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.54 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            7 |     2968 | 2024-04-11 | Crescent fe   | W   | 0.421      | 0.331        | 0.004 (0.001)    | 0.074 (0.010)    | 0 (0.000) |     5.79 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            6 |     3140 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            5 |     3156 | 2024-04-06 | Let Her Cook  | W   | 0.386      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.56 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            4 |     3377 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            3 |     3462 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.10 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            2 |     3819 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            1 |     4037 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.70 | kr4sy, Ksu, t4tty, Victoria, vilga |
 
 <br />
 <span id="table2"></span><br />

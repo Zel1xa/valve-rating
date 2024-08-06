@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           54 |      185 | 2024-07-31 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | -                | 0.304 (0.145)    | 0 (0.000) |    14.71 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           53 |      187 | 2024-07-31 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |   -16.88 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           52 |      684 | 2024-07-17 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.50 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           51 |      689 | 2024-07-17 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.01 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           50 |      745 | 2024-07-16 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -8.70 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           49 |      752 | 2024-07-16 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -9.35 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           48 |      797 | 2024-07-15 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -16.89 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
-|           47 |     1061 | 2024-06-15 | Wildcard         | L   | 0.856      | -            | -                | -                | -         |    -8.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           46 |     1137 | 2024-06-13 | LAG              | W   | 0.843      | 0.371        | 0.012 (0.004)    | 0.376 (0.117)    | 0 (0.000) |    13.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           45 |     1423 | 2024-06-06 | Legacy           | L   | 0.796      | -            | -                | -                | -         |    -6.12 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           44 |     1490 | 2024-06-05 | Elevate          | L   | 0.789      | -            | -                | -                | -         |    -6.98 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           43 |     1543 | 2024-06-04 | BOSS             | W   | 0.783      | 0.477        | 0.014 (0.005)    | 0.319 (0.119)    | 0 (0.000) |    11.05 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           42 |     1552 | 2024-06-04 | Phoenix          | W   | 0.781      | 0.384        | -                | 0.270 (0.081)    | 0 (0.000) |    10.43 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           41 |     1870 | 2024-05-22 | M80              | L   | 0.695      | -            | -                | -                | -         |    -1.63 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           40 |     1944 | 2024-05-20 | Elevate          | W   | 0.682      | 0.384        | 0.027 (0.007)    | 0.501 (0.131)    | 0 (0.000) |    16.04 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           39 |     2104 | 2024-05-15 | Phoenix          | W   | 0.650      | 0.477        | -                | 0.270 (0.084)    | 0 (0.000) |     9.39 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           38 |     2110 | 2024-05-15 | Phoenix          | L   | 0.649      | -            | -                | -                | -         |   -11.33 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           37 |     2157 | 2024-05-14 | Party Astronauts | L   | 0.643      | -            | -                | -                | -         |    -6.90 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           36 |     2164 | 2024-05-14 | Party Astronauts | W   | 0.643      | 0.477        | 0.041 (0.013)    | 0.510 (0.156)    | 0 (0.000) |    13.71 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           35 |     2235 | 2024-05-12 | Phoenix          | L   | 0.628      | -            | -                | -                | -         |   -10.97 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           34 |     2252 | 2024-05-11 | Nouns            | W   | 0.622      | 0.270        | 0.057 (0.010)    | 0.541 (0.091)    | 0 (0.000) |    14.20 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           33 |     2253 | 2024-05-11 | Wildcard         | W   | 0.622      | 0.270        | 0.048 (0.008)    | -                | 0 (0.000) |    13.18 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           32 |     2625 | 2024-04-24 | BOSS             | W   | 0.510      | 0.477        | 0.014 (0.003)    | 0.319 (0.077)    | 0 (0.000) |     9.66 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           31 |     2626 | 2024-04-24 | BOSS             | L   | 0.509      | -            | -                | -                | -         |    -6.50 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           30 |     2898 | 2024-04-15 | NRG              | L   | 0.449      | -            | -                | -                | -         |    -5.11 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           29 |     2899 | 2024-04-15 | NRG              | L   | 0.449      | -            | -                | -                | -         |    -5.30 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           28 |     2954 | 2024-04-11 | Carpe Diem       | L   | 0.423      | -            | -                | -                | -         |    -8.79 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           27 |     2956 | 2024-04-11 | Carpe Diem       | W   | 0.423      | -            | -                | -                | -         |     4.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           26 |     2987 | 2024-04-10 | LAG              | L   | 0.416      | -            | -                | -                | -         |    -5.47 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           25 |     2992 | 2024-04-10 | LAG              | L   | 0.416      | -            | -                | -                | -         |    -5.67 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           24 |     3355 | 2024-03-27 | Wildcard         | L   | 0.323      | -            | -                | -                | -         |    -3.72 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           23 |     3361 | 2024-03-27 | Wildcard         | L   | 0.323      | -            | -                | -                | -         |    -3.82 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           22 |     3398 | 2024-03-26 | Limitless        | W   | 0.317      | -            | -                | -                | -         |     3.19 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           21 |     3403 | 2024-03-26 | Limitless        | L   | 0.316      | -            | -                | -                | -         |    -6.91 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           20 |     3479 | 2024-03-20 | Nouns            | W   | 0.277      | 0.477        | 0.057 (0.008)    | 0.541 (0.071)    | -         |     5.78 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           19 |     3482 | 2024-03-20 | Nouns            | L   | 0.276      | -            | -                | -                | -         |    -2.96 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           18 |     3500 | 2024-03-19 | M80              | W   | 0.270      | 0.477        | 0.064 (0.008)    | -                | -         |     2.44 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           17 |     3502 | 2024-03-19 | M80              | W   | 0.270      | 0.477        | 0.064 (0.008)    | -                | -         |     2.49 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           16 |     3592 | 2024-03-14 | Take Flyte       | W   | 0.237      | -            | -                | -                | -         |     2.90 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           15 |     3595 | 2024-03-14 | Take Flyte       | W   | 0.236      | -            | -                | -                | -         |     2.95 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           14 |     3628 | 2024-03-13 | Phoenix          | L   | 0.229      | -            | -                | -                | -         |    -4.11 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           13 |     3672 | 2024-03-12 | Wildcard         | W   | 0.223      | -            | -                | -                | -         |     4.41 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           12 |     3843 | 2024-03-05 | MIGHT            | L   | 0.177      | -            | -                | -                | -         |    -4.47 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           11 |     3845 | 2024-03-05 | MIGHT            | L   | 0.176      | -            | -                | -                | -         |    -4.51 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|           10 |     4057 | 2024-02-24 | NRG              | L   | 0.109      | -            | -                | -                | -         |    -1.44 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            9 |     4148 | 2024-02-20 | Party Astronauts | L   | 0.082      | -            | -                | -                | -         |    -0.85 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            8 |     4172 | 2024-02-19 | Akimbo           | W   | 0.077      | -            | -                | -                | -         |     1.09 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            7 |     4173 | 2024-02-19 | NRG              | L   | 0.075      | -            | -                | -                | -         |    -1.00 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            6 |     4241 | 2024-02-16 | FLUFFY AIMERS    | W   | 0.056      | -            | -                | -                | -         |     0.79 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            5 |     4243 | 2024-02-16 | E-Xolos LAZER    | W   | 0.056      | -            | -                | -                | -         |     0.84 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            4 |     4299 | 2024-02-14 | FLUFFY AIMERS    | W   | 0.043      | -            | -                | -                | -         |     0.62 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            3 |     4301 | 2024-02-14 | FLUFFY AIMERS    | W   | 0.043      | -            | -                | -                | -         |     0.62 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            2 |     4339 | 2024-02-13 | Elevate          | W   | 0.037      | -            | -                | -                | -         |     0.89 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
-|            1 |     4342 | 2024-02-13 | Elevate          | L   | 0.036      | -            | -                | -                | -         |    -0.27 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           54 |      186 | 2024-07-31 | FLUFFY AIMERS    | W   | 1.000      | 0.477        | -                | 0.304 (0.145)    | 0 (0.000) |    14.71 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           53 |      188 | 2024-07-31 | FLUFFY AIMERS    | L   | 1.000      | -            | -                | -                | -         |   -16.88 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           52 |      685 | 2024-07-17 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -7.50 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           51 |      690 | 2024-07-17 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -8.01 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           50 |      746 | 2024-07-16 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -8.70 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           49 |      753 | 2024-07-16 | Elevate          | L   | 1.000      | -            | -                | -                | -         |    -9.35 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           48 |      798 | 2024-07-15 | BOSS             | L   | 1.000      | -            | -                | -                | -         |   -16.89 | Austin, Cooper, fl0m, freakazoid, Trucklover86 |
+|           47 |     1062 | 2024-06-15 | Wildcard         | L   | 0.856      | -            | -                | -                | -         |    -8.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           46 |     1138 | 2024-06-13 | LAG              | W   | 0.843      | 0.371        | 0.012 (0.004)    | 0.376 (0.117)    | 0 (0.000) |    13.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           45 |     1424 | 2024-06-06 | Legacy           | L   | 0.796      | -            | -                | -                | -         |    -6.12 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           44 |     1491 | 2024-06-05 | Elevate          | L   | 0.789      | -            | -                | -                | -         |    -6.98 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           43 |     1544 | 2024-06-04 | BOSS             | W   | 0.783      | 0.477        | 0.014 (0.005)    | 0.319 (0.119)    | 0 (0.000) |    11.05 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           42 |     1553 | 2024-06-04 | Phoenix          | W   | 0.781      | 0.384        | -                | 0.270 (0.081)    | 0 (0.000) |    10.43 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           41 |     1871 | 2024-05-22 | M80              | L   | 0.695      | -            | -                | -                | -         |    -1.63 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           40 |     1945 | 2024-05-20 | Elevate          | W   | 0.682      | 0.384        | 0.027 (0.007)    | 0.501 (0.131)    | 0 (0.000) |    16.04 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           39 |     2105 | 2024-05-15 | Phoenix          | W   | 0.650      | 0.477        | -                | 0.270 (0.084)    | 0 (0.000) |     9.39 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           38 |     2111 | 2024-05-15 | Phoenix          | L   | 0.649      | -            | -                | -                | -         |   -11.33 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           37 |     2158 | 2024-05-14 | Party Astronauts | L   | 0.643      | -            | -                | -                | -         |    -6.90 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           36 |     2165 | 2024-05-14 | Party Astronauts | W   | 0.643      | 0.477        | 0.041 (0.013)    | 0.510 (0.156)    | 0 (0.000) |    13.71 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           35 |     2236 | 2024-05-12 | Phoenix          | L   | 0.628      | -            | -                | -                | -         |   -10.97 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           34 |     2253 | 2024-05-11 | Nouns            | W   | 0.622      | 0.270        | 0.057 (0.010)    | 0.541 (0.091)    | 0 (0.000) |    14.20 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           33 |     2254 | 2024-05-11 | Wildcard         | W   | 0.622      | 0.270        | 0.048 (0.008)    | -                | 0 (0.000) |    13.18 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           32 |     2626 | 2024-04-24 | BOSS             | W   | 0.510      | 0.477        | 0.014 (0.003)    | 0.319 (0.077)    | 0 (0.000) |     9.66 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           31 |     2627 | 2024-04-24 | BOSS             | L   | 0.509      | -            | -                | -                | -         |    -6.50 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           30 |     2899 | 2024-04-15 | NRG              | L   | 0.449      | -            | -                | -                | -         |    -5.11 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           29 |     2900 | 2024-04-15 | NRG              | L   | 0.449      | -            | -                | -                | -         |    -5.30 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           28 |     2955 | 2024-04-11 | Carpe Diem       | L   | 0.423      | -            | -                | -                | -         |    -8.79 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           27 |     2957 | 2024-04-11 | Carpe Diem       | W   | 0.423      | -            | -                | -                | -         |     4.59 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           26 |     2988 | 2024-04-10 | LAG              | L   | 0.416      | -            | -                | -                | -         |    -5.47 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           25 |     2993 | 2024-04-10 | LAG              | L   | 0.416      | -            | -                | -                | -         |    -5.67 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           24 |     3356 | 2024-03-27 | Wildcard         | L   | 0.323      | -            | -                | -                | -         |    -3.72 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           23 |     3362 | 2024-03-27 | Wildcard         | L   | 0.323      | -            | -                | -                | -         |    -3.82 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           22 |     3399 | 2024-03-26 | Limitless        | W   | 0.317      | -            | -                | -                | -         |     3.19 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           21 |     3404 | 2024-03-26 | Limitless        | L   | 0.316      | -            | -                | -                | -         |    -6.91 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           20 |     3480 | 2024-03-20 | Nouns            | W   | 0.277      | 0.477        | 0.057 (0.008)    | 0.541 (0.071)    | -         |     5.78 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           19 |     3483 | 2024-03-20 | Nouns            | L   | 0.276      | -            | -                | -                | -         |    -2.96 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           18 |     3501 | 2024-03-19 | M80              | W   | 0.270      | 0.477        | 0.064 (0.008)    | -                | -         |     2.44 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           17 |     3503 | 2024-03-19 | M80              | W   | 0.270      | 0.477        | 0.064 (0.008)    | -                | -         |     2.49 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           16 |     3593 | 2024-03-14 | Take Flyte       | W   | 0.237      | -            | -                | -                | -         |     2.90 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           15 |     3596 | 2024-03-14 | Take Flyte       | W   | 0.236      | -            | -                | -                | -         |     2.95 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           14 |     3629 | 2024-03-13 | Phoenix          | L   | 0.229      | -            | -                | -                | -         |    -4.11 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           13 |     3673 | 2024-03-12 | Wildcard         | W   | 0.223      | -            | -                | -                | -         |     4.41 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           12 |     3844 | 2024-03-05 | MIGHT            | L   | 0.177      | -            | -                | -                | -         |    -4.47 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           11 |     3846 | 2024-03-05 | MIGHT            | L   | 0.176      | -            | -                | -                | -         |    -4.51 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|           10 |     4058 | 2024-02-24 | NRG              | L   | 0.109      | -            | -                | -                | -         |    -1.44 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            9 |     4149 | 2024-02-20 | Party Astronauts | L   | 0.082      | -            | -                | -                | -         |    -0.85 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            8 |     4173 | 2024-02-19 | Akimbo           | W   | 0.077      | -            | -                | -                | -         |     1.09 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            7 |     4174 | 2024-02-19 | NRG              | L   | 0.075      | -            | -                | -                | -         |    -1.00 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            6 |     4242 | 2024-02-16 | FLUFFY AIMERS    | W   | 0.056      | -            | -                | -                | -         |     0.79 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            5 |     4244 | 2024-02-16 | E-Xolos LAZER    | W   | 0.056      | -            | -                | -                | -         |     0.84 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            4 |     4300 | 2024-02-14 | FLUFFY AIMERS    | W   | 0.043      | -            | -                | -                | -         |     0.62 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            3 |     4302 | 2024-02-14 | FLUFFY AIMERS    | W   | 0.043      | -            | -                | -                | -         |     0.62 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            2 |     4340 | 2024-02-13 | Elevate          | W   | 0.037      | -            | -                | -                | -         |     0.89 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
+|            1 |     4343 | 2024-02-13 | Elevate          | L   | 0.036      | -            | -                | -                | -         |    -0.27 | Cooper, fl0m, freakazoid, hate, Trucklover86   |
 
 <br />
 <span id="table2"></span><br />
