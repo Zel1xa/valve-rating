@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      852 | 2024-07-13 | Nexus           | L   | 1.000      | -            | -                | -                | -         |   -17.94 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           13 |      903 | 2024-07-10 | Israel          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.038 (0.005)    | 0 (0.000) |     3.14 | c0llins, Dragon, emi, Kind0, VLDN   |
-|           12 |      914 | 2024-07-09 | North Macedonia | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.12 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           11 |      921 | 2024-07-09 | Turkey          | L   | 1.000      | -            | -                | -                | -         |   -25.67 | c0llins, choiv7, Dragon, emi, Kind0 |
-|           10 |     1474 | 2024-06-06 | Passion UA      | L   | 0.792      | -            | -                | -                | -         |    -5.06 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            9 |     1511 | 2024-06-05 | Enterprise      | W   | 0.787      | 0.371        | 0.039 (0.011)    | 0.641 (0.187)    | 0 (0.000) |    16.66 | aidKiT, c0llins, Dragon, emi, VLDN  |
-|            8 |     1565 | 2024-06-04 | Passion UA      | L   | 0.780      | -            | -                | -                | -         |    -4.53 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            7 |     1610 | 2024-06-02 | brazylijski luz | W   | 0.767      | 0.371        | 0.008 (0.002)    | 0.250 (0.071)    | 0 (0.000) |    13.48 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            6 |     1699 | 2024-05-30 | Permitta        | W   | 0.747      | 0.371        | 0.023 (0.006)    | 0.919 (0.254)    | 0 (0.000) |    16.26 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            5 |     1798 | 2024-05-25 | Zero Tenacity   | L   | 0.714      | -            | -                | -                | -         |    -3.19 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            4 |     1806 | 2024-05-25 | UNiTY           | W   | 0.713      | 0.371        | 0.024 (0.006)    | 0.293 (0.077)    | 0 (0.000) |    16.48 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            3 |     1818 | 2024-05-24 | ex-Guild Eagles | L   | 0.707      | -            | -                | -                | -         |    -9.20 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            2 |     1920 | 2024-05-21 | kONO            | W   | 0.687      | 0.371        | 0.028 (0.007)    | 0.553 (0.141)    | 0 (0.000) |    13.50 | aidKiT, c0llins, Dragon, emi, xicoz |
-|            1 |     2793 | 2024-04-18 | BetBoom         | L   | 0.468      | -            | -                | -                | -         |    -0.39 | aidKiT, c0llins, Dragon, emi, xicoz |
+|           14 |      854 | 2024-07-13 | Nexus           | L   | 1.000      | -            | -                | -                | -         |   -17.93 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           13 |      905 | 2024-07-10 | Israel          | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.038 (0.005)    | 0 (0.000) |     3.14 | c0llins, Dragon, emi, Kind0, VLDN   |
+|           12 |      916 | 2024-07-09 | North Macedonia | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.12 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           11 |      923 | 2024-07-09 | Turkey          | L   | 1.000      | -            | -                | -                | -         |   -25.67 | c0llins, choiv7, Dragon, emi, Kind0 |
+|           10 |     1476 | 2024-06-06 | Passion UA      | L   | 0.792      | -            | -                | -                | -         |    -5.05 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            9 |     1513 | 2024-06-05 | Enterprise      | W   | 0.787      | 0.371        | 0.039 (0.011)    | 0.641 (0.187)    | 0 (0.000) |    16.66 | aidKiT, c0llins, Dragon, emi, VLDN  |
+|            8 |     1567 | 2024-06-04 | Passion UA      | L   | 0.780      | -            | -                | -                | -         |    -4.52 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            7 |     1612 | 2024-06-02 | brazylijski luz | W   | 0.766      | 0.371        | 0.008 (0.002)    | 0.250 (0.071)    | 0 (0.000) |    13.47 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            6 |     1701 | 2024-05-30 | Permitta        | W   | 0.746      | 0.371        | 0.023 (0.006)    | 0.919 (0.254)    | 0 (0.000) |    16.25 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            5 |     1800 | 2024-05-25 | Zero Tenacity   | L   | 0.714      | -            | -                | -                | -         |    -3.19 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            4 |     1808 | 2024-05-25 | UNiTY           | W   | 0.713      | 0.371        | 0.024 (0.006)    | 0.293 (0.077)    | 0 (0.000) |    16.48 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            3 |     1820 | 2024-05-24 | ex-Guild Eagles | L   | 0.707      | -            | -                | -                | -         |    -9.20 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            2 |     1922 | 2024-05-21 | kONO            | W   | 0.686      | 0.371        | 0.028 (0.007)    | 0.553 (0.141)    | 0 (0.000) |    13.49 | aidKiT, c0llins, Dragon, emi, xicoz |
+|            1 |     2795 | 2024-04-18 | BetBoom         | L   | 0.468      | -            | -                | -                | -         |    -0.39 | aidKiT, c0llins, Dragon, emi, xicoz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,962.50)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($3,960.65)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

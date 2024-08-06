@@ -8,7 +8,7 @@ Regional Rank: [22]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  916.2<br />
 <br />
-Final Rank Value (916.2) = Starting Rank Value (899.0) + Head To Head Adjustments (17.2)<br />
+Final Rank Value (916.2) = Starting Rank Value (899.0) + Head To Head Adjustments (17.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           44 |      129 | 2024-08-01 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -19.91 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           43 |      134 | 2024-08-01 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.48 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           42 |      151 | 2024-08-01 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.75 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           41 |      182 | 2024-07-31 | Smoke             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.61 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           40 |      232 | 2024-07-30 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -8.51 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           39 |      298 | 2024-07-28 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -16.24 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           38 |      304 | 2024-07-28 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.62 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           37 |      387 | 2024-07-25 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -22.13 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           36 |      394 | 2024-07-25 | SENSEI            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.28 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           35 |      398 | 2024-07-25 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.35 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           34 |      499 | 2024-07-22 | Vikings KR        | W   | 1.000      | 0.371        | -                | 0.490 (0.182)    | 0 (0.000) |    10.80 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           33 |      560 | 2024-07-20 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -3.10 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           32 |      575 | 2024-07-19 | 9z Academy        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.39 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           31 |      619 | 2024-07-18 | Intense           | L   | 1.000      | -            | -                | -                | -         |   -23.15 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           30 |      697 | 2024-07-17 | Solid             | W   | 1.000      | 0.384        | 0.024 (0.009)    | 0.807 (0.310)    | 0 (0.000) |    10.28 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           29 |      816 | 2024-07-15 | FURIA Academy     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.41 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           28 |      861 | 2024-07-12 | Legacy            | L   | 1.000      | -            | -                | -                | -         |   -12.15 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           27 |      876 | 2024-07-11 | Sharks            | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.546 (0.202)    | 0 (0.000) |    16.69 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           26 |      905 | 2024-07-10 | Solid             | W   | 1.000      | 0.371        | 0.024 (0.009)    | 0.807 (0.299)    | -         |    11.08 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           25 |      912 | 2024-07-09 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -7.71 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           24 |      942 | 2024-07-08 | BESTIA            | W   | 1.000      | 0.371        | 0.096 (0.035)    | 0.775 (0.287)    | -         |    19.15 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           23 |      964 | 2024-07-03 | inSanitY          | L   | 0.976      | -            | -                | -                | -         |   -11.45 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           22 |      965 | 2024-07-02 | Vikings KR        | W   | 0.969      | 0.333        | -                | 0.490 (0.158)    | -         |    10.62 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           21 |      967 | 2024-07-01 | inSanitY          | L   | 0.962      | -            | -                | -                | -         |   -11.80 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           20 |      979 | 2024-06-29 | Patins da Ferrari | W   | 0.948      | 0.333        | 0.012 (0.004)    | -                | -         |    10.43 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           19 |      984 | 2024-06-28 | Sharks            | W   | 0.942      | 0.278        | 0.030 (0.008)    | -                | -         |    18.32 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           18 |      989 | 2024-06-27 | W7M               | W   | 0.936      | -            | -                | -                | -         |     9.49 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           17 |      995 | 2024-06-26 | Vikings KR        | W   | 0.929      | -            | -                | -                | -         |    10.19 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           16 |     1194 | 2024-06-11 | KRÜ               | L   | 0.828      | -            | -                | -                | -         |   -14.42 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           15 |     1210 | 2024-06-10 | BESTIA            | L   | 0.822      | -            | -                | -                | -         |    -8.79 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           14 |     1242 | 2024-06-09 | inSanitY          | W   | 0.816      | 0.371        | 0.048 (0.015)    | -                | -         |    15.04 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           13 |     1248 | 2024-06-09 | inSanitY          | L   | 0.815      | -            | -                | -                | -         |   -10.67 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           12 |     1308 | 2024-06-08 | W7M               | W   | 0.809      | 0.450        | -                | 0.519 (0.189)    | -         |     8.54 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           11 |     1357 | 2024-06-07 | MIBR              | W   | 0.803      | 0.371        | 0.208 (0.062)    | 0.633 (0.188)    | -         |    24.02 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|           10 |     1380 | 2024-06-07 | Fluxo             | L   | 0.802      | -            | -                | -                | -         |    -6.70 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            9 |     1413 | 2024-06-06 | Case              | W   | 0.797      | 0.371        | 0.029 (0.009)    | 0.778 (0.230)    | -         |    12.41 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            8 |     1453 | 2024-06-06 | Case              | W   | 0.794      | 0.450        | 0.029 (0.010)    | 0.778 (0.278)    | -         |    13.27 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            7 |     1597 | 2024-06-02 | Hawks             | W   | 0.768      | -            | -                | -                | -         |     3.38 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            6 |     1652 | 2024-05-31 | Intense           | L   | 0.757      | -            | -                | -                | -         |   -16.25 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            5 |     1716 | 2024-05-29 | FURIA Academy     | W   | 0.742      | -            | -                | -                | -         |     2.82 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            4 |     1755 | 2024-05-27 | inSanitY          | L   | 0.729      | -            | -                | -                | -         |   -10.03 | bnc, KAISER, piriajr, reix, SHOOWTiME |
-|            3 |     2870 | 2024-04-16 | MIBR              | L   | 0.457      | -            | -                | -                | -         |    -0.69 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
-|            2 |     3089 | 2024-04-08 | RED Canids        | L   | 0.402      | -            | -                | -                | -         |    -3.37 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
-|            1 |     3133 | 2024-04-06 | MIBR              | L   | 0.390      | -            | -                | -                | -         |    -0.70 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
+|           44 |      131 | 2024-08-01 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -19.91 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           43 |      136 | 2024-08-01 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.48 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           42 |      153 | 2024-08-01 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.75 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           41 |      184 | 2024-07-31 | Smoke             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     6.61 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           40 |      234 | 2024-07-30 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -8.51 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           39 |      300 | 2024-07-28 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -16.24 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           38 |      306 | 2024-07-28 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.62 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           37 |      389 | 2024-07-25 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -22.13 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           36 |      396 | 2024-07-25 | SENSEI            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.28 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           35 |      400 | 2024-07-25 | Vikings KR        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.35 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           34 |      501 | 2024-07-22 | Vikings KR        | W   | 1.000      | 0.371        | -                | 0.490 (0.182)    | 0 (0.000) |    10.80 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           33 |      562 | 2024-07-20 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -3.10 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           32 |      577 | 2024-07-19 | 9z Academy        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.39 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           31 |      621 | 2024-07-18 | Intense           | L   | 1.000      | -            | -                | -                | -         |   -23.14 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           30 |      699 | 2024-07-17 | Solid             | W   | 1.000      | 0.384        | 0.024 (0.009)    | 0.807 (0.310)    | 0 (0.000) |    10.28 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           29 |      818 | 2024-07-15 | FURIA Academy     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.41 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           28 |      863 | 2024-07-12 | Legacy            | L   | 1.000      | -            | -                | -                | -         |   -12.15 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           27 |      878 | 2024-07-11 | Sharks            | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.546 (0.202)    | 0 (0.000) |    16.69 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           26 |      907 | 2024-07-10 | Solid             | W   | 1.000      | 0.371        | 0.024 (0.009)    | 0.807 (0.299)    | -         |    11.08 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           25 |      914 | 2024-07-09 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -7.72 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           24 |      944 | 2024-07-08 | BESTIA            | W   | 1.000      | 0.371        | 0.096 (0.035)    | 0.776 (0.287)    | -         |    19.15 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           23 |      966 | 2024-07-03 | inSanitY          | L   | 0.975      | -            | -                | -                | -         |   -11.44 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           22 |      967 | 2024-07-02 | Vikings KR        | W   | 0.969      | 0.333        | -                | 0.490 (0.158)    | -         |    10.62 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           21 |      969 | 2024-07-01 | inSanitY          | L   | 0.962      | -            | -                | -                | -         |   -11.80 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           20 |      981 | 2024-06-29 | Patins da Ferrari | W   | 0.948      | 0.333        | 0.012 (0.004)    | -                | -         |    10.43 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           19 |      986 | 2024-06-28 | Sharks            | W   | 0.942      | 0.278        | 0.030 (0.008)    | -                | -         |    18.32 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           18 |      991 | 2024-06-27 | W7M               | W   | 0.935      | -            | -                | -                | -         |     9.49 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           17 |      997 | 2024-06-26 | Vikings KR        | W   | 0.929      | -            | -                | -                | -         |    10.19 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           16 |     1196 | 2024-06-11 | KRÜ               | L   | 0.827      | -            | -                | -                | -         |   -14.42 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           15 |     1212 | 2024-06-10 | BESTIA            | L   | 0.822      | -            | -                | -                | -         |    -8.79 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           14 |     1244 | 2024-06-09 | inSanitY          | W   | 0.816      | 0.371        | 0.048 (0.015)    | -                | -         |    15.03 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           13 |     1250 | 2024-06-09 | inSanitY          | L   | 0.815      | -            | -                | -                | -         |   -10.66 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           12 |     1310 | 2024-06-08 | W7M               | W   | 0.809      | 0.450        | -                | 0.519 (0.189)    | -         |     8.53 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           11 |     1359 | 2024-06-07 | MIBR              | W   | 0.803      | 0.371        | 0.208 (0.062)    | 0.633 (0.188)    | -         |    24.01 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|           10 |     1382 | 2024-06-07 | Fluxo             | L   | 0.801      | -            | -                | -                | -         |    -6.70 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            9 |     1415 | 2024-06-06 | Case              | W   | 0.797      | 0.371        | 0.029 (0.009)    | 0.778 (0.230)    | -         |    12.41 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            8 |     1455 | 2024-06-06 | Case              | W   | 0.794      | 0.450        | 0.029 (0.010)    | 0.778 (0.278)    | -         |    13.27 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            7 |     1599 | 2024-06-02 | Hawks             | W   | 0.768      | -            | -                | -                | -         |     3.38 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            6 |     1654 | 2024-05-31 | Intense           | L   | 0.756      | -            | -                | -                | -         |   -16.25 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            5 |     1718 | 2024-05-29 | FURIA Academy     | W   | 0.742      | -            | -                | -                | -         |     2.82 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            4 |     1757 | 2024-05-27 | inSanitY          | L   | 0.729      | -            | -                | -                | -         |   -10.03 | bnc, KAISER, piriajr, reix, SHOOWTiME |
+|            3 |     2872 | 2024-04-16 | MIBR              | L   | 0.456      | -            | -                | -                | -         |    -0.69 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
+|            2 |     3091 | 2024-04-08 | RED Canids        | L   | 0.401      | -            | -                | -                | -         |    -3.36 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
+|            1 |     3135 | 2024-04-06 | MIBR              | L   | 0.390      | -            | -                | -                | -         |    -0.70 | bnc, KAISER, reix, SHOOWTiME, Tomate  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($7,045.24)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($7,042.84)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -95,9 +95,9 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-14 |      1.000 | $1,000.00      | $1,000.00       |
-| 2024-07-03 |      0.976 | $3,000.00      | $2,926.67       |
-| 2024-06-28 |      0.942 | $2,000.00      | $1,883.75       |
-| 2024-06-10 |      0.823 | $1,500.00      | $1,234.83       |
+| 2024-07-03 |      0.975 | $3,000.00      | $2,925.56       |
+| 2024-06-28 |      0.942 | $2,000.00      | $1,883.01       |
+| 2024-06-10 |      0.823 | $1,500.00      | $1,234.27       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

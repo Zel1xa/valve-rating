@@ -37,45 +37,45 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |       40 | 2024-08-04 | Complexity   | W   | 1.000      | 0.581        | -                | 0.364 (0.211)    | 1 (1.000) |     4.12 | Aleksib, b1t, iM, jL, w0nderful |
-|           31 |       69 | 2024-08-03 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -25.60 | Aleksib, b1t, iM, jL, w0nderful |
-|           30 |      103 | 2024-08-02 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.97 | Aleksib, b1t, iM, jL, w0nderful |
-|           29 |      148 | 2024-08-01 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -26.86 | Aleksib, b1t, iM, jL, w0nderful |
-|           28 |      198 | 2024-07-31 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.72 | Aleksib, b1t, iM, jL, w0nderful |
-|           27 |      516 | 2024-07-21 | G2           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.478 (0.478)    | 1 (1.000) |    16.18 | Aleksib, b1t, iM, jL, w0nderful |
-|           26 |      549 | 2024-07-20 | MOUZ         | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.357 (0.357)    | 1 (1.000) |    13.09 | Aleksib, b1t, iM, jL, w0nderful |
-|           25 |      579 | 2024-07-19 | FaZe         | W   | 1.000      | 1.000        | 0.626 (0.626)    | 0.383 (0.383)    | 1 (1.000) |     7.31 | Aleksib, b1t, iM, jL, w0nderful |
-|           24 |      718 | 2024-07-17 | FURIA        | W   | 1.000      | 1.000        | 0.284 (0.284)    | 0.469 (0.469)    | 1 (1.000) |     4.24 | Aleksib, b1t, iM, jL, w0nderful |
-|           23 |     1036 | 2024-06-16 | Spirit       | L   | 0.861      | -            | -                | -                | -         |   -13.50 | Aleksib, b1t, iM, jL, w0nderful |
-|           22 |     1057 | 2024-06-15 | Virtus.pro   | W   | 0.856      | 0.729        | 0.498 (0.311)    | 0.309 (0.193)    | 1 (0.856) |     5.10 | Aleksib, b1t, iM, jL, w0nderful |
-|           21 |     1147 | 2024-06-13 | FaZe         | W   | 0.841      | 0.729        | 0.626 (0.384)    | 0.383 (0.235)    | 1 (0.841) |     6.62 | Aleksib, b1t, iM, jL, w0nderful |
-|           20 |     1176 | 2024-06-12 | Astralis     | W   | 0.834      | 0.729        | -                | 0.403 (0.245)    | 1 (0.834) |     6.59 | Aleksib, b1t, iM, jL, w0nderful |
-|           19 |     1718 | 2024-05-29 | HEROIC       | L   | 0.742      | -            | -                | -                | -         |   -20.72 | Aleksib, b1t, iM, jL, w0nderful |
-|           18 |     1739 | 2024-05-28 | Spirit       | L   | 0.735      | -            | -                | -                | -         |   -12.81 | Aleksib, b1t, iM, jL, w0nderful |
-|           17 |     1757 | 2024-05-27 | BIG          | W   | 0.729      | -            | -                | -                | -         |     0.57 | Aleksib, b1t, iM, jL, w0nderful |
-|           16 |     2323 | 2024-05-08 | FaZe         | L   | 0.602      | -            | -                | -                | -         |   -14.89 | Aleksib, b1t, iM, jL, w0nderful |
-|           15 |     2373 | 2024-05-05 | Complexity   | L   | 0.582      | -            | -                | -                | -         |   -15.69 | Aleksib, b1t, iM, jL, w0nderful |
-|           14 |     2447 | 2024-05-02 | BIG          | W   | 0.560      | -            | -                | -                | -         |     0.36 | Aleksib, b1t, iM, jL, w0nderful |
-|           13 |     2470 | 2024-05-01 | FlyQuest     | W   | 0.553      | -            | -                | -                | -         |     0.19 | Aleksib, b1t, iM, jL, w0nderful |
-|           12 |     3301 | 2024-03-31 | FaZe         | W   | 0.349      | -            | -                | -                | -         |     1.90 | Aleksib, b1t, iM, jL, w0nderful |
-|           11 |     3306 | 2024-03-30 | G2           | W   | 0.342      | 1.000        | 1.000 (0.342)    | -                | -         |     5.74 | Aleksib, b1t, iM, jL, w0nderful |
-|           10 |     3316 | 2024-03-29 | Eternal Fire | W   | 0.335      | 1.000        | 0.739 (0.247)    | -                | -         |     2.02 | Aleksib, b1t, iM, jL, w0nderful |
-|            9 |     3409 | 2024-03-24 | paiN         | W   | 0.302      | 1.000        | -                | 0.838 (0.253)    | -         |     0.42 | Aleksib, b1t, iM, jL, w0nderful |
-|            8 |     3418 | 2024-03-23 | Cloud9       | L   | 0.296      | -            | -                | -                | -         |    -9.26 | Aleksib, b1t, iM, jL, w0nderful |
-|            7 |     3434 | 2024-03-22 | Spirit       | L   | 0.288      | -            | -                | -                | -         |    -5.46 | Aleksib, b1t, iM, jL, w0nderful |
-|            6 |     3450 | 2024-03-21 | G2           | W   | 0.283      | 1.000        | 1.000 (0.283)    | -                | -         |     4.76 | Aleksib, b1t, iM, jL, w0nderful |
-|            5 |     3467 | 2024-03-21 | The MongolZ  | W   | 0.280      | 1.000        | 1.000 (0.280)    | 0.694 (0.194)    | -         |     3.97 | Aleksib, b1t, iM, jL, w0nderful |
-|            4 |     4247 | 2024-02-16 | BetBoom      | W   | 0.055      | -            | -                | -                | -         |     0.07 | Aleksib, b1t, iM, jL, w0nderful |
-|            3 |     4276 | 2024-02-15 | Virtus.pro   | L   | 0.048      | -            | -                | -                | -         |    -1.24 | Aleksib, b1t, iM, jL, w0nderful |
-|            2 |     4307 | 2024-02-14 | Enterprise   | W   | 0.043      | -            | -                | -                | -         |     0.00 | Aleksib, b1t, iM, jL, w0nderful |
-|            1 |     4325 | 2024-02-14 | KOI          | W   | 0.040      | -            | -                | -                | -         |     0.01 | Aleksib, b1t, iM, jL, w0nderful |
+|           32 |       42 | 2024-08-04 | Complexity   | W   | 1.000      | 0.581        | -                | 0.364 (0.211)    | 1 (1.000) |     4.12 | Aleksib, b1t, iM, jL, w0nderful |
+|           31 |       71 | 2024-08-03 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -25.60 | Aleksib, b1t, iM, jL, w0nderful |
+|           30 |      105 | 2024-08-02 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.97 | Aleksib, b1t, iM, jL, w0nderful |
+|           29 |      150 | 2024-08-01 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -26.86 | Aleksib, b1t, iM, jL, w0nderful |
+|           28 |      200 | 2024-07-31 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.72 | Aleksib, b1t, iM, jL, w0nderful |
+|           27 |      518 | 2024-07-21 | G2           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.478 (0.478)    | 1 (1.000) |    16.18 | Aleksib, b1t, iM, jL, w0nderful |
+|           26 |      551 | 2024-07-20 | MOUZ         | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.357 (0.357)    | 1 (1.000) |    13.09 | Aleksib, b1t, iM, jL, w0nderful |
+|           25 |      581 | 2024-07-19 | FaZe         | W   | 1.000      | 1.000        | 0.625 (0.625)    | 0.383 (0.383)    | 1 (1.000) |     7.30 | Aleksib, b1t, iM, jL, w0nderful |
+|           24 |      720 | 2024-07-17 | FURIA        | W   | 1.000      | 1.000        | 0.284 (0.284)    | 0.469 (0.469)    | 1 (1.000) |     4.24 | Aleksib, b1t, iM, jL, w0nderful |
+|           23 |     1038 | 2024-06-16 | Spirit       | L   | 0.860      | -            | -                | -                | -         |   -13.50 | Aleksib, b1t, iM, jL, w0nderful |
+|           22 |     1059 | 2024-06-15 | Virtus.pro   | W   | 0.855      | 0.729        | 0.498 (0.311)    | 0.309 (0.192)    | 1 (0.855) |     5.09 | Aleksib, b1t, iM, jL, w0nderful |
+|           21 |     1149 | 2024-06-13 | FaZe         | W   | 0.840      | 0.729        | 0.625 (0.383)    | 0.383 (0.234)    | 1 (0.840) |     6.61 | Aleksib, b1t, iM, jL, w0nderful |
+|           20 |     1178 | 2024-06-12 | Astralis     | W   | 0.834      | 0.729        | -                | 0.403 (0.245)    | 1 (0.834) |     6.58 | Aleksib, b1t, iM, jL, w0nderful |
+|           19 |     1720 | 2024-05-29 | HEROIC       | L   | 0.741      | -            | -                | -                | -         |   -20.71 | Aleksib, b1t, iM, jL, w0nderful |
+|           18 |     1741 | 2024-05-28 | Spirit       | L   | 0.735      | -            | -                | -                | -         |   -12.80 | Aleksib, b1t, iM, jL, w0nderful |
+|           17 |     1759 | 2024-05-27 | BIG          | W   | 0.729      | -            | -                | -                | -         |     0.57 | Aleksib, b1t, iM, jL, w0nderful |
+|           16 |     2325 | 2024-05-08 | FaZe         | L   | 0.602      | -            | -                | -                | -         |   -14.88 | Aleksib, b1t, iM, jL, w0nderful |
+|           15 |     2375 | 2024-05-05 | Complexity   | L   | 0.582      | -            | -                | -                | -         |   -15.68 | Aleksib, b1t, iM, jL, w0nderful |
+|           14 |     2449 | 2024-05-02 | BIG          | W   | 0.560      | -            | -                | -                | -         |     0.36 | Aleksib, b1t, iM, jL, w0nderful |
+|           13 |     2472 | 2024-05-01 | FlyQuest     | W   | 0.553      | -            | -                | -                | -         |     0.19 | Aleksib, b1t, iM, jL, w0nderful |
+|           12 |     3303 | 2024-03-31 | FaZe         | W   | 0.348      | -            | -                | -                | -         |     1.89 | Aleksib, b1t, iM, jL, w0nderful |
+|           11 |     3308 | 2024-03-30 | G2           | W   | 0.342      | 1.000        | 1.000 (0.342)    | -                | -         |     5.74 | Aleksib, b1t, iM, jL, w0nderful |
+|           10 |     3318 | 2024-03-29 | Eternal Fire | W   | 0.334      | 1.000        | 0.739 (0.247)    | -                | -         |     2.02 | Aleksib, b1t, iM, jL, w0nderful |
+|            9 |     3411 | 2024-03-24 | paiN         | W   | 0.302      | 1.000        | -                | 0.838 (0.253)    | -         |     0.42 | Aleksib, b1t, iM, jL, w0nderful |
+|            8 |     3420 | 2024-03-23 | Cloud9       | L   | 0.295      | -            | -                | -                | -         |    -9.25 | Aleksib, b1t, iM, jL, w0nderful |
+|            7 |     3436 | 2024-03-22 | Spirit       | L   | 0.288      | -            | -                | -                | -         |    -5.46 | Aleksib, b1t, iM, jL, w0nderful |
+|            6 |     3452 | 2024-03-21 | G2           | W   | 0.282      | 1.000        | 1.000 (0.282)    | -                | -         |     4.76 | Aleksib, b1t, iM, jL, w0nderful |
+|            5 |     3469 | 2024-03-21 | The MongolZ  | W   | 0.280      | 1.000        | 1.000 (0.280)    | 0.694 (0.194)    | -         |     3.96 | Aleksib, b1t, iM, jL, w0nderful |
+|            4 |     4249 | 2024-02-16 | BetBoom      | W   | 0.054      | -            | -                | -                | -         |     0.07 | Aleksib, b1t, iM, jL, w0nderful |
+|            3 |     4278 | 2024-02-15 | Virtus.pro   | L   | 0.048      | -            | -                | -                | -         |    -1.23 | Aleksib, b1t, iM, jL, w0nderful |
+|            2 |     4309 | 2024-02-14 | Enterprise   | W   | 0.042      | -            | -                | -                | -         |     0.00 | Aleksib, b1t, iM, jL, w0nderful |
+|            1 |     4327 | 2024-02-14 | KOI          | W   | 0.040      | -            | -                | -                | -         |     0.01 | Aleksib, b1t, iM, jL, w0nderful |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($678,572.22)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($678,345.00)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (1.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -84,10 +84,10 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $12,500.00     | $12,500.00      |
 | 2024-07-21 |      1.000 | $400,000.00    | $400,000.00     |
-| 2024-06-16 |      0.861 | $85,000.00     | $73,170.83      |
-| 2024-06-02 |      0.769 | $5,000.00      | $3,843.06       |
-| 2024-05-12 |      0.628 | $23,500.00     | $14,752.78      |
-| 2024-03-31 |      0.349 | $500,000.00    | $174,305.56     |
+| 2024-06-16 |      0.860 | $85,000.00     | $73,139.35      |
+| 2024-06-02 |      0.768 | $5,000.00      | $3,841.20       |
+| 2024-05-12 |      0.627 | $23,500.00     | $14,744.07      |
+| 2024-03-31 |      0.348 | $500,000.00    | $174,120.37     |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [160](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [103]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  686.2<br />
+Final Rank Value:  686.1<br />
 <br />
-Final Rank Value (686.2) = Starting Rank Value (674.7) + Head To Head Adjustments (11.5)<br />
+Final Rank Value (686.1) = Starting Rank Value (674.7) + Head To Head Adjustments (11.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1030 | 2024-06-16 | EYEBALLERS | L   | 0.862      | -            | -                | -                | -         |    -6.78 | Chill, keen, P4TriCK, Python, T4gg3D |
-|           11 |     1060 | 2024-06-15 | RUBY       | W   | 0.855      | 0.143        | 0.095 (0.012)    | 0.480 (0.059)    | 0 (0.000) |    20.97 | Chill, keen, P4TriCK, Python, T4gg3D |
-|           10 |     1101 | 2024-06-14 | Nemiga     | L   | 0.848      | -            | -                | -                | -         |    -1.65 | Chill, keen, P4TriCK, Python, T4gg3D |
-|            9 |     1867 | 2024-05-22 | PERA       | L   | 0.695      | -            | -                | -                | -         |    -3.86 | Chill, keen, P4TriCK, Python, T4gg3D |
-|            8 |     1910 | 2024-05-21 | Space      | L   | 0.689      | -            | -                | -                | -         |    -5.91 | Chill, keen, P4TriCK, Python, T4gg3D |
-|            7 |     2178 | 2024-05-14 | Norway     | W   | 0.642      | 0.500        | 0.006 (0.002)    | 0.103 (0.033)    | 0 (0.000) |    10.93 | Chill, keen, P4TriCK, Python, T4gg3D |
-|            6 |     2711 | 2024-04-20 | 9INE       | W   | 0.481      | 0.500        | 0.000 (0.000)    | 0.064 (0.015)    | 0 (0.000) |     4.58 | Chill, keen, P4TriCK, Python, T4gg3D |
-|            5 |     3229 | 2024-04-03 | Betera     | L   | 0.369      | -            | -                | -                | -         |    -5.23 | Chill, keen, P4TriCK, Python, shadiy |
-|            4 |     3314 | 2024-03-29 | RUSH B     | L   | 0.336      | -            | -                | -                | -         |    -2.77 | Chill, keen, P4TriCK, Python, shadiy |
-|            3 |     3400 | 2024-03-26 | Monte      | L   | 0.316      | -            | -                | -                | -         |    -1.46 | Chill, keen, krii, P4TriCK, Python   |
-|            2 |     3628 | 2024-03-13 | SAW        | L   | 0.229      | -            | -                | -                | -         |    -0.43 | Chill, keen, krii, P4TriCK, Python   |
-|            1 |     4008 | 2024-02-26 | PERA       | W   | 0.122      | 0.500        | 0.048 (0.003)    | 0.435 (0.027)    | 0 (0.000) |     3.09 | Chill, keen, krii, P4TriCK, Python   |
+|           12 |     1032 | 2024-06-16 | EYEBALLERS | L   | 0.861      | -            | -                | -                | -         |    -6.77 | Chill, keen, P4TriCK, Python, T4gg3D |
+|           11 |     1062 | 2024-06-15 | RUBY       | W   | 0.855      | 0.143        | 0.095 (0.012)    | 0.480 (0.059)    | 0 (0.000) |    20.96 | Chill, keen, P4TriCK, Python, T4gg3D |
+|           10 |     1103 | 2024-06-14 | Nemiga     | L   | 0.848      | -            | -                | -                | -         |    -1.65 | Chill, keen, P4TriCK, Python, T4gg3D |
+|            9 |     1869 | 2024-05-22 | PERA       | L   | 0.695      | -            | -                | -                | -         |    -3.86 | Chill, keen, P4TriCK, Python, T4gg3D |
+|            8 |     1912 | 2024-05-21 | Space      | L   | 0.688      | -            | -                | -                | -         |    -5.91 | Chill, keen, P4TriCK, Python, T4gg3D |
+|            7 |     2180 | 2024-05-14 | Norway     | W   | 0.642      | 0.500        | 0.006 (0.002)    | 0.103 (0.033)    | 0 (0.000) |    10.92 | Chill, keen, P4TriCK, Python, T4gg3D |
+|            6 |     2713 | 2024-04-20 | 9INE       | W   | 0.480      | 0.500        | 0.000 (0.000)    | 0.064 (0.015)    | 0 (0.000) |     4.57 | Chill, keen, P4TriCK, Python, T4gg3D |
+|            5 |     3231 | 2024-04-03 | Betera     | L   | 0.368      | -            | -                | -                | -         |    -5.22 | Chill, keen, P4TriCK, Python, shadiy |
+|            4 |     3316 | 2024-03-29 | RUSH B     | L   | 0.335      | -            | -                | -                | -         |    -2.76 | Chill, keen, P4TriCK, Python, shadiy |
+|            3 |     3402 | 2024-03-26 | Monte      | L   | 0.315      | -            | -                | -                | -         |    -1.46 | Chill, keen, krii, P4TriCK, Python   |
+|            2 |     3630 | 2024-03-13 | SAW        | L   | 0.229      | -            | -                | -                | -         |    -0.43 | Chill, keen, krii, P4TriCK, Python   |
+|            1 |     4010 | 2024-02-26 | PERA       | W   | 0.122      | 0.500        | 0.048 (0.003)    | 0.435 (0.027)    | 0 (0.000) |     3.08 | Chill, keen, krii, P4TriCK, Python   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($407.33)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($407.14)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

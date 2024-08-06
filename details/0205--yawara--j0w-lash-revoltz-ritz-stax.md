@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      134 | 2024-08-01 | Bounty Hunters | L   | 1.000      | -            | -                | -                | -         |    -2.48 | j0w, lash, revoltz, ritz, stAx  |
-|           17 |      382 | 2024-07-25 | Imperial       | L   | 1.000      | -            | -                | -                | -         |    -0.72 | j0w, lash, revoltz, ritz, stAx  |
-|           16 |      427 | 2024-07-24 | W7M            | L   | 1.000      | -            | -                | -                | -         |    -4.89 | j0w, lash, revoltz, ritz, stAx  |
-|           15 |      433 | 2024-07-24 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -2.03 | j0w, lash, revoltz, ritz, stAx  |
-|           14 |      513 | 2024-07-21 | Galorys        | L   | 1.000      | -            | -                | -                | -         |    -5.10 | j0w, lash, revoltz, ritz, stAx  |
-|           13 |      598 | 2024-07-19 | SPORT          | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.111 (0.041)    | 0 (0.000) |    23.02 | j0w, lash, revoltz, ritz, stAx  |
-|           12 |      721 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -3.31 | j0w, lash, revoltz, ritz, stAx  |
-|           11 |      819 | 2024-07-15 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -1.33 | j0w, lash, revoltz, ritz, stAx  |
-|           10 |     1670 | 2024-05-31 | 9z Academy     | L   | 0.754      | -            | -                | -                | -         |   -11.84 | j0w, lash, ritz, stAx, Straafer |
-|            9 |     1704 | 2024-05-29 | Vikings KR     | L   | 0.744      | -            | -                | -                | -         |    -3.66 | j0w, lash, perez, ritz, stAx    |
-|            8 |     1731 | 2024-05-28 | W7M            | L   | 0.736      | -            | -                | -                | -         |    -4.22 | j0w, lash, perez, ritz, stAx    |
-|            7 |     2076 | 2024-05-16 | Case           | L   | 0.654      | -            | -                | -                | -         |    -2.17 | j0w, lash, perez, ritz, stAx    |
-|            6 |     2204 | 2024-05-13 | Galorys        | L   | 0.635      | -            | -                | -                | -         |    -2.00 | j0w, lash, perez, ritz, stAx    |
-|            5 |     2329 | 2024-05-08 | Intense        | L   | 0.601      | -            | -                | -                | -         |    -4.07 | j0w, lash, perez, ritz, stAx    |
-|            4 |     2358 | 2024-05-06 | Solid          | L   | 0.589      | -            | -                | -                | -         |    -2.19 | j0w, lash, perez, ritz, stAx    |
-|            3 |     3621 | 2024-03-13 | Sharks         | L   | 0.230      | -            | -                | -                | -         |    -0.53 | j0w, lash, leleo, perez, stAx   |
-|            2 |     3632 | 2024-03-13 | Case           | W   | 0.229      | 0.143        | 0.029 (0.001)    | 0.778 (0.025)    | 0 (0.000) |     6.56 | j0w, lash, leleo, perez, stAx   |
-|            1 |     4300 | 2024-02-14 | Imperial       | L   | 0.044      | -            | -                | -                | -         |    -0.02 | j0w, lash, leleo, perez, stAx   |
+|           18 |      136 | 2024-08-01 | Bounty Hunters | L   | 1.000      | -            | -                | -                | -         |    -2.48 | j0w, lash, revoltz, ritz, stAx  |
+|           17 |      384 | 2024-07-25 | Imperial       | L   | 1.000      | -            | -                | -                | -         |    -0.72 | j0w, lash, revoltz, ritz, stAx  |
+|           16 |      429 | 2024-07-24 | W7M            | L   | 1.000      | -            | -                | -                | -         |    -4.89 | j0w, lash, revoltz, ritz, stAx  |
+|           15 |      435 | 2024-07-24 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -2.03 | j0w, lash, revoltz, ritz, stAx  |
+|           14 |      515 | 2024-07-21 | Galorys        | L   | 1.000      | -            | -                | -                | -         |    -5.10 | j0w, lash, revoltz, ritz, stAx  |
+|           13 |      600 | 2024-07-19 | SPORT          | W   | 1.000      | 0.371        | 0.004 (0.002)    | 0.111 (0.041)    | 0 (0.000) |    23.02 | j0w, lash, revoltz, ritz, stAx  |
+|           12 |      723 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -3.31 | j0w, lash, revoltz, ritz, stAx  |
+|           11 |      821 | 2024-07-15 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -1.33 | j0w, lash, revoltz, ritz, stAx  |
+|           10 |     1672 | 2024-05-31 | 9z Academy     | L   | 0.754      | -            | -                | -                | -         |   -11.84 | j0w, lash, ritz, stAx, Straafer |
+|            9 |     1706 | 2024-05-29 | Vikings KR     | L   | 0.743      | -            | -                | -                | -         |    -3.65 | j0w, lash, perez, ritz, stAx    |
+|            8 |     1733 | 2024-05-28 | W7M            | L   | 0.736      | -            | -                | -                | -         |    -4.22 | j0w, lash, perez, ritz, stAx    |
+|            7 |     2078 | 2024-05-16 | Case           | L   | 0.654      | -            | -                | -                | -         |    -2.17 | j0w, lash, perez, ritz, stAx    |
+|            6 |     2206 | 2024-05-13 | Galorys        | L   | 0.635      | -            | -                | -                | -         |    -2.00 | j0w, lash, perez, ritz, stAx    |
+|            5 |     2331 | 2024-05-08 | Intense        | L   | 0.600      | -            | -                | -                | -         |    -4.07 | j0w, lash, perez, ritz, stAx    |
+|            4 |     2360 | 2024-05-06 | Solid          | L   | 0.589      | -            | -                | -                | -         |    -2.18 | j0w, lash, perez, ritz, stAx    |
+|            3 |     3623 | 2024-03-13 | Sharks         | L   | 0.229      | -            | -                | -                | -         |    -0.53 | j0w, lash, leleo, perez, stAx   |
+|            2 |     3634 | 2024-03-13 | Case           | W   | 0.229      | 0.143        | 0.029 (0.001)    | 0.778 (0.025)    | 0 (0.000) |     6.55 | j0w, lash, leleo, perez, stAx   |
+|            1 |     4302 | 2024-02-14 | Imperial       | L   | 0.043      | -            | -                | -                | -         |    -0.02 | j0w, lash, leleo, perez, stAx   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -37,96 +37,96 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           73 |       57 | 2024-08-03 | undefined        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.51 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           72 |      220 | 2024-07-30 | BOSS             | W   | 1.000      | 0.477        | -                | 0.319 (0.152)    | 0 (0.000) |     7.50 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           71 |      221 | 2024-07-30 | BOSS             | W   | 1.000      | 0.477        | -                | 0.319 (0.152)    | 0 (0.000) |     8.00 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           70 |      416 | 2024-07-24 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    12.34 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           69 |      419 | 2024-07-24 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    13.44 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           68 |      448 | 2024-07-23 | Limitless        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.27 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           67 |      450 | 2024-07-23 | Limitless        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.54 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           66 |      515 | 2024-07-21 | NRG              | L   | 1.000      | -            | -                | -                | -         |   -14.38 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           65 |      538 | 2024-07-20 | LAG              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.79 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           64 |      735 | 2024-07-16 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -22.99 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           63 |      741 | 2024-07-16 | E-Xolos LAZER    | W   | 1.000      | 0.477        | -                | 0.376 (0.179)    | 0 (0.000) |     8.02 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           62 |      790 | 2024-07-15 | Take Flyte       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.88 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           61 |      793 | 2024-07-15 | Take Flyte       | W   | 1.000      | -            | -                | -                | -         |     5.12 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           60 |     1021 | 2024-06-16 | Legacy           | L   | 0.864      | -            | -                | -                | -         |   -11.27 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           59 |     1026 | 2024-06-16 | Wildcard         | W   | 0.862      | 0.371        | 0.048 (0.015)    | -                | -         |    12.28 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           58 |     1129 | 2024-06-13 | Limitless        | W   | 0.843      | -            | -                | -                | -         |     2.62 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           57 |     1298 | 2024-06-08 | Wildcard         | L   | 0.811      | -            | -                | -                | -         |   -14.44 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           56 |     1354 | 2024-06-07 | Party Astronauts | W   | 0.804      | 0.477        | 0.041 (0.016)    | 0.510 (0.196)    | -         |    12.99 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           55 |     1361 | 2024-06-07 | Elevate          | W   | 0.803      | 0.384        | 0.027 (0.008)    | 0.501 (0.155)    | -         |    12.86 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           54 |     1364 | 2024-06-07 | Elevate          | L   | 0.803      | -            | -                | -                | -         |   -12.60 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           53 |     1381 | 2024-06-07 | Party Astronauts | L   | 0.802      | -            | -                | -                | -         |   -13.32 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           52 |     1410 | 2024-06-06 | Elevate          | W   | 0.797      | 0.477        | 0.027 (0.010)    | 0.501 (0.191)    | -         |    12.70 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           51 |     1480 | 2024-06-05 | M80              | L   | 0.791      | -            | -                | -                | -         |    -4.78 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           50 |     1530 | 2024-06-04 | NRG              | W   | 0.784      | 0.477        | -                | 0.502 (0.188)    | -         |     9.51 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           49 |     1542 | 2024-06-04 | TSM Shimmer      | W   | 0.783      | -            | -                | -                | -         |     4.51 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           48 |     1811 | 2024-05-24 | M80              | L   | 0.711      | -            | -                | -                | -         |    -4.11 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           47 |     1825 | 2024-05-23 | NRG              | W   | 0.704      | -            | -                | -                | -         |     9.12 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           46 |     1842 | 2024-05-22 | Party Astronauts | W   | 0.698      | 0.384        | 0.041 (0.011)    | 0.510 (0.137)    | -         |    10.73 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           45 |     1888 | 2024-05-21 | FLUFFY AIMERS    | W   | 0.691      | -            | -                | -                | -         |     4.58 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           44 |     1891 | 2024-05-21 | FLUFFY AIMERS    | W   | 0.691      | -            | -                | -                | -         |     4.77 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           43 |     1967 | 2024-05-19 | FLUFFY AIMERS    | W   | 0.676      | -            | -                | -                | -         |     4.83 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           42 |     1989 | 2024-05-18 | NRG              | W   | 0.670      | -            | -                | -                | -         |    10.63 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           41 |     1990 | 2024-05-18 | M80              | W   | 0.670      | 0.303        | 0.188 (0.038)    | -                | -         |    18.26 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           40 |     2023 | 2024-05-17 | Wildcard         | W   | 0.664      | 0.303        | 0.048 (0.010)    | -                | -         |    10.48 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           39 |     2094 | 2024-05-15 | Limitless        | L   | 0.651      | -            | -                | -                | -         |   -14.09 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           38 |     2099 | 2024-05-15 | Limitless        | L   | 0.651      | -            | -                | -                | -         |   -14.78 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
-|           37 |     2197 | 2024-05-13 | Wildcard         | L   | 0.637      | -            | -                | -                | -         |   -11.84 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           36 |     2198 | 2024-05-13 | Wildcard         | W   | 0.637      | 0.477        | 0.048 (0.015)    | -                | -         |     8.34 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           35 |     2241 | 2024-05-11 | Elevate          | L   | 0.624      | -            | -                | -                | -         |    -8.75 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           34 |     2243 | 2024-05-11 | Mythic           | L   | 0.624      | -            | -                | -                | -         |   -14.23 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           33 |     2245 | 2024-05-11 | Elevate          | W   | 0.623      | -            | -                | -                | -         |    10.54 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           32 |     2290 | 2024-05-09 | BOSS             | W   | 0.611      | -            | -                | -                | -         |     6.20 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           31 |     2295 | 2024-05-09 | BOSS             | W   | 0.611      | -            | -                | -                | -         |     6.51 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           30 |     2315 | 2024-05-08 | Phoenix          | W   | 0.604      | -            | -                | -                | -         |     4.60 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           29 |     2317 | 2024-05-08 | Phoenix          | W   | 0.604      | -            | -                | -                | -         |     4.78 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           28 |     2635 | 2024-04-23 | Take Flyte       | L   | 0.504      | -            | -                | -                | -         |   -12.51 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           27 |     2637 | 2024-04-23 | Take Flyte       | W   | 0.504      | -            | -                | -                | -         |     3.36 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           26 |     2823 | 2024-04-17 | Elevate          | L   | 0.463      | -            | -                | -                | -         |    -6.29 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           25 |     2827 | 2024-04-17 | Phoenix          | W   | 0.463      | -            | -                | -                | -         |     3.56 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
-|           24 |     2887 | 2024-04-15 | Limitless        | W   | 0.451      | -            | -                | -                | -         |     2.31 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           23 |     2888 | 2024-04-15 | Limitless        | W   | 0.451      | -            | -                | -                | -         |     2.35 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           22 |     2976 | 2024-04-10 | Elevate          | W   | 0.418      | -            | -                | -                | -         |     7.71 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           21 |     2982 | 2024-04-10 | Elevate          | W   | 0.417      | -            | -                | -                | -         |     7.98 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           20 |     3032 | 2024-04-09 | MIGHT            | W   | 0.411      | -            | -                | -                | -         |     1.34 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           19 |     3036 | 2024-04-09 | MIGHT            | W   | 0.411      | -            | -                | -                | -         |     1.35 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           18 |     3165 | 2024-04-04 | LAG              | L   | 0.378      | -            | -                | -                | -         |    -7.25 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           17 |     3169 | 2024-04-04 | LAG              | W   | 0.377      | -            | -                | -                | -         |     4.72 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           16 |     3209 | 2024-04-03 | Party Astronauts | L   | 0.371      | -            | -                | -                | -         |   -10.52 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           15 |     3259 | 2024-04-02 | BOSS             | W   | 0.364      | -            | -                | -                | -         |     3.89 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           14 |     3263 | 2024-04-02 | Party Astronauts | W   | 0.363      | -            | -                | -                | -         |     5.95 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           13 |     3338 | 2024-03-27 | NRG              | L   | 0.324      | -            | -                | -                | -         |    -6.15 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           12 |     3342 | 2024-03-27 | NRG              | W   | 0.324      | -            | -                | -                | -         |     4.14 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           11 |     3386 | 2024-03-26 | Party Astronauts | W   | 0.318      | -            | -                | -                | -         |     5.28 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|           10 |     3391 | 2024-03-26 | Party Astronauts | W   | 0.318      | -            | -                | -                | -         |     5.43 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            9 |     3470 | 2024-03-20 | Mythic           | L   | 0.278      | -            | -                | -                | -         |    -5.80 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            8 |     3473 | 2024-03-20 | Mythic           | W   | 0.277      | -            | -                | -                | -         |     2.98 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            7 |     3582 | 2024-03-14 | M80              | W   | 0.238      | -            | -                | -                | -         |     1.31 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            6 |     3584 | 2024-03-14 | M80              | W   | 0.237      | -            | -                | -                | -         |     1.33 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            5 |     3912 | 2024-03-02 | Legacy           | L   | 0.156      | -            | -                | -                | -         |    -1.80 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            4 |     3940 | 2024-03-01 | FURIA            | L   | 0.149      | -            | -                | -                | -         |    -0.05 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            3 |     4004 | 2024-02-26 | Liquid           | L   | 0.124      | -            | -                | -                | -         |    -0.08 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            2 |     4020 | 2024-02-25 | BOSS             | W   | 0.118      | -            | -                | -                | -         |     1.36 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
-|            1 |     4024 | 2024-02-25 | Liquid           | W   | 0.117      | -            | -                | -                | -         |     3.60 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           73 |       59 | 2024-08-03 | undefined        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.51 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           72 |      222 | 2024-07-30 | BOSS             | W   | 1.000      | 0.477        | -                | 0.319 (0.152)    | 0 (0.000) |     7.50 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           71 |      223 | 2024-07-30 | BOSS             | W   | 1.000      | 0.477        | -                | 0.319 (0.152)    | 0 (0.000) |     8.00 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           70 |      418 | 2024-07-24 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    12.34 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           69 |      421 | 2024-07-24 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    13.44 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           68 |      450 | 2024-07-23 | Limitless        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.27 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           67 |      452 | 2024-07-23 | Limitless        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.54 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           66 |      517 | 2024-07-21 | NRG              | L   | 1.000      | -            | -                | -                | -         |   -14.38 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           65 |      540 | 2024-07-20 | LAG              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.79 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           64 |      737 | 2024-07-16 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -22.99 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           63 |      743 | 2024-07-16 | E-Xolos LAZER    | W   | 1.000      | 0.477        | -                | 0.376 (0.179)    | 0 (0.000) |     8.02 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           62 |      792 | 2024-07-15 | Take Flyte       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.88 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           61 |      795 | 2024-07-15 | Take Flyte       | W   | 1.000      | -            | -                | -                | -         |     5.12 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           60 |     1023 | 2024-06-16 | Legacy           | L   | 0.864      | -            | -                | -                | -         |   -11.27 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           59 |     1028 | 2024-06-16 | Wildcard         | W   | 0.862      | 0.371        | 0.048 (0.015)    | -                | -         |    12.27 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           58 |     1131 | 2024-06-13 | Limitless        | W   | 0.842      | -            | -                | -                | -         |     2.62 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           57 |     1300 | 2024-06-08 | Wildcard         | L   | 0.810      | -            | -                | -                | -         |   -14.43 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           56 |     1356 | 2024-06-07 | Party Astronauts | W   | 0.804      | 0.477        | 0.041 (0.016)    | 0.510 (0.195)    | -         |    12.98 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           55 |     1363 | 2024-06-07 | Elevate          | W   | 0.803      | 0.384        | 0.027 (0.008)    | 0.501 (0.155)    | -         |    12.85 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           54 |     1366 | 2024-06-07 | Elevate          | L   | 0.802      | -            | -                | -                | -         |   -12.59 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           53 |     1383 | 2024-06-07 | Party Astronauts | L   | 0.801      | -            | -                | -                | -         |   -13.31 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           52 |     1412 | 2024-06-06 | Elevate          | W   | 0.797      | 0.477        | 0.027 (0.010)    | 0.501 (0.190)    | -         |    12.70 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           51 |     1482 | 2024-06-05 | M80              | L   | 0.790      | -            | -                | -                | -         |    -4.78 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           50 |     1532 | 2024-06-04 | NRG              | W   | 0.784      | 0.477        | -                | 0.502 (0.188)    | -         |     9.51 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           49 |     1544 | 2024-06-04 | TSM Shimmer      | W   | 0.783      | -            | -                | -                | -         |     4.50 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           48 |     1813 | 2024-05-24 | M80              | L   | 0.710      | -            | -                | -                | -         |    -4.11 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           47 |     1827 | 2024-05-23 | NRG              | W   | 0.704      | -            | -                | -                | -         |     9.12 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           46 |     1844 | 2024-05-22 | Party Astronauts | W   | 0.697      | 0.384        | 0.041 (0.011)    | 0.510 (0.137)    | -         |    10.73 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           45 |     1890 | 2024-05-21 | FLUFFY AIMERS    | W   | 0.691      | -            | -                | -                | -         |     4.57 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           44 |     1893 | 2024-05-21 | FLUFFY AIMERS    | W   | 0.690      | -            | -                | -                | -         |     4.77 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           43 |     1969 | 2024-05-19 | FLUFFY AIMERS    | W   | 0.675      | -            | -                | -                | -         |     4.82 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           42 |     1991 | 2024-05-18 | NRG              | W   | 0.670      | -            | -                | -                | -         |    10.62 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           41 |     1992 | 2024-05-18 | M80              | W   | 0.669      | 0.303        | 0.188 (0.038)    | -                | -         |    18.25 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           40 |     2025 | 2024-05-17 | Wildcard         | W   | 0.663      | 0.303        | 0.048 (0.010)    | -                | -         |    10.47 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           39 |     2096 | 2024-05-15 | Limitless        | L   | 0.650      | -            | -                | -                | -         |   -14.08 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           38 |     2101 | 2024-05-15 | Limitless        | L   | 0.650      | -            | -                | -                | -         |   -14.77 | cJ dA K1nG, Jeorge, junior, nosraC, RUSH   |
+|           37 |     2199 | 2024-05-13 | Wildcard         | L   | 0.637      | -            | -                | -                | -         |   -11.83 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           36 |     2200 | 2024-05-13 | Wildcard         | W   | 0.637      | 0.477        | 0.048 (0.015)    | -                | -         |     8.34 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           35 |     2243 | 2024-05-11 | Elevate          | L   | 0.623      | -            | -                | -                | -         |    -8.75 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           34 |     2245 | 2024-05-11 | Mythic           | L   | 0.623      | -            | -                | -                | -         |   -14.22 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           33 |     2247 | 2024-05-11 | Elevate          | W   | 0.623      | -            | -                | -                | -         |    10.54 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           32 |     2292 | 2024-05-09 | BOSS             | W   | 0.610      | -            | -                | -                | -         |     6.20 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           31 |     2297 | 2024-05-09 | BOSS             | W   | 0.610      | -            | -                | -                | -         |     6.50 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           30 |     2317 | 2024-05-08 | Phoenix          | W   | 0.604      | -            | -                | -                | -         |     4.59 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           29 |     2319 | 2024-05-08 | Phoenix          | W   | 0.603      | -            | -                | -                | -         |     4.78 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           28 |     2637 | 2024-04-23 | Take Flyte       | L   | 0.504      | -            | -                | -                | -         |   -12.49 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           27 |     2639 | 2024-04-23 | Take Flyte       | W   | 0.504      | -            | -                | -                | -         |     3.35 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           26 |     2825 | 2024-04-17 | Elevate          | L   | 0.463      | -            | -                | -                | -         |    -6.28 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           25 |     2829 | 2024-04-17 | Phoenix          | W   | 0.463      | -            | -                | -                | -         |     3.56 | cJ dA K1nG, CLASIA, Jeorge, junior, nosraC |
+|           24 |     2889 | 2024-04-15 | Limitless        | W   | 0.451      | -            | -                | -                | -         |     2.30 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           23 |     2890 | 2024-04-15 | Limitless        | W   | 0.450      | -            | -                | -                | -         |     2.35 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           22 |     2978 | 2024-04-10 | Elevate          | W   | 0.417      | -            | -                | -                | -         |     7.70 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           21 |     2984 | 2024-04-10 | Elevate          | W   | 0.417      | -            | -                | -                | -         |     7.98 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           20 |     3034 | 2024-04-09 | MIGHT            | W   | 0.411      | -            | -                | -                | -         |     1.34 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           19 |     3038 | 2024-04-09 | MIGHT            | W   | 0.410      | -            | -                | -                | -         |     1.35 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           18 |     3167 | 2024-04-04 | LAG              | L   | 0.377      | -            | -                | -                | -         |    -7.24 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           17 |     3171 | 2024-04-04 | LAG              | W   | 0.377      | -            | -                | -                | -         |     4.71 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           16 |     3211 | 2024-04-03 | Party Astronauts | L   | 0.370      | -            | -                | -                | -         |   -10.51 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           15 |     3261 | 2024-04-02 | BOSS             | W   | 0.364      | -            | -                | -                | -         |     3.89 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           14 |     3265 | 2024-04-02 | Party Astronauts | W   | 0.363      | -            | -                | -                | -         |     5.95 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           13 |     3340 | 2024-03-27 | NRG              | L   | 0.324      | -            | -                | -                | -         |    -6.14 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           12 |     3344 | 2024-03-27 | NRG              | W   | 0.324      | -            | -                | -                | -         |     4.13 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           11 |     3388 | 2024-03-26 | Party Astronauts | W   | 0.318      | -            | -                | -                | -         |     5.28 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|           10 |     3393 | 2024-03-26 | Party Astronauts | W   | 0.317      | -            | -                | -                | -         |     5.42 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            9 |     3472 | 2024-03-20 | Mythic           | L   | 0.277      | -            | -                | -                | -         |    -5.80 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            8 |     3475 | 2024-03-20 | Mythic           | W   | 0.277      | -            | -                | -                | -         |     2.97 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            7 |     3584 | 2024-03-14 | M80              | W   | 0.237      | -            | -                | -                | -         |     1.31 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            6 |     3586 | 2024-03-14 | M80              | W   | 0.237      | -            | -                | -                | -         |     1.32 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            5 |     3914 | 2024-03-02 | Legacy           | L   | 0.156      | -            | -                | -                | -         |    -1.80 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            4 |     3942 | 2024-03-01 | FURIA            | L   | 0.149      | -            | -                | -                | -         |    -0.05 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            3 |     4006 | 2024-02-26 | Liquid           | L   | 0.124      | -            | -                | -                | -         |    -0.08 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            2 |     4022 | 2024-02-25 | BOSS             | W   | 0.117      | -            | -                | -                | -         |     1.35 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
+|            1 |     4026 | 2024-02-25 | Liquid           | W   | 0.116      | -            | -                | -                | -         |     3.58 | cJ dA K1nG, Jeorge, junior, MarKE, nosraC  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($18,268.66)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($18,259.95)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.06) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.864 | $4,000.00      | $3,456.11       |
-| 2024-06-09 |      0.817 | $10,500.00     | $8,577.92       |
-| 2024-05-24 |      0.711 | $5,000.00      | $3,552.78       |
-| 2024-05-18 |      0.670 | $4,000.00      | $2,681.85       |
+| 2024-06-16 |      0.864 | $4,000.00      | $3,454.63       |
+| 2024-06-09 |      0.817 | $10,500.00     | $8,574.03       |
+| 2024-05-24 |      0.710 | $5,000.00      | $3,550.93       |
+| 2024-05-18 |      0.670 | $4,000.00      | $2,680.37       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

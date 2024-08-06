@@ -6,9 +6,9 @@ Global Rank: [16](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [4]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1447.1<br />
+Final Rank Value:  1447.0<br />
 <br />
-Final Rank Value (1447.1) = Starting Rank Value (1549.2) + Head To Head Adjustments (-102.1)<br />
+Final Rank Value (1447.0) = Starting Rank Value (1549.0) + Head To Head Adjustments (-102.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.559<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1549.2
-- 400 + ( ( 0.559 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1549.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1549.0
+- 400 + ( ( 0.559 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1549.0
 
 
 #### Factors<br />
@@ -37,73 +37,73 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           60 |      338 | 2024-07-27 | Monte             | L   | 1.000      | -            | -                | -                | -         |   -28.21 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           59 |      397 | 2024-07-25 | RUBY              | W   | 1.000      | 0.435        | 0.095 (0.041)    | 0.480 (0.208)    | 0 (0.000) |     1.32 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           58 |     1023 | 2024-06-16 | fnatic            | W   | 0.864      | 0.548        | 0.371 (0.175)    | 0.680 (0.322)    | 1 (0.864) |    13.54 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           57 |     1034 | 2024-06-16 | KOI               | W   | 0.861      | -            | -                | -                | 1 (0.861) |     3.22 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           56 |     1055 | 2024-06-15 | paiN              | W   | 0.856      | 0.548        | 0.324 (0.152)    | 0.838 (0.393)    | 1 (0.856) |     9.96 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           55 |     1074 | 2024-06-15 | BESTIA            | W   | 0.854      | 0.548        | 0.096 (0.045)    | 0.775 (0.363)    | 1 (0.854) |     2.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           54 |     1093 | 2024-06-14 | Ninjas in Pyjamas | L   | 0.849      | -            | -                | -                | -         |    -7.83 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           53 |     1303 | 2024-06-08 | Imperial          | L   | 0.810      | -            | -                | -                | -         |   -18.88 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           52 |     1360 | 2024-06-07 | Sharks            | W   | 0.803      | 0.450        | -                | 0.546 (0.197)    | 0 (0.000) |     2.16 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           51 |     1418 | 2024-06-06 | MIBR              | W   | 0.796      | 0.450        | 0.208 (0.074)    | 0.633 (0.227)    | -         |    11.84 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           50 |     1487 | 2024-06-05 | RED Canids        | L   | 0.790      | -            | -                | -                | -         |   -21.43 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           49 |     1537 | 2024-06-04 | Fluxo             | W   | 0.783      | 0.450        | 0.123 (0.043)    | 0.701 (0.247)    | -         |     2.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           48 |     1618 | 2024-06-01 | G2                | L   | 0.763      | -            | -                | -                | -         |    -1.64 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           47 |     1708 | 2024-05-29 | Vitality          | W   | 0.743      | 0.624        | 0.647 (0.300)    | -                | 1 (0.743) |    21.15 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           46 |     1748 | 2024-05-27 | Liquid            | W   | 0.730      | 0.624        | 0.383 (0.175)    | 0.438 (0.200)    | 1 (0.730) |    16.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           45 |     1758 | 2024-05-27 | MOUZ              | W   | 0.729      | 0.624        | 1.000 (0.455)    | -                | 1 (0.729) |    21.39 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           44 |     1853 | 2024-05-22 | Imperial          | L   | 0.697      | -            | -                | -                | -         |   -15.61 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           43 |     1857 | 2024-05-22 | Imperial          | L   | 0.696      | -            | -                | -                | -         |   -16.39 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           42 |     1936 | 2024-05-20 | W7M               | W   | 0.683      | -            | -                | -                | -         |     0.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           41 |     1939 | 2024-05-20 | W7M               | W   | 0.683      | -            | -                | -                | -         |     0.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           40 |     1940 | 2024-05-20 | BESTIA            | L   | 0.683      | -            | -                | -                | -         |   -20.19 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           39 |     1943 | 2024-05-20 | BESTIA            | W   | 0.682      | 0.450        | -                | 0.775 (0.238)    | -         |     1.24 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           38 |     1970 | 2024-05-19 | RED Canids        | L   | 0.675      | -            | -                | -                | -         |   -18.59 | buda, HUASOPEEK, Luken, MartinezSa, max |
-|           37 |     1995 | 2024-05-18 | Fluxo             | W   | 0.669      | -            | -                | -                | -         |     2.19 | buda, HUASOPEEK, Luken, MartinezSa, max |
-|           36 |     2060 | 2024-05-16 | ODDIK             | W   | 0.656      | -            | -                | -                | -         |     0.95 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           35 |     2068 | 2024-05-16 | Imperial          | L   | 0.655      | -            | -                | -                | -         |   -15.78 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           34 |     2105 | 2024-05-15 | RED Canids        | W   | 0.650      | 0.450        | -                | 0.732 (0.214)    | -         |     2.14 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           33 |     2107 | 2024-05-15 | RED Canids        | L   | 0.650      | -            | -                | -                | -         |   -18.58 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           32 |     2114 | 2024-05-15 | Sharks            | W   | 0.649      | -            | -                | -                | -         |     1.02 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           31 |     2166 | 2024-05-14 | Smoke             | W   | 0.643      | -            | -                | -                | -         |     0.23 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           30 |     2170 | 2024-05-14 | Smoke             | W   | 0.643      | -            | -                | -                | -         |     0.23 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           29 |     2180 | 2024-05-14 | Galorys           | W   | 0.642      | -            | -                | -                | -         |     0.65 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           28 |     2199 | 2024-05-13 | Galorys           | W   | 0.637      | -            | -                | -                | -         |     0.65 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           27 |     2218 | 2024-05-12 | inSanitY          | W   | 0.630      | -            | -                | -                | -         |     0.74 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           26 |     2223 | 2024-05-12 | paiN              | L   | 0.629      | -            | -                | -                | -         |   -13.61 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           25 |     2250 | 2024-05-11 | KRÜ               | W   | 0.623      | -            | -                | -                | -         |     0.66 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           24 |     2277 | 2024-05-10 | inSanitY          | W   | 0.617      | -            | -                | -                | -         |     0.68 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           23 |     2319 | 2024-05-08 | Sharks            | W   | 0.603      | -            | -                | -                | -         |     0.88 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           22 |     2361 | 2024-05-06 | Vikings KR        | W   | 0.588      | -            | -                | -                | -         |     0.39 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           21 |     2453 | 2024-05-01 | Case              | W   | 0.556      | -            | -                | -                | -         |     0.56 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           20 |     2454 | 2024-05-01 | Case              | W   | 0.556      | -            | -                | -                | -         |     0.56 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           19 |     2725 | 2024-04-19 | OG                | L   | 0.477      | -            | -                | -                | -         |   -14.06 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           18 |     2775 | 2024-04-18 | Imperial          | L   | 0.470      | -            | -                | -                | -         |   -12.00 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           17 |     2781 | 2024-04-18 | FURIA             | W   | 0.469      | 0.589        | 0.284 (0.078)    | -                | 1 (0.469) |    10.10 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           16 |     3104 | 2024-04-08 | HEROIC            | L   | 0.400      | -            | -                | -                | -         |    -6.17 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           15 |     3114 | 2024-04-07 | G2                | L   | 0.398      | -            | -                | -                | -         |    -0.98 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           14 |     4073 | 2024-02-23 | FURIA             | W   | 0.103      | -            | -                | -                | -         |     2.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           13 |     4076 | 2024-02-23 | BESTIA            | W   | 0.102      | -            | -                | -                | -         |     0.17 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           12 |     4087 | 2024-02-22 | FURIA             | L   | 0.097      | -            | -                | -                | -         |    -0.83 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           11 |     4093 | 2024-02-22 | BESTIA            | W   | 0.096      | -            | -                | -                | -         |     0.15 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|           10 |     4138 | 2024-02-20 | Solid             | W   | 0.083      | -            | -                | -                | -         |     0.07 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            9 |     4141 | 2024-02-20 | Case              | W   | 0.083      | -            | -                | -                | -         |     0.09 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            8 |     4145 | 2024-02-20 | Salao do Corte    | W   | 0.083      | -            | -                | -                | -         |     0.00 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            7 |     4197 | 2024-02-18 | LA RUGONETA       | L   | 0.068      | -            | -                | -                | -         |    -2.12 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            6 |     4239 | 2024-02-16 | Fluxo             | L   | 0.056      | -            | -                | -                | -         |    -1.66 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            5 |     4264 | 2024-02-15 | Imperial          | L   | 0.050      | -            | -                | -                | -         |    -1.32 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            4 |     4265 | 2024-02-15 | Case              | W   | 0.050      | -            | -                | -                | -         |     0.05 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            3 |     4269 | 2024-02-15 | KRÜ               | W   | 0.049      | -            | -                | -                | -         |     0.04 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            2 |     4294 | 2024-02-14 | 2GAME             | W   | 0.044      | -            | -                | -                | -         |     0.01 | buda, dgt, HUASOPEEK, MartinezSa, max   |
-|            1 |     4359 | 2024-02-12 | LA RUGONETA       | W   | 0.029      | -            | -                | -                | -         |     0.00 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           60 |      340 | 2024-07-27 | Monte             | L   | 1.000      | -            | -                | -                | -         |   -28.21 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           59 |      399 | 2024-07-25 | RUBY              | W   | 1.000      | 0.435        | 0.095 (0.041)    | 0.480 (0.208)    | 0 (0.000) |     1.33 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           58 |     1025 | 2024-06-16 | fnatic            | W   | 0.863      | 0.548        | 0.371 (0.175)    | 0.680 (0.322)    | 1 (0.863) |    13.54 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           57 |     1036 | 2024-06-16 | KOI               | W   | 0.861      | -            | -                | -                | 1 (0.861) |     3.22 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           56 |     1057 | 2024-06-15 | paiN              | W   | 0.856      | 0.548        | 0.324 (0.152)    | 0.838 (0.393)    | 1 (0.856) |     9.96 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           55 |     1076 | 2024-06-15 | BESTIA            | W   | 0.854      | 0.548        | 0.096 (0.045)    | 0.776 (0.363)    | 1 (0.854) |     2.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           54 |     1095 | 2024-06-14 | Ninjas in Pyjamas | L   | 0.849      | -            | -                | -                | -         |    -7.82 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           53 |     1305 | 2024-06-08 | Imperial          | L   | 0.809      | -            | -                | -                | -         |   -18.87 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           52 |     1362 | 2024-06-07 | Sharks            | W   | 0.803      | 0.450        | -                | 0.546 (0.197)    | 0 (0.000) |     2.15 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           51 |     1420 | 2024-06-06 | MIBR              | W   | 0.796      | 0.450        | 0.208 (0.074)    | 0.633 (0.227)    | -         |    11.83 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           50 |     1489 | 2024-06-05 | RED Canids        | L   | 0.789      | -            | -                | -                | -         |   -21.42 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           49 |     1539 | 2024-06-04 | Fluxo             | W   | 0.783      | 0.450        | 0.123 (0.043)    | 0.701 (0.247)    | -         |     2.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           48 |     1620 | 2024-06-01 | G2                | L   | 0.762      | -            | -                | -                | -         |    -1.64 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           47 |     1710 | 2024-05-29 | Vitality          | W   | 0.742      | 0.624        | 0.647 (0.300)    | -                | 1 (0.742) |    21.14 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           46 |     1750 | 2024-05-27 | Liquid            | W   | 0.730      | 0.624        | 0.383 (0.174)    | 0.437 (0.199)    | 1 (0.730) |    16.37 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           45 |     1760 | 2024-05-27 | MOUZ              | W   | 0.729      | 0.624        | 1.000 (0.455)    | -                | 1 (0.729) |    21.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           44 |     1855 | 2024-05-22 | Imperial          | L   | 0.696      | -            | -                | -                | -         |   -15.61 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           43 |     1859 | 2024-05-22 | Imperial          | L   | 0.696      | -            | -                | -                | -         |   -16.38 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           42 |     1938 | 2024-05-20 | W7M               | W   | 0.683      | -            | -                | -                | -         |     0.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           41 |     1941 | 2024-05-20 | W7M               | W   | 0.683      | -            | -                | -                | -         |     0.53 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           40 |     1942 | 2024-05-20 | BESTIA            | L   | 0.682      | -            | -                | -                | -         |   -20.18 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           39 |     1945 | 2024-05-20 | BESTIA            | W   | 0.682      | 0.450        | -                | 0.776 (0.238)    | -         |     1.24 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           38 |     1972 | 2024-05-19 | RED Canids        | L   | 0.675      | -            | -                | -                | -         |   -18.58 | buda, HUASOPEEK, Luken, MartinezSa, max |
+|           37 |     1997 | 2024-05-18 | Fluxo             | W   | 0.668      | -            | -                | -                | -         |     2.19 | buda, HUASOPEEK, Luken, MartinezSa, max |
+|           36 |     2062 | 2024-05-16 | ODDIK             | W   | 0.656      | -            | -                | -                | -         |     0.95 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           35 |     2070 | 2024-05-16 | Imperial          | L   | 0.655      | -            | -                | -                | -         |   -15.77 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           34 |     2107 | 2024-05-15 | RED Canids        | W   | 0.650      | 0.450        | -                | 0.732 (0.214)    | -         |     2.14 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           33 |     2109 | 2024-05-15 | RED Canids        | L   | 0.650      | -            | -                | -                | -         |   -18.57 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           32 |     2116 | 2024-05-15 | Sharks            | W   | 0.649      | -            | -                | -                | -         |     1.02 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           31 |     2168 | 2024-05-14 | Smoke             | W   | 0.643      | -            | -                | -                | -         |     0.23 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           30 |     2172 | 2024-05-14 | Smoke             | W   | 0.643      | -            | -                | -                | -         |     0.23 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           29 |     2182 | 2024-05-14 | Galorys           | W   | 0.642      | -            | -                | -                | -         |     0.65 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           28 |     2201 | 2024-05-13 | Galorys           | W   | 0.636      | -            | -                | -                | -         |     0.65 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           27 |     2220 | 2024-05-12 | inSanitY          | W   | 0.630      | -            | -                | -                | -         |     0.74 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           26 |     2225 | 2024-05-12 | paiN              | L   | 0.629      | -            | -                | -                | -         |   -13.60 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           25 |     2252 | 2024-05-11 | KRÜ               | W   | 0.622      | -            | -                | -                | -         |     0.66 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           24 |     2279 | 2024-05-10 | inSanitY          | W   | 0.617      | -            | -                | -                | -         |     0.68 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           23 |     2321 | 2024-05-08 | Sharks            | W   | 0.603      | -            | -                | -                | -         |     0.88 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           22 |     2363 | 2024-05-06 | Vikings KR        | W   | 0.588      | -            | -                | -                | -         |     0.39 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           21 |     2455 | 2024-05-01 | Case              | W   | 0.555      | -            | -                | -                | -         |     0.56 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           20 |     2456 | 2024-05-01 | Case              | W   | 0.555      | -            | -                | -                | -         |     0.56 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           19 |     2727 | 2024-04-19 | OG                | L   | 0.477      | -            | -                | -                | -         |   -14.05 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           18 |     2777 | 2024-04-18 | Imperial          | L   | 0.470      | -            | -                | -                | -         |   -11.99 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           17 |     2783 | 2024-04-18 | FURIA             | W   | 0.469      | 0.589        | 0.284 (0.078)    | -                | 1 (0.469) |    10.09 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           16 |     3106 | 2024-04-08 | HEROIC            | L   | 0.399      | -            | -                | -                | -         |    -6.16 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           15 |     3116 | 2024-04-07 | G2                | L   | 0.398      | -            | -                | -                | -         |    -0.98 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           14 |     4075 | 2024-02-23 | FURIA             | W   | 0.103      | -            | -                | -                | -         |     2.37 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           13 |     4078 | 2024-02-23 | BESTIA            | W   | 0.102      | -            | -                | -                | -         |     0.16 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           12 |     4089 | 2024-02-22 | FURIA             | L   | 0.096      | -            | -                | -                | -         |    -0.83 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           11 |     4095 | 2024-02-22 | BESTIA            | W   | 0.095      | -            | -                | -                | -         |     0.15 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|           10 |     4140 | 2024-02-20 | Solid             | W   | 0.083      | -            | -                | -                | -         |     0.07 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            9 |     4143 | 2024-02-20 | Case              | W   | 0.083      | -            | -                | -                | -         |     0.09 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            8 |     4147 | 2024-02-20 | Salao do Corte    | W   | 0.082      | -            | -                | -                | -         |     0.00 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            7 |     4199 | 2024-02-18 | LA RUGONETA       | L   | 0.067      | -            | -                | -                | -         |    -2.11 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            6 |     4241 | 2024-02-16 | Fluxo             | L   | 0.055      | -            | -                | -                | -         |    -1.65 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            5 |     4266 | 2024-02-15 | Imperial          | L   | 0.050      | -            | -                | -                | -         |    -1.31 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            4 |     4267 | 2024-02-15 | Case              | W   | 0.049      | -            | -                | -                | -         |     0.05 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            3 |     4271 | 2024-02-15 | KRÜ               | W   | 0.049      | -            | -                | -                | -         |     0.04 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            2 |     4296 | 2024-02-14 | 2GAME             | W   | 0.043      | -            | -                | -                | -         |     0.01 | buda, dgt, HUASOPEEK, MartinezSa, max   |
+|            1 |     4361 | 2024-02-12 | LA RUGONETA       | W   | 0.029      | -            | -                | -                | -         |     0.00 | buda, dgt, HUASOPEEK, MartinezSa, max   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($129,432.18)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($129,372.73)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.40) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -111,14 +111,14 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $2,000.00      | $2,000.00       |
-| 2024-06-16 |      0.864 | $100,000.00    | $86,351.85      |
-| 2024-06-09 |      0.816 | $7,500.00      | $6,120.14       |
-| 2024-06-02 |      0.769 | $20,000.00     | $15,372.22      |
-| 2024-05-19 |      0.675 | $4,000.00      | $2,701.11       |
-| 2024-05-16 |      0.655 | $5,000.00      | $3,276.39       |
-| 2024-05-12 |      0.629 | $15,000.00     | $9,437.50       |
-| 2024-04-20 |      0.483 | $5,000.00      | $2,413.43       |
-| 2024-04-14 |      0.440 | $4,000.00      | $1,759.54       |
+| 2024-06-16 |      0.863 | $100,000.00    | $86,314.81      |
+| 2024-06-09 |      0.816 | $7,500.00      | $6,117.36       |
+| 2024-06-02 |      0.768 | $20,000.00     | $15,364.81      |
+| 2024-05-19 |      0.675 | $4,000.00      | $2,699.63       |
+| 2024-05-16 |      0.655 | $5,000.00      | $3,274.54       |
+| 2024-05-12 |      0.629 | $15,000.00     | $9,431.94       |
+| 2024-04-20 |      0.482 | $5,000.00      | $2,411.57       |
+| 2024-04-14 |      0.440 | $4,000.00      | $1,758.06       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

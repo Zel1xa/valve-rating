@@ -6,9 +6,9 @@ Global Rank: [206](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [61]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  491.2<br />
+Final Rank Value:  491.1<br />
 <br />
-Final Rank Value (491.2) = Starting Rank Value (495.1) + Head To Head Adjustments (-3.9)<br />
+Final Rank Value (491.1) = Starting Rank Value (495.0) + Head To Head Adjustments (-3.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.046<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 495.1
-- 400 + ( ( 0.046 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 495.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 495.0
+- 400 + ( ( 0.046 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 495.0
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3597 | 2024-03-14 | MIBR Academy  | L   | 0.236      | -            | -                | -                | -         |    -3.55 | Alisson, ALLE, caike, danoco, zock9   |
-|           11 |     3607 | 2024-03-14 | RED Canids    | L   | 0.235      | -            | -                | -                | -         |    -0.27 | Alisson, ALLE, caike, danoco, zock9   |
-|           10 |     3681 | 2024-03-11 | MIBR Academy  | W   | 0.216      | 0.303        | 0.000 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     3.56 | Alisson, ALLE, caike, danoco, zock9   |
-|            9 |     3709 | 2024-03-10 | FURIA Academy | L   | 0.208      | -            | -                | -                | -         |    -3.11 | Alisson, ALLE, danoco, voltera, zock9 |
-|            8 |     3756 | 2024-03-08 | adalYamigos   | L   | 0.195      | -            | -                | -                | -         |    -2.24 | Alisson, ALLE, danoco, voltera, zock9 |
-|            7 |     4140 | 2024-02-20 | Solid         | L   | 0.083      | -            | -                | -                | -         |    -0.25 | Alisson, ALLE, danoco, LUCAS1, zock9  |
-|            6 |     4143 | 2024-02-20 | Sharks        | W   | 0.083      | 0.143        | 0.030 (0.000)    | 0.546 (0.006)    | 0 (0.000) |     2.44 | Alisson, ALLE, danoco, LUCAS1, zock9  |
-|            5 |     4238 | 2024-02-16 | Galorys       | L   | 0.056      | -            | -                | -                | -         |    -0.17 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            4 |     4252 | 2024-02-16 | LA RUGONETA   | L   | 0.054      | -            | -                | -                | -         |    -0.75 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            3 |     4277 | 2024-02-15 | Case          | L   | 0.048      | -            | -                | -                | -         |    -0.12 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            2 |     4346 | 2024-02-13 | 9z Academy    | W   | 0.036      | 0.303        | 0.000 (0.000)    | 0.067 (0.001)    | 0 (0.000) |     0.59 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
-|            1 |     4362 | 2024-02-12 | Fluxo         | L   | 0.028      | -            | -                | -                | -         |    -0.04 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
+|           12 |     3599 | 2024-03-14 | MIBR Academy  | L   | 0.236      | -            | -                | -                | -         |    -3.55 | Alisson, ALLE, caike, danoco, zock9   |
+|           11 |     3609 | 2024-03-14 | RED Canids    | L   | 0.234      | -            | -                | -                | -         |    -0.27 | Alisson, ALLE, caike, danoco, zock9   |
+|           10 |     3683 | 2024-03-11 | MIBR Academy  | W   | 0.216      | 0.303        | 0.000 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     3.56 | Alisson, ALLE, caike, danoco, zock9   |
+|            9 |     3711 | 2024-03-10 | FURIA Academy | L   | 0.208      | -            | -                | -                | -         |    -3.11 | Alisson, ALLE, danoco, voltera, zock9 |
+|            8 |     3758 | 2024-03-08 | adalYamigos   | L   | 0.195      | -            | -                | -                | -         |    -2.23 | Alisson, ALLE, danoco, voltera, zock9 |
+|            7 |     4142 | 2024-02-20 | Solid         | L   | 0.083      | -            | -                | -                | -         |    -0.25 | Alisson, ALLE, danoco, LUCAS1, zock9  |
+|            6 |     4145 | 2024-02-20 | Sharks        | W   | 0.082      | 0.143        | 0.030 (0.000)    | 0.546 (0.006)    | 0 (0.000) |     2.43 | Alisson, ALLE, danoco, LUCAS1, zock9  |
+|            5 |     4240 | 2024-02-16 | Galorys       | L   | 0.056      | -            | -                | -                | -         |    -0.16 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            4 |     4254 | 2024-02-16 | LA RUGONETA   | L   | 0.054      | -            | -                | -                | -         |    -0.75 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            3 |     4279 | 2024-02-15 | Case          | L   | 0.048      | -            | -                | -                | -         |    -0.12 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            2 |     4348 | 2024-02-13 | 9z Academy    | W   | 0.036      | 0.303        | 0.000 (0.000)    | 0.067 (0.001)    | 0 (0.000) |     0.58 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
+|            1 |     4364 | 2024-02-12 | Fluxo         | L   | 0.027      | -            | -                | -                | -         |    -0.04 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

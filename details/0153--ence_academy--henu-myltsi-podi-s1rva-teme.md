@@ -6,9 +6,9 @@ Global Rank: [153](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [100]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  706.1<br />
+Final Rank Value:  706.0<br />
 <br />
-Final Rank Value (706.1) = Starting Rank Value (711.8) + Head To Head Adjustments (-5.7)<br />
+Final Rank Value (706.0) = Starting Rank Value (711.7) + Head To Head Adjustments (-5.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.152<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 711.8
-- 400 + ( ( 0.152 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 711.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 711.7
+- 400 + ( ( 0.152 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 711.7
 
 
 #### Factors<br />
@@ -37,35 +37,35 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     2473 | 2024-05-01 | Sampi           | L   | 0.553      | -            | -                | -                | -         |    -4.05 | HENU, myltsi, podi, S1rva, teme |
-|           13 |     2489 | 2024-04-30 | Endpoint        | L   | 0.547      | -            | -                | -                | -         |    -4.44 | HENU, myltsi, podi, S1rva, teme |
-|           12 |     2501 | 2024-04-29 | RUSH B          | L   | 0.542      | -            | -                | -                | -         |    -5.05 | HENU, myltsi, podi, S1rva, teme |
-|           11 |     2532 | 2024-04-28 | Heimo           | L   | 0.534      | -            | -                | -                | -         |    -9.49 | HENU, myltsi, podi, S1rva, teme |
-|           10 |     2666 | 2024-04-22 | ALTERNATE aTTaX | L   | 0.493      | -            | -                | -                | -         |    -3.63 | HENU, myltsi, podi, S1rva, teme |
-|            9 |     2713 | 2024-04-20 | SINNERS         | W   | 0.480      | 0.371        | 0.037 (0.007)    | 0.790 (0.141)    | 0 (0.000) |    13.85 | HENU, myltsi, podi, S1rva, teme |
-|            8 |     2767 | 2024-04-19 | Viperio         | L   | 0.472      | -            | -                | -                | -         |    -9.40 | HENU, myltsi, podi, S1rva, teme |
-|            7 |     2813 | 2024-04-18 | MOUZ NXT        | L   | 0.467      | -            | -                | -                | -         |    -2.10 | HENU, myltsi, podi, S1rva, teme |
-|            6 |     2875 | 2024-04-16 | 1WIN            | L   | 0.454      | -            | -                | -                | -         |    -3.32 | HENU, myltsi, podi, S1rva, teme |
-|            5 |     2895 | 2024-04-15 | Sampi           | W   | 0.448      | 0.371        | 0.027 (0.004)    | 1.000 (0.166)    | 0 (0.000) |    10.48 | HENU, myltsi, podi, S1rva, teme |
-|            4 |     2899 | 2024-04-15 | Viperio         | W   | 0.447      | 0.143        | 0.001 (0.000)    | 0.036 (0.002)    | 0 (0.000) |     5.29 | HENU, myltsi, podi, S1rva, teme |
-|            3 |     2972 | 2024-04-11 | Secret          | W   | 0.420      | 0.371        | 0.000 (0.000)    | 0.055 (0.009)    | 0 (0.000) |     3.70 | HENU, myltsi, podi, S1rva, teme |
-|            2 |     4054 | 2024-02-24 | HAVU            | W   | 0.109      | 0.306        | 0.001 (0.000)    | 0.152 (0.005)    | 1 (0.109) |     1.69 | HENU, myltsi, podi, S1rva, teme |
-|            1 |     4070 | 2024-02-24 | ex-sYnck        | W   | 0.107      | 0.306        | 0.000 (0.000)    | 0.015 (0.000)    | 1 (0.107) |     0.77 | HENU, myltsi, podi, S1rva, teme |
+|           14 |     2475 | 2024-05-01 | Sampi           | L   | 0.553      | -            | -                | -                | -         |    -4.05 | HENU, myltsi, podi, S1rva, teme |
+|           13 |     2491 | 2024-04-30 | Endpoint        | L   | 0.547      | -            | -                | -                | -         |    -4.44 | HENU, myltsi, podi, S1rva, teme |
+|           12 |     2503 | 2024-04-29 | RUSH B          | L   | 0.542      | -            | -                | -                | -         |    -5.04 | HENU, myltsi, podi, S1rva, teme |
+|           11 |     2534 | 2024-04-28 | Heimo           | L   | 0.533      | -            | -                | -                | -         |    -9.49 | HENU, myltsi, podi, S1rva, teme |
+|           10 |     2668 | 2024-04-22 | ALTERNATE aTTaX | L   | 0.493      | -            | -                | -                | -         |    -3.62 | HENU, myltsi, podi, S1rva, teme |
+|            9 |     2715 | 2024-04-20 | SINNERS         | W   | 0.480      | 0.371        | 0.037 (0.007)    | 0.790 (0.140)    | 0 (0.000) |    13.84 | HENU, myltsi, podi, S1rva, teme |
+|            8 |     2769 | 2024-04-19 | Viperio         | L   | 0.472      | -            | -                | -                | -         |    -9.39 | HENU, myltsi, podi, S1rva, teme |
+|            7 |     2815 | 2024-04-18 | MOUZ NXT        | L   | 0.466      | -            | -                | -                | -         |    -2.10 | HENU, myltsi, podi, S1rva, teme |
+|            6 |     2877 | 2024-04-16 | 1WIN            | L   | 0.454      | -            | -                | -                | -         |    -3.32 | HENU, myltsi, podi, S1rva, teme |
+|            5 |     2897 | 2024-04-15 | Sampi           | W   | 0.447      | 0.371        | 0.027 (0.004)    | 1.000 (0.166)    | 0 (0.000) |    10.48 | HENU, myltsi, podi, S1rva, teme |
+|            4 |     2901 | 2024-04-15 | Viperio         | W   | 0.446      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     5.29 | HENU, myltsi, podi, S1rva, teme |
+|            3 |     2974 | 2024-04-11 | Secret          | W   | 0.420      | 0.371        | 0.000 (0.000)    | 0.055 (0.009)    | 0 (0.000) |     3.70 | HENU, myltsi, podi, S1rva, teme |
+|            2 |     4056 | 2024-02-24 | HAVU            | W   | 0.109      | 0.306        | 0.001 (0.000)    | 0.152 (0.005)    | 1 (0.109) |     1.69 | HENU, myltsi, podi, S1rva, teme |
+|            1 |     4072 | 2024-02-24 | ex-sYnck        | W   | 0.106      | 0.306        | 0.000 (0.000)    | 0.015 (0.000)    | 1 (0.106) |     0.76 | HENU, myltsi, podi, S1rva, teme |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,344.12)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($1,342.13)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-05-05 |      0.581 | $1,608.00      | $934.87         |
-| 2024-02-24 |      0.109 | $3,748.00      | $409.24         |
+| 2024-05-05 |      0.581 | $1,608.00      | $934.28         |
+| 2024-02-24 |      0.109 | $3,748.00      | $407.86         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

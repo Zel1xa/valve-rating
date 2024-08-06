@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           47 |      133 | 2024-08-01 | Vikings KR  | L   | 1.000      | -            | -                | -                | -         |   -17.47 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           46 |      144 | 2024-08-01 | Sharks      | L   | 1.000      | -            | -                | -                | -         |    -9.10 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           45 |      179 | 2024-07-31 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -5.68 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           44 |      183 | 2024-07-31 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -5.99 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           43 |      203 | 2024-07-31 | 9z Academy  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.53 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           42 |      229 | 2024-07-30 | Sharks      | L   | 1.000      | -            | -                | -                | -         |   -10.29 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           41 |      378 | 2024-07-25 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -5.24 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           40 |      381 | 2024-07-25 | inSanitY    | W   | 1.000      | 0.143        | 0.048 (0.007)    | -                | 0 (0.000) |    21.13 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           39 |      459 | 2024-07-23 | BESTIA      | L   | 1.000      | -            | -                | -                | -         |    -9.59 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           38 |      472 | 2024-07-23 | Dusty Roots | L   | 1.000      | -            | -                | -                | -         |   -20.06 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           37 |      489 | 2024-07-22 | KRÜ         | L   | 1.000      | -            | -                | -                | -         |   -18.38 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           36 |      492 | 2024-07-22 | ODDIK       | W   | 1.000      | 0.333        | 0.099 (0.033)    | 0.805 (0.268)    | 0 (0.000) |    21.05 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           35 |      517 | 2024-07-21 | W7M         | W   | 1.000      | 0.333        | -                | 0.519 (0.173)    | 0 (0.000) |    13.78 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           34 |      539 | 2024-07-20 | Solid       | L   | 1.000      | -            | -                | -                | -         |   -15.69 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           33 |      544 | 2024-07-20 | ODDIK       | L   | 1.000      | -            | -                | -                | -         |   -10.37 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           32 |      595 | 2024-07-19 | Sharks      | L   | 1.000      | -            | -                | -                | -         |   -12.55 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           31 |      624 | 2024-07-18 | KRÜ         | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.478 (0.159)    | 0 (0.000) |    14.74 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           30 |      639 | 2024-07-18 | Case        | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.778 (0.288)    | 0 (0.000) |    15.15 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           29 |      690 | 2024-07-17 | RED Canids  | L   | 1.000      | -            | -                | -                | -         |    -5.39 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           28 |      695 | 2024-07-17 | RED Canids  | L   | 1.000      | -            | -                | -                | -         |    -5.67 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           27 |      747 | 2024-07-16 | KRÜ         | L   | 1.000      | -            | -                | -                | -         |   -17.89 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           26 |      752 | 2024-07-16 | KRÜ         | W   | 1.000      | 0.450        | 0.023 (0.010)    | 0.478 (0.215)    | 0 (0.000) |    13.43 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           25 |      759 | 2024-07-16 | W7M         | W   | 1.000      | 0.333        | -                | 0.519 (0.173)    | 0 (0.000) |    11.79 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           24 |      765 | 2024-07-16 | SPORT       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.46 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           23 |      795 | 2024-07-15 | Smoke       | L   | 1.000      | -            | -                | -                | -         |   -23.09 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           22 |      799 | 2024-07-15 | Smoke       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.92 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           21 |      875 | 2024-07-11 | Dusty Roots | W   | 1.000      | -            | -                | -                | -         |    11.94 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           20 |      880 | 2024-07-11 | W7M         | L   | 1.000      | -            | -                | -                | -         |   -20.02 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           19 |      902 | 2024-07-10 | ODDIK       | L   | 1.000      | -            | -                | -                | -         |   -12.84 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           18 |      940 | 2024-07-08 | Galorys     | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | -         |    12.17 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           17 |      953 | 2024-07-07 | Hawks       | W   | 1.000      | -            | -                | -                | -         |     3.67 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           16 |     1139 | 2024-06-13 | ODDIK       | L   | 0.842      | -            | -                | -                | -         |   -11.56 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           15 |     1241 | 2024-06-09 | KRÜ         | W   | 0.816      | 0.450        | 0.023 (0.008)    | 0.478 (0.176)    | -         |    11.78 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           14 |     1301 | 2024-06-08 | paiN        | L   | 0.810      | -            | -                | -                | -         |    -2.08 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           13 |     1318 | 2024-06-08 | Sharks      | L   | 0.808      | -            | -                | -                | -         |    -8.66 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           12 |     1359 | 2024-06-07 | inSanitY    | W   | 0.803      | 0.450        | 0.048 (0.017)    | 0.447 (0.162)    | -         |    15.17 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           11 |     1627 | 2024-06-01 | Galorys     | W   | 0.762      | 0.371        | 0.030 (0.008)    | -                | -         |    12.41 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|           10 |     1679 | 2024-05-30 | W7M         | W   | 0.750      | -            | -                | -                | -         |     8.47 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|            9 |     1737 | 2024-05-28 | Corinthians | W   | 0.735      | -            | -                | -                | -         |     2.52 | history, leo_drk, MaLLby, rainny, vinaabEAST |
-|            8 |     2035 | 2024-05-17 | Case        | L   | 0.662      | -            | -                | -                | -         |    -9.61 | history, leo_drk, MaLLby, r1see, rainny      |
-|            7 |     2067 | 2024-05-16 | Sharks      | L   | 0.655      | -            | -                | -                | -         |    -7.32 | BALEROSTYLE, history, leo_drk, r1see, rainny |
-|            6 |     2113 | 2024-05-15 | Galorys     | L   | 0.649      | -            | -                | -                | -         |   -10.27 | history, leo_drk, MaLLby, r1see, rainny      |
-|            5 |     2121 | 2024-05-15 | BESTIA      | W   | 0.648      | 0.371        | 0.096 (0.023)    | 0.775 (0.186)    | -         |    12.15 | history, leo_drk, MaLLby, r1see, rainny      |
-|            4 |     2174 | 2024-05-14 | W7M         | W   | 0.642      | -            | -                | -                | -         |     8.06 | history, leo_drk, MaLLby, r1see, rainny      |
-|            3 |     2184 | 2024-05-14 | Case        | W   | 0.641      | -            | -                | -                | -         |    10.33 | history, leo_drk, MaLLby, r1see, rainny      |
-|            2 |     2206 | 2024-05-13 | Fluxo       | L   | 0.635      | -            | -                | -                | -         |    -4.59 | history, leo_drk, MaLLby, r1see, rainny      |
-|            1 |     2865 | 2024-04-16 | Fluxo       | L   | 0.457      | -            | -                | -                | -         |    -3.74 | history, leo_drk, MaLLby, r1see, rainny      |
+|           47 |      135 | 2024-08-01 | Vikings KR  | L   | 1.000      | -            | -                | -                | -         |   -17.47 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           46 |      146 | 2024-08-01 | Sharks      | L   | 1.000      | -            | -                | -                | -         |    -9.10 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           45 |      181 | 2024-07-31 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -5.68 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           44 |      185 | 2024-07-31 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -6.00 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           43 |      205 | 2024-07-31 | 9z Academy  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.53 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           42 |      231 | 2024-07-30 | Sharks      | L   | 1.000      | -            | -                | -                | -         |   -10.29 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           41 |      380 | 2024-07-25 | Fluxo       | L   | 1.000      | -            | -                | -                | -         |    -5.24 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           40 |      383 | 2024-07-25 | inSanitY    | W   | 1.000      | 0.143        | 0.048 (0.007)    | -                | 0 (0.000) |    21.13 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           39 |      461 | 2024-07-23 | BESTIA      | L   | 1.000      | -            | -                | -                | -         |    -9.60 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           38 |      474 | 2024-07-23 | Dusty Roots | L   | 1.000      | -            | -                | -                | -         |   -20.06 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           37 |      491 | 2024-07-22 | KRÜ         | L   | 1.000      | -            | -                | -                | -         |   -18.38 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           36 |      494 | 2024-07-22 | ODDIK       | W   | 1.000      | 0.333        | 0.099 (0.033)    | 0.805 (0.268)    | 0 (0.000) |    21.05 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           35 |      519 | 2024-07-21 | W7M         | W   | 1.000      | 0.333        | -                | 0.519 (0.173)    | 0 (0.000) |    13.78 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           34 |      541 | 2024-07-20 | Solid       | L   | 1.000      | -            | -                | -                | -         |   -15.69 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           33 |      546 | 2024-07-20 | ODDIK       | L   | 1.000      | -            | -                | -                | -         |   -10.37 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           32 |      597 | 2024-07-19 | Sharks      | L   | 1.000      | -            | -                | -                | -         |   -12.55 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           31 |      626 | 2024-07-18 | KRÜ         | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.479 (0.160)    | 0 (0.000) |    14.74 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           30 |      641 | 2024-07-18 | Case        | W   | 1.000      | 0.371        | 0.029 (0.011)    | 0.778 (0.288)    | 0 (0.000) |    15.15 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           29 |      692 | 2024-07-17 | RED Canids  | L   | 1.000      | -            | -                | -                | -         |    -5.39 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           28 |      697 | 2024-07-17 | RED Canids  | L   | 1.000      | -            | -                | -                | -         |    -5.68 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           27 |      749 | 2024-07-16 | KRÜ         | L   | 1.000      | -            | -                | -                | -         |   -17.89 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           26 |      754 | 2024-07-16 | KRÜ         | W   | 1.000      | 0.450        | 0.023 (0.010)    | 0.479 (0.215)    | 0 (0.000) |    13.43 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           25 |      761 | 2024-07-16 | W7M         | W   | 1.000      | 0.333        | -                | 0.519 (0.173)    | 0 (0.000) |    11.79 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           24 |      767 | 2024-07-16 | SPORT       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.46 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           23 |      797 | 2024-07-15 | Smoke       | L   | 1.000      | -            | -                | -                | -         |   -23.09 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           22 |      801 | 2024-07-15 | Smoke       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.92 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           21 |      877 | 2024-07-11 | Dusty Roots | W   | 1.000      | -            | -                | -                | -         |    11.95 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           20 |      882 | 2024-07-11 | W7M         | L   | 1.000      | -            | -                | -                | -         |   -20.02 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           19 |      904 | 2024-07-10 | ODDIK       | L   | 1.000      | -            | -                | -                | -         |   -12.84 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           18 |      942 | 2024-07-08 | Galorys     | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | -         |    12.17 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           17 |      955 | 2024-07-07 | Hawks       | W   | 1.000      | -            | -                | -                | -         |     3.67 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           16 |     1141 | 2024-06-13 | ODDIK       | L   | 0.841      | -            | -                | -                | -         |   -11.56 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           15 |     1243 | 2024-06-09 | KRÜ         | W   | 0.816      | 0.450        | 0.023 (0.008)    | 0.479 (0.176)    | -         |    11.77 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           14 |     1303 | 2024-06-08 | paiN        | L   | 0.810      | -            | -                | -                | -         |    -2.08 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           13 |     1320 | 2024-06-08 | Sharks      | L   | 0.808      | -            | -                | -                | -         |    -8.66 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           12 |     1361 | 2024-06-07 | inSanitY    | W   | 0.803      | 0.450        | 0.048 (0.017)    | 0.447 (0.162)    | -         |    15.16 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           11 |     1629 | 2024-06-01 | Galorys     | W   | 0.761      | 0.371        | 0.030 (0.008)    | -                | -         |    12.41 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|           10 |     1681 | 2024-05-30 | W7M         | W   | 0.750      | -            | -                | -                | -         |     8.47 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|            9 |     1739 | 2024-05-28 | Corinthians | W   | 0.735      | -            | -                | -                | -         |     2.52 | history, leo_drk, MaLLby, rainny, vinaabEAST |
+|            8 |     2037 | 2024-05-17 | Case        | L   | 0.662      | -            | -                | -                | -         |    -9.61 | history, leo_drk, MaLLby, r1see, rainny      |
+|            7 |     2069 | 2024-05-16 | Sharks      | L   | 0.655      | -            | -                | -                | -         |    -7.31 | BALEROSTYLE, history, leo_drk, r1see, rainny |
+|            6 |     2115 | 2024-05-15 | Galorys     | L   | 0.649      | -            | -                | -                | -         |   -10.27 | history, leo_drk, MaLLby, r1see, rainny      |
+|            5 |     2123 | 2024-05-15 | BESTIA      | W   | 0.648      | 0.371        | 0.096 (0.023)    | 0.776 (0.186)    | -         |    12.14 | history, leo_drk, MaLLby, r1see, rainny      |
+|            4 |     2176 | 2024-05-14 | W7M         | W   | 0.642      | -            | -                | -                | -         |     8.05 | history, leo_drk, MaLLby, r1see, rainny      |
+|            3 |     2186 | 2024-05-14 | Case        | W   | 0.641      | -            | -                | -                | -         |    10.33 | history, leo_drk, MaLLby, r1see, rainny      |
+|            2 |     2208 | 2024-05-13 | Fluxo       | L   | 0.635      | -            | -                | -                | -         |    -4.59 | history, leo_drk, MaLLby, r1see, rainny      |
+|            1 |     2867 | 2024-04-16 | Fluxo       | L   | 0.457      | -            | -                | -                | -         |    -3.73 | history, leo_drk, MaLLby, r1see, rainny      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($8,154.86)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($8,153.94)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -98,7 +98,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-22 |      1.000 | $6,000.00      | $6,000.00       |
-| 2024-06-16 |      0.862 | $2,500.00      | $2,154.86       |
+| 2024-06-16 |      0.862 | $2,500.00      | $2,153.94       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

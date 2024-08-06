@@ -13,11 +13,11 @@
 | 8        |   1223 | Imperial          | decenty, felps, noway, try, VINI                 | [details](details/0030--imperial--decenty-felps-noway-try-vini.md)                     |
 | 9        |   1141 | RED Canids        | coldzera, dav1deuS, HEN1, nython, venomzera      | [details](details/0038--red_canids--coldzera-dav1deus-hen1-nython-venomzera.md)        |
 | 10       |   1129 | Fluxo             | arT, chayJESUS, Lucaozy, nicks, zevy             | [details](details/0039--fluxo--art-chayjesus-lucaozy-nicks-zevy.md)                    |
-| 11       |   1112 | Legacy            | b4rtiN, dumau, latto, NEKIZ, saadzin             | [details](details/0041--legacy--b4rtin-dumau-latto-nekiz-saadzin.md)                   |
-| 12       |   1103 | ODDIK             | ksloks, matios, naitte, togs, WOOD7              | [details](details/0043--oddik--ksloks-matios-naitte-togs-wood7.md)                     |
+| 11       |   1112 | Legacy            | b4rtiN, dumau, latto, NEKIZ, saadzin             | [details](details/0042--legacy--b4rtin-dumau-latto-nekiz-saadzin.md)                   |
+| 12       |   1103 | ODDIK             | ksloks, matios, naitte, togs, WOOD7              | [details](details/0044--oddik--ksloks-matios-naitte-togs-wood7.md)                     |
 | 13       |   1026 | Nouns             | cJ dA K1nG, Jeorge, junior, nosraC, RUSH         | [details](details/0054--nouns--cj_da_k1ng-jeorge-junior-nosrac-rush.md)                |
 | 14       |   1022 | Sharks            | doc, gafolo, koala, pepe, rdnzao                 | [details](details/0055--sharks--doc-gafolo-koala-pepe-rdnzao.md)                       |
-| 15       |    998 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0061--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |
+| 15       |    997 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0062--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |
 | 16       |    989 | NRG               | autimatic, Brehze, HexT, nitr0, oSee             | [details](details/0065--nrg--autimatic-brehze-hext-nitr0-osee.md)                      |
 | 17       |    966 | inSanitY          | cass1n, f4stzin, iDk, pesadelo, shz              | [details](details/0068--insanity--cass1n-f4stzin-idk-pesadelo-shz.md)                  |
 | 18       |    966 | Party Astronauts  | ben1337, cxzi, FaNg, Infinite, WolfY             | [details](details/0069--party_astronauts--ben1337-cxzi-fang-infinite-wolfy.md)         |
@@ -36,7 +36,7 @@
 | 31       |    808 | Intense           | ckzao, diozera, fREQ, keiz, mxa                  | [details](details/0122--intense--ckzao-diozera-freq-keiz-mxa.md)                       |
 | 32       |    803 | W7M               | card, fokiu, jz, stormzyn, t9rnay                | [details](details/0123--w7m--card-fokiu-jz-stormzyn-t9rnay.md)                         |
 | 33       |    800 | E-Xolos LAZER     | danoco, land1n, mawth, tatazin, w1               | [details](details/0124--e-xolos_lazer--danoco-land1n-mawth-tatazin-w1.md)              |
-| 34       |    783 | BOSS              | Cryptic, d4rty, freshie, micro, SLIGHT           | [details](details/0131--boss--cryptic-d4rty-freshie-micro-slight.md)                   |
+| 34       |    783 | BOSS              | Cryptic, d4rty, freshie, micro, SLIGHT           | [details](details/0130--boss--cryptic-d4rty-freshie-micro-slight.md)                   |
 | 35       |    760 | Sharks            | doc, drg, rdnzao, supLexN1, togs                 | [details](details/0137--sharks--doc-drg-rdnzao-suplexn1-togs.md)                       |
 | 36       |    759 | Mythic            | Austin, Cooper, fl0m, freakazoid, Trucklover86   | [details](details/0138--mythic--austin-cooper-fl0m-freakazoid-trucklover86.md)         |
 | 37       |    758 | LAG               | Experative, nicx, Nyyx, ogwizard, Weeza          | [details](details/0139--lag--experative-nicx-nyyx-ogwizard-weeza.md)                   |
@@ -53,7 +53,7 @@
 | 48       |    665 | Carpe Diem        | arcade, Lake, micro, Seb, wiz                    | [details](details/0169--carpe_diem--arcade-lake-micro-seb-wiz.md)                      |
 | 49       |    660 | SPORT             | DANVIET, PremiuM, timid, voltera, xns            | [details](details/0172--sport--danviet-premium-timid-voltera-xns.md)                   |
 | 50       |    641 | Take Flyte        | cbass, Grave, jchancE, serv0, z0mb1e             | [details](details/0180--take_flyte--cbass-grave-jchance-serv0-z0mb1e.md)               |
-| 51       |    622 | adalYamigos       | delboNi, f4stzin, piriajr, shz, zqkS             | [details](details/0183--adalyamigos--delboni-f4stzin-piriajr-shz-zqks.md)              |
+| 51       |    622 | adalYamigos       | delboNi, f4stzin, piriajr, shz, zqkS             | [details](details/0184--adalyamigos--delboni-f4stzin-piriajr-shz-zqks.md)              |
 | 52       |    609 | Nouns fe          | ashe, jesscas, katalyyst, lunari, raynee         | [details](details/0187--nouns_fe--ashe-jesscas-katalyyst-lunari-raynee.md)             |
 | 53       |    583 | Limitless         | Danejoris, grape, Mellow, PoseidoNN, xCAPE       | [details](details/0191--limitless--danejoris-grape-mellow-poseidonn-xcape.md)          |
 | 54       |    529 | FURIA Academy     | GYZER, Jotag3, max, mello, msr                   | [details](details/0197--furia_academy--gyzer-jotag3-max-mello-msr.md)                  |

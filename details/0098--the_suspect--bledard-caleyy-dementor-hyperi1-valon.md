@@ -6,9 +6,9 @@ Global Rank: [98](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [69]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  867.2<br />
+Final Rank Value:  867.9<br />
 <br />
-Final Rank Value (867.2) = Starting Rank Value (823.6) + Head To Head Adjustments (43.5)<br />
+Final Rank Value (867.9) = Starting Rank Value (823.6) + Head To Head Adjustments (44.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |       29 | 2024-08-05 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -11.18 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           12 |       50 | 2024-08-04 | CPH Wolves        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.353 (0.050)    | 0 (0.000) |    14.02 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           11 |      160 | 2024-08-01 | Alliance          | L   | 1.000      | -            | -                | -                | -         |   -16.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|           10 |      832 | 2024-07-14 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.55 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            9 |      834 | 2024-07-14 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.537 (0.077)    | 0 (0.000) |    18.02 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            8 |      843 | 2024-07-14 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -5.00 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            7 |      850 | 2024-07-13 | Portugal          | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.115 (0.016)    | 0 (0.000) |     9.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            6 |      945 | 2024-07-08 | Latvia            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.134 (0.019)    | 0 (0.000) |    16.76 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
-|            5 |     1315 | 2024-06-08 | M1X KS            | L   | 0.809      | -            | -                | -                | -         |   -11.34 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            4 |     1340 | 2024-06-08 | ALTERNATE aTTaX   | W   | 0.807      | 0.337        | 0.031 (0.008)    | 0.537 (0.146)    | 1 (0.807) |    15.34 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            3 |     1387 | 2024-06-07 | plusW KS          | W   | 0.801      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.801) |     2.29 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            2 |     1804 | 2024-05-25 | ex-Guild Eagles   | L   | 0.714      | -            | -                | -                | -         |    -9.79 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
-|            1 |     1816 | 2024-05-24 | Zero Tenacity     | L   | 0.708      | -            | -                | -                | -         |    -3.70 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           13 |       31 | 2024-08-05 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -10.51 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           12 |       52 | 2024-08-04 | CPH Wolves        | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.353 (0.050)    | 0 (0.000) |    14.03 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           11 |      162 | 2024-08-01 | Alliance          | L   | 1.000      | -            | -                | -                | -         |   -16.49 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|           10 |      834 | 2024-07-14 | ECLOT             | W   | 1.000      | 0.143        | 0.061 (0.009)    | 0.537 (0.077)    | 0 (0.000) |    25.56 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            9 |      836 | 2024-07-14 | ALTERNATE aTTaX   | W   | 1.000      | 0.143        | 0.031 (0.004)    | 0.537 (0.077)    | 0 (0.000) |    18.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            8 |      845 | 2024-07-14 | ECLOT             | L   | 1.000      | -            | -                | -                | -         |    -4.99 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            7 |      852 | 2024-07-13 | Portugal          | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.115 (0.016)    | 0 (0.000) |     9.04 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            6 |      947 | 2024-07-08 | Latvia            | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.134 (0.019)    | 0 (0.000) |    16.76 | BledarD, Caleyy, deb0, Dementor, HYPERI1  |
+|            5 |     1317 | 2024-06-08 | M1X KS            | L   | 0.808      | -            | -                | -                | -         |   -11.33 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            4 |     1342 | 2024-06-08 | ALTERNATE aTTaX   | W   | 0.807      | 0.337        | 0.031 (0.008)    | 0.537 (0.146)    | 1 (0.807) |    15.35 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            3 |     1389 | 2024-06-07 | plusW KS          | W   | 0.801      | 0.337        | 0.000 (0.000)    | 0.000 (0.000)    | 1 (0.801) |     2.28 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            2 |     1806 | 2024-05-25 | ex-Guild Eagles   | L   | 0.713      | -            | -                | -                | -         |    -9.79 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
+|            1 |     1818 | 2024-05-24 | Zero Tenacity     | L   | 0.707      | -            | -                | -                | -         |    -3.70 | BledarD, Caleyy, Dementor, HYPERI1, vAloN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,638.42)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($2,637.21)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

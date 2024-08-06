@@ -8,7 +8,7 @@ Regional Rank: [94]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  745.4<br />
 <br />
-Final Rank Value (745.4) = Starting Rank Value (718.2) + Head To Head Adjustments (27.2)<br />
+Final Rank Value (745.4) = Starting Rank Value (718.3) + Head To Head Adjustments (27.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.155<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 718.2
-- 400 + ( ( 0.155 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 718.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 718.3
+- 400 + ( ( 0.155 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 718.3
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      526 | 2024-07-21 | France fe   | W   | 1.000      | 0.294        | 0.006 (0.002)    | 0.115 (0.034)    | 0 (0.000) |    13.43 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|           10 |      531 | 2024-07-21 | Spirit fe   | W   | 1.000      | 0.294        | 0.005 (0.001)    | 0.136 (0.040)    | 0 (0.000) |    11.64 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            9 |      565 | 2024-07-20 | BIG EQUIPA  | W   | 1.000      | 0.294        | 0.017 (0.005)    | 0.142 (0.042)    | 0 (0.000) |    18.12 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            8 |      841 | 2024-07-14 | CENSORED fe | L   | 1.000      | -            | -                | -                | -         |   -15.96 | Elizabeth, f6tal, k175un4, t4tty, wieenN |
-|            7 |      971 | 2024-06-30 | YeYO        | W   | 0.955      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.61 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            6 |     1032 | 2024-06-16 | NIP Impact  | L   | 0.861      | -            | -                | -                | -         |   -13.38 | k175un4, sosya, Stormy, unknxwn, wieenN  |
-|            5 |     2910 | 2024-04-14 | Spirit fe   | W   | 0.441      | 0.250        | 0.005 (0.001)    | 0.136 (0.015)    | 0 (0.000) |     5.63 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            4 |     3121 | 2024-04-07 | ENCE Athena | W   | 0.395      | 0.250        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     4.84 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            3 |     3888 | 2024-03-03 | BIG EQUIPA  | L   | 0.162      | -            | -                | -                | -         |    -2.17 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            2 |     4190 | 2024-02-18 | Astralis W  | L   | 0.069      | -            | -                | -                | -         |    -1.38 | k175un4, mikeri, sosya, Stormy, wieenN   |
-|            1 |     4194 | 2024-02-18 | Crescent fe | L   | 0.068      | -            | -                | -                | -         |    -1.24 | k175un4, mikeri, sosya, Stormy, wieenN   |
+|           11 |      528 | 2024-07-21 | France fe   | W   | 1.000      | 0.294        | 0.006 (0.002)    | 0.115 (0.034)    | 0 (0.000) |    13.43 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|           10 |      533 | 2024-07-21 | Spirit fe   | W   | 1.000      | 0.294        | 0.005 (0.001)    | 0.136 (0.040)    | 0 (0.000) |    11.64 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            9 |      567 | 2024-07-20 | BIG EQUIPA  | W   | 1.000      | 0.294        | 0.017 (0.005)    | 0.142 (0.042)    | 0 (0.000) |    18.12 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            8 |      843 | 2024-07-14 | CENSORED fe | L   | 1.000      | -            | -                | -                | -         |   -15.96 | Elizabeth, f6tal, k175un4, t4tty, wieenN |
+|            7 |      973 | 2024-06-30 | YeYO        | W   | 0.955      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.61 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            6 |     1034 | 2024-06-16 | NIP Impact  | L   | 0.861      | -            | -                | -                | -         |   -13.38 | k175un4, sosya, Stormy, unknxwn, wieenN  |
+|            5 |     2912 | 2024-04-14 | Spirit fe   | W   | 0.440      | 0.250        | 0.005 (0.001)    | 0.136 (0.015)    | 0 (0.000) |     5.63 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            4 |     3123 | 2024-04-07 | ENCE Athena | W   | 0.395      | 0.250        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     4.84 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            3 |     3890 | 2024-03-03 | BIG EQUIPA  | L   | 0.162      | -            | -                | -                | -         |    -2.16 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            2 |     4192 | 2024-02-18 | Astralis W  | L   | 0.069      | -            | -                | -                | -         |    -1.37 | k175un4, mikeri, sosya, Stormy, wieenN   |
+|            1 |     4196 | 2024-02-18 | Crescent fe | L   | 0.068      | -            | -                | -                | -         |    -1.23 | k175un4, mikeri, sosya, Stormy, wieenN   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,099.36)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($5,098.34)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -63,11 +63,11 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-07-21 |      1.000 | $3,000.00      | $3,000.00       |
 | 2024-07-14 |      1.000 | $500.00        | $500.00         |
-| 2024-06-30 |      0.955 | $750.00        | $716.23         |
-| 2024-06-16 |      0.861 | $250.00        | $215.35         |
-| 2024-04-14 |      0.441 | $750.00        | $330.63         |
-| 2024-04-07 |      0.395 | $750.00        | $296.61         |
-| 2024-03-03 |      0.162 | $250.00        | $40.54          |
+| 2024-06-30 |      0.955 | $750.00        | $715.95         |
+| 2024-06-16 |      0.861 | $250.00        | $215.26         |
+| 2024-04-14 |      0.440 | $750.00        | $330.35         |
+| 2024-04-07 |      0.395 | $750.00        | $296.34         |
+| 2024-03-03 |      0.162 | $250.00        | $40.45          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -1,10 +1,10 @@
 ### Roster Details<br />
 Team Name: Grannys Knockers<br />
 Roster: Anlelele, b0RUP, Kristou, niko, TMB<br />
-Global Rank: [130](../standings_global.md)<br />
+Global Rank: [129](../standings_global.md)<br />
 <br />
 Region: [Europe]( ../standings_europe.md)<br />
-Regional Rank: [90]( ../standings_europe.md)<br />
+Regional Rank: [89]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  786.7<br />
 <br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2330 | 2024-05-08 | Sashi             | L   | 0.600      | -            | -                | -                | -         |    -1.65 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            9 |     2354 | 2024-05-07 | Gaimin Gladiators | W   | 0.593      | 0.396        | 0.037 (0.009)    | 0.331 (0.078)    | 0 (0.000) |    14.52 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            8 |     2369 | 2024-05-06 | brazylijski luz   | W   | 0.586      | 0.396        | 0.008 (0.002)    | 0.250 (0.058)    | 0 (0.000) |    11.12 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            7 |     2445 | 2024-05-02 | Endpoint          | L   | 0.560      | -            | -                | -                | -         |    -5.31 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            6 |     2515 | 2024-04-29 | MOUZ NXT          | L   | 0.540      | -            | -                | -                | -         |    -3.04 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            5 |     2534 | 2024-04-28 | Nemiga            | W   | 0.533      | 0.435        | 0.315 (0.073)    | 0.704 (0.163)    | 0 (0.000) |    15.25 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            4 |     2611 | 2024-04-25 | Nexus             | W   | 0.513      | 0.435        | 0.014 (0.003)    | 0.447 (0.100)    | 0 (0.000) |    10.07 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            3 |     2654 | 2024-04-23 | Sangal            | L   | 0.499      | -            | -                | -                | -         |    -1.72 | Anlelele, b0RUP, Kristou, niko, TMB |
-|            2 |     2657 | 2024-04-22 | Zero Tenacity     | L   | 0.495      | -            | -                | -                | -         |    -2.14 | b0RUP, Kristou, niko, refrezh, TMB  |
-|            1 |     2669 | 2024-04-22 | Permitta          | L   | 0.493      | -            | -                | -                | -         |    -3.49 | b0RUP, Kristou, niko, refrezh, TMB  |
+|           10 |     2332 | 2024-05-08 | Sashi             | L   | 0.600      | -            | -                | -                | -         |    -1.65 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            9 |     2356 | 2024-05-07 | Gaimin Gladiators | W   | 0.592      | 0.396        | 0.037 (0.009)    | 0.331 (0.078)    | 0 (0.000) |    14.51 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            8 |     2371 | 2024-05-06 | brazylijski luz   | W   | 0.585      | 0.396        | 0.008 (0.002)    | 0.250 (0.058)    | 0 (0.000) |    11.11 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            7 |     2447 | 2024-05-02 | Endpoint          | L   | 0.560      | -            | -                | -                | -         |    -5.30 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            6 |     2517 | 2024-04-29 | MOUZ NXT          | L   | 0.539      | -            | -                | -                | -         |    -3.04 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            5 |     2536 | 2024-04-28 | Nemiga            | W   | 0.533      | 0.435        | 0.314 (0.073)    | 0.704 (0.163)    | 0 (0.000) |    15.24 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            4 |     2613 | 2024-04-25 | Nexus             | W   | 0.513      | 0.435        | 0.014 (0.003)    | 0.447 (0.100)    | 0 (0.000) |    10.06 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            3 |     2656 | 2024-04-23 | Sangal            | L   | 0.499      | -            | -                | -                | -         |    -1.71 | Anlelele, b0RUP, Kristou, niko, TMB |
+|            2 |     2659 | 2024-04-22 | Zero Tenacity     | L   | 0.495      | -            | -                | -                | -         |    -2.14 | b0RUP, Kristou, niko, refrezh, TMB  |
+|            1 |     2671 | 2024-04-22 | Permitta          | L   | 0.492      | -            | -                | -                | -         |    -3.49 | b0RUP, Kristou, niko, refrezh, TMB  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,427.78)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($2,426.30)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

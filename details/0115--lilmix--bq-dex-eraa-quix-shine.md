@@ -6,9 +6,9 @@ Global Rank: [115](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [82]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  826.8<br />
+Final Rank Value:  826.9<br />
 <br />
-Final Rank Value (826.8) = Starting Rank Value (868.6) + Head To Head Adjustments (-41.7)<br />
+Final Rank Value (826.9) = Starting Rank Value (868.6) + Head To Head Adjustments (-41.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |        5 | 2024-08-06 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -15.54 | bq, dex, eraa, quix, SHiNE  |
-|           10 |      253 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.23 | bq, dex, L00m1, quix, SHiNE |
-|            9 |      439 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.80 | bq, dex, L00m1, quix, SHiNE |
-|            8 |      670 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.553 (0.079)    | 0 (0.000) |    13.43 | bq, dex, L00m1, quix, SHiNE |
-|            7 |     1072 | 2024-06-15 | Johnny Speeds   | L   | 0.854      | -            | -                | -                | -         |    -2.94 | bq, dex, poiii, quix, zyyx  |
-|            6 |     1095 | 2024-06-14 | Young Gods      | W   | 0.849      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.849) |     7.98 | bq, dex, poiii, quix, zyyx  |
-|            5 |     1114 | 2024-06-14 | Johnny Speeds   | L   | 0.847      | -            | -                | -                | -         |    -2.89 | bq, dex, poiii, quix, zyyx  |
-|            4 |     1146 | 2024-06-13 | Young Gods      | W   | 0.841      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.841) |     8.08 | bq, dex, poiii, quix, zyyx  |
-|            3 |     1281 | 2024-06-09 | Alliance        | L   | 0.813      | -            | -                | -                | -         |   -13.32 | bq, dex, poiii, quix, zyyx  |
-|            2 |     2257 | 2024-05-11 | Johnny Speeds   | L   | 0.622      | -            | -                | -                | -         |    -1.75 | bq, dex, poiii, quix, zyyx  |
-|            1 |     2266 | 2024-05-11 | AURA            | W   | 0.621      | 0.319        | 0.017 (0.003)    | 0.057 (0.011)    | 1 (0.621) |     7.25 | bq, dex, poiii, quix, zyyx  |
+|           11 |        7 | 2024-08-06 | FAVBET          | L   | 1.000      | -            | -                | -                | -         |   -15.46 | bq, dex, eraa, quix, SHiNE  |
+|           10 |      255 | 2024-07-30 | INFINITE        | L   | 1.000      | -            | -                | -                | -         |   -25.23 | bq, dex, L00m1, quix, SHiNE |
+|            9 |      441 | 2024-07-24 | ALTERNATE aTTaX | L   | 1.000      | -            | -                | -                | -         |   -16.79 | bq, dex, L00m1, quix, SHiNE |
+|            8 |      672 | 2024-07-18 | kONO            | W   | 1.000      | 0.143        | 0.028 (0.004)    | 0.553 (0.079)    | 0 (0.000) |    13.43 | bq, dex, L00m1, quix, SHiNE |
+|            7 |     1074 | 2024-06-15 | Johnny Speeds   | L   | 0.854      | -            | -                | -                | -         |    -2.93 | bq, dex, poiii, quix, zyyx  |
+|            6 |     1097 | 2024-06-14 | Young Gods      | W   | 0.848      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.848) |     7.98 | bq, dex, poiii, quix, zyyx  |
+|            5 |     1116 | 2024-06-14 | Johnny Speeds   | L   | 0.847      | -            | -                | -                | -         |    -2.87 | bq, dex, poiii, quix, zyyx  |
+|            4 |     1148 | 2024-06-13 | Young Gods      | W   | 0.840      | 0.377        | 0.007 (0.002)    | 0.032 (0.010)    | 1 (0.840) |     8.08 | bq, dex, poiii, quix, zyyx  |
+|            3 |     1283 | 2024-06-09 | Alliance        | L   | 0.813      | -            | -                | -                | -         |   -13.31 | bq, dex, poiii, quix, zyyx  |
+|            2 |     2259 | 2024-05-11 | Johnny Speeds   | L   | 0.621      | -            | -                | -                | -         |    -1.74 | bq, dex, poiii, quix, zyyx  |
+|            1 |     2268 | 2024-05-11 | AURA            | W   | 0.620      | 0.319        | 0.017 (0.003)    | 0.057 (0.011)    | 1 (0.620) |     7.24 | bq, dex, poiii, quix, zyyx  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($7,288.22)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- First, take the sum of their top 10 scaled winnings ($7,284.85)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-15 |      0.854 | $5,808.00      | $4,961.27       |
-| 2024-06-09 |      0.814 | $1,445.00      | $1,176.87       |
-| 2024-05-11 |      0.622 | $1,850.00      | $1,150.08       |
+| 2024-06-15 |      0.854 | $5,808.00      | $4,959.12       |
+| 2024-06-09 |      0.814 | $1,445.00      | $1,176.34       |
+| 2024-05-11 |      0.621 | $1,850.00      | $1,149.40       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

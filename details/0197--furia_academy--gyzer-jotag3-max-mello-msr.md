@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      525 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.98 | GYZER, Jotag3, max, mello, msr           |
-|           13 |      588 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
-|           12 |      699 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | Bruninho, GYZER, Jotag3, max, mello      |
-|           11 |      816 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.41 | GYZER, Jotag3, max, mello, souz4h        |
-|           10 |      840 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -4.02 | GYZER, Jotag3, max, mello, souz4h        |
-|            9 |      920 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
-|            8 |      961 | 2024-07-05 | KRÜ               | L   | 0.988      | -            | -                | -                | -         |    -4.07 | GYZER, Jotag3, max, mello, souz4h        |
-|            7 |     1662 | 2024-05-31 | Dusty Roots       | L   | 0.755      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            6 |     1716 | 2024-05-29 | Bounty Hunters    | L   | 0.742      | -            | -                | -                | -         |    -2.82 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            5 |     1729 | 2024-05-28 | Intense           | L   | 0.737      | -            | -                | -                | -         |    -5.57 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            4 |     2030 | 2024-05-17 | ODDIK             | L   | 0.663      | -            | -                | -                | -         |    -1.84 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            3 |     2061 | 2024-05-16 | KRÜ               | W   | 0.656      | 0.303        | 0.023 (0.005)    | 0.478 (0.095)    | 0 (0.000) |    18.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            2 |     2171 | 2024-05-14 | Solid             | L   | 0.643      | -            | -                | -                | -         |    -2.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            1 |     2228 | 2024-05-12 | RED Canids        | L   | 0.629      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|           14 |      527 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.98 | GYZER, Jotag3, max, mello, msr           |
+|           13 |      590 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
+|           12 |      701 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | Bruninho, GYZER, Jotag3, max, mello      |
+|           11 |      818 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.41 | GYZER, Jotag3, max, mello, souz4h        |
+|           10 |      842 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -4.02 | GYZER, Jotag3, max, mello, souz4h        |
+|            9 |      922 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
+|            8 |      963 | 2024-07-05 | KRÜ               | L   | 0.988      | -            | -                | -                | -         |    -4.06 | GYZER, Jotag3, max, mello, souz4h        |
+|            7 |     1664 | 2024-05-31 | Dusty Roots       | L   | 0.755      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            6 |     1718 | 2024-05-29 | Bounty Hunters    | L   | 0.742      | -            | -                | -                | -         |    -2.82 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            5 |     1731 | 2024-05-28 | Intense           | L   | 0.736      | -            | -                | -                | -         |    -5.56 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            4 |     2032 | 2024-05-17 | ODDIK             | L   | 0.662      | -            | -                | -                | -         |    -1.84 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            3 |     2063 | 2024-05-16 | KRÜ               | W   | 0.656      | 0.303        | 0.023 (0.005)    | 0.479 (0.095)    | 0 (0.000) |    18.36 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            2 |     2173 | 2024-05-14 | Solid             | L   | 0.642      | -            | -                | -                | -         |    -2.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            1 |     2230 | 2024-05-12 | RED Canids        | L   | 0.628      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,521.62)
+- Divide that value by the 5th highest value among all rosters ($320,411.81)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
