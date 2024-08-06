@@ -6,9 +6,9 @@ Global Rank: [194](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [122]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  562.0<br />
+Final Rank Value:  561.9<br />
 <br />
-Final Rank Value (562.0) = Starting Rank Value (545.3) + Head To Head Adjustments (16.7)<br />
+Final Rank Value (561.9) = Starting Rank Value (545.2) + Head To Head Adjustments (16.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.071<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 545.3
-- 400 + ( ( 0.071 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 545.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 545.2
+- 400 + ( ( 0.071 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 545.2
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |     3579 | 2024-03-15 | MOUZ NXT        | L   | 0.240      | -            | -                | -                | -         |    -0.48 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           13 |     3615 | 2024-03-14 | ex-Preasy       | L   | 0.232      | -            | -                | -                | -         |    -1.58 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           12 |     3705 | 2024-03-11 | ECLOT           | W   | 0.212      | 0.371        | 0.061 (0.005)    | 0.537 (0.042)    | 0 (0.000) |     6.53 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           11 |     3721 | 2024-03-10 | ALTERNATE aTTaX | W   | 0.207      | 0.371        | 0.031 (0.002)    | 0.537 (0.041)    | 0 (0.000) |     5.98 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|           10 |     3751 | 2024-03-09 | Alliance        | L   | 0.200      | -            | -                | -                | -         |    -0.98 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            9 |     3767 | 2024-03-08 | Passion UA      | L   | 0.193      | -            | -                | -                | -         |    -0.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            8 |     3867 | 2024-03-05 | 500             | L   | 0.173      | -            | -                | -                | -         |    -1.60 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            7 |     3884 | 2024-03-04 | Sashi           | W   | 0.166      | 0.371        | 0.184 (0.011)    | 0.958 (0.059)    | 0 (0.000) |     5.05 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            6 |     4013 | 2024-02-26 | 9INE            | W   | 0.120      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     1.66 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            5 |     4034 | 2024-02-25 | Secret          | W   | 0.114      | 0.358        | 0.000 (0.000)    | 0.055 (0.002)    | 0 (0.000) |     1.75 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            4 |     4084 | 2024-02-23 | Sampi           | L   | 0.099      | -            | -                | -                | -         |    -0.41 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            3 |     4137 | 2024-02-21 | MOUZ NXT        | L   | 0.086      | -            | -                | -                | -         |    -0.16 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            2 |     4218 | 2024-02-17 | The Chosen Few  | W   | 0.062      | 0.358        | 0.001 (0.000)    | 0.038 (0.001)    | 0 (0.000) |     1.30 | c0llins, Marix, mwlky, oxygeN, tiziaN |
-|            1 |     4367 | 2024-02-11 | ALTERNATE aTTaX | L   | 0.022      | -            | -                | -                | -         |    -0.05 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           14 |     3574 | 2024-03-15 | MOUZ NXT        | L   | 0.240      | -            | -                | -                | -         |    -0.48 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           13 |     3610 | 2024-03-14 | ex-Preasy       | L   | 0.232      | -            | -                | -                | -         |    -1.58 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           12 |     3700 | 2024-03-11 | ECLOT           | W   | 0.212      | 0.371        | 0.061 (0.005)    | 0.537 (0.042)    | 0 (0.000) |     6.52 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           11 |     3716 | 2024-03-10 | ALTERNATE aTTaX | W   | 0.207      | 0.371        | 0.031 (0.002)    | 0.537 (0.041)    | 0 (0.000) |     5.97 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|           10 |     3746 | 2024-03-09 | Alliance        | L   | 0.199      | -            | -                | -                | -         |    -0.98 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            9 |     3762 | 2024-03-08 | Passion UA      | L   | 0.193      | -            | -                | -                | -         |    -0.28 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            8 |     3862 | 2024-03-05 | 500             | L   | 0.173      | -            | -                | -                | -         |    -1.60 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            7 |     3879 | 2024-03-04 | Sashi           | W   | 0.165      | 0.371        | 0.184 (0.011)    | 0.958 (0.059)    | 0 (0.000) |     5.04 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            6 |     4008 | 2024-02-26 | 9INE            | W   | 0.120      | 0.143        | 0.000 (0.000)    | 0.006 (0.000)    | 0 (0.000) |     1.65 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            5 |     4029 | 2024-02-25 | Secret          | W   | 0.113      | 0.358        | 0.000 (0.000)    | 0.055 (0.002)    | 0 (0.000) |     1.75 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            4 |     4079 | 2024-02-23 | Sampi           | L   | 0.099      | -            | -                | -                | -         |    -0.41 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            3 |     4132 | 2024-02-21 | MOUZ NXT        | L   | 0.085      | -            | -                | -                | -         |    -0.15 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            2 |     4213 | 2024-02-17 | The Chosen Few  | W   | 0.062      | 0.358        | 0.001 (0.000)    | 0.038 (0.001)    | 0 (0.000) |     1.29 | c0llins, Marix, mwlky, oxygeN, tiziaN |
+|            1 |     4362 | 2024-02-11 | ALTERNATE aTTaX | L   | 0.021      | -            | -                | -                | -         |    -0.05 | c0llins, Marix, mwlky, oxygeN, tiziaN |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,411.81)
+- Divide that value by the 5th highest value among all rosters ($320,329.44)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
