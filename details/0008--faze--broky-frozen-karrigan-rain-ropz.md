@@ -6,22 +6,22 @@ Global Rank: [8](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [7]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1681.2<br />
+Final Rank Value:  1681.1<br />
 <br />
-Final Rank Value (1681.2) = Starting Rank Value (1677.3) + Head To Head Adjustments (3.9)<br />
+Final Rank Value (1681.1) = Starting Rank Value (1677.4) + Head To Head Adjustments (3.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.831[<sup>1</sup>](#table2)
 - Bounty Collected: 0.622[<sup>2</sup>](#table1)
-- Opponent Network: 0.224[<sup>2</sup>](#table1)
+- Opponent Network: 0.219[<sup>2</sup>](#table1)
 - LAN Wins: 0.812[<sup>2</sup>](#table1)
 
-The average of these factors is 0.622<br />
+The average of these factors is 0.621<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1677.3
-- 400 + ( ( 0.622 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1677.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1677.4
+- 400 + ( ( 0.621 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1677.4
 
 
 #### Factors<br />
@@ -37,54 +37,54 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |      106 | 2024-08-02 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |   -20.61 | broky, frozen, karrigan, rain, ropz |
-|           40 |      158 | 2024-08-01 | G2                | L   | 1.000      | -            | -                | -                | -         |    -6.14 | broky, frozen, karrigan, rain, ropz |
-|           39 |      206 | 2024-07-31 | Cloud9            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.14 | broky, frozen, karrigan, rain, ropz |
-|           38 |      575 | 2024-07-19 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |    -7.31 | broky, frozen, karrigan, rain, ropz |
-|           37 |      723 | 2024-07-17 | FlyQuest          | W   | 1.000      | 1.000        | 0.104 (0.104)    | 0.284 (0.284)    | 1 (1.000) |     1.51 | broky, frozen, karrigan, rain, ropz |
-|           36 |     1103 | 2024-06-14 | Vitality          | L   | 0.848      | -            | -                | -                | -         |    -8.29 | broky, frozen, karrigan, rain, ropz |
-|           35 |     1143 | 2024-06-13 | Natus Vincere     | L   | 0.841      | -            | -                | -                | -         |    -6.62 | broky, frozen, karrigan, rain, ropz |
-|           34 |     1175 | 2024-06-12 | SAW               | W   | 0.834      | 0.729        | -                | 0.528 (0.321)    | 1 (0.834) |     1.09 | broky, frozen, karrigan, rain, ropz |
-|           33 |     1651 | 2024-05-31 | G2                | L   | 0.756      | -            | -                | -                | -         |    -5.62 | broky, frozen, karrigan, rain, ropz |
-|           32 |     1705 | 2024-05-29 | Spirit            | L   | 0.743      | -            | -                | -                | -         |    -6.35 | broky, frozen, karrigan, rain, ropz |
-|           31 |     1728 | 2024-05-28 | Virtus.pro        | W   | 0.736      | 0.624        | 0.498 (0.229)    | 0.316 (0.145)    | 1 (0.736) |     9.46 | broky, frozen, karrigan, rain, ropz |
-|           30 |     1752 | 2024-05-27 | M80               | W   | 0.730      | 0.624        | -                | 0.576 (0.262)    | 1 (0.730) |     1.41 | broky, frozen, karrigan, rain, ropz |
-|           29 |     2277 | 2024-05-10 | Vitality          | L   | 0.615      | -            | -                | -                | -         |    -6.45 | broky, frozen, karrigan, rain, ropz |
-|           28 |     2319 | 2024-05-08 | Natus Vincere     | W   | 0.602      | 0.889        | 1.000 (0.535)    | 0.365 (0.195)    | 1 (0.602) |    14.90 | broky, frozen, karrigan, rain, ropz |
-|           27 |     2337 | 2024-05-07 | Monte             | W   | 0.595      | -            | -                | -                | 1 (0.595) |     0.37 | broky, frozen, karrigan, rain, ropz |
-|           26 |     2569 | 2024-04-26 | Eternal Fire      | W   | 0.522      | 0.889        | 0.739 (0.343)    | 0.448 (0.208)    | 1 (0.522) |     7.71 | broky, frozen, karrigan, rain, ropz |
-|           25 |     2598 | 2024-04-25 | Virtus.pro        | W   | 0.515      | 0.889        | 0.498 (0.228)    | -                | 1 (0.515) |     7.40 | broky, frozen, karrigan, rain, ropz |
-|           24 |     2617 | 2024-04-24 | Astralis          | L   | 0.509      | -            | -                | -                | -         |    -7.48 | broky, frozen, karrigan, rain, ropz |
-|           23 |     2635 | 2024-04-23 | Imperial          | W   | 0.502      | 0.889        | 0.233 (0.104)    | 0.673 (0.300)    | 1 (0.502) |     1.38 | broky, frozen, karrigan, rain, ropz |
-|           22 |     2910 | 2024-04-14 | MOUZ              | W   | 0.440      | 0.624        | 1.000 (0.275)    | -                | -         |     9.78 | broky, frozen, karrigan, rain, ropz |
-|           21 |     2924 | 2024-04-13 | Astralis          | W   | 0.434      | 0.624        | 0.389 (0.105)    | -                | -         |     7.51 | broky, frozen, karrigan, rain, ropz |
-|           20 |     2938 | 2024-04-12 | Liquid            | W   | 0.427      | -            | -                | -                | -         |     5.00 | broky, frozen, karrigan, rain, ropz |
-|           19 |     3011 | 2024-04-10 | FlyQuest          | W   | 0.414      | -            | -                | -                | -         |     0.67 | broky, frozen, karrigan, rain, ropz |
-|           18 |     3027 | 2024-04-09 | Cloud9            | W   | 0.412      | -            | -                | -                | -         |     0.38 | broky, frozen, karrigan, rain, ropz |
-|           17 |     3072 | 2024-04-09 | Astralis          | L   | 0.406      | -            | -                | -                | -         |    -5.87 | broky, frozen, karrigan, rain, ropz |
-|           16 |     3103 | 2024-04-08 | Nemiga            | W   | 0.400      | 0.624        | -                | 0.720 (0.180)    | -         |     0.63 | broky, frozen, karrigan, rain, ropz |
-|           15 |     3297 | 2024-03-31 | Natus Vincere     | L   | 0.349      | -            | -                | -                | -         |    -1.90 | broky, frozen, karrigan, rain, ropz |
-|           14 |     3303 | 2024-03-30 | Vitality          | W   | 0.342      | 1.000        | 0.647 (0.221)    | -                | -         |     7.67 | broky, frozen, karrigan, rain, ropz |
-|           13 |     3323 | 2024-03-28 | Spirit            | W   | 0.329      | 1.000        | 1.000 (0.329)    | 0.451 (0.149)    | -         |     8.11 | broky, frozen, karrigan, rain, ropz |
-|           12 |     3407 | 2024-03-24 | Complexity        | W   | 0.301      | -            | -                | -                | -         |     4.34 | broky, frozen, karrigan, rain, ropz |
-|           11 |     3421 | 2024-03-23 | Imperial          | W   | 0.294      | 1.000        | -                | 0.673 (0.198)    | -         |     0.85 | broky, frozen, karrigan, rain, ropz |
-|           10 |     3435 | 2024-03-22 | Eternal Fire      | L   | 0.288      | -            | -                | -                | -         |    -4.23 | broky, frozen, karrigan, rain, ropz |
-|            9 |     3445 | 2024-03-21 | FURIA             | W   | 0.283      | -            | -                | -                | -         |     4.88 | broky, frozen, karrigan, rain, ropz |
-|            8 |     3457 | 2024-03-21 | HEROIC            | L   | 0.281      | -            | -                | -                | -         |    -5.79 | broky, frozen, karrigan, rain, ropz |
-|            7 |     4249 | 2024-02-16 | Eternal Fire      | W   | 0.054      | -            | -                | -                | -         |     0.90 | broky, frozen, karrigan, rain, ropz |
-|            6 |     4275 | 2024-02-15 | G2                | L   | 0.048      | -            | -                | -                | -         |    -0.21 | broky, frozen, karrigan, rain, ropz |
-|            5 |     4308 | 2024-02-14 | Falcons           | W   | 0.042      | -            | -                | -                | -         |     0.25 | broky, frozen, karrigan, rain, ropz |
-|            4 |     4324 | 2024-02-14 | 9 Pandas          | W   | 0.040      | -            | -                | -                | -         |     0.03 | broky, frozen, karrigan, rain, ropz |
-|            3 |     4362 | 2024-02-11 | Spirit            | L   | 0.022      | -            | -                | -                | -         |    -0.15 | broky, frozen, karrigan, rain, ropz |
-|            2 |     4373 | 2024-02-10 | MOUZ              | W   | 0.015      | -            | -                | -                | -         |     0.33 | broky, frozen, karrigan, rain, ropz |
-|            1 |     4387 | 2024-02-09 | G2                | W   | 0.008      | -            | -                | -                | -         |     0.22 | broky, frozen, karrigan, rain, ropz |
+|           41 |      110 | 2024-08-02 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |   -20.64 | broky, frozen, karrigan, rain, ropz |
+|           40 |      162 | 2024-08-01 | G2                | L   | 1.000      | -            | -                | -                | -         |    -6.15 | broky, frozen, karrigan, rain, ropz |
+|           39 |      210 | 2024-07-31 | Cloud9            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.14 | broky, frozen, karrigan, rain, ropz |
+|           38 |      579 | 2024-07-19 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |    -7.31 | broky, frozen, karrigan, rain, ropz |
+|           37 |      727 | 2024-07-17 | FlyQuest          | W   | 1.000      | 1.000        | 0.104 (0.104)    | 0.278 (0.278)    | 1 (1.000) |     1.51 | broky, frozen, karrigan, rain, ropz |
+|           36 |     1107 | 2024-06-14 | Vitality          | L   | 0.848      | -            | -                | -                | -         |    -8.30 | broky, frozen, karrigan, rain, ropz |
+|           35 |     1147 | 2024-06-13 | Natus Vincere     | L   | 0.841      | -            | -                | -                | -         |    -6.62 | broky, frozen, karrigan, rain, ropz |
+|           34 |     1179 | 2024-06-12 | SAW               | W   | 0.833      | 0.729        | -                | 0.516 (0.314)    | 1 (0.833) |     1.08 | broky, frozen, karrigan, rain, ropz |
+|           33 |     1655 | 2024-05-31 | G2                | L   | 0.756      | -            | -                | -                | -         |    -5.62 | broky, frozen, karrigan, rain, ropz |
+|           32 |     1709 | 2024-05-29 | Spirit            | L   | 0.743      | -            | -                | -                | -         |    -6.34 | broky, frozen, karrigan, rain, ropz |
+|           31 |     1732 | 2024-05-28 | Virtus.pro        | W   | 0.736      | 0.624        | 0.498 (0.229)    | 0.309 (0.142)    | 1 (0.736) |     9.45 | broky, frozen, karrigan, rain, ropz |
+|           30 |     1756 | 2024-05-27 | M80               | W   | 0.729      | 0.624        | -                | 0.563 (0.256)    | 1 (0.729) |     1.41 | broky, frozen, karrigan, rain, ropz |
+|           29 |     2281 | 2024-05-10 | Vitality          | L   | 0.615      | -            | -                | -                | -         |    -6.45 | broky, frozen, karrigan, rain, ropz |
+|           28 |     2323 | 2024-05-08 | Natus Vincere     | W   | 0.602      | 0.889        | 1.000 (0.535)    | 0.357 (0.191)    | 1 (0.602) |    14.89 | broky, frozen, karrigan, rain, ropz |
+|           27 |     2341 | 2024-05-07 | Monte             | W   | 0.595      | -            | -                | -                | 1 (0.595) |     0.37 | broky, frozen, karrigan, rain, ropz |
+|           26 |     2573 | 2024-04-26 | Eternal Fire      | W   | 0.521      | 0.889        | 0.739 (0.342)    | 0.438 (0.203)    | 1 (0.521) |     7.73 | broky, frozen, karrigan, rain, ropz |
+|           25 |     2602 | 2024-04-25 | Virtus.pro        | W   | 0.515      | 0.889        | 0.498 (0.228)    | -                | 1 (0.515) |     7.39 | broky, frozen, karrigan, rain, ropz |
+|           24 |     2621 | 2024-04-24 | Astralis          | L   | 0.508      | -            | -                | -                | -         |    -7.48 | broky, frozen, karrigan, rain, ropz |
+|           23 |     2639 | 2024-04-23 | Imperial          | W   | 0.502      | 0.889        | 0.233 (0.104)    | 0.658 (0.294)    | 1 (0.502) |     1.37 | broky, frozen, karrigan, rain, ropz |
+|           22 |     2914 | 2024-04-14 | MOUZ              | W   | 0.440      | 0.624        | 1.000 (0.275)    | -                | -         |     9.77 | broky, frozen, karrigan, rain, ropz |
+|           21 |     2928 | 2024-04-13 | Astralis          | W   | 0.433      | 0.624        | 0.389 (0.105)    | -                | -         |     7.50 | broky, frozen, karrigan, rain, ropz |
+|           20 |     2942 | 2024-04-12 | Liquid            | W   | 0.426      | -            | -                | -                | -         |     5.00 | broky, frozen, karrigan, rain, ropz |
+|           19 |     3015 | 2024-04-10 | FlyQuest          | W   | 0.413      | -            | -                | -                | -         |     0.67 | broky, frozen, karrigan, rain, ropz |
+|           18 |     3031 | 2024-04-09 | Cloud9            | W   | 0.412      | -            | -                | -                | -         |     0.39 | broky, frozen, karrigan, rain, ropz |
+|           17 |     3076 | 2024-04-09 | Astralis          | L   | 0.406      | -            | -                | -                | -         |    -5.87 | broky, frozen, karrigan, rain, ropz |
+|           16 |     3107 | 2024-04-08 | Nemiga            | W   | 0.399      | 0.624        | -                | 0.704 (0.176)    | -         |     0.63 | broky, frozen, karrigan, rain, ropz |
+|           15 |     3301 | 2024-03-31 | Natus Vincere     | L   | 0.349      | -            | -                | -                | -         |    -1.90 | broky, frozen, karrigan, rain, ropz |
+|           14 |     3307 | 2024-03-30 | Vitality          | W   | 0.341      | 1.000        | 0.647 (0.221)    | -                | -         |     7.67 | broky, frozen, karrigan, rain, ropz |
+|           13 |     3327 | 2024-03-28 | Spirit            | W   | 0.329      | 1.000        | 1.000 (0.329)    | 0.441 (0.145)    | -         |     8.11 | broky, frozen, karrigan, rain, ropz |
+|           12 |     3411 | 2024-03-24 | Complexity        | W   | 0.300      | -            | -                | -                | -         |     4.34 | broky, frozen, karrigan, rain, ropz |
+|           11 |     3425 | 2024-03-23 | Imperial          | W   | 0.294      | 1.000        | -                | 0.658 (0.193)    | -         |     0.84 | broky, frozen, karrigan, rain, ropz |
+|           10 |     3439 | 2024-03-22 | Eternal Fire      | L   | 0.287      | -            | -                | -                | -         |    -4.21 | broky, frozen, karrigan, rain, ropz |
+|            9 |     3449 | 2024-03-21 | FURIA             | W   | 0.283      | -            | -                | -                | -         |     4.86 | broky, frozen, karrigan, rain, ropz |
+|            8 |     3461 | 2024-03-21 | HEROIC            | L   | 0.281      | -            | -                | -                | -         |    -5.79 | broky, frozen, karrigan, rain, ropz |
+|            7 |     4253 | 2024-02-16 | Eternal Fire      | W   | 0.054      | -            | -                | -                | -         |     0.90 | broky, frozen, karrigan, rain, ropz |
+|            6 |     4279 | 2024-02-15 | G2                | L   | 0.047      | -            | -                | -                | -         |    -0.21 | broky, frozen, karrigan, rain, ropz |
+|            5 |     4312 | 2024-02-14 | Falcons           | W   | 0.042      | -            | -                | -                | -         |     0.25 | broky, frozen, karrigan, rain, ropz |
+|            4 |     4328 | 2024-02-14 | 9 Pandas          | W   | 0.040      | -            | -                | -                | -         |     0.03 | broky, frozen, karrigan, rain, ropz |
+|            3 |     4366 | 2024-02-11 | Spirit            | L   | 0.021      | -            | -                | -                | -         |    -0.15 | broky, frozen, karrigan, rain, ropz |
+|            2 |     4377 | 2024-02-10 | MOUZ              | W   | 0.015      | -            | -                | -                | -         |     0.33 | broky, frozen, karrigan, rain, ropz |
+|            1 |     4391 | 2024-02-09 | G2                | W   | 0.008      | -            | -                | -                | -         |     0.21 | broky, frozen, karrigan, rain, ropz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($200,736.20)
-- Divide that value by the 5th highest value among all rosters ($320,603.98)
+- First, take the sum of their top 10 scaled winnings ($200,593.98)
+- Divide that value by the 5th highest value among all rosters ($320,521.62)
 - The final value (0.63) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -93,12 +93,12 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $8,500.00      | $8,500.00       |
 | 2024-07-21 |      1.000 | $40,000.00     | $40,000.00      |
-| 2024-06-16 |      0.861 | $20,000.00     | $17,222.22      |
-| 2024-06-02 |      0.769 | $10,000.00     | $7,688.89       |
-| 2024-05-12 |      0.628 | $32,000.00     | $20,097.78      |
-| 2024-04-14 |      0.440 | $100,000.00    | $44,016.20      |
-| 2024-03-31 |      0.349 | $170,000.00    | $59,311.11      |
-| 2024-02-11 |      0.022 | $180,000.00    | $3,900.00       |
+| 2024-06-16 |      0.861 | $20,000.00     | $17,216.67      |
+| 2024-06-02 |      0.769 | $10,000.00     | $7,686.11       |
+| 2024-05-12 |      0.628 | $32,000.00     | $20,088.89      |
+| 2024-04-14 |      0.440 | $100,000.00    | $43,988.43      |
+| 2024-03-31 |      0.349 | $170,000.00    | $59,263.89      |
+| 2024-02-11 |      0.021 | $180,000.00    | $3,850.00       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -6,9 +6,9 @@ Global Rank: [197](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [54]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  529.2<br />
+Final Rank Value:  529.1<br />
 <br />
-Final Rank Value (529.2) = Starting Rank Value (523.6) + Head To Head Adjustments (5.6)<br />
+Final Rank Value (529.1) = Starting Rank Value (523.8) + Head To Head Adjustments (5.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.060<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 523.6
-- 400 + ( ( 0.060 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 523.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 523.8
+- 400 + ( ( 0.060 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 523.8
 
 
 #### Factors<br />
@@ -37,27 +37,27 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           14 |      521 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.96 | GYZER, Jotag3, max, mello, msr           |
-|           13 |      584 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.029 (0.011)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
-|           12 |      695 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.02 | Bruninho, GYZER, Jotag3, max, mello      |
-|           11 |      812 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.39 | GYZER, Jotag3, max, mello, souz4h        |
-|           10 |      836 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -3.99 | GYZER, Jotag3, max, mello, souz4h        |
-|            9 |      916 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
-|            8 |      957 | 2024-07-05 | KRÜ               | L   | 0.989      | -            | -                | -                | -         |    -4.03 | GYZER, Jotag3, max, mello, souz4h        |
-|            7 |     1658 | 2024-05-31 | Dusty Roots       | L   | 0.755      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            6 |     1712 | 2024-05-29 | Bounty Hunters    | L   | 0.742      | -            | -                | -                | -         |    -2.80 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            5 |     1725 | 2024-05-28 | Intense           | L   | 0.737      | -            | -                | -                | -         |    -5.56 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            4 |     2026 | 2024-05-17 | ODDIK             | L   | 0.663      | -            | -                | -                | -         |    -1.83 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            3 |     2057 | 2024-05-16 | KRÜ               | W   | 0.657      | 0.303        | 0.023 (0.005)    | 0.489 (0.097)    | 0 (0.000) |    18.40 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            2 |     2167 | 2024-05-14 | Solid             | L   | 0.643      | -            | -                | -                | -         |    -2.36 | Bruninho, cerolzin, GYZER, Jotag3, mello |
-|            1 |     2224 | 2024-05-12 | RED Canids        | L   | 0.629      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|           14 |      525 | 2024-07-21 | Patins da Ferrari | L   | 1.000      | -            | -                | -                | -         |    -5.98 | GYZER, Jotag3, max, mello, msr           |
+|           13 |      588 | 2024-07-19 | Hawks             | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |    15.41 | GYZER, Jotag3, max, mello, msr           |
+|           12 |      699 | 2024-07-17 | Galorys           | L   | 1.000      | -            | -                | -                | -         |    -5.04 | Bruninho, GYZER, Jotag3, max, mello      |
+|           11 |      816 | 2024-07-15 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -2.41 | GYZER, Jotag3, max, mello, souz4h        |
+|           10 |      840 | 2024-07-14 | KRÜ               | L   | 1.000      | -            | -                | -                | -         |    -4.02 | GYZER, Jotag3, max, mello, souz4h        |
+|            9 |      920 | 2024-07-09 | MIBR Academy      | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    10.11 | GYZER, Jotag3, max, mello, souz4h        |
+|            8 |      961 | 2024-07-05 | KRÜ               | L   | 0.988      | -            | -                | -                | -         |    -4.07 | GYZER, Jotag3, max, mello, souz4h        |
+|            7 |     1662 | 2024-05-31 | Dusty Roots       | L   | 0.755      | -            | -                | -                | -         |    -3.67 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            6 |     1716 | 2024-05-29 | Bounty Hunters    | L   | 0.742      | -            | -                | -                | -         |    -2.82 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            5 |     1729 | 2024-05-28 | Intense           | L   | 0.737      | -            | -                | -                | -         |    -5.57 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            4 |     2030 | 2024-05-17 | ODDIK             | L   | 0.663      | -            | -                | -                | -         |    -1.84 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            3 |     2061 | 2024-05-16 | KRÜ               | W   | 0.656      | 0.303        | 0.023 (0.005)    | 0.478 (0.095)    | 0 (0.000) |    18.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            2 |     2171 | 2024-05-14 | Solid             | L   | 0.643      | -            | -                | -                | -         |    -2.37 | Bruninho, cerolzin, GYZER, Jotag3, mello |
+|            1 |     2228 | 2024-05-12 | RED Canids        | L   | 0.629      | -            | -                | -                | -         |    -0.76 | Bruninho, cerolzin, GYZER, Jotag3, mello |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,603.98)
+- Divide that value by the 5th highest value among all rosters ($320,521.62)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

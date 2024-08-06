@@ -6,9 +6,9 @@ Global Rank: [181](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [114]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  628.9<br />
+Final Rank Value:  629.5<br />
 <br />
-Final Rank Value (628.9) = Starting Rank Value (665.1) + Head To Head Adjustments (-36.2)<br />
+Final Rank Value (629.5) = Starting Rank Value (665.6) + Head To Head Adjustments (-36.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.129<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 665.1
-- 400 + ( ( 0.129 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 665.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 665.6
+- 400 + ( ( 0.129 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 665.6
 
 
 #### Factors<br />
@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |       34 | 2024-08-04 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |   -11.53 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           20 |       84 | 2024-08-03 | Astralis W        | W   | 1.000      | 0.273        | 0.002 (0.001)    | 0.061 (0.017)    | 0 (0.000) |    16.61 | irbitka, Jammie, Rony4ka, tenweri, uulis |
-|           19 |      105 | 2024-08-02 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |   -11.62 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           18 |      309 | 2024-07-28 | K10 Ashes         | W   | 1.000      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.02 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           17 |      527 | 2024-07-21 | dream catchers fe | L   | 1.000      | -            | -                | -                | -         |   -11.64 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           16 |      559 | 2024-07-20 | OneDay fe         | W   | 1.000      | 0.294        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.01 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           15 |     1335 | 2024-06-08 | NOFEAR5           | L   | 0.807      | -            | -                | -                | -         |   -11.49 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           14 |     2006 | 2024-05-18 | NAVI Javelins     | L   | 0.667      | -            | -                | -                | -         |    -5.13 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           13 |     2549 | 2024-04-27 | Imperial fe       | L   | 0.528      | -            | -                | -                | -         |    -1.63 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           12 |     2739 | 2024-04-19 | Let Her Cook      | L   | 0.475      | -            | -                | -                | -         |    -2.90 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           11 |     2906 | 2024-04-14 | dream catchers fe | L   | 0.441      | -            | -                | -                | -         |    -5.63 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|           10 |     2962 | 2024-04-11 | NAVI Javelins     | L   | 0.421      | -            | -                | -                | -         |    -3.81 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            9 |     3058 | 2024-04-09 | Let Her Cook      | L   | 0.408      | -            | -                | -                | -         |    -2.42 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            8 |     3140 | 2024-04-06 | BIG EQUIPA        | L   | 0.387      | -            | -                | -                | -         |    -4.31 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            7 |     3188 | 2024-04-04 | NAVI Javelins     | L   | 0.375      | -            | -                | -                | -         |    -3.48 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            6 |     3363 | 2024-03-27 | Fearless Cheetahs | L   | 0.322      | -            | -                | -                | -         |    -4.84 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            5 |     3477 | 2024-03-20 | Crescent fe       | W   | 0.276      | 0.331        | 0.004 (0.000)    | 0.076 (0.007)    | 0 (0.000) |     4.27 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            4 |     3774 | 2024-03-07 | 1WIN Gang         | W   | 0.189      | 0.331        | 0.001 (0.000)    | 0.016 (0.001)    | 0 (0.000) |     2.93 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            3 |     4060 | 2024-02-24 | ENCE Athena       | L   | 0.108      | -            | -                | -                | -         |    -1.82 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            2 |     4189 | 2024-02-18 | Astralis W        | W   | 0.069      | 0.143        | 0.001 (0.000)    | 0.020 (0.000)    | 0 (0.000) |     0.95 | AverOna, Jammie, Rony4ka, tenweri, uulis |
-|            1 |     4301 | 2024-02-14 | Astralis W        | L   | 0.043      | -            | -                | -                | -         |    -0.69 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           21 |       38 | 2024-08-04 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |   -11.53 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           20 |       88 | 2024-08-03 | Astralis W        | W   | 1.000      | 0.273        | 0.002 (0.001)    | 0.060 (0.016)    | 0 (0.000) |    16.60 | irbitka, Jammie, Rony4ka, tenweri, uulis |
+|           19 |      109 | 2024-08-02 | NIP Impact        | L   | 1.000      | -            | -                | -                | -         |   -11.63 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           18 |      313 | 2024-07-28 | K10 Ashes         | W   | 1.000      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.01 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           17 |      531 | 2024-07-21 | dream catchers fe | L   | 1.000      | -            | -                | -                | -         |   -11.64 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           16 |      563 | 2024-07-20 | OneDay fe         | W   | 1.000      | 0.294        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |    11.00 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           15 |     1339 | 2024-06-08 | NOFEAR5           | L   | 0.807      | -            | -                | -                | -         |   -11.49 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           14 |     2010 | 2024-05-18 | NAVI Javelins     | L   | 0.667      | -            | -                | -                | -         |    -5.12 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           13 |     2553 | 2024-04-27 | Imperial fe       | L   | 0.527      | -            | -                | -                | -         |    -1.63 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           12 |     2743 | 2024-04-19 | Let Her Cook      | L   | 0.475      | -            | -                | -                | -         |    -2.89 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           11 |     2910 | 2024-04-14 | dream catchers fe | L   | 0.441      | -            | -                | -                | -         |    -5.63 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|           10 |     2966 | 2024-04-11 | NAVI Javelins     | L   | 0.421      | -            | -                | -                | -         |    -3.81 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            9 |     3062 | 2024-04-09 | Let Her Cook      | L   | 0.408      | -            | -                | -                | -         |    -2.42 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            8 |     3144 | 2024-04-06 | BIG EQUIPA        | L   | 0.387      | -            | -                | -                | -         |    -4.30 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            7 |     3192 | 2024-04-04 | NAVI Javelins     | L   | 0.375      | -            | -                | -                | -         |    -3.48 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            6 |     3367 | 2024-03-27 | Fearless Cheetahs | L   | 0.322      | -            | -                | -                | -         |    -4.83 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            5 |     3481 | 2024-03-20 | Crescent fe       | W   | 0.275      | 0.331        | 0.004 (0.000)    | 0.074 (0.007)    | 0 (0.000) |     4.26 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            4 |     3778 | 2024-03-07 | 1WIN Gang         | W   | 0.189      | 0.331        | 0.001 (0.000)    | 0.016 (0.001)    | 0 (0.000) |     2.92 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            3 |     4064 | 2024-02-24 | ENCE Athena       | L   | 0.107      | -            | -                | -                | -         |    -1.81 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            2 |     4193 | 2024-02-18 | Astralis W        | W   | 0.068      | 0.143        | 0.001 (0.000)    | 0.019 (0.000)    | 0 (0.000) |     0.94 | AverOna, Jammie, Rony4ka, tenweri, uulis |
+|            1 |     4305 | 2024-02-14 | Astralis W        | L   | 0.043      | -            | -                | -                | -         |    -0.68 | AverOna, Jammie, Rony4ka, tenweri, uulis |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,608.59)
-- Divide that value by the 5th highest value among all rosters ($320,603.98)
+- First, take the sum of their top 10 scaled winnings ($1,608.11)
+- Divide that value by the 5th highest value among all rosters ($320,521.62)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -72,10 +72,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $750.00        | $750.00         |
-| 2024-06-08 |      0.809 | $100.00        | $80.88          |
-| 2024-04-27 |      0.528 | $107.00        | $56.50          |
-| 2024-04-21 |      0.489 | $1,250.00      | $610.94         |
-| 2024-04-14 |      0.441 | $250.00        | $110.28         |
+| 2024-06-08 |      0.808 | $100.00        | $80.85          |
+| 2024-04-27 |      0.528 | $107.00        | $56.47          |
+| 2024-04-21 |      0.488 | $1,250.00      | $610.59         |
+| 2024-04-14 |      0.441 | $250.00        | $110.21         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

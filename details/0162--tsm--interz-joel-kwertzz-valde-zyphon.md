@@ -6,9 +6,9 @@ Global Rank: [162](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [105]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  677.6<br />
+Final Rank Value:  678.1<br />
 <br />
-Final Rank Value (677.6) = Starting Rank Value (669.4) + Head To Head Adjustments (8.2)<br />
+Final Rank Value (678.1) = Starting Rank Value (669.9) + Head To Head Adjustments (8.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.131<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 669.4
-- 400 + ( ( 0.131 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 669.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 669.9
+- 400 + ( ( 0.131 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 669.9
 
 
 #### Factors<br />
@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |     2735 | 2024-04-19 | Sangal         | L   | 0.476      | -            | -                | -                | -         |    -1.06 | interz, joel, KWERTZZ, valde, Zyphon |
-|           10 |     2997 | 2024-04-10 | FORZE          | L   | 0.416      | -            | -                | -                | -         |    -2.58 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            9 |     3056 | 2024-04-09 | Betera         | W   | 0.409      | 0.500        | 0.005 (0.001)    | 0.037 (0.008)    | 0 (0.000) |     7.04 | joel, KWERTZZ, MoDo, valde, Zyphon   |
-|            8 |     3185 | 2024-04-04 | 9 Pandas       | L   | 0.376      | -            | -                | -                | -         |    -1.59 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            7 |     3264 | 2024-04-02 | KOI            | L   | 0.362      | -            | -                | -                | -         |    -1.13 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            6 |     3322 | 2024-03-28 | 9INE           | W   | 0.329      | 0.500        | 0.000 (0.000)    | 0.066 (0.011)    | 0 (0.000) |     3.13 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            5 |     3483 | 2024-03-20 | VP.Prodigy     | L   | 0.274      | -            | -                | -                | -         |    -2.20 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            4 |     3597 | 2024-03-14 | EYEBALLERS     | W   | 0.236      | 0.500        | 0.005 (0.001)    | 0.499 (0.059)    | 0 (0.000) |     5.83 | interz, joel, MoDo, valde, Zyphon    |
-|            3 |     3804 | 2024-03-06 | Sangal         | L   | 0.182      | -            | -                | -                | -         |    -0.36 | interz, JACKZ, joel, poizon, valde   |
-|            2 |     3886 | 2024-03-03 | The Chosen Few | L   | 0.162      | -            | -                | -                | -         |    -2.57 | joel, KWERTZZ, poizon, valde, Zyphon |
-|            1 |     3897 | 2024-03-03 | Nexus          | W   | 0.162      | 0.143        | 0.014 (0.000)    | 0.457 (0.011)    | 0 (0.000) |     3.67 | joel, KWERTZZ, poizon, valde, Zyphon |
+|           11 |     2739 | 2024-04-19 | Sangal         | L   | 0.475      | -            | -                | -                | -         |    -1.07 | interz, joel, KWERTZZ, valde, Zyphon |
+|           10 |     3001 | 2024-04-10 | FORZE          | L   | 0.415      | -            | -                | -                | -         |    -2.58 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            9 |     3060 | 2024-04-09 | Betera         | W   | 0.409      | 0.500        | 0.005 (0.001)    | 0.036 (0.007)    | 0 (0.000) |     7.04 | joel, KWERTZZ, MoDo, valde, Zyphon   |
+|            8 |     3189 | 2024-04-04 | 9 Pandas       | L   | 0.375      | -            | -                | -                | -         |    -1.59 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            7 |     3268 | 2024-04-02 | KOI            | L   | 0.362      | -            | -                | -                | -         |    -1.14 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            6 |     3326 | 2024-03-28 | 9INE           | W   | 0.329      | 0.500        | 0.000 (0.000)    | 0.064 (0.011)    | 0 (0.000) |     3.12 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            5 |     3487 | 2024-03-20 | VP.Prodigy     | L   | 0.273      | -            | -                | -                | -         |    -2.21 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            4 |     3601 | 2024-03-14 | EYEBALLERS     | W   | 0.236      | 0.500        | 0.005 (0.001)    | 0.488 (0.057)    | 0 (0.000) |     5.82 | interz, joel, MoDo, valde, Zyphon    |
+|            3 |     3808 | 2024-03-06 | Sangal         | L   | 0.182      | -            | -                | -                | -         |    -0.36 | interz, JACKZ, joel, poizon, valde   |
+|            2 |     3890 | 2024-03-03 | The Chosen Few | L   | 0.162      | -            | -                | -                | -         |    -2.56 | joel, KWERTZZ, poizon, valde, Zyphon |
+|            1 |     3901 | 2024-03-03 | Nexus          | W   | 0.162      | 0.143        | 0.014 (0.000)    | 0.447 (0.010)    | 0 (0.000) |     3.66 | joel, KWERTZZ, poizon, valde, Zyphon |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,629.86)
-- Divide that value by the 5th highest value among all rosters ($320,603.98)
+- First, take the sum of their top 10 scaled winnings ($1,629.31)
+- Divide that value by the 5th highest value among all rosters ($320,521.62)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
