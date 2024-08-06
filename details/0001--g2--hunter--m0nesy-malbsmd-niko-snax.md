@@ -37,53 +37,53 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           40 |       84 | 2024-08-03 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | -                | 0.531 (0.309)    | 1 (1.000) |     3.40 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           39 |      175 | 2024-08-01 | FaZe              | W   | 1.000      | 0.581        | 0.624 (0.363)    | 0.382 (0.222)    | 1 (1.000) |     6.12 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           38 |      219 | 2024-07-31 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | -                | 0.531 (0.309)    | 1 (1.000) |     3.27 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           37 |      529 | 2024-07-21 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |   -16.18 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           36 |      574 | 2024-07-20 | Virtus.pro        | W   | 1.000      | 1.000        | 0.499 (0.499)    | 0.308 (0.308)    | 1 (1.000) |     5.75 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           35 |      641 | 2024-07-18 | Spirit            | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.441 (0.441)    | 1 (1.000) |    14.57 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           34 |      741 | 2024-07-17 | The MongolZ       | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.694 (0.694)    | 1 (1.000) |     9.14 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
-|           33 |     1153 | 2024-06-13 | Vitality          | L   | 0.840      | -            | -                | -                | -         |   -16.88 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           32 |     1609 | 2024-06-02 | Vitality          | W   | 0.767      | 0.624        | 0.647 (0.310)    | -                | 1 (0.767) |     9.30 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           31 |     1631 | 2024-06-01 | 9z                | W   | 0.761      | 0.624        | 0.404 (0.192)    | 0.591 (0.281)    | 1 (0.761) |     1.63 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           30 |     1668 | 2024-05-31 | FaZe              | W   | 0.755      | 0.624        | 0.624 (0.294)    | -                | 1 (0.755) |     5.59 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           29 |     1718 | 2024-05-29 | Liquid            | W   | 0.742      | 0.624        | -                | 0.437 (0.202)    | 1 (0.742) |     3.12 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           28 |     1741 | 2024-05-28 | MOUZ              | W   | 0.736      | 0.624        | 1.000 (0.459)    | -                | -         |    10.02 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           27 |     1765 | 2024-05-27 | Vitality          | L   | 0.728      | -            | -                | -                | -         |   -13.70 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           26 |     1776 | 2024-05-27 | Falcons           | W   | 0.727      | -            | -                | -                | -         |     1.20 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
-|           25 |     2315 | 2024-05-09 | MOUZ              | L   | 0.607      | -            | -                | -                | -         |   -11.88 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           24 |     2341 | 2024-05-08 | 3DMAX             | W   | 0.600      | 0.889        | 0.510 (0.272)    | 1.000 (0.533)    | -         |     2.56 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           23 |     2359 | 2024-05-07 | BIG               | W   | 0.593      | -            | -                | -                | -         |     0.49 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           22 |     2536 | 2024-04-28 | M80               | W   | 0.534      | 0.889        | -                | 0.563 (0.267)    | -         |     0.32 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           21 |     2571 | 2024-04-27 | Falcons           | W   | 0.525      | -            | -                | -                | -         |     0.75 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           20 |     2594 | 2024-04-26 | M80               | L   | 0.519      | -            | -                | -                | -         |   -16.06 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           19 |     2623 | 2024-04-25 | The MongolZ       | L   | 0.512      | -            | -                | -                | -         |    -9.37 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           18 |     2643 | 2024-04-24 | TYLOO             | W   | 0.505      | -            | -                | -                | -         |     0.02 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           17 |     2944 | 2024-04-13 | MOUZ              | L   | 0.431      | -            | -                | -                | -         |    -9.07 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           16 |     2957 | 2024-04-12 | Virtus.pro        | W   | 0.424      | -            | -                | -                | -         |     2.20 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           15 |     3027 | 2024-04-10 | HEROIC            | W   | 0.412      | -            | -                | -                | -         |     1.17 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           14 |     3087 | 2024-04-09 | Lynn Vision       | W   | 0.405      | -            | -                | -                | -         |     0.08 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           13 |     3118 | 2024-04-08 | Liquid            | L   | 0.398      | -            | -                | -                | -         |   -11.30 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           12 |     3127 | 2024-04-07 | 9z                | W   | 0.397      | -            | -                | -                | -         |     0.97 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           11 |     3319 | 2024-03-30 | Natus Vincere     | L   | 0.341      | -            | -                | -                | -         |    -5.72 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|           10 |     3326 | 2024-03-29 | MOUZ              | W   | 0.334      | 1.000        | 1.000 (0.334)    | -                | -         |     3.27 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            9 |     3423 | 2024-03-24 | Virtus.pro        | W   | 0.299      | -            | -                | -                | -         |     1.53 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            8 |     3435 | 2024-03-23 | Gaimin Gladiators | W   | 0.293      | -            | -                | -                | -         |     0.04 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            7 |     3453 | 2024-03-22 | Cloud9            | L   | 0.286      | -            | -                | -                | -         |    -8.95 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            6 |     3463 | 2024-03-21 | Natus Vincere     | L   | 0.281      | -            | -                | -                | -         |    -4.74 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            5 |     3472 | 2024-03-21 | FURIA             | W   | 0.280      | -            | -                | -                | -         |     1.44 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            4 |     4292 | 2024-02-15 | FaZe              | W   | 0.046      | -            | -                | -                | -         |     0.20 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            3 |     4322 | 2024-02-14 | Eternal Fire      | W   | 0.041      | -            | -                | -                | -         |     0.20 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            2 |     4339 | 2024-02-14 | Into the Breach   | W   | 0.039      | -            | -                | -                | -         |     0.00 | HooXi, huNter-, m0NESY, nexa, NiKo    |
-|            1 |     4404 | 2024-02-09 | FaZe              | L   | 0.006      | -            | -                | -                | -         |    -0.17 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           40 |       85 | 2024-08-03 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | -                | 0.531 (0.309)    | 1 (1.000) |     3.41 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           39 |      176 | 2024-08-01 | FaZe              | W   | 1.000      | 0.581        | 0.624 (0.363)    | 0.382 (0.222)    | 1 (1.000) |     6.12 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           38 |      220 | 2024-07-31 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | -                | 0.531 (0.309)    | 1 (1.000) |     3.28 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           37 |      530 | 2024-07-21 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |   -16.18 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           36 |      575 | 2024-07-20 | Virtus.pro        | W   | 1.000      | 1.000        | 0.499 (0.499)    | 0.308 (0.308)    | 1 (1.000) |     5.75 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           35 |      642 | 2024-07-18 | Spirit            | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.441 (0.441)    | 1 (1.000) |    14.57 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           34 |      742 | 2024-07-17 | The MongolZ       | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.694 (0.694)    | 1 (1.000) |     9.14 | huNter-, m0NESY, malbsMd, NiKo, Snax  |
+|           33 |     1154 | 2024-06-13 | Vitality          | L   | 0.840      | -            | -                | -                | -         |   -16.88 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           32 |     1610 | 2024-06-02 | Vitality          | W   | 0.767      | 0.624        | 0.647 (0.310)    | -                | 1 (0.767) |     9.30 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           31 |     1632 | 2024-06-01 | 9z                | W   | 0.761      | 0.624        | 0.404 (0.192)    | 0.591 (0.281)    | 1 (0.761) |     1.63 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           30 |     1669 | 2024-05-31 | FaZe              | W   | 0.755      | 0.624        | 0.624 (0.294)    | -                | 1 (0.755) |     5.58 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           29 |     1719 | 2024-05-29 | Liquid            | W   | 0.742      | 0.624        | -                | 0.437 (0.202)    | 1 (0.742) |     3.11 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           28 |     1742 | 2024-05-28 | MOUZ              | W   | 0.735      | 0.624        | 1.000 (0.459)    | -                | -         |    10.02 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           27 |     1766 | 2024-05-27 | Vitality          | L   | 0.728      | -            | -                | -                | -         |   -13.70 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           26 |     1777 | 2024-05-27 | Falcons           | W   | 0.727      | -            | -                | -                | -         |     1.20 | huNter-, m0NESY, nexa, NiKo, Stewie2K |
+|           25 |     2316 | 2024-05-09 | MOUZ              | L   | 0.607      | -            | -                | -                | -         |   -11.88 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           24 |     2342 | 2024-05-08 | 3DMAX             | W   | 0.599      | 0.889        | 0.510 (0.272)    | 1.000 (0.533)    | -         |     2.56 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           23 |     2360 | 2024-05-07 | BIG               | W   | 0.593      | -            | -                | -                | -         |     0.49 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           22 |     2537 | 2024-04-28 | M80               | W   | 0.534      | 0.889        | -                | 0.563 (0.267)    | -         |     0.32 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           21 |     2572 | 2024-04-27 | Falcons           | W   | 0.525      | -            | -                | -                | -         |     0.75 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           20 |     2595 | 2024-04-26 | M80               | L   | 0.519      | -            | -                | -                | -         |   -16.06 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           19 |     2624 | 2024-04-25 | The MongolZ       | L   | 0.512      | -            | -                | -                | -         |    -9.36 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           18 |     2644 | 2024-04-24 | TYLOO             | W   | 0.505      | -            | -                | -                | -         |     0.02 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           17 |     2945 | 2024-04-13 | MOUZ              | L   | 0.431      | -            | -                | -                | -         |    -9.07 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           16 |     2958 | 2024-04-12 | Virtus.pro        | W   | 0.424      | -            | -                | -                | -         |     2.19 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           15 |     3028 | 2024-04-10 | HEROIC            | W   | 0.412      | -            | -                | -                | -         |     1.17 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           14 |     3088 | 2024-04-09 | Lynn Vision       | W   | 0.405      | -            | -                | -                | -         |     0.08 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           13 |     3119 | 2024-04-08 | Liquid            | L   | 0.398      | -            | -                | -                | -         |   -11.30 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           12 |     3128 | 2024-04-07 | 9z                | W   | 0.397      | -            | -                | -                | -         |     0.97 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           11 |     3320 | 2024-03-30 | Natus Vincere     | L   | 0.341      | -            | -                | -                | -         |    -5.72 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|           10 |     3327 | 2024-03-29 | MOUZ              | W   | 0.334      | 1.000        | 1.000 (0.334)    | -                | -         |     3.27 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            9 |     3424 | 2024-03-24 | Virtus.pro        | W   | 0.299      | -            | -                | -                | -         |     1.53 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            8 |     3436 | 2024-03-23 | Gaimin Gladiators | W   | 0.293      | -            | -                | -                | -         |     0.04 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            7 |     3454 | 2024-03-22 | Cloud9            | L   | 0.285      | -            | -                | -                | -         |    -8.95 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            6 |     3464 | 2024-03-21 | Natus Vincere     | L   | 0.281      | -            | -                | -                | -         |    -4.74 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            5 |     3473 | 2024-03-21 | FURIA             | W   | 0.280      | -            | -                | -                | -         |     1.44 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            4 |     4293 | 2024-02-15 | FaZe              | W   | 0.046      | -            | -                | -                | -         |     0.20 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            3 |     4323 | 2024-02-14 | Eternal Fire      | W   | 0.041      | -            | -                | -                | -         |     0.20 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            2 |     4340 | 2024-02-14 | Into the Breach   | W   | 0.039      | -            | -                | -                | -         |     0.00 | HooXi, huNter-, m0NESY, nexa, NiKo    |
+|            1 |     4405 | 2024-02-09 | FaZe              | L   | 0.006      | -            | -                | -                | -         |    -0.17 | HooXi, huNter-, m0NESY, nexa, NiKo    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($340,208.80)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($340,169.63)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (1.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -92,12 +92,12 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $22,500.00     | $22,500.00      |
 | 2024-07-21 |      1.000 | $175,000.00    | $175,000.00     |
-| 2024-06-16 |      0.859 | $10,000.00     | $8,594.44       |
-| 2024-06-02 |      0.767 | $100,000.00    | $76,722.22      |
-| 2024-05-12 |      0.626 | $32,000.00     | $20,044.44      |
-| 2024-04-14 |      0.438 | $20,000.00     | $8,769.91       |
-| 2024-03-31 |      0.347 | $80,000.00     | $27,777.78      |
-| 2024-02-11 |      0.020 | $40,000.00     | $800.00         |
+| 2024-06-16 |      0.859 | $10,000.00     | $8,593.06       |
+| 2024-06-02 |      0.767 | $100,000.00    | $76,708.33      |
+| 2024-05-12 |      0.626 | $32,000.00     | $20,040.00      |
+| 2024-04-14 |      0.438 | $20,000.00     | $8,767.13       |
+| 2024-03-31 |      0.347 | $80,000.00     | $27,766.67      |
+| 2024-02-11 |      0.020 | $40,000.00     | $794.44         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

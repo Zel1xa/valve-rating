@@ -8,7 +8,7 @@
 | 3        |   1052 | Lynn Vision        | afufu, EmiliaQAQ, flying, Westmelon, z4kr         | [details](details/0053--lynn_vision--afufu-emiliaqaq-flying-westmelon-z4kr.md)          |
 | 4        |   1018 | TYLOO              | JamYoung, Jee, Mercury, Moseyuh, Starry           | [details](details/0058--tyloo--jamyoung-jee-mercury-moseyuh-starry.md)                  |
 | 5        |    962 | Chinggis Warriors  | fury5k, NEUZ, starDUST, xerolte, Zilkenberg       | [details](details/0071--chinggis_warriors--fury5k-neuz-stardust-xerolte-zilkenberg.md)  |
-| 6        |    939 | Rare Atom          | ChildKing, kaze, L1haNg, somebody, Summer         | [details](details/0083--rare_atom--childking-kaze-l1hang-somebody-summer.md)            |
+| 6        |    940 | Rare Atom          | ChildKing, kaze, L1haNg, somebody, Summer         | [details](details/0083--rare_atom--childking-kaze-l1hang-somebody-summer.md)            |
 | 7        |    874 | ATOX               | Annihilation, dobu, kabal, MiQ, yAmi              | [details](details/0098--atox--annihilation-dobu-kabal-miq-yami.md)                      |
 | 8        |    810 | Rooster            | asap, chelleos, dangeR, Hatz, TjP                 | [details](details/0121--rooster--asap-chelleos-danger-hatz-tjp.md)                      |
 | 9        |    795 | Gods Reign         | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn            | [details](details/0125--gods_reign--bhavi-f1redup-ph1nnn-r2b2-rev3nnnn.md)              |

@@ -6,9 +6,9 @@ Global Rank: [193](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [121]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  567.7<br />
+Final Rank Value:  567.8<br />
 <br />
-Final Rank Value (567.7) = Starting Rank Value (521.4) + Head To Head Adjustments (46.3)<br />
+Final Rank Value (567.8) = Starting Rank Value (521.4) + Head To Head Adjustments (46.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     1661 | 2024-06-01 | WOPA          | W   | 0.758      | 0.143        | 0.001 (0.000)    | 0.121 (0.013)    | 0 (0.000) |    13.71 | ANeraX, b1elany, phr, splawik, ultimate |
-|            9 |     2573 | 2024-04-27 | EYEBALLERS    | L   | 0.525      | -            | -                | -                | -         |    -2.19 | ANeraX, Furlan, keis, phr, ultimate     |
-|            8 |     2599 | 2024-04-26 | Zero Tenacity | L   | 0.518      | -            | -                | -                | -         |    -0.97 | ANeraX, Furlan, keis, phr, ultimate     |
-|            7 |     2663 | 2024-04-23 | Nexus         | W   | 0.499      | 0.435        | 0.014 (0.003)    | 0.447 (0.097)    | 0 (0.000) |    13.33 | ANeraX, Furlan, keis, phr, ultimate     |
-|            6 |     2689 | 2024-04-21 | BLEED         | L   | 0.487      | -            | -                | -                | -         |    -0.92 | ANeraX, Furlan, keis, phr, ultimate     |
-|            5 |     2728 | 2024-04-20 | Viperio       | W   | 0.479      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     9.54 | ANeraX, Furlan, keis, phr, ultimate     |
-|            4 |     2802 | 2024-04-18 | Portugal      | W   | 0.467      | 0.143        | 0.003 (0.000)    | 0.115 (0.008)    | 0 (0.000) |    10.54 | ANeraX, Furlan, keis, phr, ultimate     |
-|            3 |     2848 | 2024-04-17 | Secret        | W   | 0.461      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     7.87 | ANeraX, Furlan, keis, phr, ultimate     |
-|            2 |     3256 | 2024-04-03 | PGE Turow     | L   | 0.366      | -            | -                | -                | -         |    -3.68 | ANeraX, Furlan, keis, phr, ultimate     |
-|            1 |     3298 | 2024-04-02 | UNiTY         | L   | 0.358      | -            | -                | -                | -         |    -0.89 | ANeraX, Furlan, keis, phr, ultimate     |
+|           10 |     1662 | 2024-06-01 | WOPA          | W   | 0.758      | 0.143        | 0.001 (0.000)    | 0.121 (0.013)    | 0 (0.000) |    13.71 | ANeraX, b1elany, phr, splawik, ultimate |
+|            9 |     2574 | 2024-04-27 | EYEBALLERS    | L   | 0.525      | -            | -                | -                | -         |    -2.18 | ANeraX, Furlan, keis, phr, ultimate     |
+|            8 |     2600 | 2024-04-26 | Zero Tenacity | L   | 0.518      | -            | -                | -                | -         |    -0.97 | ANeraX, Furlan, keis, phr, ultimate     |
+|            7 |     2664 | 2024-04-23 | Nexus         | W   | 0.498      | 0.435        | 0.014 (0.003)    | 0.447 (0.097)    | 0 (0.000) |    13.33 | ANeraX, Furlan, keis, phr, ultimate     |
+|            6 |     2690 | 2024-04-21 | BLEED         | L   | 0.487      | -            | -                | -                | -         |    -0.91 | ANeraX, Furlan, keis, phr, ultimate     |
+|            5 |     2729 | 2024-04-20 | Viperio       | W   | 0.478      | 0.143        | 0.001 (0.000)    | 0.035 (0.002)    | 0 (0.000) |     9.54 | ANeraX, Furlan, keis, phr, ultimate     |
+|            4 |     2803 | 2024-04-18 | Portugal      | W   | 0.467      | 0.143        | 0.003 (0.000)    | 0.115 (0.008)    | 0 (0.000) |    10.54 | ANeraX, Furlan, keis, phr, ultimate     |
+|            3 |     2849 | 2024-04-17 | Secret        | W   | 0.460      | 0.143        | 0.000 (0.000)    | 0.055 (0.004)    | 0 (0.000) |     7.87 | ANeraX, Furlan, keis, phr, ultimate     |
+|            2 |     3257 | 2024-04-03 | PGE Turow     | L   | 0.366      | -            | -                | -                | -         |    -3.68 | ANeraX, Furlan, keis, phr, ultimate     |
+|            1 |     3299 | 2024-04-02 | UNiTY         | L   | 0.358      | -            | -                | -                | -         |    -0.89 | ANeraX, Furlan, keis, phr, ultimate     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

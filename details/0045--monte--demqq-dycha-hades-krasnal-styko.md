@@ -6,9 +6,9 @@ Global Rank: [45](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [33]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1104.0<br />
+Final Rank Value:  1105.8<br />
 <br />
-Final Rank Value (1104.0) = Starting Rank Value (994.6) + Head To Head Adjustments (109.4)<br />
+Final Rank Value (1105.8) = Starting Rank Value (994.6) + Head To Head Adjustments (111.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,49 +37,49 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           36 |      204 | 2024-07-31 | EYEBALLERS      | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |     4.82 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           35 |      287 | 2024-07-29 | 9INE            | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.523 (0.227)    | 0 (0.000) |    11.17 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           34 |      335 | 2024-07-28 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -9.65 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           33 |      343 | 2024-07-27 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.48 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           32 |      351 | 2024-07-27 | 9z              | W   | 1.000      | 0.435        | 0.404 (0.175)    | 0.591 (0.257)    | 0 (0.000) |    28.19 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           31 |      386 | 2024-07-26 | Space           | W   | 1.000      | 0.435        | -                | 0.429 (0.187)    | 0 (0.000) |     9.55 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           30 |      421 | 2024-07-25 | Endpoint        | W   | 1.000      | 0.435        | -                | 0.540 (0.235)    | 0 (0.000) |     7.66 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           29 |      441 | 2024-07-24 | Sashi           | L   | 1.000      | -            | -                | -                | -         |   -10.33 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           28 |      647 | 2024-07-18 | KOI             | W   | 1.000      | 0.500        | 0.058 (0.029)    | 0.356 (0.178)    | 0 (0.000) |    17.94 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           27 |      775 | 2024-07-16 | Zero Tenacity   | L   | 1.000      | -            | -                | -                | -         |   -13.45 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
-|           26 |     1056 | 2024-06-16 | B8              | L   | 0.858      | -            | -                | -                | -         |   -10.23 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           25 |     1081 | 2024-06-15 | BLEED           | W   | 0.853      | 0.435        | 0.126 (0.047)    | 0.538 (0.200)    | 0 (0.000) |    22.50 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           24 |     1134 | 2024-06-14 | BLEED           | L   | 0.845      | -            | -                | -                | -         |    -3.87 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           23 |     1157 | 2024-06-13 | Zero Tenacity   | W   | 0.839      | 0.435        | 0.143 (0.052)    | 1.000 (0.365)    | 0 (0.000) |    15.29 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           22 |     1193 | 2024-06-12 | FORZE Reload    | W   | 0.832      | -            | -                | -                | 0 (0.000) |     1.61 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           21 |     1234 | 2024-06-10 | SINNERS         | W   | 0.819      | -            | -                | -                | -         |    13.74 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           20 |     1240 | 2024-06-10 | Aurora          | L   | 0.819      | -            | -                | -                | -         |    -2.63 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           19 |     1246 | 2024-06-10 | RUSH B          | L   | 0.818      | -            | -                | -                | -         |   -15.99 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           18 |     1258 | 2024-06-09 | AMKAL           | L   | 0.814      | -            | -                | -                | -         |    -7.10 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           17 |     1269 | 2024-06-09 | Aurora          | W   | 0.813      | 0.143        | 0.420 (0.049)    | -                | -         |    23.30 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           16 |     1278 | 2024-06-09 | 3DMAX           | W   | 0.813      | 0.143        | 0.510 (0.059)    | -                | -         |    23.75 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           15 |     1283 | 2024-06-09 | SAW             | L   | 0.813      | -            | -                | -                | -         |    -7.47 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           14 |     1293 | 2024-06-09 | PARIVISION      | L   | 0.812      | -            | -                | -                | -         |   -10.04 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           13 |     1301 | 2024-06-09 | 9 Pandas        | L   | 0.812      | -            | -                | -                | -         |   -11.04 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           12 |     1338 | 2024-06-08 | 1WIN            | W   | 0.807      | -            | -                | -                | -         |    11.54 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           11 |     1345 | 2024-06-08 | AMKAL           | L   | 0.806      | -            | -                | -                | -         |    -6.88 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|           10 |     1357 | 2024-06-08 | Quixal          | W   | 0.806      | -            | -                | -                | -         |     0.77 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            9 |     1562 | 2024-06-04 | PARIVISION      | L   | 0.780      | -            | -                | -                | -         |   -10.11 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            8 |     1764 | 2024-05-27 | Falcons         | L   | 0.728      | -            | -                | -                | -         |    -2.29 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            7 |     1775 | 2024-05-27 | Vitality        | L   | 0.727      | -            | -                | -                | -         |    -0.22 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            6 |     1932 | 2024-05-21 | Sangal          | L   | 0.686      | -            | -                | -                | -         |    -7.78 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            5 |     1973 | 2024-05-20 | Sashi           | W   | 0.678      | 0.500        | 0.184 (0.062)    | 0.958 (0.325)    | -         |    15.52 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            4 |     2022 | 2024-05-18 | Sashi           | L   | 0.666      | -            | -                | -                | -         |    -5.52 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            3 |     2053 | 2024-05-17 | BLEED           | W   | 0.660      | 0.500        | 0.126 (0.041)    | 0.538 (0.178)    | -         |    18.54 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            2 |     2092 | 2024-05-16 | kONO            | W   | 0.652      | 0.384        | 0.028 (0.007)    | -                | -         |     6.50 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
-|            1 |     2138 | 2024-05-15 | DMS             | W   | 0.646      | -            | -                | -                | -         |     8.14 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           36 |      205 | 2024-07-31 | EYEBALLERS      | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |     4.80 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           35 |      288 | 2024-07-29 | 9INE            | W   | 1.000      | 0.435        | 0.022 (0.010)    | 0.523 (0.227)    | 0 (0.000) |    11.11 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           34 |      336 | 2024-07-28 | Sangal          | L   | 1.000      | -            | -                | -                | -         |    -9.37 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           33 |      344 | 2024-07-27 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.45 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           32 |      352 | 2024-07-27 | 9z              | W   | 1.000      | 0.435        | 0.404 (0.175)    | 0.591 (0.257)    | 0 (0.000) |    28.16 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           31 |      387 | 2024-07-26 | Space           | W   | 1.000      | 0.435        | -                | 0.429 (0.187)    | 0 (0.000) |     9.51 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           30 |      422 | 2024-07-25 | Endpoint        | W   | 1.000      | 0.435        | -                | 0.540 (0.235)    | 0 (0.000) |     7.65 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           29 |      442 | 2024-07-24 | Sashi           | L   | 1.000      | -            | -                | -                | -         |   -10.38 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           28 |      648 | 2024-07-18 | KOI             | W   | 1.000      | 0.500        | 0.058 (0.029)    | 0.356 (0.178)    | 0 (0.000) |    17.92 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           27 |      776 | 2024-07-16 | Zero Tenacity   | L   | 1.000      | -            | -                | -                | -         |   -13.45 | DemQQ, dycha, hades, kRaSnaL, STYKO  |
+|           26 |     1057 | 2024-06-16 | B8              | L   | 0.858      | -            | -                | -                | -         |   -10.24 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           25 |     1082 | 2024-06-15 | BLEED           | W   | 0.853      | 0.435        | 0.125 (0.047)    | 0.538 (0.200)    | 0 (0.000) |    22.48 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           24 |     1135 | 2024-06-14 | BLEED           | L   | 0.845      | -            | -                | -                | -         |    -3.88 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           23 |     1158 | 2024-06-13 | Zero Tenacity   | W   | 0.839      | 0.435        | 0.143 (0.052)    | 1.000 (0.365)    | 0 (0.000) |    15.28 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           22 |     1194 | 2024-06-12 | FORZE Reload    | W   | 0.832      | -            | -                | -                | 0 (0.000) |     1.59 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           21 |     1235 | 2024-06-10 | SINNERS         | W   | 0.819      | -            | -                | -                | -         |    13.74 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           20 |     1241 | 2024-06-10 | Aurora          | L   | 0.819      | -            | -                | -                | -         |    -2.64 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           19 |     1247 | 2024-06-10 | RUSH B          | L   | 0.818      | -            | -                | -                | -         |   -16.00 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           18 |     1259 | 2024-06-09 | AMKAL           | L   | 0.814      | -            | -                | -                | -         |    -7.14 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           17 |     1270 | 2024-06-09 | Aurora          | W   | 0.813      | 0.143        | 0.420 (0.049)    | -                | -         |    23.29 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           16 |     1279 | 2024-06-09 | 3DMAX           | W   | 0.813      | 0.143        | 0.510 (0.059)    | -                | -         |    23.73 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           15 |     1284 | 2024-06-09 | SAW             | L   | 0.812      | -            | -                | -                | -         |    -7.43 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           14 |     1294 | 2024-06-09 | PARIVISION      | L   | 0.812      | -            | -                | -                | -         |    -9.34 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           13 |     1302 | 2024-06-09 | 9 Pandas        | L   | 0.812      | -            | -                | -                | -         |   -11.02 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           12 |     1339 | 2024-06-08 | 1WIN            | W   | 0.807      | -            | -                | -                | -         |    11.52 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           11 |     1346 | 2024-06-08 | AMKAL           | L   | 0.806      | -            | -                | -                | -         |    -6.90 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|           10 |     1358 | 2024-06-08 | Quixal          | W   | 0.805      | -            | -                | -                | -         |     0.77 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            9 |     1563 | 2024-06-04 | PARIVISION      | L   | 0.780      | -            | -                | -                | -         |    -9.34 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            8 |     1765 | 2024-05-27 | Falcons         | L   | 0.728      | -            | -                | -                | -         |    -2.30 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            7 |     1776 | 2024-05-27 | Vitality        | L   | 0.727      | -            | -                | -                | -         |    -0.22 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            6 |     1933 | 2024-05-21 | Sangal          | L   | 0.685      | -            | -                | -                | -         |    -7.36 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            5 |     1974 | 2024-05-20 | Sashi           | W   | 0.678      | 0.500        | 0.184 (0.062)    | 0.958 (0.325)    | -         |    15.52 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            4 |     2023 | 2024-05-18 | Sashi           | L   | 0.666      | -            | -                | -                | -         |    -5.51 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            3 |     2054 | 2024-05-17 | BLEED           | W   | 0.660      | 0.500        | 0.125 (0.041)    | 0.538 (0.178)    | -         |    18.55 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            2 |     2093 | 2024-05-16 | kONO            | W   | 0.652      | 0.384        | 0.028 (0.007)    | -                | -         |     6.50 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
+|            1 |     2139 | 2024-05-15 | DMS             | W   | 0.646      | -            | -                | -                | -         |     8.20 | DemQQ, hAdji, kRaSnaL, STYKO, Woro2k |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($25,619.03)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($25,615.21)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.08) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -87,11 +87,11 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $5,000.00      | $5,000.00       |
-| 2024-06-16 |      0.860 | $5,000.00      | $4,300.00       |
-| 2024-06-09 |      0.813 | $4,000.00      | $3,253.06       |
-| 2024-06-02 |      0.767 | $4,000.00      | $3,068.89       |
-| 2024-05-22 |      0.693 | $12,500.00     | $8,663.19       |
-| 2024-05-18 |      0.667 | $2,000.00      | $1,333.89       |
+| 2024-06-16 |      0.860 | $5,000.00      | $4,299.31       |
+| 2024-06-09 |      0.813 | $4,000.00      | $3,252.50       |
+| 2024-06-02 |      0.767 | $4,000.00      | $3,068.33       |
+| 2024-05-22 |      0.693 | $12,500.00     | $8,661.46       |
+| 2024-05-18 |      0.667 | $2,000.00      | $1,333.61       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

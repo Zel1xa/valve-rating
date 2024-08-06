@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2688 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            9 |     2706 | 2024-04-20 | BIG EQUIPA    | L   | 0.481      | -            | -                | -                | -         |    -6.04 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            8 |     2753 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.53 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            7 |     2971 | 2024-04-11 | Crescent fe   | W   | 0.420      | 0.331        | 0.004 (0.001)    | 0.081 (0.011)    | 0 (0.000) |     5.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            6 |     3143 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            5 |     3159 | 2024-04-06 | Let Her Cook  | W   | 0.385      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.55 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            4 |     3380 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            3 |     3465 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.09 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            2 |     3822 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            1 |     4040 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.70 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|           10 |     2689 | 2024-04-21 | Astralis W    | L   | 0.487      | -            | -                | -                | -         |    -8.39 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            9 |     2707 | 2024-04-20 | BIG EQUIPA    | L   | 0.480      | -            | -                | -                | -         |    -6.03 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            8 |     2754 | 2024-04-19 | 1WIN Gang     | W   | 0.474      | 0.331        | 0.001 (0.000)    | 0.016 (0.002)    | 0 (0.000) |     6.53 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            7 |     2972 | 2024-04-11 | Crescent fe   | W   | 0.420      | 0.331        | 0.004 (0.001)    | 0.081 (0.011)    | 0 (0.000) |     5.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            6 |     3144 | 2024-04-07 | NIP Impact    | L   | 0.392      | -            | -                | -                | -         |    -5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            5 |     3160 | 2024-04-06 | Let Her Cook  | W   | 0.385      | 0.262        | 0.060 (0.006)    | 0.137 (0.014)    | 0 (0.000) |     9.55 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            4 |     3381 | 2024-03-27 | Spirit fe     | W   | 0.321      | 0.331        | 0.005 (0.001)    | 0.136 (0.014)    | 0 (0.000) |     4.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            3 |     3466 | 2024-03-21 | Let Her Cook  | W   | 0.281      | 0.331        | 0.060 (0.006)    | 0.137 (0.013)    | 0 (0.000) |     7.09 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            2 |     3823 | 2024-03-06 | NAVI Javelins | L   | 0.181      | -            | -                | -                | -         |    -1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            1 |     4041 | 2024-02-25 | 1WIN Gang     | W   | 0.114      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.69 | kr4sy, Ksu, t4tty, Victoria, vilga |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($864.75)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($864.42)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-04-21 |      0.487 | $1,600.00      | $779.33         |
-| 2024-02-25 |      0.114 | $750.00        | $85.42          |
+| 2024-04-21 |      0.487 | $1,600.00      | $779.11         |
+| 2024-02-25 |      0.114 | $750.00        | $85.31          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

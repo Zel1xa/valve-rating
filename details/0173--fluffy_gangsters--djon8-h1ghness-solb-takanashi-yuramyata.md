@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |       18 | 2024-08-06 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -4.54 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|           14 |      520 | 2024-07-22 | 9INE              | L   | 1.000      | -            | -                | -                | -         |    -5.10 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|           13 |      535 | 2024-07-21 | Grannys Knockers  | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.125 (0.018)    | 0 (0.000) |    20.62 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|           12 |      570 | 2024-07-20 | GenOne            | L   | 1.000      | -            | -                | -                | -         |   -21.56 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|           11 |      612 | 2024-07-19 | ADEPTS            | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.026 (0.004)    | 0 (0.000) |    14.53 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|           10 |      878 | 2024-07-12 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -1.45 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            9 |      960 | 2024-07-08 | TSM               | W   | 1.000      | 0.358        | 0.040 (0.014)    | 0.500 (0.179)    | 0 (0.000) |    27.57 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            8 |      962 | 2024-07-08 | Insilio           | W   | 1.000      | 0.358        | 0.023 (0.008)    | 0.539 (0.193)    | 0 (0.000) |    27.86 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            7 |     1048 | 2024-06-16 | WOPA              | L   | 0.860      | -            | -                | -                | -         |   -12.85 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            6 |     1082 | 2024-06-15 | TÓR               | W   | 0.853      | 0.143        | 0.024 (0.003)    | 0.111 (0.014)    | 0 (0.000) |    22.45 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            5 |     1122 | 2024-06-14 | CPH Wolves        | L   | 0.846      | -            | -                | -                | -         |    -6.47 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            4 |     1168 | 2024-06-13 | TÓR               | W   | 0.838      | 0.143        | 0.024 (0.003)    | 0.111 (0.013)    | 0 (0.000) |    22.73 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            3 |     1593 | 2024-06-03 | Aurora Young Blud | L   | 0.774      | -            | -                | -                | -         |    -3.59 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            2 |     1636 | 2024-06-01 | Portugal          | W   | 0.761      | 0.372        | 0.003 (0.001)    | 0.115 (0.032)    | 0 (0.000) |    15.27 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
-|            1 |     1727 | 2024-05-29 | Enterprise        | L   | 0.741      | -            | -                | -                | -         |    -2.81 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           15 |       19 | 2024-08-06 | Permitta          | L   | 1.000      | -            | -                | -                | -         |    -4.51 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           14 |      521 | 2024-07-22 | 9INE              | L   | 1.000      | -            | -                | -                | -         |    -5.10 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           13 |      536 | 2024-07-21 | Grannys Knockers  | W   | 1.000      | 0.143        | 0.004 (0.001)    | 0.125 (0.018)    | 0 (0.000) |    20.62 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           12 |      571 | 2024-07-20 | GenOne            | L   | 1.000      | -            | -                | -                | -         |   -21.56 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           11 |      613 | 2024-07-19 | ADEPTS            | W   | 1.000      | 0.143        | 0.002 (0.000)    | 0.026 (0.004)    | 0 (0.000) |    14.53 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|           10 |      879 | 2024-07-12 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -1.44 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            9 |      961 | 2024-07-08 | TSM               | W   | 1.000      | 0.358        | 0.040 (0.014)    | 0.500 (0.179)    | 0 (0.000) |    27.57 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            8 |      963 | 2024-07-08 | Insilio           | W   | 1.000      | 0.358        | 0.023 (0.008)    | 0.539 (0.193)    | 0 (0.000) |    27.87 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            7 |     1049 | 2024-06-16 | WOPA              | L   | 0.860      | -            | -                | -                | -         |   -12.85 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            6 |     1083 | 2024-06-15 | TÓR               | W   | 0.853      | 0.143        | 0.024 (0.003)    | 0.111 (0.014)    | 0 (0.000) |    22.45 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            5 |     1123 | 2024-06-14 | CPH Wolves        | L   | 0.846      | -            | -                | -                | -         |    -6.47 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            4 |     1169 | 2024-06-13 | TÓR               | W   | 0.838      | 0.143        | 0.024 (0.003)    | 0.111 (0.013)    | 0 (0.000) |    22.73 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            3 |     1594 | 2024-06-03 | Aurora Young Blud | L   | 0.773      | -            | -                | -                | -         |    -3.58 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            2 |     1637 | 2024-06-01 | Portugal          | W   | 0.761      | 0.372        | 0.003 (0.001)    | 0.115 (0.032)    | 0 (0.000) |    15.27 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
+|            1 |     1728 | 2024-05-29 | Enterprise        | L   | 0.740      | -            | -                | -                | -         |    -2.80 | Djon8, h1ghnesS, SoLb, takanashi, yuramyata |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

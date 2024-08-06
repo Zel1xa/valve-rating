@@ -6,9 +6,9 @@ Global Rank: [22](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [17]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1393.8<br />
+Final Rank Value:  1395.2<br />
 <br />
-Final Rank Value (1393.8) = Starting Rank Value (1685.9) + Head To Head Adjustments (-292.1)<br />
+Final Rank Value (1395.2) = Starting Rank Value (1685.9) + Head To Head Adjustments (-290.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,100 +37,100 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           87 |       24 | 2024-08-05 | ARCRED             | L   | 1.000      | -            | -                | -                | -         |   -28.83 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           86 |       56 | 2024-08-04 | Nemiga             | L   | 1.000      | -            | -                | -                | -         |   -26.43 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           85 |      334 | 2024-07-28 | 3DMAX              | L   | 1.000      | -            | -                | -                | -         |   -18.59 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           84 |      382 | 2024-07-26 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -6.58 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           83 |      387 | 2024-07-26 | BLEED              | W   | 1.000      | 0.650        | 0.126 (0.082)    | 0.538 (0.350)    | 1 (1.000) |     9.91 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           82 |      413 | 2024-07-25 | True Rippers       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.49 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           81 |      425 | 2024-07-25 | ENCE               | W   | 1.000      | 0.650        | 0.173 (0.112)    | 0.422 (0.274)    | 1 (1.000) |    12.13 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           80 |      460 | 2024-07-24 | PARIVISION         | W   | 1.000      | 0.650        | -                | 0.590 (0.384)    | 1 (1.000) |     3.36 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           79 |      649 | 2024-07-18 | B8                 | W   | 1.000      | 0.500        | 0.170 (0.085)    | 0.912 (0.456)    | -         |     5.46 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           78 |      777 | 2024-07-16 | PERA               | W   | 1.000      | 0.500        | -                | 0.435 (0.218)    | -         |     2.37 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           77 |     1059 | 2024-06-16 | Complexity         | L   | 0.858      | -            | -                | -                | -         |    -7.85 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           76 |     1125 | 2024-06-14 | The MongolZ        | W   | 0.846      | 0.500        | 1.000 (0.423)    | 0.694 (0.293)    | 1 (0.846) |    24.73 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           75 |     1135 | 2024-06-14 | Falcons            | W   | 0.845      | 0.500        | 0.219 (0.093)    | -                | 1 (0.845) |    13.13 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           74 |     1235 | 2024-06-10 | 9 Pandas           | W   | 0.819      | -            | -                | -                | -         |     3.33 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           73 |     1240 | 2024-06-10 | Monte              | W   | 0.819      | -            | -                | -                | -         |     2.63 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           72 |     1244 | 2024-06-10 | SAW                | L   | 0.818      | -            | -                | -                | -         |   -20.99 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           71 |     1269 | 2024-06-09 | Monte              | L   | 0.813      | -            | -                | -                | -         |   -23.30 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           70 |     1276 | 2024-06-09 | PARIVISION         | W   | 0.813      | -            | -                | -                | -         |     3.25 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           69 |     1284 | 2024-06-09 | RUSH B             | L   | 0.813      | -            | -                | -                | -         |   -24.53 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           68 |     1292 | 2024-06-09 | 3DMAX              | L   | 0.812      | -            | -                | -                | -         |   -12.56 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           67 |     1300 | 2024-06-09 | SINNERS            | L   | 0.812      | -            | -                | -                | -         |   -23.81 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           66 |     1387 | 2024-06-07 | Sangal             | L   | 0.800      | -            | -                | -                | -         |   -21.90 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           65 |     1402 | 2024-06-07 | Verdant            | W   | 0.800      | -            | -                | -                | -         |     0.79 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           64 |     1406 | 2024-06-07 | PERA               | W   | 0.799      | -            | -                | -                | -         |     0.97 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           63 |     1453 | 2024-06-06 | RUSH B             | W   | 0.794      | -            | -                | -                | -         |     0.63 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           62 |     1515 | 2024-06-05 | PARIVISION         | W   | 0.787      | 0.500        | -                | 0.590 (0.232)    | -         |     2.03 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           61 |     1563 | 2024-06-04 | 3DMAX              | L   | 0.780      | -            | -                | -                | -         |   -12.03 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           60 |     1628 | 2024-06-01 | BLEED              | L   | 0.763      | -            | -                | -                | -         |   -17.35 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           59 |     1653 | 2024-06-01 | Lynn Vision        | W   | 0.759      | 0.500        | 0.086 (0.033)    | -                | 1 (0.759) |     1.41 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           58 |     1662 | 2024-05-31 | Chinggis Warriors  | W   | 0.757      | -            | -                | -                | 1 (0.757) |     1.01 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           57 |     1737 | 2024-05-29 | The MongolZ        | L   | 0.739      | -            | -                | -                | -         |    -2.99 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           56 |     1760 | 2024-05-28 | Lynn Vision        | W   | 0.731      | -            | -                | -                | 1 (0.731) |     1.25 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           55 |     1931 | 2024-05-21 | Astralis           | L   | 0.686      | -            | -                | -                | -         |    -5.47 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           54 |     2062 | 2024-05-17 | SAW                | W   | 0.658      | 0.769        | 0.104 (0.053)    | 0.516 (0.261)    | -         |     2.51 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           53 |     2077 | 2024-05-16 | PARIVISION         | W   | 0.655      | 0.769        | -                | 0.590 (0.297)    | -         |     1.38 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           52 |     2085 | 2024-05-16 | MIBR               | L   | 0.654      | -            | -                | -                | -         |   -13.66 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           51 |     2099 | 2024-05-16 | SAW                | L   | 0.652      | -            | -                | -                | -         |   -18.43 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           50 |     2149 | 2024-05-15 | Spirit             | L   | 0.645      | -            | -                | -                | -         |    -2.98 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           49 |     2292 | 2024-05-10 | MOUZ NXT           | L   | 0.614      | -            | -                | -                | -         |   -18.54 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           48 |     2549 | 2024-04-28 | MIBR               | L   | 0.531      | -            | -                | -                | -         |   -12.28 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           47 |     2551 | 2024-04-27 | Rebels             | W   | 0.531      | 0.500        | -                | 0.578 (0.153)    | 1 (0.531) |     0.52 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           46 |     2577 | 2024-04-27 | Party Astronauts   | W   | 0.524      | -            | -                | -                | -         |     0.36 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           45 |     2602 | 2024-04-25 | Apeks              | L   | 0.517      | -            | -                | -                | -         |   -15.95 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           44 |     2606 | 2024-04-25 | Party Astronauts   | W   | 0.516      | -            | -                | -                | -         |     0.32 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           43 |     2810 | 2024-04-18 | RUBY               | L   | 0.467      | -            | -                | -                | -         |   -14.42 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           42 |     2922 | 2024-04-14 | OG                 | W   | 0.440      | 0.684        | 0.137 (0.041)    | -                | -         |     0.46 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           41 |     2935 | 2024-04-13 | BetBoom            | W   | 0.433      | 0.684        | 0.248 (0.073)    | -                | -         |     2.84 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           40 |     2947 | 2024-04-12 | AMKAL              | W   | 0.427      | -            | -                | -                | -         |     0.73 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           39 |     2970 | 2024-04-11 | BetBoom            | W   | 0.421      | -            | -                | -                | -         |     2.83 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           38 |     2977 | 2024-04-11 | Apeks              | W   | 0.420      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           37 |     2982 | 2024-04-11 | FORZE              | W   | 0.419      | -            | -                | -                | -         |     0.25 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           36 |     3011 | 2024-04-10 | PARIVISION         | W   | 0.414      | -            | -                | -                | -         |     0.58 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           35 |     3023 | 2024-04-10 | BetBoom            | L   | 0.413      | -            | -                | -                | -         |   -10.40 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           34 |     3072 | 2024-04-09 | KOI                | L   | 0.407      | -            | -                | -                | -         |   -12.39 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           33 |     3080 | 2024-04-09 | 1WIN               | W   | 0.406      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           32 |     3088 | 2024-04-09 | 9 Pandas           | W   | 0.405      | -            | -                | -                | -         |     0.31 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           31 |     3098 | 2024-04-08 | Metizport          | W   | 0.401      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           30 |     3103 | 2024-04-08 | OG                 | W   | 0.400      | 0.684        | 0.137 (0.037)    | -                | -         |     0.30 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           29 |     3113 | 2024-04-08 | 1WIN               | L   | 0.399      | -            | -                | -                | -         |   -12.38 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           28 |     3206 | 2024-04-04 | Ninjas in Pyjamas  | W   | 0.374      | -            | -                | -                | -         |     5.88 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           27 |     3246 | 2024-04-03 | Ninjas in Pyjamas  | W   | 0.367      | -            | -                | -                | -         |     5.96 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           26 |     3284 | 2024-04-02 | Apeks              | W   | 0.360      | -            | -                | -                | -         |     0.16 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           25 |     3293 | 2024-04-02 | Metizport          | W   | 0.359      | -            | -                | -                | -         |     0.17 | deko, KENSI, Lack1, Norwi, r3salt     |
-|           24 |     3305 | 2024-04-01 | SINNERS            | L   | 0.354      | -            | -                | -                | -         |   -10.61 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           23 |     3344 | 2024-03-28 | brazylijski luz    | W   | 0.327      | -            | -                | -                | -         |     0.08 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           22 |     3375 | 2024-03-27 | Metizport          | W   | 0.321      | -            | -                | -                | -         |     0.15 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           21 |     3382 | 2024-03-27 | AURA               | W   | 0.321      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           20 |     3416 | 2024-03-25 | Rebels             | W   | 0.307      | -            | -                | -                | -         |     0.20 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           19 |     3432 | 2024-03-23 | ALTERNATE aTTaX    | W   | 0.294      | -            | -                | -                | -         |     0.18 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           18 |     3446 | 2024-03-22 | ex-Sprout          | W   | 0.287      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           17 |     3570 | 2024-03-16 | Gods Reign         | W   | 0.246      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           16 |     3591 | 2024-03-15 | Gods Reign         | W   | 0.238      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           15 |     3626 | 2024-03-14 | Bad News Kangaroos | W   | 0.231      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           14 |     3885 | 2024-03-04 | Young Ninjas       | L   | 0.167      | -            | -                | -                | -         |    -5.22 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           13 |     3932 | 2024-03-02 | Rebels             | W   | 0.153      | -            | -                | -                | -         |     0.10 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           12 |     3955 | 2024-03-01 | FORZE              | W   | 0.147      | -            | -                | -                | -         |     0.06 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           11 |     3957 | 2024-03-01 | 9 Pandas           | W   | 0.146      | -            | -                | -                | -         |     0.10 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|           10 |     3963 | 2024-02-29 | KOI                | W   | 0.141      | -            | -                | -                | -         |     0.15 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            9 |     3966 | 2024-02-29 | Spirit Academy     | W   | 0.140      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            8 |     3972 | 2024-02-29 | HAVU               | W   | 0.138      | -            | -                | -                | -         |     0.02 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            7 |     3975 | 2024-02-28 | kONO               | W   | 0.134      | -            | -                | -                | -         |     0.03 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            6 |     3981 | 2024-02-28 | FORZE              | L   | 0.133      | -            | -                | -                | -         |    -4.14 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            5 |     4202 | 2024-02-18 | Monte              | L   | 0.068      | -            | -                | -                | -         |    -2.09 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            4 |     4211 | 2024-02-18 | B8                 | W   | 0.066      | -            | -                | -                | -         |     0.07 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            3 |     4229 | 2024-02-17 | kONO               | W   | 0.060      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            2 |     4233 | 2024-02-17 | Monte              | L   | 0.060      | -            | -                | -                | -         |    -1.85 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
-|            1 |     4236 | 2024-02-17 | kONO               | W   | 0.060      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           87 |       25 | 2024-08-05 | ARCRED             | L   | 1.000      | -            | -                | -                | -         |   -28.84 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           86 |       57 | 2024-08-04 | Nemiga             | L   | 1.000      | -            | -                | -                | -         |   -26.43 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           85 |      335 | 2024-07-28 | 3DMAX              | L   | 1.000      | -            | -                | -                | -         |   -18.60 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           84 |      383 | 2024-07-26 | The MongolZ        | L   | 1.000      | -            | -                | -                | -         |    -6.62 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           83 |      388 | 2024-07-26 | BLEED              | W   | 1.000      | 0.650        | 0.125 (0.082)    | 0.538 (0.350)    | 1 (1.000) |     9.89 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           82 |      414 | 2024-07-25 | True Rippers       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.49 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           81 |      426 | 2024-07-25 | ENCE               | W   | 1.000      | 0.650        | 0.173 (0.112)    | 0.422 (0.274)    | 1 (1.000) |    12.11 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           80 |      461 | 2024-07-24 | PARIVISION         | W   | 1.000      | 0.650        | -                | 0.590 (0.384)    | 1 (1.000) |     3.67 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           79 |      650 | 2024-07-18 | B8                 | W   | 1.000      | 0.500        | 0.170 (0.085)    | 0.912 (0.456)    | -         |     5.49 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           78 |      778 | 2024-07-16 | PERA               | W   | 1.000      | 0.500        | -                | 0.435 (0.218)    | -         |     2.36 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           77 |     1060 | 2024-06-16 | Complexity         | L   | 0.858      | -            | -                | -                | -         |    -7.88 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           76 |     1126 | 2024-06-14 | The MongolZ        | W   | 0.846      | 0.500        | 1.000 (0.423)    | 0.694 (0.293)    | 1 (0.846) |    24.72 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           75 |     1136 | 2024-06-14 | Falcons            | W   | 0.845      | 0.500        | 0.219 (0.093)    | -                | 1 (0.845) |    13.08 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           74 |     1236 | 2024-06-10 | 9 Pandas           | W   | 0.819      | -            | -                | -                | -         |     3.35 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           73 |     1241 | 2024-06-10 | Monte              | W   | 0.819      | -            | -                | -                | -         |     2.64 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           72 |     1245 | 2024-06-10 | SAW                | L   | 0.818      | -            | -                | -                | -         |   -20.94 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           71 |     1270 | 2024-06-09 | Monte              | L   | 0.813      | -            | -                | -                | -         |   -23.29 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           70 |     1277 | 2024-06-09 | PARIVISION         | W   | 0.813      | -            | -                | -                | -         |     3.58 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           69 |     1285 | 2024-06-09 | RUSH B             | L   | 0.812      | -            | -                | -                | -         |   -24.52 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           68 |     1293 | 2024-06-09 | 3DMAX              | L   | 0.812      | -            | -                | -                | -         |   -12.57 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           67 |     1301 | 2024-06-09 | SINNERS            | L   | 0.812      | -            | -                | -                | -         |   -23.80 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           66 |     1388 | 2024-06-07 | Sangal             | L   | 0.800      | -            | -                | -                | -         |   -21.70 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           65 |     1403 | 2024-06-07 | Verdant            | W   | 0.799      | -            | -                | -                | -         |     0.80 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           64 |     1407 | 2024-06-07 | PERA               | W   | 0.799      | -            | -                | -                | -         |     0.97 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           63 |     1454 | 2024-06-06 | RUSH B             | W   | 0.793      | -            | -                | -                | -         |     0.64 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           62 |     1516 | 2024-06-05 | PARIVISION         | W   | 0.787      | 0.500        | -                | 0.590 (0.232)    | -         |     2.28 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           61 |     1564 | 2024-06-04 | 3DMAX              | L   | 0.780      | -            | -                | -                | -         |   -12.03 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           60 |     1629 | 2024-06-01 | BLEED              | L   | 0.763      | -            | -                | -                | -         |   -17.33 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           59 |     1654 | 2024-06-01 | Lynn Vision        | W   | 0.759      | 0.500        | 0.086 (0.033)    | -                | 1 (0.759) |     1.41 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           58 |     1663 | 2024-05-31 | Chinggis Warriors  | W   | 0.757      | -            | -                | -                | 1 (0.757) |     1.01 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           57 |     1738 | 2024-05-29 | The MongolZ        | L   | 0.738      | -            | -                | -                | -         |    -3.00 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           56 |     1761 | 2024-05-28 | Lynn Vision        | W   | 0.731      | -            | -                | -                | 1 (0.731) |     1.25 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           55 |     1932 | 2024-05-21 | Astralis           | L   | 0.686      | -            | -                | -                | -         |    -5.48 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           54 |     2063 | 2024-05-17 | SAW                | W   | 0.658      | 0.769        | 0.104 (0.053)    | 0.516 (0.261)    | -         |     2.53 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           53 |     2078 | 2024-05-16 | PARIVISION         | W   | 0.654      | 0.769        | -                | 0.590 (0.297)    | -         |     1.57 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           52 |     2086 | 2024-05-16 | MIBR               | L   | 0.654      | -            | -                | -                | -         |   -13.66 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           51 |     2100 | 2024-05-16 | SAW                | L   | 0.651      | -            | -                | -                | -         |   -18.41 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           50 |     2150 | 2024-05-15 | Spirit             | L   | 0.645      | -            | -                | -                | -         |    -2.98 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           49 |     2293 | 2024-05-10 | MOUZ NXT           | L   | 0.614      | -            | -                | -                | -         |   -18.53 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           48 |     2550 | 2024-04-28 | MIBR               | L   | 0.531      | -            | -                | -                | -         |   -12.28 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           47 |     2552 | 2024-04-27 | Rebels             | W   | 0.531      | 0.500        | -                | 0.578 (0.153)    | 1 (0.531) |     0.52 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           46 |     2578 | 2024-04-27 | Party Astronauts   | W   | 0.524      | -            | -                | -                | -         |     0.36 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           45 |     2603 | 2024-04-25 | Apeks              | L   | 0.517      | -            | -                | -                | -         |   -15.95 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           44 |     2607 | 2024-04-25 | Party Astronauts   | W   | 0.516      | -            | -                | -                | -         |     0.32 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           43 |     2811 | 2024-04-18 | RUBY               | L   | 0.467      | -            | -                | -                | -         |   -14.42 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           42 |     2923 | 2024-04-14 | OG                 | W   | 0.439      | 0.684        | 0.137 (0.041)    | -                | -         |     0.46 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           41 |     2936 | 2024-04-13 | BetBoom            | W   | 0.433      | 0.684        | 0.248 (0.073)    | -                | -         |     2.84 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           40 |     2948 | 2024-04-12 | AMKAL              | W   | 0.427      | -            | -                | -                | -         |     0.74 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           39 |     2971 | 2024-04-11 | BetBoom            | W   | 0.421      | -            | -                | -                | -         |     2.83 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           38 |     2978 | 2024-04-11 | Apeks              | W   | 0.420      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           37 |     2983 | 2024-04-11 | FORZE              | W   | 0.419      | -            | -                | -                | -         |     0.25 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           36 |     3012 | 2024-04-10 | PARIVISION         | W   | 0.414      | -            | -                | -                | -         |     0.69 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           35 |     3024 | 2024-04-10 | BetBoom            | L   | 0.413      | -            | -                | -                | -         |   -10.40 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           34 |     3073 | 2024-04-09 | KOI                | L   | 0.407      | -            | -                | -                | -         |   -12.38 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           33 |     3081 | 2024-04-09 | 1WIN               | W   | 0.406      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           32 |     3089 | 2024-04-09 | 9 Pandas           | W   | 0.405      | -            | -                | -                | -         |     0.31 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           31 |     3099 | 2024-04-08 | Metizport          | W   | 0.401      | -            | -                | -                | -         |     0.23 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           30 |     3104 | 2024-04-08 | OG                 | W   | 0.400      | 0.684        | 0.137 (0.037)    | -                | -         |     0.30 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           29 |     3114 | 2024-04-08 | 1WIN               | L   | 0.399      | -            | -                | -                | -         |   -12.38 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           28 |     3207 | 2024-04-04 | Ninjas in Pyjamas  | W   | 0.374      | -            | -                | -                | -         |     5.88 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           27 |     3247 | 2024-04-03 | Ninjas in Pyjamas  | W   | 0.367      | -            | -                | -                | -         |     5.96 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           26 |     3285 | 2024-04-02 | Apeks              | W   | 0.360      | -            | -                | -                | -         |     0.16 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           25 |     3294 | 2024-04-02 | Metizport          | W   | 0.359      | -            | -                | -                | -         |     0.17 | deko, KENSI, Lack1, Norwi, r3salt     |
+|           24 |     3306 | 2024-04-01 | SINNERS            | L   | 0.354      | -            | -                | -                | -         |   -10.61 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           23 |     3345 | 2024-03-28 | brazylijski luz    | W   | 0.327      | -            | -                | -                | -         |     0.08 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           22 |     3376 | 2024-03-27 | Metizport          | W   | 0.321      | -            | -                | -                | -         |     0.15 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           21 |     3383 | 2024-03-27 | AURA               | W   | 0.321      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           20 |     3417 | 2024-03-25 | Rebels             | W   | 0.307      | -            | -                | -                | -         |     0.21 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           19 |     3433 | 2024-03-23 | ALTERNATE aTTaX    | W   | 0.294      | -            | -                | -                | -         |     0.19 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           18 |     3447 | 2024-03-22 | ex-Sprout          | W   | 0.287      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           17 |     3571 | 2024-03-16 | Gods Reign         | W   | 0.245      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           16 |     3592 | 2024-03-15 | Gods Reign         | W   | 0.238      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           15 |     3627 | 2024-03-14 | Bad News Kangaroos | W   | 0.231      | -            | -                | -                | -         |     0.05 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           14 |     3886 | 2024-03-04 | Young Ninjas       | L   | 0.167      | -            | -                | -                | -         |    -5.21 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           13 |     3933 | 2024-03-02 | Rebels             | W   | 0.153      | -            | -                | -                | -         |     0.10 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           12 |     3956 | 2024-03-01 | FORZE              | W   | 0.147      | -            | -                | -                | -         |     0.06 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           11 |     3958 | 2024-03-01 | 9 Pandas           | W   | 0.146      | -            | -                | -                | -         |     0.10 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|           10 |     3964 | 2024-02-29 | KOI                | W   | 0.141      | -            | -                | -                | -         |     0.15 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            9 |     3967 | 2024-02-29 | Spirit Academy     | W   | 0.139      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            8 |     3973 | 2024-02-29 | HAVU               | W   | 0.138      | -            | -                | -                | -         |     0.02 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            7 |     3976 | 2024-02-28 | kONO               | W   | 0.134      | -            | -                | -                | -         |     0.03 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            6 |     3982 | 2024-02-28 | FORZE              | L   | 0.133      | -            | -                | -                | -         |    -4.13 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            5 |     4203 | 2024-02-18 | Monte              | L   | 0.068      | -            | -                | -                | -         |    -2.08 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            4 |     4212 | 2024-02-18 | B8                 | W   | 0.066      | -            | -                | -                | -         |     0.07 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            3 |     4230 | 2024-02-17 | kONO               | W   | 0.060      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            2 |     4234 | 2024-02-17 | Monte              | L   | 0.060      | -            | -                | -                | -         |    -1.84 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
+|            1 |     4237 | 2024-02-17 | kONO               | W   | 0.059      | -            | -                | -                | -         |     0.01 | BELCHONOKK, deko, KENSI, Lack1, Norwi |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($134,508.53)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($134,480.82)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.42) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -138,13 +138,13 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $35,000.00     | $35,000.00      |
-| 2024-06-16 |      0.859 | $10,000.00     | $8,594.44       |
-| 2024-06-09 |      0.813 | $8,500.00      | $6,912.74       |
-| 2024-06-02 |      0.765 | $15,000.00     | $11,476.74      |
-| 2024-05-23 |      0.699 | $12,500.00     | $8,741.32       |
-| 2024-04-28 |      0.531 | $20,000.00     | $10,628.70      |
-| 2024-04-14 |      0.440 | $105,000.00    | $46,156.25      |
-| 2024-03-16 |      0.246 | $28,500.00     | $6,998.33       |
+| 2024-06-16 |      0.859 | $10,000.00     | $8,593.06       |
+| 2024-06-09 |      0.813 | $8,500.00      | $6,911.56       |
+| 2024-06-02 |      0.765 | $15,000.00     | $11,474.65      |
+| 2024-05-23 |      0.699 | $12,500.00     | $8,739.58       |
+| 2024-04-28 |      0.531 | $20,000.00     | $10,625.93      |
+| 2024-04-14 |      0.439 | $105,000.00    | $46,141.67      |
+| 2024-03-16 |      0.245 | $28,500.00     | $6,994.38       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      539 | 2024-07-21 | France fe   | W   | 1.000      | 0.294        | 0.006 (0.002)    | 0.115 (0.034)    | 0 (0.000) |    13.43 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|           10 |      544 | 2024-07-21 | Spirit fe   | W   | 1.000      | 0.294        | 0.005 (0.001)    | 0.136 (0.040)    | 0 (0.000) |    11.64 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            9 |      578 | 2024-07-20 | BIG EQUIPA  | W   | 1.000      | 0.294        | 0.017 (0.005)    | 0.142 (0.042)    | 0 (0.000) |    18.11 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            8 |      854 | 2024-07-14 | CENSORED fe | L   | 1.000      | -            | -                | -                | -         |   -15.96 | Elizabeth, f6tal, k175un4, t4tty, wieenN |
-|            7 |      984 | 2024-06-30 | YeYO        | W   | 0.954      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.60 | Elizabeth, f6tal, k175un4, sosya, wieenN |
-|            6 |     1045 | 2024-06-16 | NIP Impact  | L   | 0.860      | -            | -                | -                | -         |   -13.37 | k175un4, sosya, Stormy, unknxwn, wieenN  |
-|            5 |     2923 | 2024-04-14 | Spirit fe   | W   | 0.439      | 0.250        | 0.005 (0.001)    | 0.136 (0.015)    | 0 (0.000) |     5.61 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            4 |     3134 | 2024-04-07 | ENCE Athena | W   | 0.394      | 0.250        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     4.83 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            3 |     3901 | 2024-03-03 | BIG EQUIPA  | L   | 0.161      | -            | -                | -                | -         |    -2.15 | k175un4, sosya, Stormy, trigusha, wieenN |
-|            2 |     4203 | 2024-02-18 | Astralis W  | L   | 0.068      | -            | -                | -                | -         |    -1.35 | k175un4, mikeri, sosya, Stormy, wieenN   |
-|            1 |     4207 | 2024-02-18 | Crescent fe | L   | 0.067      | -            | -                | -                | -         |    -1.21 | k175un4, mikeri, sosya, Stormy, wieenN   |
+|           11 |      540 | 2024-07-21 | France fe   | W   | 1.000      | 0.294        | 0.006 (0.002)    | 0.115 (0.034)    | 0 (0.000) |    13.43 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|           10 |      545 | 2024-07-21 | Spirit fe   | W   | 1.000      | 0.294        | 0.005 (0.001)    | 0.136 (0.040)    | 0 (0.000) |    11.64 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            9 |      579 | 2024-07-20 | BIG EQUIPA  | W   | 1.000      | 0.294        | 0.017 (0.005)    | 0.142 (0.042)    | 0 (0.000) |    18.11 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            8 |      855 | 2024-07-14 | CENSORED fe | L   | 1.000      | -            | -                | -                | -         |   -15.96 | Elizabeth, f6tal, k175un4, t4tty, wieenN |
+|            7 |      985 | 2024-06-30 | YeYO        | W   | 0.953      | 0.250        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     7.60 | Elizabeth, f6tal, k175un4, sosya, wieenN |
+|            6 |     1046 | 2024-06-16 | NIP Impact  | L   | 0.860      | -            | -                | -                | -         |   -13.36 | k175un4, sosya, Stormy, unknxwn, wieenN  |
+|            5 |     2924 | 2024-04-14 | Spirit fe   | W   | 0.439      | 0.250        | 0.005 (0.001)    | 0.136 (0.015)    | 0 (0.000) |     5.61 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            4 |     3135 | 2024-04-07 | ENCE Athena | W   | 0.394      | 0.250        | 0.002 (0.000)    | 0.033 (0.003)    | 0 (0.000) |     4.82 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            3 |     3902 | 2024-03-03 | BIG EQUIPA  | L   | 0.161      | -            | -                | -                | -         |    -2.15 | k175un4, sosya, Stormy, trigusha, wieenN |
+|            2 |     4204 | 2024-02-18 | Astralis W  | L   | 0.068      | -            | -                | -                | -         |    -1.34 | k175un4, mikeri, sosya, Stormy, wieenN   |
+|            1 |     4208 | 2024-02-18 | Crescent fe | L   | 0.067      | -            | -                | -                | -         |    -1.20 | k175un4, mikeri, sosya, Stormy, wieenN   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,095.54)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($5,095.16)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -63,11 +63,11 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-07-21 |      1.000 | $3,000.00      | $3,000.00       |
 | 2024-07-14 |      1.000 | $500.00        | $500.00         |
-| 2024-06-30 |      0.954 | $750.00        | $715.19         |
-| 2024-06-16 |      0.860 | $250.00        | $215.01         |
-| 2024-04-14 |      0.439 | $750.00        | $329.58         |
-| 2024-04-07 |      0.394 | $750.00        | $295.57         |
-| 2024-03-03 |      0.161 | $250.00        | $40.19          |
+| 2024-06-30 |      0.953 | $750.00        | $715.09         |
+| 2024-06-16 |      0.860 | $250.00        | $214.97         |
+| 2024-04-14 |      0.439 | $750.00        | $329.48         |
+| 2024-04-07 |      0.394 | $750.00        | $295.47         |
+| 2024-03-03 |      0.161 | $250.00        | $40.16          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

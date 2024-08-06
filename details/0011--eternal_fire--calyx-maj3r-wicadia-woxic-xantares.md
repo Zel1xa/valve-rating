@@ -6,9 +6,9 @@ Global Rank: [11](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [10]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1621.2<br />
+Final Rank Value:  1621.5<br />
 <br />
-Final Rank Value (1621.2) = Starting Rank Value (1695.7) + Head To Head Adjustments (-74.4)<br />
+Final Rank Value (1621.5) = Starting Rank Value (1695.6) + Head To Head Adjustments (-74.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.630<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1695.7
-- 400 + ( ( 0.630 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1695.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1695.6
+- 400 + ( ( 0.630 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1695.6
 
 
 #### Factors<br />
@@ -37,50 +37,50 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           37 |      338 | 2024-07-28 | The MongolZ       | L   | 1.000      | -            | -                | -                | -         |   -11.76 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           36 |      374 | 2024-07-26 | 3DMAX             | W   | 1.000      | 0.650        | 0.510 (0.332)    | 1.000 (0.650)    | 1 (1.000) |     6.01 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           35 |      419 | 2024-07-25 | AMKAL             | W   | 1.000      | 0.650        | -                | 0.452 (0.294)    | 1 (1.000) |     2.76 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           34 |      450 | 2024-07-24 | DMS               | W   | 1.000      | 0.650        | -                | 0.428 (0.278)    | 1 (1.000) |     0.55 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           33 |      459 | 2024-07-24 | Revenant          | W   | 1.000      | 0.650        | -                | 0.259 (0.169)    | 1 (1.000) |     0.48 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           32 |     1460 | 2024-06-06 | BetBoom           | L   | 0.793      | -            | -                | -                | -         |   -19.49 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           31 |     1481 | 2024-06-06 | BIG               | W   | 0.792      | 0.715        | 0.154 (0.087)    | -                | 1 (0.792) |     3.55 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           30 |     1490 | 2024-06-06 | FURIA             | L   | 0.791      | -            | -                | -                | -         |   -15.13 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           29 |     1513 | 2024-06-05 | fnatic            | L   | 0.787      | -            | -                | -                | -         |   -19.31 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           28 |     1540 | 2024-06-05 | Complexity        | L   | 0.784      | -            | -                | -                | -         |   -13.23 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           27 |     1846 | 2024-05-23 | Liquid            | W   | 0.699      | 0.769        | 0.383 (0.206)    | 0.437 (0.235)    | -         |     8.73 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           26 |     1887 | 2024-05-22 | GamerLegion       | W   | 0.693      | 0.769        | 0.173 (0.092)    | -                | -         |     1.26 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           25 |     1927 | 2024-05-21 | BetBoom           | W   | 0.687      | 0.769        | 0.248 (0.131)    | 0.513 (0.271)    | -         |     3.48 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           24 |     2084 | 2024-05-16 | SAW               | W   | 0.654      | 0.769        | -                | 0.516 (0.259)    | -         |     1.40 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           23 |     2093 | 2024-05-16 | PARIVISION        | W   | 0.652      | 0.769        | -                | 0.590 (0.296)    | -         |     0.74 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           22 |     2557 | 2024-04-27 | SAW               | L   | 0.527      | -            | -                | -                | -         |   -15.69 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           21 |     2586 | 2024-04-26 | FaZe              | L   | 0.520      | -            | -                | -                | -         |    -7.72 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           20 |     2613 | 2024-04-25 | fnatic            | W   | 0.514      | 0.889        | 0.371 (0.169)    | 0.680 (0.311)    | 1 (0.514) |     4.55 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           19 |     2633 | 2024-04-24 | Imperial          | W   | 0.507      | 0.889        | 0.233 (0.105)    | 0.658 (0.297)    | 1 (0.507) |     1.53 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           18 |     2654 | 2024-04-23 | Astralis          | L   | 0.500      | -            | -                | -                | -         |    -7.17 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           17 |     2715 | 2024-04-20 | Sashi             | L   | 0.480      | -            | -                | -                | -         |   -14.51 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           16 |     2761 | 2024-04-19 | Sashi             | W   | 0.474      | -            | -                | -                | -         |     0.58 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           15 |     2771 | 2024-04-19 | BetBoom           | W   | 0.473      | -            | -                | -                | -         |     2.32 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           14 |     3329 | 2024-03-29 | Natus Vincere     | L   | 0.333      | -            | -                | -                | -         |    -2.01 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           13 |     3437 | 2024-03-23 | Virtus.pro        | W   | 0.292      | 1.000        | 0.499 (0.146)    | -                | 1 (0.292) |     4.52 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           12 |     3452 | 2024-03-22 | FaZe              | W   | 0.286      | 1.000        | 0.624 (0.178)    | -                | 1 (0.286) |     4.19 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           11 |     3469 | 2024-03-21 | MOUZ              | L   | 0.280      | -            | -                | -                | -         |    -2.76 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|           10 |     3477 | 2024-03-21 | Vitality          | W   | 0.279      | 1.000        | 0.647 (0.181)    | -                | 1 (0.279) |     6.15 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            9 |     3516 | 2024-03-19 | GamerLegion       | W   | 0.266      | -            | -                | -                | -         |     0.05 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            8 |     3524 | 2024-03-18 | HEROIC            | L   | 0.259      | -            | -                | -                | -         |    -5.66 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            7 |     3546 | 2024-03-17 | paiN              | W   | 0.254      | -            | -                | -                | -         |     1.24 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            6 |     3558 | 2024-03-17 | The MongolZ       | W   | 0.252      | -            | -                | -                | -         |     6.40 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            5 |     4232 | 2024-02-17 | BetBoom           | W   | 0.060      | -            | -                | -                | -         |     0.33 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            4 |     4266 | 2024-02-16 | FaZe              | L   | 0.053      | -            | -                | -                | -         |    -0.87 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            3 |     4296 | 2024-02-15 | Falcons           | W   | 0.045      | -            | -                | -                | -         |     0.25 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            2 |     4322 | 2024-02-14 | G2                | L   | 0.041      | -            | -                | -                | -         |    -0.20 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
-|            1 |     4333 | 2024-02-14 | Ninjas in Pyjamas | W   | 0.039      | -            | -                | -                | -         |     0.00 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           37 |      339 | 2024-07-28 | The MongolZ       | L   | 1.000      | -            | -                | -                | -         |   -11.76 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           36 |      375 | 2024-07-26 | 3DMAX             | W   | 1.000      | 0.650        | 0.510 (0.332)    | 1.000 (0.650)    | 1 (1.000) |     6.03 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           35 |      420 | 2024-07-25 | AMKAL             | W   | 1.000      | 0.650        | -                | 0.452 (0.294)    | 1 (1.000) |     2.77 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           34 |      451 | 2024-07-24 | DMS               | W   | 1.000      | 0.650        | -                | 0.428 (0.278)    | 1 (1.000) |     0.56 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           33 |      460 | 2024-07-24 | Revenant          | W   | 1.000      | 0.650        | -                | 0.259 (0.169)    | 1 (1.000) |     0.48 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           32 |     1461 | 2024-06-06 | BetBoom           | L   | 0.793      | -            | -                | -                | -         |   -19.49 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           31 |     1482 | 2024-06-06 | BIG               | W   | 0.792      | 0.715        | 0.154 (0.087)    | -                | 1 (0.792) |     3.55 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           30 |     1491 | 2024-06-06 | FURIA             | L   | 0.791      | -            | -                | -                | -         |   -15.13 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           29 |     1514 | 2024-06-05 | fnatic            | L   | 0.787      | -            | -                | -                | -         |   -19.26 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           28 |     1541 | 2024-06-05 | Complexity        | L   | 0.784      | -            | -                | -                | -         |   -13.23 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           27 |     1847 | 2024-05-23 | Liquid            | W   | 0.699      | 0.769        | 0.383 (0.206)    | 0.437 (0.235)    | -         |     8.72 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           26 |     1888 | 2024-05-22 | GamerLegion       | W   | 0.693      | 0.769        | 0.173 (0.092)    | -                | -         |     1.26 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           25 |     1928 | 2024-05-21 | BetBoom           | W   | 0.686      | 0.769        | 0.248 (0.131)    | 0.513 (0.271)    | -         |     3.48 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           24 |     2085 | 2024-05-16 | SAW               | W   | 0.654      | 0.769        | -                | 0.516 (0.259)    | -         |     1.41 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           23 |     2094 | 2024-05-16 | PARIVISION        | W   | 0.652      | 0.769        | -                | 0.590 (0.296)    | -         |     0.85 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           22 |     2558 | 2024-04-27 | SAW               | L   | 0.527      | -            | -                | -                | -         |   -15.67 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           21 |     2587 | 2024-04-26 | FaZe              | L   | 0.520      | -            | -                | -                | -         |    -7.72 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           20 |     2614 | 2024-04-25 | fnatic            | W   | 0.514      | 0.889        | 0.371 (0.169)    | 0.680 (0.311)    | 1 (0.514) |     4.58 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           19 |     2634 | 2024-04-24 | Imperial          | W   | 0.507      | 0.889        | 0.233 (0.105)    | 0.658 (0.297)    | 1 (0.507) |     1.53 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           18 |     2655 | 2024-04-23 | Astralis          | L   | 0.500      | -            | -                | -                | -         |    -7.16 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           17 |     2716 | 2024-04-20 | Sashi             | L   | 0.480      | -            | -                | -                | -         |   -14.50 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           16 |     2762 | 2024-04-19 | Sashi             | W   | 0.474      | -            | -                | -                | -         |     0.58 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           15 |     2772 | 2024-04-19 | BetBoom           | W   | 0.472      | -            | -                | -                | -         |     2.32 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           14 |     3330 | 2024-03-29 | Natus Vincere     | L   | 0.333      | -            | -                | -                | -         |    -2.01 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           13 |     3438 | 2024-03-23 | Virtus.pro        | W   | 0.292      | 1.000        | 0.499 (0.146)    | -                | 1 (0.292) |     4.52 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           12 |     3453 | 2024-03-22 | FaZe              | W   | 0.286      | 1.000        | 0.624 (0.178)    | -                | 1 (0.286) |     4.18 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           11 |     3470 | 2024-03-21 | MOUZ              | L   | 0.280      | -            | -                | -                | -         |    -2.76 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|           10 |     3478 | 2024-03-21 | Vitality          | W   | 0.279      | 1.000        | 0.647 (0.180)    | -                | 1 (0.279) |     6.15 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            9 |     3517 | 2024-03-19 | GamerLegion       | W   | 0.265      | -            | -                | -                | -         |     0.05 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            8 |     3525 | 2024-03-18 | HEROIC            | L   | 0.259      | -            | -                | -                | -         |    -5.66 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            7 |     3547 | 2024-03-17 | paiN              | W   | 0.254      | -            | -                | -                | -         |     1.24 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            6 |     3559 | 2024-03-17 | The MongolZ       | W   | 0.252      | -            | -                | -                | -         |     6.40 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            5 |     4233 | 2024-02-17 | BetBoom           | W   | 0.060      | -            | -                | -                | -         |     0.33 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            4 |     4267 | 2024-02-16 | FaZe              | L   | 0.053      | -            | -                | -                | -         |    -0.87 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            3 |     4297 | 2024-02-15 | Falcons           | W   | 0.045      | -            | -                | -                | -         |     0.25 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            2 |     4323 | 2024-02-14 | G2                | L   | 0.041      | -            | -                | -                | -         |    -0.20 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
+|            1 |     4334 | 2024-02-14 | Ninjas in Pyjamas | W   | 0.039      | -            | -                | -                | -         |     0.00 | Calyx, MAJ3R, Wicadia, woxic, XANTARES |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($236,340.56)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($236,297.50)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.74) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -88,10 +88,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $35,000.00     | $35,000.00      |
-| 2024-06-09 |      0.813 | $8,000.00      | $6,504.44       |
-| 2024-05-23 |      0.699 | $250,000.00    | $174,826.39     |
-| 2024-05-12 |      0.626 | $7,000.00      | $4,384.72       |
-| 2024-03-31 |      0.347 | $45,000.00     | $15,625.00      |
+| 2024-06-09 |      0.813 | $8,000.00      | $6,503.33       |
+| 2024-05-23 |      0.699 | $250,000.00    | $174,791.67     |
+| 2024-05-12 |      0.626 | $7,000.00      | $4,383.75       |
+| 2024-03-31 |      0.347 | $45,000.00     | $15,618.75      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

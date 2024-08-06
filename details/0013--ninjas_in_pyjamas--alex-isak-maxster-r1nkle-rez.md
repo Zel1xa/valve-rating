@@ -6,22 +6,22 @@ Global Rank: [13](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [11]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1573.4<br />
+Final Rank Value:  1573.8<br />
 <br />
-Final Rank Value (1573.4) = Starting Rank Value (1687.8) + Head To Head Adjustments (-114.4)<br />
+Final Rank Value (1573.8) = Starting Rank Value (1688.0) + Head To Head Adjustments (-114.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.627[<sup>1</sup>](#table2)
+- Bounty Offered: 0.626[<sup>1</sup>](#table2)
 - Bounty Collected: 0.568[<sup>2</sup>](#table1)
-- Opponent Network: 0.331[<sup>2</sup>](#table1)
+- Opponent Network: 0.332[<sup>2</sup>](#table1)
 - LAN Wins: 0.978[<sup>2</sup>](#table1)
 
 The average of these factors is 0.626<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1687.8
-- 400 + ( ( 0.626 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1687.8
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1688.0
+- 400 + ( ( 0.626 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1688.0
 
 
 #### Factors<br />
@@ -37,52 +37,52 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           39 |       60 | 2024-08-04 | Astralis        | L   | 1.000      | -            | -                | -                | -         |   -10.65 | alex, isak, maxster, r1nkle, REZ               |
-|           38 |       84 | 2024-08-03 | G2              | L   | 1.000      | -            | -                | -                | -         |    -3.40 | alex, isak, maxster, r1nkle, REZ               |
-|           37 |      123 | 2024-08-02 | FaZe            | W   | 1.000      | 0.581        | 0.624 (0.363)    | -                | 1 (1.000) |    20.61 | alex, isak, maxster, r1nkle, REZ               |
-|           36 |      167 | 2024-08-01 | Cloud9          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.30 | alex, isak, maxster, r1nkle, REZ               |
-|           35 |      219 | 2024-07-31 | G2              | L   | 1.000      | -            | -                | -                | -         |    -3.27 | alex, isak, maxster, r1nkle, REZ               |
-|           34 |      572 | 2024-07-20 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |   -29.65 | alex, isak, maxster, r1nkle, REZ               |
-|           33 |      646 | 2024-07-18 | MOUZ NXT        | W   | 1.000      | 0.500        | -                | 0.961 (0.481)    | -         |     1.65 | alex, isak, maxster, r1nkle, REZ               |
-|           32 |      773 | 2024-07-16 | Nexus           | W   | 1.000      | 0.500        | -                | 0.447 (0.223)    | -         |     0.29 | alex, isak, maxster, r1nkle, REZ               |
-|           31 |     1040 | 2024-06-16 | fnatic          | L   | 0.861      | -            | -                | -                | -         |   -18.90 | alex, isak, maxster, r1nkle, REZ               |
-|           30 |     1100 | 2024-06-14 | paiN            | W   | 0.849      | 0.548        | 0.324 (0.151)    | 0.839 (0.390)    | 1 (0.849) |     5.22 | alex, isak, maxster, r1nkle, REZ               |
-|           29 |     1106 | 2024-06-14 | 9z              | W   | 0.848      | 0.548        | 0.404 (0.188)    | 0.591 (0.274)    | 1 (0.848) |     7.81 | alex, isak, maxster, r1nkle, REZ               |
-|           28 |     1272 | 2024-06-09 | The MongolZ     | L   | 0.813      | -            | -                | -                | -         |    -4.19 | alex, isak, maxster, r1nkle, REZ               |
-|           27 |     1332 | 2024-06-08 | FURIA           | W   | 0.807      | 0.715        | 0.284 (0.164)    | 0.468 (0.270)    | 1 (0.807) |    12.59 | alex, isak, maxster, r1nkle, REZ               |
-|           26 |     1386 | 2024-06-07 | fnatic          | W   | 0.800      | 0.715        | 0.371 (0.212)    | 0.680 (0.389)    | 1 (0.800) |     8.45 | alex, isak, maxster, r1nkle, REZ               |
-|           25 |     1443 | 2024-06-06 | Sashi           | W   | 0.794      | 0.715        | 0.184 (0.104)    | 0.958 (0.544)    | 1 (0.794) |     2.63 | alex, isak, maxster, r1nkle, REZ               |
-|           24 |     1469 | 2024-06-06 | The MongolZ     | L   | 0.793      | -            | -                | -                | -         |    -3.59 | alex, isak, maxster, r1nkle, REZ               |
-|           23 |     1482 | 2024-06-06 | Astralis        | W   | 0.792      | 0.715        | 0.389 (0.220)    | 0.403 (0.228)    | 1 (0.792) |    17.04 | alex, isak, maxster, r1nkle, REZ               |
-|           22 |     1519 | 2024-06-05 | HEROIC          | W   | 0.787      | 0.715        | 0.224 (0.126)    | -                | 1 (0.787) |    12.28 | alex, isak, maxster, r1nkle, REZ               |
-|           21 |     1530 | 2024-06-05 | ENCE            | W   | 0.786      | 0.715        | 0.173 (0.097)    | 0.422 (0.237)    | 1 (0.786) |     6.04 | alex, isak, maxster, r1nkle, REZ               |
-|           20 |     1982 | 2024-05-19 | Sangal          | L   | 0.674      | -            | -                | -                | -         |   -19.68 | alex, isak, maxster, r1nkle, REZ               |
-|           19 |     2009 | 2024-05-18 | Metizport       | L   | 0.667      | -            | -                | -                | -         |   -20.35 | alex, isak, maxster, r1nkle, REZ               |
-|           18 |     2079 | 2024-05-16 | Sangal          | W   | 0.654      | 0.500        | -                | 0.846 (0.277)    | -         |     1.18 | alex, isak, maxster, r1nkle, REZ               |
-|           17 |     2402 | 2024-05-05 | FlyQuest        | L   | 0.579      | -            | -                | -                | -         |   -16.68 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           16 |     2410 | 2024-05-04 | HEROIC          | W   | 0.573      | 0.889        | 0.224 (0.114)    | -                | -         |     7.74 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           15 |     2424 | 2024-05-03 | BOSS            | W   | 0.567      | -            | -                | -                | -         |     0.22 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           14 |     2454 | 2024-05-02 | PERA            | L   | 0.560      | -            | -                | -                | -         |   -17.29 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           13 |     2499 | 2024-04-30 | HEROIC          | L   | 0.546      | -            | -                | -                | -         |   -10.00 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
-|           12 |     2807 | 2024-04-18 | brazylijski luz | L   | 0.467      | -            | -                | -                | -         |   -14.56 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           11 |     2953 | 2024-04-12 | OG              | L   | 0.426      | -            | -                | -                | -         |   -13.05 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|           10 |     2978 | 2024-04-11 | BetBoom         | L   | 0.420      | -            | -                | -                | -         |   -10.74 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            9 |     3074 | 2024-04-09 | Gods Reign      | W   | 0.407      | -            | -                | -                | -         |     0.09 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            8 |     3206 | 2024-04-04 | Aurora          | L   | 0.374      | -            | -                | -                | -         |    -5.88 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            7 |     3215 | 2024-04-04 | Metizport       | W   | 0.373      | -            | -                | -                | -         |     0.19 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            6 |     3246 | 2024-04-03 | Aurora          | L   | 0.367      | -            | -                | -                | -         |    -5.96 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            5 |     3266 | 2024-04-03 | Sampi           | L   | 0.365      | -            | -                | -                | -         |   -11.35 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            4 |     3283 | 2024-04-02 | FAVBET          | W   | 0.360      | -            | -                | -                | -         |     0.07 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            3 |     3291 | 2024-04-02 | Monte           | W   | 0.359      | -            | -                | -                | -         |     0.21 | alex, BluePho3nix, maxster, r1nkle, REZ        |
-|            2 |     3376 | 2024-03-27 | 500             | W   | 0.321      | -            | -                | -                | -         |     0.04 | alex, BluePho3nix, maxster, REZ, Silence       |
-|            1 |     3384 | 2024-03-27 | Verdant         | W   | 0.321      | -            | -                | -                | -         |     0.15 | alex, BluePho3nix, maxster, REZ, Silence       |
+|           39 |       61 | 2024-08-04 | Astralis        | L   | 1.000      | -            | -                | -                | -         |   -10.66 | alex, isak, maxster, r1nkle, REZ               |
+|           38 |       85 | 2024-08-03 | G2              | L   | 1.000      | -            | -                | -                | -         |    -3.41 | alex, isak, maxster, r1nkle, REZ               |
+|           37 |      124 | 2024-08-02 | FaZe            | W   | 1.000      | 0.581        | 0.624 (0.363)    | -                | 1 (1.000) |    20.59 | alex, isak, maxster, r1nkle, REZ               |
+|           36 |      168 | 2024-08-01 | Cloud9          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.30 | alex, isak, maxster, r1nkle, REZ               |
+|           35 |      220 | 2024-07-31 | G2              | L   | 1.000      | -            | -                | -                | -         |    -3.28 | alex, isak, maxster, r1nkle, REZ               |
+|           34 |      573 | 2024-07-20 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |   -29.64 | alex, isak, maxster, r1nkle, REZ               |
+|           33 |      647 | 2024-07-18 | MOUZ NXT        | W   | 1.000      | 0.500        | -                | 0.961 (0.481)    | -         |     1.66 | alex, isak, maxster, r1nkle, REZ               |
+|           32 |      774 | 2024-07-16 | Nexus           | W   | 1.000      | 0.500        | -                | 0.447 (0.223)    | -         |     0.29 | alex, isak, maxster, r1nkle, REZ               |
+|           31 |     1041 | 2024-06-16 | fnatic          | L   | 0.861      | -            | -                | -                | -         |   -18.86 | alex, isak, maxster, r1nkle, REZ               |
+|           30 |     1101 | 2024-06-14 | paiN            | W   | 0.849      | 0.548        | 0.324 (0.151)    | 0.839 (0.390)    | 1 (0.849) |     5.21 | alex, isak, maxster, r1nkle, REZ               |
+|           29 |     1107 | 2024-06-14 | 9z              | W   | 0.847      | 0.548        | 0.404 (0.188)    | 0.591 (0.274)    | 1 (0.847) |     7.79 | alex, isak, maxster, r1nkle, REZ               |
+|           28 |     1273 | 2024-06-09 | The MongolZ     | L   | 0.813      | -            | -                | -                | -         |    -4.19 | alex, isak, maxster, r1nkle, REZ               |
+|           27 |     1333 | 2024-06-08 | FURIA           | W   | 0.807      | 0.715        | 0.284 (0.164)    | 0.468 (0.270)    | 1 (0.807) |    12.58 | alex, isak, maxster, r1nkle, REZ               |
+|           26 |     1387 | 2024-06-07 | fnatic          | W   | 0.800      | 0.715        | 0.371 (0.212)    | 0.680 (0.389)    | 1 (0.800) |     8.49 | alex, isak, maxster, r1nkle, REZ               |
+|           25 |     1444 | 2024-06-06 | Sashi           | W   | 0.794      | 0.715        | 0.184 (0.104)    | 0.958 (0.544)    | 1 (0.794) |     2.63 | alex, isak, maxster, r1nkle, REZ               |
+|           24 |     1470 | 2024-06-06 | The MongolZ     | L   | 0.793      | -            | -                | -                | -         |    -3.59 | alex, isak, maxster, r1nkle, REZ               |
+|           23 |     1483 | 2024-06-06 | Astralis        | W   | 0.791      | 0.715        | 0.389 (0.220)    | 0.403 (0.228)    | 1 (0.791) |    17.02 | alex, isak, maxster, r1nkle, REZ               |
+|           22 |     1520 | 2024-06-05 | HEROIC          | W   | 0.787      | 0.715        | 0.224 (0.126)    | -                | 1 (0.787) |    12.26 | alex, isak, maxster, r1nkle, REZ               |
+|           21 |     1531 | 2024-06-05 | ENCE            | W   | 0.785      | 0.715        | 0.173 (0.097)    | 0.422 (0.237)    | 1 (0.785) |     6.05 | alex, isak, maxster, r1nkle, REZ               |
+|           20 |     1983 | 2024-05-19 | Sangal          | L   | 0.674      | -            | -                | -                | -         |   -19.55 | alex, isak, maxster, r1nkle, REZ               |
+|           19 |     2010 | 2024-05-18 | Metizport       | L   | 0.667      | -            | -                | -                | -         |   -20.34 | alex, isak, maxster, r1nkle, REZ               |
+|           18 |     2080 | 2024-05-16 | Sangal          | W   | 0.654      | 0.500        | -                | 0.858 (0.281)    | -         |     1.28 | alex, isak, maxster, r1nkle, REZ               |
+|           17 |     2403 | 2024-05-05 | FlyQuest        | L   | 0.579      | -            | -                | -                | -         |   -16.68 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           16 |     2411 | 2024-05-04 | HEROIC          | W   | 0.573      | 0.889        | 0.224 (0.114)    | -                | -         |     7.73 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           15 |     2425 | 2024-05-03 | BOSS            | W   | 0.567      | -            | -                | -                | -         |     0.22 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           14 |     2455 | 2024-05-02 | PERA            | L   | 0.559      | -            | -                | -                | -         |   -17.28 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           13 |     2500 | 2024-04-30 | HEROIC          | L   | 0.546      | -            | -                | -                | -         |   -10.01 | alex, BluePho3nix, maxster, r1nkle, xKacpersky |
+|           12 |     2808 | 2024-04-18 | brazylijski luz | L   | 0.467      | -            | -                | -                | -         |   -14.56 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           11 |     2954 | 2024-04-12 | OG              | L   | 0.426      | -            | -                | -                | -         |   -13.05 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|           10 |     2979 | 2024-04-11 | BetBoom         | L   | 0.420      | -            | -                | -                | -         |   -10.73 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            9 |     3075 | 2024-04-09 | Gods Reign      | W   | 0.407      | -            | -                | -                | -         |     0.09 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            8 |     3207 | 2024-04-04 | Aurora          | L   | 0.374      | -            | -                | -                | -         |    -5.88 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            7 |     3216 | 2024-04-04 | Metizport       | W   | 0.372      | -            | -                | -                | -         |     0.19 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            6 |     3247 | 2024-04-03 | Aurora          | L   | 0.367      | -            | -                | -                | -         |    -5.96 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            5 |     3267 | 2024-04-03 | Sampi           | L   | 0.365      | -            | -                | -                | -         |   -11.35 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            4 |     3284 | 2024-04-02 | FAVBET          | W   | 0.360      | -            | -                | -                | -         |     0.07 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            3 |     3292 | 2024-04-02 | Monte           | W   | 0.359      | -            | -                | -                | -         |     0.21 | alex, BluePho3nix, maxster, r1nkle, REZ        |
+|            2 |     3377 | 2024-03-27 | 500             | W   | 0.321      | -            | -                | -                | -         |     0.05 | alex, BluePho3nix, maxster, REZ, Silence       |
+|            1 |     3385 | 2024-03-27 | Verdant         | W   | 0.320      | -            | -                | -                | -         |     0.15 | alex, BluePho3nix, maxster, REZ, Silence       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($81,121.75)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($81,107.69)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.25) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -90,10 +90,10 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $10,500.00     | $10,500.00      |
-| 2024-06-16 |      0.862 | $7,000.00      | $6,034.91       |
-| 2024-06-09 |      0.813 | $56,000.00     | $45,531.11      |
-| 2024-05-12 |      0.626 | $12,000.00     | $7,516.67       |
-| 2024-04-14 |      0.440 | $26,250.00     | $11,539.06      |
+| 2024-06-16 |      0.862 | $7,000.00      | $6,033.94       |
+| 2024-06-09 |      0.813 | $56,000.00     | $45,523.33      |
+| 2024-05-12 |      0.626 | $12,000.00     | $7,515.00       |
+| 2024-04-14 |      0.439 | $26,250.00     | $11,535.42      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

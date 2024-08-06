@@ -40,25 +40,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       76 | 2024-08-03 | Take Flyte       | W   | 1.000      | 0.303        | -                | 0.231 (0.070)    | 0 (0.000) |     5.26 | JBa, MarKE, phzy, Sonic, susp     |
-|           11 |      184 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    13.79 | JBa, phzy, Sonic, stanislaw, susp |
-|           10 |      190 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    15.05 | JBa, phzy, Sonic, stanislaw, susp |
-|            9 |      524 | 2024-07-21 | NRG              | W   | 1.000      | 0.303        | 0.020 (0.006)    | 0.502 (0.152)    | 0 (0.000) |    20.01 | JBa, phzy, Sonic, stanislaw, susp |
-|            8 |      525 | 2024-07-21 | Elevate          | W   | 1.000      | 0.303        | 0.027 (0.008)    | 0.501 (0.152)    | 0 (0.000) |    18.53 | JBa, phzy, Sonic, stanislaw, susp |
-|            7 |      550 | 2024-07-20 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.510 (0.155)    | 0 (0.000) |    20.59 | JBa, phzy, Sonic, stanislaw, susp |
-|            6 |      624 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.231 (0.110)    | 0 (0.000) |     9.03 | JBa, phzy, Sonic, stanislaw, susp |
-|            5 |      629 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.231 (0.110)    | 0 (0.000) |     9.72 | JBa, phzy, Sonic, stanislaw, susp |
-|            4 |      694 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |    10.31 | JBa, phzy, Sonic, stanislaw, susp |
-|            3 |      697 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | -                | 0 (0.000) |    11.16 | JBa, phzy, Sonic, stanislaw, susp |
-|            2 |      753 | 2024-07-16 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | -         |    17.94 | JBa, phzy, Sonic, stanislaw, susp |
-|            1 |      759 | 2024-07-16 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -13.36 | JBa, phzy, Sonic, stanislaw, susp |
+|           12 |       77 | 2024-08-03 | Take Flyte       | W   | 1.000      | 0.303        | -                | 0.231 (0.070)    | 0 (0.000) |     5.26 | JBa, MarKE, phzy, Sonic, susp     |
+|           11 |      185 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    13.79 | JBa, phzy, Sonic, stanislaw, susp |
+|           10 |      191 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    15.05 | JBa, phzy, Sonic, stanislaw, susp |
+|            9 |      525 | 2024-07-21 | NRG              | W   | 1.000      | 0.303        | 0.020 (0.006)    | 0.502 (0.152)    | 0 (0.000) |    20.01 | JBa, phzy, Sonic, stanislaw, susp |
+|            8 |      526 | 2024-07-21 | Elevate          | W   | 1.000      | 0.303        | 0.027 (0.008)    | 0.501 (0.152)    | 0 (0.000) |    18.53 | JBa, phzy, Sonic, stanislaw, susp |
+|            7 |      551 | 2024-07-20 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.510 (0.155)    | 0 (0.000) |    20.58 | JBa, phzy, Sonic, stanislaw, susp |
+|            6 |      625 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.231 (0.110)    | 0 (0.000) |     9.03 | JBa, phzy, Sonic, stanislaw, susp |
+|            5 |      630 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.231 (0.110)    | 0 (0.000) |     9.72 | JBa, phzy, Sonic, stanislaw, susp |
+|            4 |      695 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.128 (0.061)    | 0 (0.000) |    10.31 | JBa, phzy, Sonic, stanislaw, susp |
+|            3 |      698 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | -                | 0 (0.000) |    11.16 | JBa, phzy, Sonic, stanislaw, susp |
+|            2 |      754 | 2024-07-16 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | -         |    17.94 | JBa, phzy, Sonic, stanislaw, susp |
+|            1 |      760 | 2024-07-16 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -13.37 | JBa, phzy, Sonic, stanislaw, susp |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,000.00)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

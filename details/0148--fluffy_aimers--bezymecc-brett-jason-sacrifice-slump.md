@@ -37,41 +37,41 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           28 |       45 | 2024-08-04 | Homyno           | W   | 1.000      | 0.371        | 0.007 (0.003)    | 0.153 (0.057)    | 0 (0.000) |    13.38 | bezymecc, brett, jason, sacrifice, slump |
-|           27 |      189 | 2024-07-31 | Mythic           | L   | 1.000      | -            | -                | -                | -         |   -14.71 | bezymecc, brett, jason, sacrifice, slump |
-|           26 |      191 | 2024-07-31 | Mythic           | W   | 1.000      | 0.477        | 0.010 (0.005)    | 0.285 (0.136)    | 0 (0.000) |    16.88 | bezymecc, brett, jason, sacrifice, slump |
-|           25 |      389 | 2024-07-25 | NoVum            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.038 (0.014)    | 0 (0.000) |     4.53 | bezymecc, brett, jason, sacrifice, slump |
-|           24 |      427 | 2024-07-24 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -12.59 | bezymecc, brett, jason, sacrifice, slump |
-|           23 |      430 | 2024-07-24 | E-Xolos LAZER    | W   | 1.000      | 0.477        | 0.011 (0.005)    | 0.376 (0.179)    | 0 (0.000) |    19.19 | bezymecc, brett, jason, sacrifice, slump |
-|           22 |      462 | 2024-07-23 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.55 | bezymecc, brett, jason, sacrifice, slump |
-|           21 |      464 | 2024-07-23 | Party Astronauts | W   | 1.000      | 0.477        | 0.041 (0.020)    | 0.510 (0.243)    | 0 (0.000) |    25.51 | bezymecc, brett, jason, sacrifice, slump |
-|           20 |      750 | 2024-07-16 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -5.79 | bezymecc, brett, jason, sacrifice, slump |
-|           19 |      755 | 2024-07-16 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -6.11 | bezymecc, brett, jason, sacrifice, slump |
-|           18 |     1096 | 2024-06-14 | Elevate          | L   | 0.850      | -            | -                | -                | -         |    -4.85 | brett, jason, nooz, PNDLM, sacrifice     |
-|           17 |     1330 | 2024-06-08 | Perseverance     | W   | 0.807      | 0.371        | 0.000 (0.000)    | 0.062 (0.018)    | 0 (0.000) |     6.92 | brett, jason, nooz, PNDLM, sacrifice     |
-|           16 |     1421 | 2024-06-06 | Akimbo           | L   | 0.796      | -            | -                | -                | -         |   -10.21 | brett, jason, nooz, PNDLM, sacrifice     |
-|           15 |     1438 | 2024-06-06 | NRG              | L   | 0.795      | -            | -                | -                | -         |    -6.53 | brett, jason, nooz, PNDLM, sacrifice     |
-|           14 |     1447 | 2024-06-06 | M80              | L   | 0.794      | -            | -                | -                | -         |    -1.24 | brett, jason, nooz, PNDLM, sacrifice     |
-|           13 |     1506 | 2024-06-05 | NRG              | L   | 0.787      | -            | -                | -                | -         |    -6.85 | brett, jason, nooz, PNDLM, sacrifice     |
-|           12 |     1589 | 2024-06-03 | Akimbo           | W   | 0.774      | 0.371        | 0.003 (0.001)    | 0.071 (0.020)    | 0 (0.000) |    10.14 | brett, jason, nooz, PNDLM, sacrifice     |
-|           11 |     1901 | 2024-05-21 | Nouns            | L   | 0.690      | -            | -                | -                | -         |    -4.57 | brett, jason, nooz, PNDLM, sacrifice     |
-|           10 |     1904 | 2024-05-21 | Nouns            | L   | 0.689      | -            | -                | -                | -         |    -4.76 | brett, jason, nooz, PNDLM, sacrifice     |
-|            9 |     1941 | 2024-05-20 | Phoenix          | W   | 0.683      | 0.477        | 0.004 (0.001)    | 0.270 (0.088)    | 0 (0.000) |    11.74 | brett, jason, nooz, PNDLM, sacrifice     |
-|            8 |     1945 | 2024-05-20 | Phoenix          | L   | 0.682      | -            | -                | -                | -         |    -9.90 | brett, jason, nooz, PNDLM, sacrifice     |
-|            7 |     1980 | 2024-05-19 | Nouns            | L   | 0.674      | -            | -                | -                | -         |    -4.82 | brett, jason, nooz, PNDLM, sacrifice     |
-|            6 |     2034 | 2024-05-17 | Elevate          | L   | 0.663      | -            | -                | -                | -         |    -4.00 | brett, jason, nooz, PNDLM, sacrifice     |
-|            5 |     2035 | 2024-05-17 | Elevate          | L   | 0.662      | -            | -                | -                | -         |    -4.15 | brett, jason, nooz, PNDLM, sacrifice     |
-|            4 |     2068 | 2024-05-16 | Party Astronauts | L   | 0.656      | -            | -                | -                | -         |    -5.45 | brett, jason, nooz, PNDLM, sacrifice     |
-|            3 |     2071 | 2024-05-16 | Party Astronauts | L   | 0.656      | -            | -                | -                | -         |    -5.70 | brett, jason, nooz, PNDLM, sacrifice     |
-|            2 |     2104 | 2024-05-15 | MIGHT            | W   | 0.649      | 0.477        | 0.000 (0.000)    | 0.056 (0.017)    | 0 (0.000) |     4.48 | brett, jason, nooz, PNDLM, sacrifice     |
-|            1 |     2111 | 2024-05-15 | MIGHT            | W   | 0.649      | 0.477        | 0.000 (0.000)    | 0.056 (0.017)    | 0 (0.000) |     4.66 | brett, jason, nooz, PNDLM, sacrifice     |
+|           28 |       46 | 2024-08-04 | Homyno           | W   | 1.000      | 0.371        | 0.007 (0.003)    | 0.153 (0.057)    | 0 (0.000) |    13.38 | bezymecc, brett, jason, sacrifice, slump |
+|           27 |      190 | 2024-07-31 | Mythic           | L   | 1.000      | -            | -                | -                | -         |   -14.72 | bezymecc, brett, jason, sacrifice, slump |
+|           26 |      192 | 2024-07-31 | Mythic           | W   | 1.000      | 0.477        | 0.010 (0.005)    | 0.285 (0.136)    | 0 (0.000) |    16.88 | bezymecc, brett, jason, sacrifice, slump |
+|           25 |      390 | 2024-07-25 | NoVum            | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.038 (0.014)    | 0 (0.000) |     4.53 | bezymecc, brett, jason, sacrifice, slump |
+|           24 |      428 | 2024-07-24 | E-Xolos LAZER    | L   | 1.000      | -            | -                | -                | -         |   -12.59 | bezymecc, brett, jason, sacrifice, slump |
+|           23 |      431 | 2024-07-24 | E-Xolos LAZER    | W   | 1.000      | 0.477        | 0.011 (0.005)    | 0.376 (0.179)    | 0 (0.000) |    19.19 | bezymecc, brett, jason, sacrifice, slump |
+|           22 |      463 | 2024-07-23 | Party Astronauts | L   | 1.000      | -            | -                | -                | -         |    -6.55 | bezymecc, brett, jason, sacrifice, slump |
+|           21 |      465 | 2024-07-23 | Party Astronauts | W   | 1.000      | 0.477        | 0.041 (0.020)    | 0.510 (0.243)    | 0 (0.000) |    25.51 | bezymecc, brett, jason, sacrifice, slump |
+|           20 |      751 | 2024-07-16 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -5.79 | bezymecc, brett, jason, sacrifice, slump |
+|           19 |      756 | 2024-07-16 | NRG              | L   | 1.000      | -            | -                | -                | -         |    -6.11 | bezymecc, brett, jason, sacrifice, slump |
+|           18 |     1097 | 2024-06-14 | Elevate          | L   | 0.849      | -            | -                | -                | -         |    -4.85 | brett, jason, nooz, PNDLM, sacrifice     |
+|           17 |     1331 | 2024-06-08 | Perseverance     | W   | 0.807      | 0.371        | 0.000 (0.000)    | 0.062 (0.018)    | 0 (0.000) |     6.92 | brett, jason, nooz, PNDLM, sacrifice     |
+|           16 |     1422 | 2024-06-06 | Akimbo           | L   | 0.796      | -            | -                | -                | -         |   -10.21 | brett, jason, nooz, PNDLM, sacrifice     |
+|           15 |     1439 | 2024-06-06 | NRG              | L   | 0.794      | -            | -                | -                | -         |    -6.53 | brett, jason, nooz, PNDLM, sacrifice     |
+|           14 |     1448 | 2024-06-06 | M80              | L   | 0.794      | -            | -                | -                | -         |    -1.24 | brett, jason, nooz, PNDLM, sacrifice     |
+|           13 |     1507 | 2024-06-05 | NRG              | L   | 0.787      | -            | -                | -                | -         |    -6.85 | brett, jason, nooz, PNDLM, sacrifice     |
+|           12 |     1590 | 2024-06-03 | Akimbo           | W   | 0.774      | 0.371        | 0.003 (0.001)    | 0.071 (0.020)    | 0 (0.000) |    10.14 | brett, jason, nooz, PNDLM, sacrifice     |
+|           11 |     1902 | 2024-05-21 | Nouns            | L   | 0.690      | -            | -                | -                | -         |    -4.57 | brett, jason, nooz, PNDLM, sacrifice     |
+|           10 |     1905 | 2024-05-21 | Nouns            | L   | 0.689      | -            | -                | -                | -         |    -4.76 | brett, jason, nooz, PNDLM, sacrifice     |
+|            9 |     1942 | 2024-05-20 | Phoenix          | W   | 0.682      | 0.477        | 0.004 (0.001)    | 0.270 (0.088)    | 0 (0.000) |    11.74 | brett, jason, nooz, PNDLM, sacrifice     |
+|            8 |     1946 | 2024-05-20 | Phoenix          | L   | 0.682      | -            | -                | -                | -         |    -9.90 | brett, jason, nooz, PNDLM, sacrifice     |
+|            7 |     1981 | 2024-05-19 | Nouns            | L   | 0.674      | -            | -                | -                | -         |    -4.82 | brett, jason, nooz, PNDLM, sacrifice     |
+|            6 |     2035 | 2024-05-17 | Elevate          | L   | 0.663      | -            | -                | -                | -         |    -4.00 | brett, jason, nooz, PNDLM, sacrifice     |
+|            5 |     2036 | 2024-05-17 | Elevate          | L   | 0.662      | -            | -                | -                | -         |    -4.15 | brett, jason, nooz, PNDLM, sacrifice     |
+|            4 |     2069 | 2024-05-16 | Party Astronauts | L   | 0.656      | -            | -                | -                | -         |    -5.45 | brett, jason, nooz, PNDLM, sacrifice     |
+|            3 |     2072 | 2024-05-16 | Party Astronauts | L   | 0.656      | -            | -                | -                | -         |    -5.70 | brett, jason, nooz, PNDLM, sacrifice     |
+|            2 |     2105 | 2024-05-15 | MIGHT            | W   | 0.649      | 0.477        | 0.000 (0.000)    | 0.056 (0.017)    | 0 (0.000) |     4.48 | brett, jason, nooz, PNDLM, sacrifice     |
+|            1 |     2112 | 2024-05-15 | MIGHT            | W   | 0.649      | 0.477        | 0.000 (0.000)    | 0.056 (0.017)    | 0 (0.000) |     4.66 | brett, jason, nooz, PNDLM, sacrifice     |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($978.67)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- First, take the sum of their top 10 scaled winnings ($978.50)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

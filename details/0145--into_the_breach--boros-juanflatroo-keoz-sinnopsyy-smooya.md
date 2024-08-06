@@ -6,9 +6,9 @@ Global Rank: [145](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [95]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  742.7<br />
+Final Rank Value:  742.9<br />
 <br />
-Final Rank Value (742.7) = Starting Rank Value (640.1) + Head To Head Adjustments (102.6)<br />
+Final Rank Value (742.9) = Starting Rank Value (640.1) + Head To Head Adjustments (102.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       30 | 2024-08-05 | Johnny Speeds | L   | 1.000      | -            | -                | -                | -         |    -1.84 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|           11 |       57 | 2024-08-04 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |    -2.64 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|           10 |       97 | 2024-08-03 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.31 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            9 |      130 | 2024-08-02 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.53 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            8 |      158 | 2024-08-01 | GUN5          | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    20.77 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            7 |      218 | 2024-07-31 | 1WIN          | L   | 1.000      | -            | -                | -                | -         |    -6.42 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            6 |      302 | 2024-07-29 | Passion UA    | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    27.93 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            5 |      343 | 2024-07-27 | Monte         | L   | 1.000      | -            | -                | -                | -         |    -3.48 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            4 |      409 | 2024-07-25 | Permitta      | W   | 1.000      | 0.435        | 0.039 (0.017)    | 0.919 (0.399)    | 0 (0.000) |    23.99 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            3 |      515 | 2024-07-22 | INFINITE      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.182 (0.026)    | 0 (0.000) |    11.75 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            2 |      658 | 2024-07-18 | Preasy        | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.216 (0.031)    | 0 (0.000) |    20.84 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
-|            1 |      744 | 2024-07-17 | TSM           | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.500 (0.071)    | 0 (0.000) |    28.54 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|           12 |       31 | 2024-08-05 | Johnny Speeds | L   | 1.000      | -            | -                | -                | -         |    -1.83 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|           11 |       58 | 2024-08-04 | Zero Tenacity | L   | 1.000      | -            | -                | -                | -         |    -2.62 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|           10 |       98 | 2024-08-03 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.29 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            9 |      131 | 2024-08-02 | 9INE          | L   | 1.000      | -            | -                | -                | -         |    -8.52 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            8 |      160 | 2024-08-01 | GUN5          | W   | 1.000      | 0.435        | 0.072 (0.031)    | 0.550 (0.239)    | 0 (0.000) |    20.81 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            7 |      219 | 2024-07-31 | 1WIN          | L   | 1.000      | -            | -                | -                | -         |    -6.41 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            6 |      303 | 2024-07-29 | Passion UA    | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    27.95 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            5 |      344 | 2024-07-27 | Monte         | L   | 1.000      | -            | -                | -                | -         |    -3.45 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            4 |      410 | 2024-07-25 | Permitta      | W   | 1.000      | 0.435        | 0.039 (0.017)    | 0.919 (0.399)    | 0 (0.000) |    24.03 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            3 |      516 | 2024-07-22 | INFINITE      | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.182 (0.026)    | 0 (0.000) |    11.75 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            2 |      659 | 2024-07-18 | Preasy        | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.216 (0.031)    | 0 (0.000) |    20.85 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
+|            1 |      745 | 2024-07-17 | TSM           | W   | 1.000      | 0.143        | 0.040 (0.006)    | 0.500 (0.071)    | 0 (0.000) |    28.54 | BOROS, juanflatroo, Keoz, sinnopsyy, smooya |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,109.81)
+- Divide that value by the 5th highest value among all rosters ($320,068.63)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
