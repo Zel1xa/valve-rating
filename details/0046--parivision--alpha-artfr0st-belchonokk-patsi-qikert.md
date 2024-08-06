@@ -6,22 +6,22 @@ Global Rank: [46](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [33]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1098.9<br />
+Final Rank Value:  1099.5<br />
 <br />
-Final Rank Value (1098.9) = Starting Rank Value (1109.6) + Head To Head Adjustments (-10.7)<br />
+Final Rank Value (1099.5) = Starting Rank Value (1110.6) + Head To Head Adjustments (-11.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.362[<sup>1</sup>](#table2)
 - Bounty Collected: 0.509[<sup>2</sup>](#table1)
-- Opponent Network: 0.282[<sup>2</sup>](#table1)
-- LAN Wins: 0.230[<sup>2</sup>](#table1)
+- Opponent Network: 0.283[<sup>2</sup>](#table1)
+- LAN Wins: 0.231[<sup>2</sup>](#table1)
 
 The average of these factors is 0.346<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1109.6
-- 400 + ( ( 0.346 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1109.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1110.6
+- 400 + ( ( 0.346 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1110.6
 
 
 #### Factors<br />
@@ -37,76 +37,76 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           55 |       12 | 2024-08-05 | ENCE              | W   | 1.000      | 0.435        | 0.174 (0.075)    | 0.432 (0.188)    | 0 (0.000) |    25.61 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           54 |       27 | 2024-08-04 | Betera            | L   | 1.000      | -            | -                | -                | -         |   -29.39 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           53 |       67 | 2024-08-03 | GUN5              | L   | 1.000      | -            | -                | -                | -         |   -25.38 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           52 |       82 | 2024-08-03 | CYBERSHOKE        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.08 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           51 |       93 | 2024-08-02 | TSM               | W   | 1.000      | 0.500        | -                | 0.431 (0.215)    | 0 (0.000) |    10.49 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           50 |      134 | 2024-08-01 | 9 Pandas          | W   | 1.000      | 0.500        | 0.081 (0.041)    | 0.717 (0.358)    | 0 (0.000) |    13.21 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           49 |      249 | 2024-07-30 | Permitta          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.84 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           48 |      349 | 2024-07-26 | BLEED             | L   | 1.000      | -            | -                | -                | -         |    -6.65 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           47 |      362 | 2024-07-26 | True Rippers      | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.51 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           46 |      394 | 2024-07-25 | ENCE              | L   | 1.000      | -            | -                | -                | -         |    -5.53 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           45 |      432 | 2024-07-24 | The MongolZ       | W   | 1.000      | 0.650        | 1.000 (0.650)    | 0.710 (0.462)    | 1 (1.000) |    30.77 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           44 |      439 | 2024-07-24 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -3.37 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           43 |     1111 | 2024-06-14 | Permitta          | L   | 0.849      | -            | -                | -                | -         |   -18.84 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           42 |     1212 | 2024-06-10 | RUSH B            | W   | 0.823      | -            | -                | -                | 0 (0.000) |     8.05 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           41 |     1218 | 2024-06-10 | 3DMAX             | L   | 0.823      | -            | -                | -                | -         |    -3.38 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           40 |     1224 | 2024-06-10 | SINNERS           | L   | 0.823      | -            | -                | -                | -         |   -14.37 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           39 |     1255 | 2024-06-09 | Aurora            | L   | 0.817      | -            | -                | -                | -         |    -3.29 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           38 |     1261 | 2024-06-09 | 9 Pandas          | W   | 0.817      | -            | -                | -                | 0 (0.000) |    12.38 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           37 |     1272 | 2024-06-09 | Monte             | W   | 0.816      | -            | -                | -                | 0 (0.000) |    10.16 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           36 |     1274 | 2024-06-09 | SAW               | L   | 0.816      | -            | -                | -                | -         |    -9.98 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           35 |     1494 | 2024-06-05 | Aurora            | L   | 0.791      | -            | -                | -                | -         |    -2.05 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           34 |     1541 | 2024-06-04 | Monte             | W   | 0.784      | 0.500        | 0.080 (0.031)    | 0.611 (0.240)    | -         |    10.25 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
-|           33 |     1946 | 2024-05-20 | Sangal            | L   | 0.683      | -            | -                | -                | -         |    -9.66 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           32 |     2025 | 2024-05-17 | Zero Tenacity     | W   | 0.665      | 0.500        | 0.143 (0.048)    | 1.000 (0.332)    | -         |    10.20 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           31 |     2056 | 2024-05-16 | Aurora            | L   | 0.659      | -            | -                | -                | -         |    -1.39 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           30 |     2072 | 2024-05-16 | Eternal Fire      | L   | 0.657      | -            | -                | -                | -         |    -0.73 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           29 |     2111 | 2024-05-15 | B8                | W   | 0.651      | 0.500        | 0.164 (0.054)    | 0.934 (0.304)    | -         |    11.23 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           28 |     2296 | 2024-05-09 | Endpoint          | L   | 0.611      | -            | -                | -                | -         |   -13.19 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           27 |     2453 | 2024-05-01 | Passion UA        | L   | 0.557      | -            | -                | -                | -         |   -10.18 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           26 |     2469 | 2024-05-01 | fnatic            | L   | 0.555      | -            | -                | -                | -         |    -1.50 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           25 |     2495 | 2024-04-29 | 3DMAX             | L   | 0.544      | -            | -                | -                | -         |    -0.83 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           24 |     2504 | 2024-04-29 | Zero Tenacity     | W   | 0.543      | 0.500        | 0.143 (0.039)    | 1.000 (0.272)    | -         |     8.05 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           23 |     2540 | 2024-04-27 | Sangal            | W   | 0.531      | 0.500        | 0.219 (0.058)    | 0.866 (0.230)    | -         |     9.49 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           22 |     2570 | 2024-04-26 | SINNERS           | W   | 0.524      | -            | -                | -                | -         |     9.44 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           21 |     2599 | 2024-04-25 | ex-Guild Eagles   | W   | 0.517      | -            | -                | -                | -         |     3.90 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           20 |     2618 | 2024-04-24 | MOUZ NXT          | W   | 0.510      | 0.435        | 0.139 (0.031)    | 0.986 (0.219)    | -         |     7.73 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           19 |     2670 | 2024-04-21 | Nexus             | W   | 0.490      | -            | -                | -                | -         |     3.81 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           18 |     2673 | 2024-04-21 | B8                | L   | 0.490      | -            | -                | -                | -         |    -8.08 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           17 |     2729 | 2024-04-19 | Zero Tenacity     | L   | 0.478      | -            | -                | -                | -         |    -7.63 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           16 |     2828 | 2024-04-17 | HAVU              | W   | 0.465      | -            | -                | -                | -         |     1.58 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
-|           15 |     2831 | 2024-04-17 | Permitta          | L   | 0.464      | -            | -                | -                | -         |    -9.31 | ArtFr0st, bl1x1, Jerry, Patsi, Qikert      |
-|           14 |     2955 | 2024-04-11 | 500               | L   | 0.424      | -            | -                | -                | -         |   -11.78 | ArtFr0st, bl1x1, Jerry, Patsi, Qikert      |
-|           13 |     2990 | 2024-04-10 | Aurora            | L   | 0.418      | -            | -                | -                | -         |    -0.58 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|           12 |     3050 | 2024-04-09 | RUSH B            | L   | 0.411      | -            | -                | -                | -         |   -10.16 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|           11 |     3219 | 2024-04-03 | MOUZ NXT          | L   | 0.372      | -            | -                | -                | -         |    -6.93 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|           10 |     3231 | 2024-04-03 | Space             | W   | 0.370      | -            | -                | -                | -         |     1.93 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            9 |     3267 | 2024-04-02 | AMKAL             | L   | 0.364      | -            | -                | -                | -         |    -5.56 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            8 |     3274 | 2024-04-02 | Insilio           | L   | 0.363      | -            | -                | -                | -         |    -8.81 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            7 |     3286 | 2024-04-01 | Metizport         | W   | 0.357      | -            | -                | -                | -         |     2.11 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            6 |     3452 | 2024-03-21 | FORZE             | W   | 0.284      | -            | -                | -                | -         |     2.13 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            5 |     3634 | 2024-03-13 | 3DMAX             | W   | 0.231      | 0.500        | 0.509 (0.059)    | -                | -         |     6.96 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            4 |     3750 | 2024-03-08 | B8                | W   | 0.198      | -            | -                | -                | -         |     2.96 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            3 |     3806 | 2024-03-06 | Apeks             | W   | 0.184      | -            | -                | -                | -         |     1.42 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            2 |     3917 | 2024-03-02 | Gaimin Gladiators | L   | 0.157      | -            | -                | -                | -         |    -3.42 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
-|            1 |     3949 | 2024-02-29 | Monte             | L   | 0.143      | -            | -                | -                | -         |    -2.99 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|           55 |       16 | 2024-08-05 | ENCE              | W   | 1.000      | 0.435        | 0.173 (0.075)    | 0.431 (0.187)    | 0 (0.000) |    25.62 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           54 |       31 | 2024-08-04 | Betera            | L   | 1.000      | -            | -                | -                | -         |   -29.40 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           53 |       71 | 2024-08-03 | GUN5              | L   | 1.000      | -            | -                | -                | -         |   -25.40 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           52 |       86 | 2024-08-03 | CYBERSHOKE        | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.06 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           51 |       97 | 2024-08-02 | TSM               | W   | 1.000      | 0.500        | -                | 0.471 (0.235)    | 0 (0.000) |    10.47 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           50 |      138 | 2024-08-01 | 9 Pandas          | W   | 1.000      | 0.500        | 0.081 (0.041)    | 0.716 (0.358)    | 0 (0.000) |    13.16 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           49 |      253 | 2024-07-30 | Permitta          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.82 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           48 |      353 | 2024-07-26 | BLEED             | L   | 1.000      | -            | -                | -                | -         |    -6.66 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           47 |      366 | 2024-07-26 | True Rippers      | W   | 1.000      | -            | -                | -                | 1 (1.000) |     3.49 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           46 |      398 | 2024-07-25 | ENCE              | L   | 1.000      | -            | -                | -                | -         |    -5.53 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           45 |      436 | 2024-07-24 | The MongolZ       | W   | 1.000      | 0.650        | 1.000 (0.650)    | 0.709 (0.461)    | 1 (1.000) |    30.76 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           44 |      443 | 2024-07-24 | Aurora            | L   | 1.000      | -            | -                | -                | -         |    -3.36 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           43 |     1115 | 2024-06-14 | Permitta          | L   | 0.847      | -            | -                | -                | -         |   -18.80 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           42 |     1216 | 2024-06-10 | RUSH B            | W   | 0.821      | -            | -                | -                | 0 (0.000) |     7.99 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           41 |     1222 | 2024-06-10 | 3DMAX             | L   | 0.820      | -            | -                | -                | -         |    -3.34 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           40 |     1228 | 2024-06-10 | SINNERS           | L   | 0.820      | -            | -                | -                | -         |   -14.35 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           39 |     1259 | 2024-06-09 | Aurora            | L   | 0.815      | -            | -                | -                | -         |    -3.27 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           38 |     1265 | 2024-06-09 | 9 Pandas          | W   | 0.814      | -            | -                | -                | 0 (0.000) |    12.29 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           37 |     1276 | 2024-06-09 | Monte             | W   | 0.814      | -            | -                | -                | 0 (0.000) |    10.14 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           36 |     1278 | 2024-06-09 | SAW               | L   | 0.813      | -            | -                | -                | -         |   -10.02 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           35 |     1498 | 2024-06-05 | Aurora            | L   | 0.789      | -            | -                | -                | -         |    -2.04 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           34 |     1545 | 2024-06-04 | Monte             | W   | 0.782      | 0.500        | 0.080 (0.031)    | 0.611 (0.239)    | -         |    10.23 | alpha, ArtFr0st, BELCHONOKK, Patsi, Qikert |
+|           33 |     1950 | 2024-05-20 | Sangal            | L   | 0.681      | -            | -                | -                | -         |    -9.63 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           32 |     2029 | 2024-05-17 | Zero Tenacity     | W   | 0.662      | 0.500        | 0.143 (0.047)    | 1.000 (0.331)    | -         |    10.14 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           31 |     2060 | 2024-05-16 | Aurora            | L   | 0.656      | -            | -                | -                | -         |    -1.38 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           30 |     2076 | 2024-05-16 | Eternal Fire      | L   | 0.654      | -            | -                | -                | -         |    -0.73 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           29 |     2115 | 2024-05-15 | B8                | W   | 0.649      | 0.500        | 0.164 (0.053)    | 0.933 (0.303)    | -         |    11.15 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           28 |     2300 | 2024-05-09 | Endpoint          | L   | 0.608      | -            | -                | -                | -         |   -13.15 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           27 |     2457 | 2024-05-01 | Passion UA        | L   | 0.555      | -            | -                | -                | -         |   -10.13 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           26 |     2473 | 2024-05-01 | fnatic            | L   | 0.553      | -            | -                | -                | -         |    -1.50 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           25 |     2499 | 2024-04-29 | 3DMAX             | L   | 0.542      | -            | -                | -                | -         |    -0.82 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           24 |     2508 | 2024-04-29 | Zero Tenacity     | W   | 0.541      | 0.500        | 0.143 (0.039)    | 1.000 (0.270)    | -         |     7.99 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           23 |     2544 | 2024-04-27 | Sangal            | W   | 0.528      | 0.500        | 0.219 (0.058)    | 0.865 (0.228)    | -         |     9.44 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           22 |     2574 | 2024-04-26 | SINNERS           | W   | 0.521      | -            | -                | -                | -         |     9.38 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           21 |     2603 | 2024-04-25 | ex-Guild Eagles   | W   | 0.514      | -            | -                | -                | -         |     3.85 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           20 |     2622 | 2024-04-24 | MOUZ NXT          | W   | 0.508      | 0.435        | 0.139 (0.031)    | 0.984 (0.217)    | -         |     7.68 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           19 |     2674 | 2024-04-21 | Nexus             | W   | 0.488      | -            | -                | -                | -         |     3.78 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           18 |     2677 | 2024-04-21 | B8                | L   | 0.487      | -            | -                | -                | -         |    -8.06 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           17 |     2733 | 2024-04-19 | Zero Tenacity     | L   | 0.476      | -            | -                | -                | -         |    -7.61 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           16 |     2832 | 2024-04-17 | HAVU              | W   | 0.462      | -            | -                | -                | -         |     1.56 | ArtFr0st, BELCHONOKK, Jerry, Patsi, Qikert |
+|           15 |     2835 | 2024-04-17 | Permitta          | L   | 0.461      | -            | -                | -                | -         |    -9.28 | ArtFr0st, bl1x1, Jerry, Patsi, Qikert      |
+|           14 |     2959 | 2024-04-11 | 500               | L   | 0.422      | -            | -                | -                | -         |   -11.73 | ArtFr0st, bl1x1, Jerry, Patsi, Qikert      |
+|           13 |     2994 | 2024-04-10 | Aurora            | L   | 0.416      | -            | -                | -                | -         |    -0.58 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|           12 |     3054 | 2024-04-09 | RUSH B            | L   | 0.409      | -            | -                | -                | -         |   -10.11 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|           11 |     3223 | 2024-04-03 | MOUZ NXT          | L   | 0.369      | -            | -                | -                | -         |    -6.89 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|           10 |     3235 | 2024-04-03 | Space             | W   | 0.368      | -            | -                | -                | -         |     1.91 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            9 |     3271 | 2024-04-02 | AMKAL             | L   | 0.361      | -            | -                | -                | -         |    -5.53 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            8 |     3278 | 2024-04-02 | Insilio           | L   | 0.361      | -            | -                | -                | -         |    -8.75 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            7 |     3290 | 2024-04-01 | Metizport         | W   | 0.355      | -            | -                | -                | -         |     2.08 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            6 |     3456 | 2024-03-21 | FORZE             | W   | 0.281      | -            | -                | -                | -         |     2.09 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            5 |     3638 | 2024-03-13 | 3DMAX             | W   | 0.228      | 0.500        | 0.509 (0.058)    | -                | -         |     6.89 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            4 |     3754 | 2024-03-08 | B8                | W   | 0.195      | -            | -                | -                | -         |     2.90 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            3 |     3810 | 2024-03-06 | Apeks             | W   | 0.182      | -            | -                | -                | -         |     1.39 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            2 |     3921 | 2024-03-02 | Gaimin Gladiators | L   | 0.154      | -            | -                | -                | -         |    -3.38 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
+|            1 |     3953 | 2024-02-29 | Monte             | L   | 0.141      | -            | -                | -                | -         |    -2.95 | ArtFr0st, Jerry, Patsi, Qikert, X5G7V      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,595.38)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- First, take the sum of their top 10 scaled winnings ($5,577.88)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.817 | $6,500.00      | $5,313.30       |
-| 2024-05-02 |      0.564 | $500.00        | $282.08         |
+| 2024-06-09 |      0.815 | $6,500.00      | $5,297.05       |
+| 2024-05-02 |      0.562 | $500.00        | $280.83         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

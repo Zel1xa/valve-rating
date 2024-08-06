@@ -6,22 +6,22 @@ Global Rank: [126](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [9]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  795.1<br />
+Final Rank Value:  794.6<br />
 <br />
-Final Rank Value (795.1) = Starting Rank Value (769.0) + Head To Head Adjustments (26.2)<br />
+Final Rank Value (794.6) = Starting Rank Value (768.5) + Head To Head Adjustments (26.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.417[<sup>1</sup>](#table2)
-- Bounty Collected: 0.235[<sup>2</sup>](#table1)
+- Bounty Collected: 0.234[<sup>2</sup>](#table1)
 - Opponent Network: 0.012[<sup>2</sup>](#table1)
-- LAN Wins: 0.056[<sup>2</sup>](#table1)
+- LAN Wins: 0.055[<sup>2</sup>](#table1)
 
 The average of these factors is 0.180<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 769.0
-- 400 + ( ( 0.180 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 769.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 768.5
+- 400 + ( ( 0.180 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 768.5
 
 
 #### Factors<br />
@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           21 |      528 | 2024-07-21 | Carnival           | W   | 1.000      | 0.262        | 0.002 (0.001)    | -                | 0 (0.000) |     5.24 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           20 |      966 | 2024-06-30 | True Rippers       | W   | 0.955      | 0.262        | 0.005 (0.001)    | 0.167 (0.042)    | 0 (0.000) |    12.90 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
-|           19 |      968 | 2024-06-29 | LOT                | W   | 0.955      | -            | -                | -                | 0 (0.000) |     3.25 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           18 |      972 | 2024-06-29 | True Rippers       | L   | 0.950      | -            | -                | -                | -         |   -17.37 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           17 |      973 | 2024-06-29 | Marcos             | W   | 0.949      | 0.143        | -                | 0.037 (0.005)    | 0 (0.000) |     4.87 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           16 |      979 | 2024-06-28 | Carnival           | W   | 0.942      | 0.143        | 0.002 (0.000)    | -                | 0 (0.000) |     5.28 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           15 |      984 | 2024-06-27 | True Rippers       | L   | 0.937      | -            | -                | -                | -         |   -18.43 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           14 |     1779 | 2024-05-26 | True Rippers       | W   | 0.722      | 0.262        | 0.005 (0.001)    | 0.167 (0.032)    | 0 (0.000) |     8.35 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
-|           13 |     1782 | 2024-05-25 | Marcos             | W   | 0.721      | 0.262        | -                | 0.037 (0.007)    | 0 (0.000) |     3.63 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|           12 |     2999 | 2024-04-10 | BIG                | L   | 0.418      | -            | -                | -                | -         |    -0.71 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
-|           11 |     3053 | 2024-04-09 | Ninjas in Pyjamas  | L   | 0.411      | -            | -                | -                | -         |    -0.09 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
-|           10 |     3297 | 2024-03-31 | True Rippers       | W   | 0.349      | 0.143        | 0.005 (0.000)    | 0.167 (0.008)    | 0 (0.000) |     4.09 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            9 |     3312 | 2024-03-29 | Marcos             | W   | 0.336      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | -         |     3.01 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            8 |     3405 | 2024-03-24 | Marcos             | W   | 0.302      | 0.262        | 0.000 (0.000)    | 0.012 (0.001)    | -         |     2.77 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            7 |     3407 | 2024-03-23 | Grayfox            | W   | 0.301      | 0.262        | 0.000 (0.000)    | 0.004 (0.000)    | -         |     2.49 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            6 |     3549 | 2024-03-16 | Aurora             | L   | 0.250      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            5 |     3551 | 2024-03-15 | Bad News Kangaroos | W   | 0.248      | 0.432        | 0.016 (0.002)    | 0.222 (0.024)    | 1 (0.248) |     3.99 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            4 |     3570 | 2024-03-15 | Aurora             | L   | 0.242      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            3 |     3602 | 2024-03-14 | GRDX               | W   | 0.236      | 0.432        | 0.002 (0.000)    | -                | 1 (0.236) |     1.59 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            2 |     4029 | 2024-02-25 | Grayfox            | W   | 0.115      | 0.262        | -                | 0.004 (0.000)    | -         |     0.98 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
-|            1 |     4030 | 2024-02-24 | 2ez                | W   | 0.115      | -            | -                | -                | -         |     0.41 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           21 |      532 | 2024-07-21 | Carnival           | W   | 1.000      | 0.262        | 0.002 (0.001)    | -                | 0 (0.000) |     5.26 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           20 |      970 | 2024-06-30 | True Rippers       | W   | 0.953      | 0.262        | 0.005 (0.001)    | 0.167 (0.041)    | 0 (0.000) |    12.87 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
+|           19 |      972 | 2024-06-29 | LOT                | W   | 0.952      | -            | -                | -                | 0 (0.000) |     3.25 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           18 |      976 | 2024-06-29 | True Rippers       | L   | 0.948      | -            | -                | -                | -         |   -17.32 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           17 |      977 | 2024-06-29 | Marcos             | W   | 0.947      | 0.143        | -                | 0.037 (0.005)    | 0 (0.000) |     4.87 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           16 |      983 | 2024-06-28 | Carnival           | W   | 0.940      | 0.143        | 0.002 (0.000)    | -                | 0 (0.000) |     5.29 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           15 |      988 | 2024-06-27 | True Rippers       | L   | 0.934      | -            | -                | -                | -         |   -18.38 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           14 |     1783 | 2024-05-26 | True Rippers       | W   | 0.720      | 0.262        | 0.005 (0.001)    | 0.167 (0.031)    | 0 (0.000) |     8.33 | 1nhuman, Bhavi, Ph1NNN, R2B2, reV3nnnn |
+|           13 |     1786 | 2024-05-25 | Marcos             | W   | 0.719      | 0.262        | -                | 0.037 (0.007)    | 0 (0.000) |     3.62 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|           12 |     3003 | 2024-04-10 | BIG                | L   | 0.415      | -            | -                | -                | -         |    -0.70 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
+|           11 |     3057 | 2024-04-09 | Ninjas in Pyjamas  | L   | 0.409      | -            | -                | -                | -         |    -0.09 | Bhavi, f1redup, Ph1NNN, R2B2, yoom     |
+|           10 |     3301 | 2024-03-31 | True Rippers       | W   | 0.346      | 0.143        | 0.005 (0.000)    | 0.167 (0.008)    | 0 (0.000) |     4.06 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            9 |     3316 | 2024-03-29 | Marcos             | W   | 0.334      | 0.143        | 0.000 (0.000)    | 0.012 (0.001)    | -         |     2.99 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            8 |     3409 | 2024-03-24 | Marcos             | W   | 0.299      | 0.262        | 0.000 (0.000)    | 0.012 (0.001)    | -         |     2.75 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            7 |     3411 | 2024-03-23 | Grayfox            | W   | 0.299      | 0.262        | 0.000 (0.000)    | 0.004 (0.000)    | -         |     2.47 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            6 |     3553 | 2024-03-16 | Aurora             | L   | 0.247      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            5 |     3555 | 2024-03-15 | Bad News Kangaroos | W   | 0.246      | 0.432        | 0.016 (0.002)    | 0.222 (0.024)    | 1 (0.246) |     3.95 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            4 |     3574 | 2024-03-15 | Aurora             | L   | 0.240      | -            | -                | -                | -         |    -0.05 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            3 |     3606 | 2024-03-14 | GRDX               | W   | 0.233      | 0.432        | 0.002 (0.000)    | -                | 1 (0.233) |     1.57 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            2 |     4033 | 2024-02-25 | Grayfox            | W   | 0.113      | 0.262        | -                | 0.004 (0.000)    | -         |     0.96 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
+|            1 |     4034 | 2024-02-24 | 2ez                | W   | 0.112      | -            | -                | -                | -         |     0.40 | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($12,872.22)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- First, take the sum of their top 10 scaled winnings ($12,793.47)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.04) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -72,12 +72,12 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-21 |      1.000 | $1,000.00      | $1,000.00       |
-| 2024-06-30 |      0.955 | $1,000.00      | $955.09         |
-| 2024-05-26 |      0.722 | $1,000.00      | $722.20         |
-| 2024-04-14 |      0.444 | $15,000.00     | $6,656.25       |
-| 2024-03-24 |      0.302 | $1,000.00      | $301.88         |
-| 2024-03-16 |      0.250 | $12,500.00     | $3,121.53       |
-| 2024-02-25 |      0.115 | $1,000.00      | $115.28         |
+| 2024-06-30 |      0.953 | $1,000.00      | $952.59         |
+| 2024-05-26 |      0.720 | $1,000.00      | $719.70         |
+| 2024-04-14 |      0.441 | $15,000.00     | $6,618.75       |
+| 2024-03-24 |      0.299 | $1,000.00      | $299.38         |
+| 2024-03-16 |      0.247 | $12,500.00     | $3,090.28       |
+| 2024-02-25 |      0.113 | $1,000.00      | $112.78         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

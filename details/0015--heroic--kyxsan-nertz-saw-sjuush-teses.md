@@ -6,22 +6,22 @@ Global Rank: [15](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [12]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1556.4<br />
+Final Rank Value:  1555.6<br />
 <br />
-Final Rank Value (1556.4) = Starting Rank Value (1561.1) + Head To Head Adjustments (-4.6)<br />
+Final Rank Value (1555.6) = Starting Rank Value (1559.9) + Head To Head Adjustments (-4.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.607[<sup>1</sup>](#table2)
-- Bounty Collected: 0.554[<sup>2</sup>](#table1)
-- Opponent Network: 0.267[<sup>2</sup>](#table1)
-- LAN Wins: 0.836[<sup>2</sup>](#table1)
+- Bounty Collected: 0.553[<sup>2</sup>](#table1)
+- Opponent Network: 0.266[<sup>2</sup>](#table1)
+- LAN Wins: 0.835[<sup>2</sup>](#table1)
 
-The average of these factors is 0.566<br />
+The average of these factors is 0.565<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1561.1
-- 400 + ( ( 0.566 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1561.1
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1559.9
+- 400 + ( ( 0.565 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1559.9
 
 
 #### Factors<br />
@@ -37,57 +37,57 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           44 |      113 | 2024-08-02 | Complexity        | L   | 1.000      | -            | -                | -                | -         |   -15.50 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
-|           43 |      248 | 2024-07-30 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -3.90 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
-|           42 |      273 | 2024-07-29 | Complexity        | W   | 1.000      | 0.581        | 0.342 (0.198)    | 0.373 (0.217)    | 1 (1.000) |    15.79 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
-|           41 |     1440 | 2024-06-06 | ENCE              | W   | 0.797      | 0.715        | 0.174 (0.099)    | 0.432 (0.246)    | 1 (0.797) |     5.97 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           40 |     1458 | 2024-06-06 | Sashi             | W   | 0.796      | 0.715        | 0.184 (0.105)    | 0.982 (0.559)    | 1 (0.796) |     3.13 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           39 |     1470 | 2024-06-06 | The MongolZ       | L   | 0.795      | -            | -                | -                | -         |    -3.11 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           38 |     1498 | 2024-06-05 | Ninjas in Pyjamas | L   | 0.791      | -            | -                | -                | -         |   -12.39 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           37 |     1520 | 2024-06-05 | Astralis          | L   | 0.789      | -            | -                | -                | -         |    -6.88 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           36 |     1652 | 2024-05-31 | Vitality          | L   | 0.758      | -            | -                | -                | -         |    -4.16 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           35 |     1698 | 2024-05-29 | BIG               | W   | 0.746      | -            | -                | -                | 1 (0.746) |     4.54 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           34 |     1710 | 2024-05-29 | Natus Vincere     | W   | 0.744      | 0.624        | 1.000 (0.465)    | 0.365 (0.170)    | 1 (0.744) |    20.77 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           33 |     1730 | 2024-05-28 | M80               | W   | 0.738      | 0.624        | 0.188 (0.087)    | 0.576 (0.265)    | 1 (0.738) |     3.50 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           32 |     1745 | 2024-05-27 | Virtus.pro        | L   | 0.732      | -            | -                | -                | -         |    -8.02 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           31 |     1997 | 2024-05-18 | MOUZ              | L   | 0.671      | -            | -                | -                | -         |    -2.86 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           30 |     2031 | 2024-05-17 | MIBR              | W   | 0.664      | 0.769        | 0.208 (0.106)    | 0.648 (0.331)    | 1 (0.664) |     7.53 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           29 |     2070 | 2024-05-16 | Spirit            | L   | 0.657      | -            | -                | -                | -         |    -2.53 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           28 |     2122 | 2024-05-15 | MIBR              | W   | 0.650      | 0.769        | 0.208 (0.104)    | 0.648 (0.324)    | 1 (0.650) |     7.34 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           27 |     2389 | 2024-05-04 | Ninjas in Pyjamas | L   | 0.577      | -            | -                | -                | -         |    -7.81 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           26 |     2402 | 2024-05-03 | BIG               | L   | 0.571      | -            | -                | -                | -         |   -14.82 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           25 |     2413 | 2024-05-03 | FlyQuest          | W   | 0.570      | 0.889        | -                | 0.285 (0.144)    | 1 (0.570) |     1.77 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           24 |     2432 | 2024-05-02 | Complexity        | L   | 0.564      | -            | -                | -                | -         |    -7.13 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           23 |     2478 | 2024-04-30 | Ninjas in Pyjamas | W   | 0.550      | 0.889        | 0.254 (0.124)    | 0.544 (0.266)    | 1 (0.550) |    10.06 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           22 |     3006 | 2024-04-10 | G2                | L   | 0.416      | -            | -                | -                | -         |    -1.20 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           21 |     3064 | 2024-04-09 | FURIA             | W   | 0.410      | -            | -                | -                | -         |     8.70 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           20 |     3096 | 2024-04-08 | 9z                | W   | 0.402      | 0.624        | 0.404 (0.102)    | 0.606 (0.152)    | -         |     6.20 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           19 |     3107 | 2024-04-07 | Liquid            | L   | 0.401      | -            | -                | -                | -         |    -5.82 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           18 |     3412 | 2024-03-23 | paiN              | L   | 0.298      | -            | -                | -                | -         |    -6.54 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           17 |     3433 | 2024-03-22 | Virtus.pro        | L   | 0.290      | -            | -                | -                | -         |    -2.94 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           16 |     3446 | 2024-03-21 | Complexity        | L   | 0.285      | -            | -                | -                | -         |    -3.52 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           15 |     3453 | 2024-03-21 | FaZe              | W   | 0.284      | 1.000        | 0.629 (0.178)    | -                | -         |     5.85 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           14 |     3503 | 2024-03-18 | Eternal Fire      | W   | 0.264      | -            | -                | -                | -         |     5.73 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           13 |     3522 | 2024-03-17 | Imperial          | W   | 0.258      | -            | -                | -                | -         |     1.32 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           12 |     3531 | 2024-03-17 | Lynn Vision       | W   | 0.257      | -            | -                | -                | -         |     0.45 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           11 |     3635 | 2024-03-13 | Metizport         | W   | 0.230      | -            | -                | -                | -         |     0.14 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           10 |     3659 | 2024-03-12 | Virtus.pro        | L   | 0.225      | -            | -                | -                | -         |    -2.18 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            9 |     3678 | 2024-03-11 | ENCE              | W   | 0.218      | -            | -                | -                | -         |     2.70 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            8 |     3687 | 2024-03-11 | ex-Preasy         | W   | 0.217      | -            | -                | -                | -         |     0.10 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            7 |     3729 | 2024-03-09 | OG                | L   | 0.204      | -            | -                | -                | -         |    -6.16 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            6 |     3805 | 2024-03-06 | Young Ninjas      | W   | 0.184      | -            | -                | -                | -         |     0.07 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            5 |     4087 | 2024-02-22 | GamerLegion       | W   | 0.098      | -            | -                | -                | -         |     0.04 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            4 |     4108 | 2024-02-21 | Spirit            | L   | 0.091      | -            | -                | -                | -         |    -0.37 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            3 |     4143 | 2024-02-20 | Astralis          | W   | 0.083      | -            | -                | -                | -         |     1.88 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            2 |     4159 | 2024-02-19 | Vitality          | L   | 0.079      | -            | -                | -                | -         |    -0.41 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|            1 |     4167 | 2024-02-19 | ex-Preasy         | W   | 0.077      | -            | -                | -                | -         |     0.03 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           44 |      117 | 2024-08-02 | Complexity        | L   | 1.000      | -            | -                | -                | -         |   -15.48 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
+|           43 |      252 | 2024-07-30 | Spirit            | L   | 1.000      | -            | -                | -                | -         |    -3.89 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
+|           42 |      277 | 2024-07-29 | Complexity        | W   | 1.000      | 0.581        | 0.341 (0.198)    | 0.372 (0.216)    | 1 (1.000) |    15.80 | kyxsan, NertZ, sAw, sjuush, TeSeS      |
+|           41 |     1444 | 2024-06-06 | ENCE              | W   | 0.795      | 0.715        | 0.173 (0.098)    | 0.431 (0.245)    | 1 (0.795) |     6.00 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           40 |     1462 | 2024-06-06 | Sashi             | W   | 0.794      | 0.715        | 0.184 (0.104)    | 0.980 (0.556)    | 1 (0.794) |     3.14 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           39 |     1474 | 2024-06-06 | The MongolZ       | L   | 0.793      | -            | -                | -                | -         |    -3.08 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           38 |     1502 | 2024-06-05 | Ninjas in Pyjamas | L   | 0.789      | -            | -                | -                | -         |   -12.32 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           37 |     1524 | 2024-06-05 | Astralis          | L   | 0.786      | -            | -                | -                | -         |    -6.86 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           36 |     1656 | 2024-05-31 | Vitality          | L   | 0.756      | -            | -                | -                | -         |    -4.13 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           35 |     1702 | 2024-05-29 | BIG               | W   | 0.744      | -            | -                | -                | 1 (0.744) |     4.53 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           34 |     1714 | 2024-05-29 | Natus Vincere     | W   | 0.742      | 0.624        | 1.000 (0.463)    | 0.365 (0.169)    | 1 (0.742) |    20.72 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           33 |     1734 | 2024-05-28 | M80               | W   | 0.735      | 0.624        | 0.188 (0.086)    | 0.576 (0.264)    | 1 (0.735) |     3.49 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           32 |     1749 | 2024-05-27 | Virtus.pro        | L   | 0.730      | -            | -                | -                | -         |    -7.99 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           31 |     2001 | 2024-05-18 | MOUZ              | L   | 0.668      | -            | -                | -                | -         |    -2.85 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           30 |     2035 | 2024-05-17 | MIBR              | W   | 0.662      | 0.769        | 0.208 (0.106)    | 0.647 (0.329)    | 1 (0.662) |     7.50 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           29 |     2074 | 2024-05-16 | Spirit            | L   | 0.655      | -            | -                | -                | -         |    -2.51 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           28 |     2126 | 2024-05-15 | MIBR              | W   | 0.647      | 0.769        | 0.208 (0.103)    | 0.647 (0.322)    | 1 (0.647) |     7.31 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           27 |     2393 | 2024-05-04 | Ninjas in Pyjamas | L   | 0.575      | -            | -                | -                | -         |    -7.76 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           26 |     2406 | 2024-05-03 | BIG               | L   | 0.569      | -            | -                | -                | -         |   -14.75 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           25 |     2417 | 2024-05-03 | FlyQuest          | W   | 0.567      | 0.889        | -                | 0.284 (0.143)    | 1 (0.567) |     1.76 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           24 |     2436 | 2024-05-02 | Complexity        | L   | 0.561      | -            | -                | -                | -         |    -7.09 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           23 |     2482 | 2024-04-30 | Ninjas in Pyjamas | W   | 0.548      | 0.889        | 0.254 (0.123)    | 0.543 (0.265)    | 1 (0.548) |    10.03 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           22 |     3010 | 2024-04-10 | G2                | L   | 0.414      | -            | -                | -                | -         |    -1.18 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           21 |     3068 | 2024-04-09 | FURIA             | W   | 0.407      | -            | -                | -                | -         |     8.66 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           20 |     3100 | 2024-04-08 | 9z                | W   | 0.400      | 0.624        | 0.404 (0.101)    | 0.604 (0.151)    | -         |     6.17 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           19 |     3111 | 2024-04-07 | Liquid            | L   | 0.398      | -            | -                | -                | -         |    -5.77 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           18 |     3416 | 2024-03-23 | paiN              | L   | 0.296      | -            | -                | -                | -         |    -6.49 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           17 |     3437 | 2024-03-22 | Virtus.pro        | L   | 0.287      | -            | -                | -                | -         |    -2.91 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           16 |     3450 | 2024-03-21 | Complexity        | L   | 0.282      | -            | -                | -                | -         |    -3.48 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           15 |     3457 | 2024-03-21 | FaZe              | W   | 0.281      | 1.000        | 0.626 (0.176)    | -                | -         |     5.79 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           14 |     3507 | 2024-03-18 | Eternal Fire      | W   | 0.261      | -            | -                | -                | -         |     5.68 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           13 |     3526 | 2024-03-17 | Imperial          | W   | 0.256      | -            | -                | -                | -         |     1.30 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           12 |     3535 | 2024-03-17 | Lynn Vision       | W   | 0.254      | -            | -                | -                | -         |     0.45 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           11 |     3639 | 2024-03-13 | Metizport         | W   | 0.228      | -            | -                | -                | -         |     0.14 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           10 |     3663 | 2024-03-12 | Virtus.pro        | L   | 0.222      | -            | -                | -                | -         |    -2.15 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            9 |     3682 | 2024-03-11 | ENCE              | W   | 0.216      | -            | -                | -                | -         |     2.69 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            8 |     3691 | 2024-03-11 | ex-Preasy         | W   | 0.215      | -            | -                | -                | -         |     0.10 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            7 |     3733 | 2024-03-09 | OG                | L   | 0.201      | -            | -                | -                | -         |    -6.08 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            6 |     3809 | 2024-03-06 | Young Ninjas      | W   | 0.182      | -            | -                | -                | -         |     0.07 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            5 |     4091 | 2024-02-22 | GamerLegion       | W   | 0.095      | -            | -                | -                | -         |     0.04 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            4 |     4112 | 2024-02-21 | Spirit            | L   | 0.089      | -            | -                | -                | -         |    -0.36 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            3 |     4147 | 2024-02-20 | Astralis          | W   | 0.081      | -            | -                | -                | -         |     1.83 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            2 |     4163 | 2024-02-19 | Vitality          | L   | 0.076      | -            | -                | -                | -         |    -0.39 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|            1 |     4171 | 2024-02-19 | ex-Preasy         | W   | 0.075      | -            | -                | -                | -         |     0.03 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($72,270.66)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- First, take the sum of their top 10 scaled winnings ($71,999.41)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.22) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -95,13 +95,13 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $8,500.00      | $8,500.00       |
-| 2024-06-09 |      0.817 | $8,000.00      | $6,537.78       |
-| 2024-06-02 |      0.771 | $10,000.00     | $7,713.89       |
-| 2024-05-19 |      0.677 | $50,000.00     | $33,833.33      |
-| 2024-05-12 |      0.631 | $7,000.00      | $4,413.89       |
-| 2024-04-14 |      0.443 | $6,000.00      | $2,655.97       |
-| 2024-03-31 |      0.351 | $20,000.00     | $7,027.78       |
-| 2024-03-10 |      0.212 | $7,500.00      | $1,588.02       |
+| 2024-06-09 |      0.815 | $8,000.00      | $6,517.78       |
+| 2024-06-02 |      0.769 | $10,000.00     | $7,688.89       |
+| 2024-05-19 |      0.674 | $50,000.00     | $33,708.33      |
+| 2024-05-12 |      0.628 | $7,000.00      | $4,396.39       |
+| 2024-04-14 |      0.440 | $6,000.00      | $2,640.97       |
+| 2024-03-31 |      0.349 | $20,000.00     | $6,977.78       |
+| 2024-03-10 |      0.209 | $7,500.00      | $1,569.27       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

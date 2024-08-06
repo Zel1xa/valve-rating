@@ -6,22 +6,22 @@ Global Rank: [187](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [118]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  612.3<br />
+Final Rank Value:  612.6<br />
 <br />
-Final Rank Value (612.3) = Starting Rank Value (546.4) + Head To Head Adjustments (65.9)<br />
+Final Rank Value (612.6) = Starting Rank Value (546.7) + Head To Head Adjustments (65.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
 - Bounty Collected: 0.257[<sup>2</sup>](#table1)
-- Opponent Network: 0.028[<sup>2</sup>](#table1)
+- Opponent Network: 0.029[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.071<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 546.4
-- 400 + ( ( 0.071 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 546.4
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 546.7
+- 400 + ( ( 0.071 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 546.7
 
 
 #### Factors<br />
@@ -37,26 +37,26 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |       21 | 2024-08-05 | kONO            | L   | 1.000      | -            | -                | -                | -         |    -7.06 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|           12 |      245 | 2024-07-30 | Lilmix          | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.097 (0.014)    | 0 (0.000) |    25.22 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|           11 |      494 | 2024-07-22 | Into the Breach | L   | 1.000      | -            | -                | -                | -         |   -11.75 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|           10 |      501 | 2024-07-22 | Sampi           | L   | 1.000      | -            | -                | -                | -         |    -5.38 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            9 |      520 | 2024-07-21 | Heimo           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.106 (0.015)    | 0 (0.000) |    17.89 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            8 |      538 | 2024-07-20 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |    -6.24 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            7 |      573 | 2024-07-19 | 777             | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.177 (0.025)    | 0 (0.000) |    20.29 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            6 |      649 | 2024-07-18 | Permitta        | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.901 (0.129)    | 0 (0.000) |    27.90 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            5 |     1115 | 2024-06-14 | TÓR             | L   | 0.849      | -            | -                | -                | -         |    -3.35 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            4 |     1142 | 2024-06-13 | CPH Wolves      | L   | 0.843      | -            | -                | -                | -         |    -5.58 | CHANKY, d1maje, mhN1, starplajerz, zewts |
-|            3 |     1539 | 2024-06-04 | Sampi           | L   | 0.785      | -            | -                | -                | -         |    -2.93 | d1maje, mhN1, starplajerz, waZz, zewts   |
-|            2 |     1702 | 2024-05-29 | Illuminar       | W   | 0.745      | 0.379        | 0.012 (0.003)    | 0.347 (0.098)    | 0 (0.000) |    19.62 | d1maje, mhN1, starplajerz, waZz, zewts   |
-|            1 |     1900 | 2024-05-21 | Permitta        | L   | 0.691      | -            | -                | -                | -         |    -2.74 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|           13 |       25 | 2024-08-05 | kONO            | L   | 1.000      | -            | -                | -                | -         |    -7.02 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|           12 |      249 | 2024-07-30 | Lilmix          | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.097 (0.014)    | 0 (0.000) |    25.22 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|           11 |      498 | 2024-07-22 | Into the Breach | L   | 1.000      | -            | -                | -                | -         |   -11.71 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|           10 |      505 | 2024-07-22 | Sampi           | L   | 1.000      | -            | -                | -                | -         |    -5.38 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            9 |      524 | 2024-07-21 | Heimo           | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.106 (0.015)    | 0 (0.000) |    17.89 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            8 |      542 | 2024-07-20 | CPH Wolves      | L   | 1.000      | -            | -                | -                | -         |    -6.24 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            7 |      577 | 2024-07-19 | 777             | W   | 1.000      | 0.143        | 0.015 (0.002)    | 0.177 (0.025)    | 0 (0.000) |    20.28 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            6 |      653 | 2024-07-18 | Permitta        | W   | 1.000      | 0.143        | 0.023 (0.003)    | 0.940 (0.134)    | 0 (0.000) |    27.90 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            5 |     1119 | 2024-06-14 | TÓR             | L   | 0.846      | -            | -                | -                | -         |    -3.35 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            4 |     1146 | 2024-06-13 | CPH Wolves      | L   | 0.841      | -            | -                | -                | -         |    -5.56 | CHANKY, d1maje, mhN1, starplajerz, zewts |
+|            3 |     1543 | 2024-06-04 | Sampi           | L   | 0.782      | -            | -                | -                | -         |    -2.92 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|            2 |     1706 | 2024-05-29 | Illuminar       | W   | 0.743      | 0.379        | 0.012 (0.003)    | 0.347 (0.098)    | 0 (0.000) |    19.56 | d1maje, mhN1, starplajerz, waZz, zewts   |
+|            1 |     1904 | 2024-05-21 | Permitta        | L   | 0.689      | -            | -                | -                | -         |    -2.73 | d1maje, mhN1, starplajerz, waZz, zewts   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

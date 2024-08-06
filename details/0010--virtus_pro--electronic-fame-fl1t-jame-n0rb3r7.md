@@ -6,22 +6,22 @@ Global Rank: [10](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [9]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1648.5<br />
+Final Rank Value:  1647.9<br />
 <br />
-Final Rank Value (1648.5) = Starting Rank Value (1701.0) + Head To Head Adjustments (-52.5)<br />
+Final Rank Value (1647.9) = Starting Rank Value (1700.3) + Head To Head Adjustments (-52.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.768[<sup>1</sup>](#table2)
-- Bounty Collected: 0.640[<sup>2</sup>](#table1)
-- Opponent Network: 0.285[<sup>2</sup>](#table1)
-- LAN Wins: 0.845[<sup>2</sup>](#table1)
+- Bounty Collected: 0.639[<sup>2</sup>](#table1)
+- Opponent Network: 0.283[<sup>2</sup>](#table1)
+- LAN Wins: 0.844[<sup>2</sup>](#table1)
 
 The average of these factors is 0.634<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1701.0
-- 400 + ( ( 0.634 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1701.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1700.3
+- 400 + ( ( 0.634 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 1700.3
 
 
 #### Factors<br />
@@ -37,51 +37,51 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           38 |      132 | 2024-08-01 | BIG           | L   | 1.000      | -            | -                | -                | -         |   -27.82 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           37 |      184 | 2024-07-31 | Liquid        | L   | 1.000      | -            | -                | -                | -         |   -19.04 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           36 |      553 | 2024-07-20 | G2            | L   | 1.000      | -            | -                | -                | -         |    -5.78 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           35 |      595 | 2024-07-19 | Vitality      | W   | 1.000      | 1.000        | 0.647 (0.647)    | 0.376 (0.376)    | 1 (1.000) |    22.18 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           34 |      697 | 2024-07-17 | Complexity    | W   | 1.000      | 1.000        | 0.342 (0.342)    | 0.373 (0.373)    | 1 (1.000) |    13.04 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           33 |     1049 | 2024-06-15 | Natus Vincere | L   | 0.858      | -            | -                | -                | -         |    -5.13 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           32 |     1086 | 2024-06-14 | Astralis      | W   | 0.852      | 0.729        | 0.389 (0.242)    | 0.413 (0.256)    | 1 (0.852) |    15.24 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           31 |     1123 | 2024-06-13 | Spirit        | L   | 0.845      | -            | -                | -                | -         |    -5.33 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           30 |     1163 | 2024-06-12 | Vitality      | W   | 0.837      | 0.729        | 0.647 (0.395)    | 0.376 (0.229)    | 1 (0.837) |    19.98 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           29 |     1709 | 2024-05-29 | BIG           | L   | 0.744      | -            | -                | -                | -         |   -20.50 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           28 |     1724 | 2024-05-28 | FaZe          | L   | 0.739      | -            | -                | -                | -         |    -9.46 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           27 |     1745 | 2024-05-27 | HEROIC        | W   | 0.732      | 0.624        | 0.225 (0.103)    | 0.364 (0.166)    | 1 (0.732) |     8.02 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           26 |     2037 | 2024-05-17 | Falcons       | L   | 0.663      | -            | -                | -                | -         |   -16.96 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           25 |     2076 | 2024-05-16 | MOUZ          | L   | 0.656      | -            | -                | -                | -         |    -5.04 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           24 |     2175 | 2024-05-14 | Falcons       | W   | 0.644      | 0.769        | 0.221 (0.109)    | -                | 1 (0.644) |     3.47 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           23 |     2297 | 2024-05-09 | Complexity    | L   | 0.610      | -            | -                | -                | -         |   -10.15 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           22 |     2316 | 2024-05-08 | The MongolZ   | W   | 0.605      | 0.889        | 1.000 (0.538)    | 0.710 (0.382)    | 1 (0.605) |    14.79 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           21 |     2332 | 2024-05-07 | GamerLegion   | W   | 0.598      | 0.889        | 0.173 (0.092)    | -                | 1 (0.598) |     0.92 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           20 |     2520 | 2024-04-28 | SAW           | W   | 0.537      | 0.889        | -                | 0.529 (0.253)    | 1 (0.537) |     1.05 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           19 |     2551 | 2024-04-27 | fnatic        | W   | 0.530      | 0.889        | 0.371 (0.174)    | 0.696 (0.328)    | 1 (0.530) |     5.00 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           18 |     2594 | 2024-04-25 | FaZe          | L   | 0.518      | -            | -                | -                | -         |    -7.41 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           17 |     2617 | 2024-04-24 | SAW           | W   | 0.510      | 0.889        | -                | 0.529 (0.240)    | -         |     0.86 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           16 |     2640 | 2024-04-23 | fnatic        | L   | 0.503      | -            | -                | -                | -         |   -11.28 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           15 |     2936 | 2024-04-12 | G2            | L   | 0.428      | -            | -                | -                | -         |    -2.24 | fame, FL1T, Jame, mir, n0rb3r7        |
-|           14 |     3020 | 2024-04-10 | Astralis      | L   | 0.415      | -            | -                | -                | -         |    -5.93 | fame, FL1T, Jame, mir, n0rb3r7        |
-|           13 |     3072 | 2024-04-08 | FlyQuest      | W   | 0.408      | -            | -                | -                | -         |     0.62 | fame, FL1T, Jame, mir, n0rb3r7        |
-|           12 |     3102 | 2024-04-08 | Wildcard      | W   | 0.402      | -            | -                | -                | -         |     0.14 | fame, FL1T, Jame, mir, n0rb3r7        |
-|           11 |     3402 | 2024-03-24 | G2            | L   | 0.304      | -            | -                | -                | -         |    -1.56 | fame, FL1T, Jame, mir, n0rb3r7        |
-|           10 |     3416 | 2024-03-23 | Eternal Fire  | L   | 0.296      | -            | -                | -                | -         |    -4.60 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            9 |     3433 | 2024-03-22 | HEROIC        | W   | 0.290      | -            | -                | -                | -         |     2.94 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            8 |     3447 | 2024-03-21 | paiN          | W   | 0.285      | 1.000        | 0.325 (0.092)    | 0.857 (0.244)    | -         |     1.47 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            7 |     3457 | 2024-03-21 | Imperial      | L   | 0.283      | -            | -                | -                | -         |    -8.24 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            6 |     3659 | 2024-03-12 | HEROIC        | W   | 0.225      | -            | -                | -                | -         |     2.18 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            5 |     3675 | 2024-03-11 | Apeks         | W   | 0.218      | -            | -                | -                | -         |     0.08 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            4 |     3686 | 2024-03-11 | B8            | W   | 0.217      | -            | -                | -                | -         |     0.21 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            3 |     4268 | 2024-02-15 | Natus Vincere | W   | 0.051      | -            | -                | -                | -         |     1.31 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            2 |     4300 | 2024-02-14 | fnatic        | W   | 0.045      | -            | -                | -                | -         |     0.44 | fame, FL1T, Jame, mir, n0rb3r7        |
-|            1 |     4319 | 2024-02-14 | SAW           | W   | 0.043      | -            | -                | -                | -         |     0.06 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           38 |      136 | 2024-08-01 | BIG           | L   | 1.000      | -            | -                | -                | -         |   -27.82 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           37 |      188 | 2024-07-31 | Liquid        | L   | 1.000      | -            | -                | -                | -         |   -19.04 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           36 |      557 | 2024-07-20 | G2            | L   | 1.000      | -            | -                | -                | -         |    -5.76 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           35 |      599 | 2024-07-19 | Vitality      | W   | 1.000      | 1.000        | 0.647 (0.647)    | 0.375 (0.375)    | 1 (1.000) |    22.19 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           34 |      701 | 2024-07-17 | Complexity    | W   | 1.000      | 1.000        | 0.341 (0.341)    | 0.372 (0.372)    | 1 (1.000) |    13.05 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           33 |     1053 | 2024-06-15 | Natus Vincere | L   | 0.856      | -            | -                | -                | -         |    -5.11 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           32 |     1090 | 2024-06-14 | Astralis      | W   | 0.849      | 0.729        | 0.389 (0.241)    | 0.412 (0.255)    | 1 (0.849) |    15.20 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           31 |     1127 | 2024-06-13 | Spirit        | L   | 0.843      | -            | -                | -                | -         |    -5.31 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           30 |     1167 | 2024-06-12 | Vitality      | W   | 0.835      | 0.729        | 0.647 (0.394)    | 0.375 (0.228)    | 1 (0.835) |    19.93 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           29 |     1713 | 2024-05-29 | BIG           | L   | 0.742      | -            | -                | -                | -         |   -20.43 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           28 |     1728 | 2024-05-28 | FaZe          | L   | 0.736      | -            | -                | -                | -         |    -9.46 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           27 |     1749 | 2024-05-27 | HEROIC        | W   | 0.730      | 0.624        | 0.225 (0.102)    | 0.363 (0.165)    | 1 (0.730) |     7.99 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           26 |     2041 | 2024-05-17 | Falcons       | L   | 0.661      | -            | -                | -                | -         |   -16.91 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           25 |     2080 | 2024-05-16 | MOUZ          | L   | 0.653      | -            | -                | -                | -         |    -5.03 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           24 |     2179 | 2024-05-14 | Falcons       | W   | 0.642      | 0.769        | 0.220 (0.108)    | -                | 1 (0.642) |     3.45 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           23 |     2301 | 2024-05-09 | Complexity    | L   | 0.608      | -            | -                | -                | -         |   -10.12 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           22 |     2320 | 2024-05-08 | The MongolZ   | W   | 0.602      | 0.889        | 1.000 (0.535)    | 0.709 (0.380)    | 1 (0.602) |    14.75 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           21 |     2336 | 2024-05-07 | GamerLegion   | W   | 0.596      | 0.889        | 0.173 (0.091)    | -                | 1 (0.596) |     0.91 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           20 |     2524 | 2024-04-28 | SAW           | W   | 0.535      | 0.889        | -                | 0.528 (0.251)    | 1 (0.535) |     1.04 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           19 |     2555 | 2024-04-27 | fnatic        | W   | 0.527      | 0.889        | 0.371 (0.174)    | 0.695 (0.326)    | 1 (0.527) |     4.99 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           18 |     2598 | 2024-04-25 | FaZe          | L   | 0.515      | -            | -                | -                | -         |    -7.40 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           17 |     2621 | 2024-04-24 | SAW           | W   | 0.508      | 0.889        | -                | 0.528 (0.238)    | -         |     0.85 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           16 |     2644 | 2024-04-23 | fnatic        | L   | 0.500      | -            | -                | -                | -         |   -11.22 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           15 |     2940 | 2024-04-12 | G2            | L   | 0.426      | -            | -                | -                | -         |    -2.21 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           14 |     3024 | 2024-04-10 | Astralis      | L   | 0.413      | -            | -                | -                | -         |    -5.89 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           13 |     3076 | 2024-04-08 | FlyQuest      | W   | 0.405      | -            | -                | -                | -         |     0.61 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           12 |     3106 | 2024-04-08 | Wildcard      | W   | 0.399      | -            | -                | -                | -         |     0.14 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           11 |     3406 | 2024-03-24 | G2            | L   | 0.301      | -            | -                | -                | -         |    -1.54 | fame, FL1T, Jame, mir, n0rb3r7        |
+|           10 |     3420 | 2024-03-23 | Eternal Fire  | L   | 0.294      | -            | -                | -                | -         |    -4.56 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            9 |     3437 | 2024-03-22 | HEROIC        | W   | 0.287      | -            | -                | -                | -         |     2.91 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            8 |     3451 | 2024-03-21 | paiN          | W   | 0.282      | 1.000        | 0.324 (0.091)    | 0.857 (0.242)    | -         |     1.45 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            7 |     3461 | 2024-03-21 | Imperial      | L   | 0.281      | -            | -                | -                | -         |    -8.17 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            6 |     3663 | 2024-03-12 | HEROIC        | W   | 0.222      | -            | -                | -                | -         |     2.15 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            5 |     3679 | 2024-03-11 | Apeks         | W   | 0.216      | -            | -                | -                | -         |     0.08 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            4 |     3690 | 2024-03-11 | B8            | W   | 0.215      | -            | -                | -                | -         |     0.21 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            3 |     4272 | 2024-02-15 | Natus Vincere | W   | 0.048      | -            | -                | -                | -         |     1.25 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            2 |     4304 | 2024-02-14 | fnatic        | W   | 0.043      | -            | -                | -                | -         |     0.42 | fame, FL1T, Jame, mir, n0rb3r7        |
+|            1 |     4323 | 2024-02-14 | SAW           | W   | 0.040      | -            | -                | -                | -         |     0.06 | fame, FL1T, Jame, mir, n0rb3r7        |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($160,033.56)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- First, take the sum of their top 10 scaled winnings ($159,766.06)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.50) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -90,11 +90,11 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $5,000.00      | $5,000.00       |
 | 2024-07-21 |      1.000 | $85,000.00     | $85,000.00      |
-| 2024-06-16 |      0.864 | $40,000.00     | $34,544.44      |
-| 2024-06-02 |      0.771 | $5,000.00      | $3,856.94       |
-| 2024-05-12 |      0.631 | $32,000.00     | $20,177.78      |
-| 2024-04-14 |      0.443 | $10,000.00     | $4,426.62       |
-| 2024-03-31 |      0.351 | $20,000.00     | $7,027.78       |
+| 2024-06-16 |      0.861 | $40,000.00     | $34,444.44      |
+| 2024-06-02 |      0.769 | $5,000.00      | $3,844.44       |
+| 2024-05-12 |      0.628 | $32,000.00     | $20,097.78      |
+| 2024-04-14 |      0.440 | $10,000.00     | $4,401.62       |
+| 2024-03-31 |      0.349 | $20,000.00     | $6,977.78       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

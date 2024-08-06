@@ -6,22 +6,22 @@ Global Rank: [56](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [40]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1020.2<br />
+Final Rank Value:  1019.2<br />
 <br />
-Final Rank Value (1020.2) = Starting Rank Value (985.7) + Head To Head Adjustments (34.6)<br />
+Final Rank Value (1019.2) = Starting Rank Value (984.8) + Head To Head Adjustments (34.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.446[<sup>1</sup>](#table2)
+- Bounty Offered: 0.445[<sup>1</sup>](#table2)
 - Bounty Collected: 0.398[<sup>2</sup>](#table1)
-- Opponent Network: 0.092[<sup>2</sup>](#table1)
-- LAN Wins: 0.206[<sup>2</sup>](#table1)
+- Opponent Network: 0.091[<sup>2</sup>](#table1)
+- LAN Wins: 0.205[<sup>2</sup>](#table1)
 
-The average of these factors is 0.286<br />
+The average of these factors is 0.285<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 985.7
-- 400 + ( ( 0.286 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 985.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 984.8
+- 400 + ( ( 0.285 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 984.8
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           32 |     2333 | 2024-05-07 | FaZe              | L   | 0.598      | -            | -                | -                | -         |    -0.36 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           31 |     2372 | 2024-05-05 | FURIA             | W   | 0.584      | 0.889        | 0.284 (0.147)    | 0.480 (0.249)    | 1 (0.584) |    17.85 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           30 |     2396 | 2024-05-04 | FORZE             | W   | 0.576      | 0.889        | 0.058 (0.030)    | 0.169 (0.087)    | 1 (0.576) |     7.54 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           29 |     2426 | 2024-05-02 | ENCE              | L   | 0.565      | -            | -                | -                | -         |    -1.61 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           28 |     2449 | 2024-05-01 | Liquid            | L   | 0.558      | -            | -                | -                | -         |    -0.61 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           27 |     2473 | 2024-04-30 | FORZE             | W   | 0.551      | 0.889        | 0.058 (0.028)    | 0.169 (0.083)    | 1 (0.551) |     7.21 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           26 |     2728 | 2024-04-19 | OG                | L   | 0.478      | -            | -                | -                | -         |    -6.40 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           25 |     2794 | 2024-04-18 | paiN              | L   | 0.471      | -            | -                | -                | -         |    -1.41 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           24 |     2915 | 2024-04-13 | Rebels            | W   | 0.437      | 0.500        | 0.038 (0.008)    | 0.591 (0.129)    | 0 (0.000) |     7.03 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           23 |     2929 | 2024-04-12 | Sangal            | W   | 0.431      | 0.500        | 0.219 (0.047)    | 0.866 (0.186)    | 0 (0.000) |     9.46 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           22 |     3223 | 2024-04-03 | Metizport         | L   | 0.371      | -            | -                | -                | -         |    -7.73 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           21 |     3233 | 2024-04-03 | Apeks             | W   | 0.370      | -            | -                | -                | 0 (0.000) |     4.54 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           20 |     3261 | 2024-04-02 | GamerLegion       | W   | 0.365      | 0.143        | 0.173 (0.009)    | 0.266 (0.014)    | 0 (0.000) |     7.97 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           19 |     3270 | 2024-04-02 | Ninjas in Pyjamas | L   | 0.363      | -            | -                | -                | -         |    -0.21 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           18 |     3294 | 2024-03-31 | RUSH B            | L   | 0.351      | -            | -                | -                | -         |    -7.30 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           17 |     3324 | 2024-03-28 | Betera            | L   | 0.331      | -            | -                | -                | -         |    -8.73 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           16 |     3392 | 2024-03-26 | System5           | W   | 0.318      | 0.500        | -                | 0.083 (0.013)    | 0 (0.000) |     1.47 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           15 |     3621 | 2024-03-13 | PERA              | W   | 0.232      | 0.500        | 0.048 (0.006)    | 0.445 (0.052)    | 0 (0.000) |     2.97 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           14 |     3724 | 2024-03-09 | Metizport         | L   | 0.204      | -            | -                | -                | -         |    -4.49 | DemQQ, kRaSnaL, leen, sdy, Woro2k   |
-|           13 |     3764 | 2024-03-07 | Imperial          | W   | 0.192      | 0.535        | 0.234 (0.024)    | 0.674 (0.069)    | -         |     4.99 | DemQQ, kRaSnaL, leen, sdy, Woro2k   |
-|           12 |     3836 | 2024-03-05 | SAW               | L   | 0.178      | -            | -                | -                | -         |    -1.54 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
-|           11 |     3901 | 2024-03-03 | Gaimin Gladiators | L   | 0.163      | -            | -                | -                | -         |    -2.76 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
-|           10 |     3906 | 2024-03-02 | 3DMAX             | L   | 0.158      | -            | -                | -                | -         |    -0.10 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
-|            9 |     3949 | 2024-02-29 | PARIVISION        | W   | 0.143      | 0.500        | -                | 0.565 (0.040)    | -         |     2.99 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
-|            8 |     4117 | 2024-02-21 | Astralis          | L   | 0.089      | -            | -                | -                | -         |    -0.04 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
-|            7 |     4147 | 2024-02-20 | Apeks             | L   | 0.083      | -            | -                | -                | -         |    -1.63 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
-|            6 |     4162 | 2024-02-19 | Nexus             | W   | 0.078      | -            | -                | -                | 1 (0.078) |     0.73 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k  |
-|            5 |     4171 | 2024-02-19 | Gaimin Gladiators | L   | 0.076      | -            | -                | -                | -         |    -1.32 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k  |
-|            4 |     4181 | 2024-02-18 | Aurora            | W   | 0.072      | 0.143        | 0.421 (0.004)    | -                | -         |     2.22 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
-|            3 |     4187 | 2024-02-18 | SINNERS           | W   | 0.071      | -            | -                | -                | -         |     1.59 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
-|            2 |     4212 | 2024-02-17 | Aurora            | W   | 0.064      | 0.143        | 0.421 (0.004)    | -                | -         |     1.98 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
-|            1 |     4217 | 2024-02-17 | The Chosen Few    | W   | 0.063      | -            | -                | -                | -         |     0.29 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|           32 |     2337 | 2024-05-07 | FaZe              | L   | 0.595      | -            | -                | -                | -         |    -0.36 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           31 |     2376 | 2024-05-05 | FURIA             | W   | 0.581      | 0.889        | 0.284 (0.147)    | 0.479 (0.248)    | 1 (0.581) |    17.77 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           30 |     2400 | 2024-05-04 | FORZE             | W   | 0.574      | 0.889        | 0.057 (0.029)    | 0.168 (0.086)    | 1 (0.574) |     7.50 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           29 |     2430 | 2024-05-02 | ENCE              | L   | 0.562      | -            | -                | -                | -         |    -1.58 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           28 |     2453 | 2024-05-01 | Liquid            | L   | 0.555      | -            | -                | -                | -         |    -0.60 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           27 |     2477 | 2024-04-30 | FORZE             | W   | 0.549      | 0.889        | 0.057 (0.028)    | 0.168 (0.082)    | 1 (0.549) |     7.18 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           26 |     2732 | 2024-04-19 | OG                | L   | 0.476      | -            | -                | -                | -         |    -6.37 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           25 |     2798 | 2024-04-18 | paiN              | L   | 0.468      | -            | -                | -                | -         |    -1.40 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           24 |     2919 | 2024-04-13 | Rebels            | W   | 0.435      | 0.500        | 0.038 (0.008)    | 0.591 (0.128)    | 0 (0.000) |     7.03 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           23 |     2933 | 2024-04-12 | Sangal            | W   | 0.428      | 0.500        | 0.219 (0.047)    | 0.865 (0.185)    | 0 (0.000) |     9.44 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           22 |     3227 | 2024-04-03 | Metizport         | L   | 0.369      | -            | -                | -                | -         |    -7.68 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           21 |     3237 | 2024-04-03 | Apeks             | W   | 0.368      | -            | -                | -                | 0 (0.000) |     4.51 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           20 |     3265 | 2024-04-02 | GamerLegion       | W   | 0.362      | 0.143        | 0.173 (0.009)    | 0.265 (0.014)    | 0 (0.000) |     7.92 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           19 |     3274 | 2024-04-02 | Ninjas in Pyjamas | L   | 0.361      | -            | -                | -                | -         |    -0.20 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           18 |     3298 | 2024-03-31 | RUSH B            | L   | 0.348      | -            | -                | -                | -         |    -7.24 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           17 |     3328 | 2024-03-28 | Betera            | L   | 0.329      | -            | -                | -                | -         |    -8.66 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           16 |     3396 | 2024-03-26 | System5           | W   | 0.316      | 0.500        | -                | 0.082 (0.013)    | 0 (0.000) |     1.46 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           15 |     3625 | 2024-03-13 | PERA              | W   | 0.229      | 0.500        | 0.048 (0.005)    | 0.445 (0.051)    | 0 (0.000) |     2.95 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           14 |     3728 | 2024-03-09 | Metizport         | L   | 0.202      | -            | -                | -                | -         |    -4.43 | DemQQ, kRaSnaL, leen, sdy, Woro2k   |
+|           13 |     3768 | 2024-03-07 | Imperial          | W   | 0.190      | 0.535        | 0.233 (0.024)    | 0.673 (0.068)    | -         |     4.92 | DemQQ, kRaSnaL, leen, sdy, Woro2k   |
+|           12 |     3840 | 2024-03-05 | SAW               | L   | 0.176      | -            | -                | -                | -         |    -1.52 | DemQQ, Gizmy, kRaSnaL, ryu, Woro2k  |
+|           11 |     3905 | 2024-03-03 | Gaimin Gladiators | L   | 0.160      | -            | -                | -                | -         |    -2.72 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
+|           10 |     3910 | 2024-03-02 | 3DMAX             | L   | 0.156      | -            | -                | -                | -         |    -0.10 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
+|            9 |     3953 | 2024-02-29 | PARIVISION        | W   | 0.141      | 0.500        | -                | 0.564 (0.040)    | -         |     2.95 | DemQQ, Gizmy, kRaSnaL, Kvem, Woro2k |
+|            8 |     4121 | 2024-02-21 | Astralis          | L   | 0.087      | -            | -                | -                | -         |    -0.04 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|            7 |     4151 | 2024-02-20 | Apeks             | L   | 0.080      | -            | -                | -                | -         |    -1.58 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|            6 |     4166 | 2024-02-19 | Nexus             | W   | 0.075      | -            | -                | -                | 1 (0.075) |     0.71 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k  |
+|            5 |     4175 | 2024-02-19 | Gaimin Gladiators | L   | 0.074      | -            | -                | -                | -         |    -1.27 | br0, DemQQ, Gizmy, kRaSnaL, Woro2k  |
+|            4 |     4185 | 2024-02-18 | Aurora            | W   | 0.069      | 0.143        | 0.421 (0.004)    | -                | -         |     2.14 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|            3 |     4191 | 2024-02-18 | SINNERS           | W   | 0.068      | -            | -                | -                | -         |     1.53 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|            2 |     4216 | 2024-02-17 | Aurora            | W   | 0.062      | 0.143        | 0.421 (0.004)    | -                | -         |     1.90 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
+|            1 |     4221 | 2024-02-17 | The Chosen Few    | W   | 0.061      | -            | -                | -                | -         |     0.28 | br0, DemQQ, kRaSnaL, sdy, Woro2k    |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($18,319.78)
-- Divide that value by the 5th highest value among all rosters ($321,345.23)
+- First, take the sum of their top 10 scaled winnings ($18,234.78)
+- Divide that value by the 5th highest value among all rosters ($320,603.98)
 - The final value (0.06) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.817 | $4,000.00      | $3,269.72       |
-| 2024-05-12 |      0.631 | $17,500.00     | $11,034.72      |
-| 2024-04-20 |      0.485 | $5,000.00      | $2,427.31       |
-| 2024-03-10 |      0.212 | $7,500.00      | $1,588.02       |
+| 2024-06-09 |      0.815 | $4,000.00      | $3,259.72       |
+| 2024-05-12 |      0.628 | $17,500.00     | $10,990.97      |
+| 2024-04-20 |      0.483 | $5,000.00      | $2,414.81       |
+| 2024-03-10 |      0.209 | $7,500.00      | $1,569.27       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
