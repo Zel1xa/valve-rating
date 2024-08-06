@@ -58,7 +58,7 @@ Note:<br />
 |           12 |     3430 | 2024-03-22 | Natus Vincere | W   | 0.288      | 1.000        | 1.000 (0.288)    | -                | -         |     5.47 | chopper, donk, magixx, sh1ro, zont1x |
 |           11 |     3444 | 2024-03-21 | Imperial      | W   | 0.283      | 1.000        | -                | 0.673 (0.191)    | -         |     0.24 | chopper, donk, magixx, sh1ro, zont1x |
 |           10 |     3454 | 2024-03-21 | Cloud9        | W   | 0.282      | -            | -                | -                | -         |     0.07 | chopper, donk, magixx, sh1ro, zont1x |
-|            9 |     3702 | 2024-03-10 | Metizport     | W   | 0.209      | -            | -                | -                | -         |     0.02 | chopper, donk, magixx, sh1ro, zont1x |
+|            9 |     3702 | 2024-03-10 | Metizport     | W   | 0.209      | -            | -                | -                | -         |     0.03 | chopper, donk, magixx, sh1ro, zont1x |
 |            8 |     3722 | 2024-03-09 | BIG           | W   | 0.203      | -            | -                | -                | -         |     0.21 | chopper, donk, magixx, sh1ro, zont1x |
 |            7 |     3757 | 2024-03-08 | Elevate       | W   | 0.195      | -            | -                | -                | -         |     0.04 | chopper, donk, magixx, sh1ro, zont1x |
 |            6 |     4112 | 2024-02-21 | HEROIC        | W   | 0.089      | -            | -                | -                | -         |     0.36 | chopper, donk, magixx, sh1ro, zont1x |

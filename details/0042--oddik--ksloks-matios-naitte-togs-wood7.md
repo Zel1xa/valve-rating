@@ -6,9 +6,9 @@ Global Rank: [42](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [12]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1104.1<br />
+Final Rank Value:  1104.2<br />
 <br />
-Final Rank Value (1104.1) = Starting Rank Value (994.8) + Head To Head Adjustments (109.4)<br />
+Final Rank Value (1104.2) = Starting Rank Value (994.8) + Head To Head Adjustments (109.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -61,7 +61,7 @@ Note:<br />
 |           87 |      540 | 2024-07-20 | Hype              | W   | 1.000      | -            | -                | -                | -         |    10.37 | ksloks, matios, naitte, togs, WOOD7    |
 |           86 |      551 | 2024-07-20 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -9.23 | ksloks, matios, naitte, togs, WOOD7    |
 |           85 |      622 | 2024-07-18 | Case              | L   | 1.000      | -            | -                | -                | -         |   -22.27 | ksloks, matios, naitte, togs, WOOD7    |
-|           84 |      633 | 2024-07-18 | Imperial          | W   | 1.000      | 0.143        | 0.233 (0.033)    | -                | -         |    22.42 | ksloks, matios, naitte, togs, WOOD7    |
+|           84 |      633 | 2024-07-18 | Imperial          | W   | 1.000      | 0.143        | 0.233 (0.033)    | -                | -         |    22.43 | ksloks, matios, naitte, togs, WOOD7    |
 |           83 |      637 | 2024-07-18 | BESTIA            | W   | 1.000      | 0.143        | 0.096 (0.014)    | -                | -         |    14.29 | ksloks, matios, naitte, togs, WOOD7    |
 |           82 |      681 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -17.44 | ksloks, matios, naitte, togs, WOOD7    |
 |           81 |      692 | 2024-07-17 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -19.01 | ksloks, matios, naitte, togs, WOOD7    |
@@ -74,7 +74,7 @@ Note:<br />
 |           74 |      870 | 2024-07-11 | Legacy            | W   | 1.000      | 0.371        | 0.122 (0.045)    | 0.634 (0.235)    | -         |    18.28 | ksloks, matios, naitte, togs, WOOD7    |
 |           73 |      889 | 2024-07-10 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | -         |     8.57 | ksloks, matios, naitte, togs, WOOD7    |
 |           72 |      898 | 2024-07-10 | Hype              | W   | 1.000      | -            | -                | -                | -         |    12.84 | ksloks, matios, naitte, togs, WOOD7    |
-|           71 |      939 | 2024-07-08 | Sharks Youngsters | W   | 1.000      | -            | -                | -                | -         |     4.82 | ksloks, matios, naitte, togs, WOOD7    |
+|           71 |      939 | 2024-07-08 | Sharks Youngsters | W   | 1.000      | -            | -                | -                | -         |     4.81 | ksloks, matios, naitte, togs, WOOD7    |
 |           70 |      953 | 2024-07-06 | W7M               | W   | 0.995      | -            | -                | -                | -         |     8.22 | ksloks, matios, naitte, togs, WOOD7    |
 |           69 |     1066 | 2024-06-15 | paiN              | L   | 0.855      | -            | -                | -                | -         |    -2.63 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           68 |     1135 | 2024-06-13 | Hype              | W   | 0.842      | -            | -                | -                | -         |    11.57 | lineko, matios, naitte, Tuurtle, WOOD7 |
@@ -84,7 +84,7 @@ Note:<br />
 |           64 |     1295 | 2024-06-08 | W7M               | W   | 0.810      | -            | -                | -                | -         |     7.96 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           63 |     1362 | 2024-06-07 | BESTIA            | L   | 0.803      | -            | -                | -                | -         |    -8.85 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           62 |     1438 | 2024-06-06 | Patins da Ferrari | L   | 0.795      | -            | -                | -                | -         |   -17.57 | lineko, matios, naitte, Tuurtle, WOOD7 |
-|           61 |     1535 | 2024-06-04 | paiN              | L   | 0.783      | -            | -                | -                | -         |    -2.49 | lineko, matios, naitte, Tuurtle, WOOD7 |
+|           61 |     1535 | 2024-06-04 | paiN              | L   | 0.783      | -            | -                | -                | -         |    -2.48 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           60 |     1905 | 2024-05-21 | Case              | L   | 0.689      | -            | -                | -                | -         |   -12.02 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           59 |     1962 | 2024-05-19 | Case              | W   | 0.677      | -            | -                | -                | -         |     9.32 | lineko, matios, naitte, Tuurtle, WOOD7 |
 |           58 |     1987 | 2024-05-18 | RED Canids        | L   | 0.670      | -            | -                | -                | -         |    -6.06 | lineko, matios, naitte, Tuurtle, WOOD7 |

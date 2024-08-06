@@ -6,9 +6,9 @@ Global Rank: [8](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [7]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1681.1<br />
+Final Rank Value:  1681.2<br />
 <br />
-Final Rank Value (1681.1) = Starting Rank Value (1677.3) + Head To Head Adjustments (3.9)<br />
+Final Rank Value (1681.2) = Starting Rank Value (1677.3) + Head To Head Adjustments (3.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           41 |      106 | 2024-08-02 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |   -20.63 | broky, frozen, karrigan, rain, ropz |
+|           41 |      106 | 2024-08-02 | Ninjas in Pyjamas | L   | 1.000      | -            | -                | -                | -         |   -20.61 | broky, frozen, karrigan, rain, ropz |
 |           40 |      158 | 2024-08-01 | G2                | L   | 1.000      | -            | -                | -                | -         |    -6.14 | broky, frozen, karrigan, rain, ropz |
 |           39 |      206 | 2024-07-31 | Cloud9            | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.14 | broky, frozen, karrigan, rain, ropz |
 |           38 |      575 | 2024-07-19 | Natus Vincere     | L   | 1.000      | -            | -                | -                | -         |    -7.31 | broky, frozen, karrigan, rain, ropz |
@@ -51,7 +51,7 @@ Note:<br />
 |           30 |     1752 | 2024-05-27 | M80               | W   | 0.730      | 0.624        | -                | 0.576 (0.262)    | 1 (0.730) |     1.41 | broky, frozen, karrigan, rain, ropz |
 |           29 |     2277 | 2024-05-10 | Vitality          | L   | 0.615      | -            | -                | -                | -         |    -6.45 | broky, frozen, karrigan, rain, ropz |
 |           28 |     2319 | 2024-05-08 | Natus Vincere     | W   | 0.602      | 0.889        | 1.000 (0.535)    | 0.365 (0.195)    | 1 (0.602) |    14.90 | broky, frozen, karrigan, rain, ropz |
-|           27 |     2337 | 2024-05-07 | Monte             | W   | 0.595      | -            | -                | -                | 1 (0.595) |     0.36 | broky, frozen, karrigan, rain, ropz |
+|           27 |     2337 | 2024-05-07 | Monte             | W   | 0.595      | -            | -                | -                | 1 (0.595) |     0.37 | broky, frozen, karrigan, rain, ropz |
 |           26 |     2569 | 2024-04-26 | Eternal Fire      | W   | 0.522      | 0.889        | 0.739 (0.343)    | 0.448 (0.208)    | 1 (0.522) |     7.71 | broky, frozen, karrigan, rain, ropz |
 |           25 |     2598 | 2024-04-25 | Virtus.pro        | W   | 0.515      | 0.889        | 0.498 (0.228)    | -                | 1 (0.515) |     7.40 | broky, frozen, karrigan, rain, ropz |
 |           24 |     2617 | 2024-04-24 | Astralis          | L   | 0.509      | -            | -                | -                | -         |    -7.48 | broky, frozen, karrigan, rain, ropz |

@@ -6,9 +6,9 @@ Global Rank: [58](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [42]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1007.9<br />
+Final Rank Value:  1008.0<br />
 <br />
-Final Rank Value (1007.9) = Starting Rank Value (995.0) + Head To Head Adjustments (12.9)<br />
+Final Rank Value (1008.0) = Starting Rank Value (995.0) + Head To Head Adjustments (13.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -43,11 +43,11 @@ Note:<br />
 |           22 |     1722 | 2024-05-29 | ATOX              | L   | 0.739      | -            | -                | -                | -         |   -16.75 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           21 |     1981 | 2024-05-19 | paiN              | L   | 0.673      | -            | -                | -                | -         |    -2.86 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           20 |     1989 | 2024-05-18 | Liquid            | L   | 0.669      | -            | -                | -                | -         |    -0.99 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
-|           19 |     2455 | 2024-05-01 | Insilio           | L   | 0.555      | -            | -                | -                | -         |   -11.64 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
-|           18 |     2484 | 2024-04-30 | Sashi             | L   | 0.548      | -            | -                | -                | -         |    -6.00 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
+|           19 |     2455 | 2024-05-01 | Insilio           | L   | 0.555      | -            | -                | -                | -         |   -11.63 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
+|           18 |     2484 | 2024-04-30 | Sashi             | L   | 0.548      | -            | -                | -                | -         |    -5.99 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           17 |     2706 | 2024-04-20 | MIBR              | L   | 0.481      | -            | -                | -                | -         |    -1.54 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           16 |     2721 | 2024-04-19 | 9z                | W   | 0.478      | 0.589        | 0.404 (0.114)    | 0.604 (0.170)    | 1 (0.478) |    14.08 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
-|           15 |     2732 | 2024-04-19 | Monte             | W   | 0.476      | 0.589        | 0.057 (0.016)    | 0.153 (0.043)    | 1 (0.476) |     6.37 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
+|           15 |     2732 | 2024-04-19 | Monte             | W   | 0.476      | 0.589        | 0.057 (0.016)    | 0.153 (0.043)    | 1 (0.476) |     6.39 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           14 |     2776 | 2024-04-18 | MIBR              | L   | 0.470      | -            | -                | -                | -         |    -1.53 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           13 |     2905 | 2024-04-14 | Aurora            | L   | 0.441      | -            | -                | -                | -         |    -0.47 | F1KU, HeavyGod, k1to, MoDo, Nexius   |
 |           12 |     2914 | 2024-04-13 | BetBoom           | W   | 0.435      | 0.684        | 0.248 (0.074)    | 0.526 (0.157)    | 0 (0.000) |    12.14 | F1KU, HeavyGod, k1to, MoDo, Nexius   |

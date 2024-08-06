@@ -6,9 +6,9 @@ Global Rank: [127](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [87]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  790.3<br />
+Final Rank Value:  790.4<br />
 <br />
-Final Rank Value (790.3) = Starting Rank Value (753.3) + Head To Head Adjustments (37.0)<br />
+Final Rank Value (790.4) = Starting Rank Value (753.3) + Head To Head Adjustments (37.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,12 +38,12 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           21 |       11 | 2024-08-05 | Preasy          | W   | 1.000      | 0.435        | 0.008 (0.004)    | 0.221 (0.096)    | 0 (0.000) |    15.49 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           20 |       30 | 2024-08-04 | Alliance        | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.289 (0.041)    | 0 (0.000) |    19.09 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           19 |       47 | 2024-08-04 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |    -6.53 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           20 |       30 | 2024-08-04 | Alliance        | W   | 1.000      | 0.143        | 0.017 (0.002)    | 0.289 (0.041)    | 0 (0.000) |    19.12 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
+|           19 |       47 | 2024-08-04 | 1WIN            | L   | 1.000      | -            | -                | -                | -         |    -6.50 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
 |           18 |      769 | 2024-07-16 | Johnny Speeds   | L   | 1.000      | -            | -                | -                | -         |    -2.11 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
-|           17 |     2670 | 2024-04-21 | Nexus           | L   | 0.489      | -            | -                | -                | -         |    -5.89 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
+|           17 |     2670 | 2024-04-21 | Nexus           | L   | 0.489      | -            | -                | -                | -         |    -5.87 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
 |           16 |     2693 | 2024-04-20 | Passion UA      | L   | 0.482      | -            | -                | -                | -         |    -2.77 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
-|           15 |     2780 | 2024-04-18 | Nexus           | W   | 0.469      | 0.500        | 0.014 (0.003)    | 0.457 (0.107)    | 0 (0.000) |     9.16 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
+|           15 |     2780 | 2024-04-18 | Nexus           | W   | 0.469      | 0.500        | 0.014 (0.003)    | 0.457 (0.107)    | 0 (0.000) |     9.19 | bobeksde, jocab, MisteM, Silence, xKacpersky    |
 |           14 |     3124 | 2024-04-07 | 3DMAX           | L   | 0.394      | -            | -                | -                | -         |    -0.08 | BluePho3nix, jocab, MisteM, Silence, xKacpersky |
 |           13 |     3607 | 2024-03-14 | ex-sYnck        | L   | 0.233      | -            | -                | -                | -         |    -6.04 | BluePho3nix, dex, maxster, MisteM, Silence      |
 |           12 |     3711 | 2024-03-10 | 500             | W   | 0.208      | 0.358        | 0.001 (0.000)    | 0.093 (0.007)    | 0 (0.000) |     2.81 | BluePho3nix, jocab, maxster, MisteM, Silence    |

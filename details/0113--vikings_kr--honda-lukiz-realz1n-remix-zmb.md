@@ -69,7 +69,7 @@ Note:<br />
 |           20 |      981 | 2024-06-28 | Dusty Roots       | W   | 0.942      | 0.333        | -                | 0.366 (0.115)    | -         |    15.53 | honda, ksloks, realz1n, remix, zmb |
 |           19 |      991 | 2024-06-26 | Bounty Hunters    | L   | 0.929      | -            | -                | -                | -         |   -10.18 | honda, ksloks, realz1n, remix, zmb |
 |           18 |     1199 | 2024-06-10 | ex-Corinthians    | W   | 0.824      | -            | -                | -                | -         |     4.83 | honda, ksloks, realz1n, remix, zmb |
-|           17 |     1210 | 2024-06-10 | Sharks            | L   | 0.821      | -            | -                | -                | -         |    -5.30 | honda, ksloks, realz1n, remix, zmb |
+|           17 |     1210 | 2024-06-10 | Sharks            | L   | 0.821      | -            | -                | -                | -         |    -5.29 | honda, ksloks, realz1n, remix, zmb |
 |           16 |     1263 | 2024-06-09 | Patins da Ferrari | L   | 0.814      | -            | -                | -                | -         |   -12.20 | honda, ksloks, realz1n, remix, zmb |
 |           15 |     1316 | 2024-06-08 | BESTIA            | W   | 0.809      | 0.450        | 0.096 (0.035)    | 0.793 (0.289)    | -         |    20.12 | honda, ksloks, realz1n, remix, zmb |
 |           14 |     1375 | 2024-06-07 | Case              | W   | 0.802      | 0.450        | 0.029 (0.011)    | 0.795 (0.287)    | -         |    15.66 | honda, ksloks, realz1n, remix, zmb |

@@ -6,9 +6,9 @@ Global Rank: [100](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [71]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  861.2<br />
+Final Rank Value:  861.7<br />
 <br />
-Final Rank Value (861.2) = Starting Rank Value (810.3) + Head To Head Adjustments (50.9)<br />
+Final Rank Value (861.7) = Starting Rank Value (810.3) + Head To Head Adjustments (51.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,37 +38,37 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           47 |        3 | 2024-08-06 | Illuminar         | W   | 1.000      | 0.333        | 0.012 (0.004)    | 0.347 (0.116)    | 0 (0.000) |    18.58 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           46 |       25 | 2024-08-05 | INFINITE          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.02 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           45 |      204 | 2024-07-31 | TNL               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.33 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           44 |      406 | 2024-07-25 | Nexus             | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.457 (0.065)    | 0 (0.000) |    13.96 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           43 |      666 | 2024-07-18 | Lilmix            | L   | 1.000      | -            | -                | -                | -         |   -13.44 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           42 |      716 | 2024-07-17 | Preasy            | L   | 1.000      | -            | -                | -                | -         |   -17.56 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           41 |      774 | 2024-07-16 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |   -13.05 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           40 |      826 | 2024-07-15 | UNiTY             | L   | 1.000      | -            | -                | -                | -         |   -11.27 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           39 |      827 | 2024-07-14 | Turkey            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.42 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           38 |      829 | 2024-07-14 | Nexus             | W   | 1.000      | 0.143        | -                | 0.457 (0.065)    | 0 (0.000) |    10.60 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           37 |      832 | 2024-07-14 | Turkey            | L   | 1.000      | -            | -                | -                | -         |   -26.36 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           36 |      881 | 2024-07-11 | Illuminar         | W   | 1.000      | 0.371        | 0.012 (0.004)    | 0.347 (0.129)    | 0 (0.000) |    17.05 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           35 |      891 | 2024-07-10 | Nexus             | W   | 1.000      | 0.143        | -                | 0.457 (0.065)    | 0 (0.000) |    10.35 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           34 |      921 | 2024-07-09 | 500               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.38 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           33 |      951 | 2024-07-07 | Revenant          | L   | 1.000      | -            | -                | -                | -         |   -17.30 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           46 |       25 | 2024-08-05 | INFINITE          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.01 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           45 |      204 | 2024-07-31 | TNL               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.32 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           44 |      406 | 2024-07-25 | Nexus             | W   | 1.000      | 0.143        | 0.014 (0.002)    | 0.457 (0.065)    | 0 (0.000) |    13.99 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           43 |      666 | 2024-07-18 | Lilmix            | L   | 1.000      | -            | -                | -                | -         |   -13.46 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           42 |      716 | 2024-07-17 | Preasy            | L   | 1.000      | -            | -                | -                | -         |   -17.58 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           41 |      774 | 2024-07-16 | Illuminar         | L   | 1.000      | -            | -                | -                | -         |   -13.06 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           40 |      826 | 2024-07-15 | UNiTY             | L   | 1.000      | -            | -                | -                | -         |   -11.29 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           39 |      827 | 2024-07-14 | Turkey            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.41 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           38 |      829 | 2024-07-14 | Nexus             | W   | 1.000      | 0.143        | -                | 0.457 (0.065)    | 0 (0.000) |    10.64 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           37 |      832 | 2024-07-14 | Turkey            | L   | 1.000      | -            | -                | -                | -         |   -26.37 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           36 |      881 | 2024-07-11 | Illuminar         | W   | 1.000      | 0.371        | 0.012 (0.004)    | 0.347 (0.129)    | 0 (0.000) |    17.04 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           35 |      891 | 2024-07-10 | Nexus             | W   | 1.000      | 0.143        | -                | 0.457 (0.065)    | 0 (0.000) |    10.39 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           34 |      921 | 2024-07-09 | 500               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.37 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           33 |      951 | 2024-07-07 | Revenant          | L   | 1.000      | -            | -                | -                | -         |   -17.32 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           32 |      955 | 2024-07-06 | BRUTE             | W   | 0.993      | -            | -                | -                | 0 (0.000) |     2.09 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           31 |      958 | 2024-07-05 | Johnny Speeds     | L   | 0.987      | -            | -                | -                | -         |    -3.20 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           30 |      969 | 2024-06-30 | Lazer Cats        | W   | 0.954      | -            | -                | -                | -         |     3.84 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           29 |     1011 | 2024-06-18 | UNiTY             | W   | 0.873      | 0.333        | 0.024 (0.007)    | 0.300 (0.087)    | -         |    17.69 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           28 |     1016 | 2024-06-17 | K10               | W   | 0.866      | 0.333        | 0.008 (0.002)    | -                | -         |     8.67 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           27 |     1806 | 2024-05-25 | Rebels            | L   | 0.713      | -            | -                | -                | -         |    -6.70 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           26 |     1916 | 2024-05-21 | Serbia            | L   | 0.687      | -            | -                | -                | -         |   -13.50 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           25 |     2075 | 2024-05-16 | Monte             | L   | 0.654      | -            | -                | -                | -         |    -6.48 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           24 |     2086 | 2024-05-16 | Zero Tenacity     | L   | 0.653      | -            | -                | -                | -         |    -4.88 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           23 |     2141 | 2024-05-15 | Preasy            | W   | 0.646      | -            | -                | -                | -         |     7.69 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           22 |     2184 | 2024-05-14 | Alliance          | W   | 0.641      | 0.384        | 0.017 (0.004)    | 0.289 (0.071)    | -         |    10.37 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           21 |     2191 | 2024-05-14 | Johnny Speeds     | W   | 0.640      | 0.333        | 0.122 (0.026)    | 1.000 (0.213)    | -         |    18.54 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           20 |     2210 | 2024-05-13 | Verdant           | W   | 0.633      | 0.333        | 0.015 (0.003)    | 0.294 (0.062)    | -         |    12.56 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           19 |     2507 | 2024-04-29 | Gaimin Gladiators | W   | 0.541      | 0.384        | 0.037 (0.008)    | 0.339 (0.070)    | -         |    12.51 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           18 |     2609 | 2024-04-25 | HAVU              | W   | 0.513      | -            | -                | -                | -         |     5.60 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           31 |      958 | 2024-07-05 | Johnny Speeds     | L   | 0.987      | -            | -                | -                | -         |    -3.21 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           30 |      969 | 2024-06-30 | Lazer Cats        | W   | 0.954      | -            | -                | -                | -         |     3.83 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           29 |     1011 | 2024-06-18 | UNiTY             | W   | 0.873      | 0.333        | 0.024 (0.007)    | 0.300 (0.087)    | -         |    17.68 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           28 |     1016 | 2024-06-17 | K10               | W   | 0.866      | 0.333        | 0.008 (0.002)    | -                | -         |     8.66 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           27 |     1806 | 2024-05-25 | Rebels            | L   | 0.713      | -            | -                | -                | -         |    -6.71 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           26 |     1916 | 2024-05-21 | Serbia            | L   | 0.687      | -            | -                | -                | -         |   -13.52 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           25 |     2075 | 2024-05-16 | Monte             | L   | 0.654      | -            | -                | -                | -         |    -6.50 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           24 |     2086 | 2024-05-16 | Zero Tenacity     | L   | 0.653      | -            | -                | -                | -         |    -4.87 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           23 |     2141 | 2024-05-15 | Preasy            | W   | 0.646      | -            | -                | -                | -         |     7.68 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           22 |     2184 | 2024-05-14 | Alliance          | W   | 0.641      | 0.384        | 0.017 (0.004)    | 0.289 (0.071)    | -         |    10.39 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           21 |     2191 | 2024-05-14 | Johnny Speeds     | W   | 0.640      | 0.333        | 0.122 (0.026)    | 1.000 (0.213)    | -         |    18.53 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           20 |     2210 | 2024-05-13 | Verdant           | W   | 0.633      | 0.333        | 0.015 (0.003)    | 0.294 (0.062)    | -         |    12.55 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           19 |     2507 | 2024-04-29 | Gaimin Gladiators | W   | 0.541      | 0.384        | 0.037 (0.008)    | 0.339 (0.070)    | -         |    12.50 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           18 |     2609 | 2024-04-25 | HAVU              | W   | 0.513      | -            | -                | -                | -         |     5.59 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           17 |     3073 | 2024-04-09 | ex-Preasy         | L   | 0.406      | -            | -                | -                | -         |    -6.32 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
-|           16 |     3567 | 2024-03-15 | Metizport         | W   | 0.242      | -            | -                | -                | -         |     4.31 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
+|           16 |     3567 | 2024-03-15 | Metizport         | W   | 0.242      | -            | -                | -                | -         |     4.96 | amster, byr9, kensizor, Polbandana, s4ltovsk1yy |
 |           15 |     3672 | 2024-03-12 | JANO              | W   | 0.221      | -            | -                | -                | -         |     2.29 | byr9, kensizor, munch, Polbandana, s4ltovsk1yy  |
 |           14 |     3683 | 2024-03-11 | CYBERSHOKE        | L   | 0.216      | -            | -                | -                | -         |    -4.68 | byr9, kensizor, munch, Polbandana, s4ltovsk1yy  |
 |           13 |     3731 | 2024-03-09 | Enterprise        | W   | 0.201      | 0.372        | 0.039 (0.003)    | -                | -         |     4.07 | byr9, kensizor, munch, Polbandana, s4ltovsk1yy  |

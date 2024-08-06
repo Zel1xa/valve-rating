@@ -6,9 +6,9 @@ Global Rank: [70](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [19]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  958.4<br />
+Final Rank Value:  958.5<br />
 <br />
-Final Rank Value (958.4) = Starting Rank Value (901.5) + Head To Head Adjustments (57.0)<br />
+Final Rank Value (958.5) = Starting Rank Value (901.5) + Head To Head Adjustments (57.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />

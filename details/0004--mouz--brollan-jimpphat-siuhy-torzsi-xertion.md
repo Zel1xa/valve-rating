@@ -46,7 +46,7 @@ Note:<br />
 |           23 |     1973 | 2024-05-19 | Spirit             | W   | 0.674      | 0.769        | 1.000 (0.518)    | 0.451 (0.234)    | 1 (0.674) |    10.93 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           22 |     2001 | 2024-05-18 | HEROIC             | W   | 0.668      | 0.769        | -                | 0.363 (0.186)    | 1 (0.668) |     2.85 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           21 |     2080 | 2024-05-16 | Virtus.pro         | W   | 0.653      | 0.769        | 0.498 (0.250)    | -                | 1 (0.653) |     5.03 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
-|           20 |     2185 | 2024-05-14 | BetBoom            | W   | 0.641      | 0.769        | -                | 0.526 (0.259)    | 1 (0.641) |     1.07 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
+|           20 |     2185 | 2024-05-14 | BetBoom            | W   | 0.641      | 0.769        | -                | 0.526 (0.259)    | 1 (0.641) |     1.08 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           19 |     2228 | 2024-05-12 | Vitality           | W   | 0.628      | 0.889        | 0.647 (0.361)    | 0.375 (0.209)    | 1 (0.628) |     9.63 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           18 |     2250 | 2024-05-11 | Complexity         | W   | 0.622      | 0.889        | 0.341 (0.189)    | 0.372 (0.206)    | 1 (0.622) |     4.92 | Brollan, Jimpphat, siuhy, torzsi, xertioN |
 |           17 |     2298 | 2024-05-09 | G2                 | W   | 0.609      | 0.889        | 1.000 (0.541)    | 0.489 (0.265)    | 1 (0.609) |    11.88 | Brollan, Jimpphat, siuhy, torzsi, xertioN |

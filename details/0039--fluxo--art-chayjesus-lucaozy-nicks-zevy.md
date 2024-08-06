@@ -46,7 +46,7 @@ Note:<br />
 |          100 |      228 | 2024-07-30 | Bounty Hunters | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.50 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           99 |      268 | 2024-07-29 | Vikings KR     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.56 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           98 |      301 | 2024-07-28 | Intense        | L   | 1.000      | -            | -                | -                | -         |   -26.99 | arT, Lucaozy, nicks, vsm, zevy       |
-|           97 |      343 | 2024-07-26 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -13.97 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           97 |      343 | 2024-07-26 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -13.96 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           96 |      347 | 2024-07-26 | W7M            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.79 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           95 |      351 | 2024-07-26 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -24.39 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           94 |      374 | 2024-07-25 | Hype           | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.23 | arT, chayJESUS, Lucaozy, nicks, zevy |
@@ -59,7 +59,7 @@ Note:<br />
 |           87 |      466 | 2024-07-23 | Solid          | W   | 1.000      | -            | -                | -                | -         |     5.06 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           86 |      490 | 2024-07-22 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |   -23.66 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           85 |      510 | 2024-07-21 | paiN           | W   | 1.000      | 0.384        | 0.324 (0.124)    | 0.857 (0.329)    | -         |    22.53 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           84 |      517 | 2024-07-21 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.50 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           84 |      517 | 2024-07-21 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -8.49 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           83 |      538 | 2024-07-20 | Sharks         | W   | 1.000      | -            | -                | -                | -         |     7.61 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           82 |      551 | 2024-07-20 | ODDIK          | W   | 1.000      | -            | -                | -                | -         |     9.23 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           81 |      573 | 2024-07-19 | Vikings KR     | W   | 1.000      | -            | -                | -                | -         |     4.15 | arT, chayJESUS, Lucaozy, nicks, zevy |
@@ -89,7 +89,7 @@ Note:<br />
 |           57 |     2059 | 2024-05-16 | RED Canids     | L   | 0.656      | -            | -                | -                | -         |    -9.97 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           56 |     2104 | 2024-05-15 | Smoke          | W   | 0.650      | -            | -                | -                | -         |     2.07 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           55 |     2105 | 2024-05-15 | Smoke          | W   | 0.650      | -            | -                | -                | -         |     2.11 | arT, chayJESUS, Lucaozy, nicks, zevy |
-|           54 |     2119 | 2024-05-15 | Imperial       | L   | 0.649      | -            | -                | -                | -         |    -5.73 | arT, chayJESUS, Lucaozy, nicks, zevy |
+|           54 |     2119 | 2024-05-15 | Imperial       | L   | 0.649      | -            | -                | -                | -         |    -5.72 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           53 |     2169 | 2024-05-14 | Sharks         | W   | 0.643      | -            | -                | -                | -         |     7.13 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           52 |     2182 | 2024-05-14 | ODDIK          | W   | 0.641      | 0.384        | 0.099 (0.024)    | -                | -         |     6.87 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           51 |     2202 | 2024-05-13 | Hype           | W   | 0.635      | -            | -                | -                | -         |     4.58 | arT, chayJESUS, Lucaozy, nicks, zevy |
@@ -97,7 +97,7 @@ Note:<br />
 |           49 |     2289 | 2024-05-09 | paiN           | W   | 0.611      | 0.450        | 0.324 (0.089)    | 0.857 (0.236)    | -         |    16.35 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           48 |     2294 | 2024-05-09 | paiN           | L   | 0.611      | -            | -                | -                | -         |    -2.81 | arT, chayJESUS, Lucaozy, nicks, zevy |
 |           47 |     2768 | 2024-04-18 | paiN           | L   | 0.471      | -            | -                | -                | -         |    -2.14 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
-|           46 |     2775 | 2024-04-18 | Imperial       | L   | 0.470      | -            | -                | -                | -         |    -3.59 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
+|           46 |     2775 | 2024-04-18 | Imperial       | L   | 0.470      | -            | -                | -                | -         |    -3.58 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
 |           45 |     2822 | 2024-04-17 | ODDIK          | W   | 0.463      | -            | -                | -                | -         |     4.97 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
 |           44 |     2830 | 2024-04-17 | Solid          | W   | 0.463      | -            | -                | -                | -         |     3.79 | chayJESUS, Lucaozy, PKL, vsm, zevy   |
 |           43 |     2861 | 2024-04-16 | Hype           | W   | 0.457      | -            | -                | -                | -         |     3.73 | chayJESUS, Lucaozy, PKL, vsm, zevy   |

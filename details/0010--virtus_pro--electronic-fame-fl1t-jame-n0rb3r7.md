@@ -43,13 +43,13 @@ Note:<br />
 |           35 |      599 | 2024-07-19 | Vitality      | W   | 1.000      | 1.000        | 0.647 (0.647)    | 0.375 (0.375)    | 1 (1.000) |    22.19 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           34 |      701 | 2024-07-17 | Complexity    | W   | 1.000      | 1.000        | 0.341 (0.341)    | 0.372 (0.372)    | 1 (1.000) |    13.05 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           33 |     1053 | 2024-06-15 | Natus Vincere | L   | 0.856      | -            | -                | -                | -         |    -5.11 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           32 |     1090 | 2024-06-14 | Astralis      | W   | 0.849      | 0.729        | 0.389 (0.241)    | 0.412 (0.255)    | 1 (0.849) |    15.20 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           32 |     1090 | 2024-06-14 | Astralis      | W   | 0.849      | 0.729        | 0.389 (0.241)    | 0.412 (0.255)    | 1 (0.849) |    15.21 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           31 |     1127 | 2024-06-13 | Spirit        | L   | 0.843      | -            | -                | -                | -         |    -5.31 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           30 |     1167 | 2024-06-12 | Vitality      | W   | 0.835      | 0.729        | 0.647 (0.394)    | 0.375 (0.228)    | 1 (0.835) |    19.93 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           29 |     1713 | 2024-05-29 | BIG           | L   | 0.742      | -            | -                | -                | -         |   -20.43 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           28 |     1728 | 2024-05-28 | FaZe          | L   | 0.736      | -            | -                | -                | -         |    -9.46 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           27 |     1749 | 2024-05-27 | HEROIC        | W   | 0.730      | 0.624        | 0.225 (0.102)    | 0.363 (0.165)    | 1 (0.730) |     7.99 | electroNic, fame, FL1T, Jame, n0rb3r7 |
-|           26 |     2041 | 2024-05-17 | Falcons       | L   | 0.661      | -            | -                | -                | -         |   -16.91 | electroNic, fame, FL1T, Jame, n0rb3r7 |
+|           26 |     2041 | 2024-05-17 | Falcons       | L   | 0.661      | -            | -                | -                | -         |   -16.90 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           25 |     2080 | 2024-05-16 | MOUZ          | L   | 0.653      | -            | -                | -                | -         |    -5.03 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           24 |     2179 | 2024-05-14 | Falcons       | W   | 0.642      | 0.769        | 0.220 (0.108)    | -                | 1 (0.642) |     3.45 | electroNic, fame, FL1T, Jame, n0rb3r7 |
 |           23 |     2301 | 2024-05-09 | Complexity    | L   | 0.608      | -            | -                | -                | -         |   -10.12 | electroNic, fame, FL1T, Jame, n0rb3r7 |

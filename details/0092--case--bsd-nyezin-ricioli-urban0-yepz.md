@@ -68,7 +68,7 @@ Note:<br />
 |           96 |      751 | 2024-07-16 | Solid             | W   | 1.000      | 0.450        | 0.024 (0.011)    | 0.825 (0.371)    | -         |    11.98 | bsd, nyezin, RICIOLI, urban0, yepz     |
 |           95 |      798 | 2024-07-15 | 9z Academy        | W   | 1.000      | -            | -                | -                | -         |     2.63 | bsd, nyezin, RICIOLI, urban0, yepz     |
 |           94 |      802 | 2024-07-15 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -10.20 | nyezin, paqueta, RICIOLI, urban0, yepz |
-|           93 |      803 | 2024-07-15 | Imperial          | W   | 1.000      | 0.450        | 0.233 (0.105)    | 0.673 (0.303)    | -         |    26.68 | bsd, nyezin, RICIOLI, urban0, yepz     |
+|           93 |      803 | 2024-07-15 | Imperial          | W   | 1.000      | 0.450        | 0.233 (0.105)    | 0.673 (0.303)    | -         |    26.69 | bsd, nyezin, RICIOLI, urban0, yepz     |
 |           92 |      809 | 2024-07-15 | Imperial          | W   | 1.000      | 0.450        | 0.233 (0.105)    | 0.673 (0.303)    | -         |    27.81 | bsd, nyezin, RICIOLI, urban0, yepz     |
 |           91 |      847 | 2024-07-13 | Dusty Roots       | W   | 1.000      | -            | -                | -                | -         |    12.44 | nyezin, paqueta, RICIOLI, urban0, yepz |
 |           90 |      869 | 2024-07-11 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -18.12 | nyezin, paqueta, RICIOLI, urban0, yepz |

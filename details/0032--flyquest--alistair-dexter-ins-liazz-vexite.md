@@ -8,7 +8,7 @@ Regional Rank: [2]( ../standings_asia.md)<br />
 <br />
 Final Rank Value:  1176.7<br />
 <br />
-Final Rank Value (1176.7) = Starting Rank Value (1150.4) + Head To Head Adjustments (26.3)<br />
+Final Rank Value (1176.7) = Starting Rank Value (1150.4) + Head To Head Adjustments (26.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,7 +42,7 @@ Note:<br />
 |           46 |     1291 | 2024-06-08 | Rooster            | W   | 0.812      | 0.333        | 0.010 (0.003)    | 0.246 (0.067)    | 0 (0.000) |     3.65 | aliStair, dexter, INS, Liazz, Vexite |
 |           45 |     1346 | 2024-06-08 | Mindfreak          | W   | 0.806      | 0.333        | 0.004 (0.001)    | 0.223 (0.060)    | -         |     2.08 | aliStair, dexter, INS, Liazz, Vexite |
 |           44 |     1401 | 2024-06-07 | Rooster            | L   | 0.799      | -            | -                | -                | -         |   -21.95 | aliStair, dexter, INS, Liazz, Vexite |
-|           43 |     1729 | 2024-05-28 | BIG                | L   | 0.736      | -            | -                | -                | -         |    -8.69 | aliStair, dexter, INS, Liazz, Vexite |
+|           43 |     1729 | 2024-05-28 | BIG                | L   | 0.736      | -            | -                | -                | -         |    -8.68 | aliStair, dexter, INS, Liazz, Vexite |
 |           42 |     1750 | 2024-05-27 | Spirit             | L   | 0.730      | -            | -                | -                | -         |    -0.47 | aliStair, dexter, INS, Liazz, Vexite |
 |           41 |     1877 | 2024-05-22 | Mindfreak          | W   | 0.693      | 0.333        | 0.004 (0.001)    | 0.223 (0.052)    | -         |     1.39 | aliStair, dexter, INS, Liazz, Vexite |
 |           40 |     1882 | 2024-05-22 | Mindfreak          | W   | 0.693      | 0.333        | -                | 0.223 (0.052)    | -         |     1.41 | aliStair, dexter, INS, Liazz, Vexite |

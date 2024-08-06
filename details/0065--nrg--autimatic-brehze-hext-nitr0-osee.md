@@ -66,7 +66,7 @@ Note:<br />
 |           49 |     1821 | 2024-05-23 | Nouns            | L   | 0.704      | -            | -                | -                | -         |    -9.12 | autimatic, Brehze, HexT, oSee, Walco |
 |           48 |     1837 | 2024-05-22 | Elevate          | L   | 0.698      | -            | -                | -                | -         |    -8.68 | autimatic, Brehze, HexT, oSee, Walco |
 |           47 |     1843 | 2024-05-22 | Elevate          | L   | 0.698      | -            | -                | -                | -         |    -9.22 | autimatic, Brehze, HexT, oSee, Walco |
-|           46 |     1866 | 2024-05-22 | Legacy           | W   | 0.695      | 0.384        | 0.122 (0.033)    | 0.634 (0.169)    | -         |    13.65 | autimatic, Brehze, HexT, oSee, Walco |
+|           46 |     1866 | 2024-05-22 | Legacy           | W   | 0.695      | 0.384        | 0.122 (0.033)    | 0.634 (0.169)    | -         |    13.66 | autimatic, Brehze, HexT, oSee, Walco |
 |           45 |     1889 | 2024-05-21 | Phoenix          | L   | 0.691      | -            | -                | -                | -         |   -16.04 | autimatic, Brehze, HexT, oSee, Walco |
 |           44 |     1891 | 2024-05-21 | Phoenix          | W   | 0.691      | -            | -                | -                | -         |     5.64 | autimatic, Brehze, HexT, oSee, Walco |
 |           43 |     1922 | 2024-05-20 | M80              | L   | 0.684      | -            | -                | -                | -         |    -3.06 | autimatic, Brehze, HexT, oSee, Walco |

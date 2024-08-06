@@ -6,9 +6,9 @@ Global Rank: [82](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [60]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  929.9<br />
+Final Rank Value:  930.0<br />
 <br />
-Final Rank Value (929.9) = Starting Rank Value (884.0) + Head To Head Adjustments (45.9)<br />
+Final Rank Value (930.0) = Starting Rank Value (884.0) + Head To Head Adjustments (46.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                     |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |     2400 | 2024-05-04 | Monte           | L   | 0.574      | -            | -                | -                | -         |    -7.50 | NickelBack, SELLTER, shalfey, smooya, tN1R |
+|           30 |     2400 | 2024-05-04 | Monte           | L   | 0.574      | -            | -                | -                | -         |    -7.47 | NickelBack, SELLTER, shalfey, smooya, tN1R |
 |           29 |     2428 | 2024-05-02 | GamerLegion     | L   | 0.562      | -            | -                | -                | -         |    -4.62 | NickelBack, SELLTER, shalfey, smooya, tN1R |
 |           28 |     2454 | 2024-05-01 | FURIA           | W   | 0.555      | 0.889        | 0.284 (0.140)    | 0.479 (0.237)    | 1 (0.555) |    17.18 | NickelBack, SELLTER, shalfey, smooya, tN1R |
-|           27 |     2477 | 2024-04-30 | Monte           | L   | 0.549      | -            | -                | -                | -         |    -7.18 | NickelBack, SELLTER, shalfey, smooya, tN1R |
+|           27 |     2477 | 2024-04-30 | Monte           | L   | 0.549      | -            | -                | -                | -         |    -7.15 | NickelBack, SELLTER, shalfey, smooya, tN1R |
 |           26 |     2932 | 2024-04-12 | BIG             | L   | 0.428      | -            | -                | -                | -         |    -1.53 | kelieN, SELLTER, shalfey, sstiNiX, tN1R    |
 |           25 |     2965 | 2024-04-11 | Aurora          | L   | 0.421      | -            | -                | -                | -         |    -0.25 | kelieN, SELLTER, shalfey, sstiNiX, tN1R    |
 |           24 |     2997 | 2024-04-10 | TSM             | W   | 0.416      | -            | -                | -                | 0 (0.000) |     2.58 | kelieN, SELLTER, shalfey, spirit, tN1R     |
 |           23 |     3052 | 2024-04-09 | brazylijski luz | W   | 0.409      | 0.500        | 0.008 (0.002)    | 0.256 (0.052)    | 0 (0.000) |     4.25 | kelieN, SELLTER, shalfey, spirit, tN1R     |
 |           22 |     3093 | 2024-04-08 | ENCE            | W   | 0.401      | 0.684        | 0.173 (0.047)    | 0.431 (0.118)    | 0 (0.000) |    12.04 | kelieN, SELLTER, shalfey, sstiNiX, tN1R    |
 |           21 |     3366 | 2024-03-27 | 500             | L   | 0.322      | -            | -                | -                | -         |    -7.72 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
-|           20 |     3397 | 2024-03-26 | Apeks           | W   | 0.314      | 0.500        | 0.026 (0.004)    | 0.158 (0.025)    | 0 (0.000) |     4.74 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
-|           19 |     3403 | 2024-03-25 | B8              | L   | 0.308      | -            | -                | -                | -         |    -2.74 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
+|           20 |     3397 | 2024-03-26 | Apeks           | W   | 0.314      | 0.500        | 0.026 (0.004)    | 0.158 (0.025)    | 0 (0.000) |     4.75 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
+|           19 |     3403 | 2024-03-25 | B8              | L   | 0.308      | -            | -                | -                | -         |    -2.73 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           18 |     3408 | 2024-03-24 | BetBoom         | W   | 0.300      | 0.143        | 0.248 (0.011)    | 0.526 (0.023)    | 0 (0.000) |     8.91 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           17 |     3419 | 2024-03-23 | VP.Prodigy      | W   | 0.294      | 0.143        | -                | 0.392 (0.016)    | 0 (0.000) |     4.16 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
-|           16 |     3433 | 2024-03-22 | ex-Preasy       | W   | 0.288      | -            | -                | -                | 0 (0.000) |     3.31 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
+|           16 |     3433 | 2024-03-22 | ex-Preasy       | W   | 0.288      | -            | -                | -                | 0 (0.000) |     3.32 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           15 |     3456 | 2024-03-21 | PARIVISION      | L   | 0.281      | -            | -                | -                | -         |    -2.09 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           14 |     3480 | 2024-03-20 | NAVI Junior     | W   | 0.275      | -            | -                | -                | 0 (0.000) |     0.99 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           13 |     3837 | 2024-03-05 | KOI             | L   | 0.176      | -            | -                | -                | -         |    -1.51 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
-|           12 |     3842 | 2024-03-05 | AMKAL           | W   | 0.176      | 0.143        | 0.130 (0.003)    | 0.463 (0.012)    | 0 (0.000) |     4.39 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
+|           12 |     3842 | 2024-03-05 | AMKAL           | W   | 0.176      | 0.143        | 0.130 (0.003)    | 0.463 (0.012)    | 0 (0.000) |     4.40 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           11 |     3849 | 2024-03-05 | 3DMAX           | W   | 0.175      | 0.143        | 0.509 (0.013)    | 1.000 (0.025)    | -         |     5.45 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |           10 |     3938 | 2024-03-01 | Aurora          | L   | 0.149      | -            | -                | -                | -         |    -0.06 | gokushima, r3salt, SELLTER, shalfey, tN1R  |
 |            9 |     3947 | 2024-02-29 | 9 Pandas        | W   | 0.142      | 0.143        | 0.081 (0.002)    | 0.716 (0.015)    | -         |     2.89 | gokushima, r3salt, SELLTER, shalfey, tN1R  |

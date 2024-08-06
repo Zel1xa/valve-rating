@@ -6,9 +6,9 @@ Global Rank: [15](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [12]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1555.6<br />
+Final Rank Value:  1555.7<br />
 <br />
-Final Rank Value (1555.6) = Starting Rank Value (1559.9) + Head To Head Adjustments (-4.3)<br />
+Final Rank Value (1555.7) = Starting Rank Value (1559.9) + Head To Head Adjustments (-4.2)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -43,9 +43,9 @@ Note:<br />
 |           41 |     1444 | 2024-06-06 | ENCE              | W   | 0.795      | 0.715        | 0.173 (0.098)    | 0.431 (0.245)    | 1 (0.795) |     6.00 | degster, kyxsan, NertZ, sjuush, TeSeS  |
 |           40 |     1462 | 2024-06-06 | Sashi             | W   | 0.794      | 0.715        | 0.184 (0.104)    | 0.980 (0.556)    | 1 (0.794) |     3.14 | degster, kyxsan, NertZ, sjuush, TeSeS  |
 |           39 |     1474 | 2024-06-06 | The MongolZ       | L   | 0.793      | -            | -                | -                | -         |    -3.08 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           38 |     1502 | 2024-06-05 | Ninjas in Pyjamas | L   | 0.789      | -            | -                | -                | -         |   -12.32 | degster, kyxsan, NertZ, sjuush, TeSeS  |
+|           38 |     1502 | 2024-06-05 | Ninjas in Pyjamas | L   | 0.789      | -            | -                | -                | -         |   -12.31 | degster, kyxsan, NertZ, sjuush, TeSeS  |
 |           37 |     1524 | 2024-06-05 | Astralis          | L   | 0.786      | -            | -                | -                | -         |    -6.86 | degster, kyxsan, NertZ, sjuush, TeSeS  |
-|           36 |     1656 | 2024-05-31 | Vitality          | L   | 0.756      | -            | -                | -                | -         |    -4.13 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           36 |     1656 | 2024-05-31 | Vitality          | L   | 0.756      | -            | -                | -                | -         |    -4.14 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           35 |     1702 | 2024-05-29 | BIG               | W   | 0.744      | -            | -                | -                | 1 (0.744) |     4.53 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           34 |     1714 | 2024-05-29 | Natus Vincere     | W   | 0.742      | 0.624        | 1.000 (0.463)    | 0.365 (0.169)    | 1 (0.742) |    20.72 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           33 |     1734 | 2024-05-28 | M80               | W   | 0.735      | 0.624        | 0.188 (0.086)    | 0.576 (0.264)    | 1 (0.735) |     3.49 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
@@ -70,7 +70,7 @@ Note:<br />
 |           14 |     3507 | 2024-03-18 | Eternal Fire      | W   | 0.261      | -            | -                | -                | -         |     5.68 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           13 |     3526 | 2024-03-17 | Imperial          | W   | 0.256      | -            | -                | -                | -         |     1.30 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           12 |     3535 | 2024-03-17 | Lynn Vision       | W   | 0.254      | -            | -                | -                | -         |     0.45 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
-|           11 |     3639 | 2024-03-13 | Metizport         | W   | 0.228      | -            | -                | -                | -         |     0.14 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
+|           11 |     3639 | 2024-03-13 | Metizport         | W   | 0.228      | -            | -                | -                | -         |     0.20 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |           10 |     3663 | 2024-03-12 | Virtus.pro        | L   | 0.222      | -            | -                | -                | -         |    -2.15 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |            9 |     3682 | 2024-03-11 | ENCE              | W   | 0.216      | -            | -                | -                | -         |     2.69 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |
 |            8 |     3691 | 2024-03-11 | ex-Preasy         | W   | 0.215      | -            | -                | -                | -         |     0.10 | kyxsan, NertZ, nicoodoz, sjuush, TeSeS |

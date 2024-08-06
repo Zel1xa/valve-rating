@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           32 |       36 | 2024-08-04 | Complexity   | W   | 1.000      | 0.581        | -                | 0.372 (0.216)    | 1 (1.000) |     4.12 | Aleksib, b1t, iM, jL, w0nderful |
 |           31 |       65 | 2024-08-03 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -25.60 | Aleksib, b1t, iM, jL, w0nderful |
-|           30 |       99 | 2024-08-02 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.96 | Aleksib, b1t, iM, jL, w0nderful |
+|           30 |       99 | 2024-08-02 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.97 | Aleksib, b1t, iM, jL, w0nderful |
 |           29 |      144 | 2024-08-01 | Liquid       | L   | 1.000      | -            | -                | -                | -         |   -26.87 | Aleksib, b1t, iM, jL, w0nderful |
 |           28 |      194 | 2024-07-31 | BIG          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.72 | Aleksib, b1t, iM, jL, w0nderful |
 |           27 |      512 | 2024-07-21 | G2           | W   | 1.000      | 1.000        | 1.000 (1.000)    | 0.489 (0.489)    | 1 (1.000) |    16.18 | Aleksib, b1t, iM, jL, w0nderful |
@@ -49,7 +49,7 @@ Note:<br />
 |           23 |     1032 | 2024-06-16 | Spirit       | L   | 0.861      | -            | -                | -                | -         |   -13.52 | Aleksib, b1t, iM, jL, w0nderful |
 |           22 |     1053 | 2024-06-15 | Virtus.pro   | W   | 0.856      | 0.729        | 0.498 (0.311)    | 0.316 (0.197)    | 1 (0.856) |     5.11 | Aleksib, b1t, iM, jL, w0nderful |
 |           21 |     1143 | 2024-06-13 | FaZe         | W   | 0.841      | 0.729        | 0.626 (0.384)    | 0.391 (0.240)    | 1 (0.841) |     6.62 | Aleksib, b1t, iM, jL, w0nderful |
-|           20 |     1172 | 2024-06-12 | Astralis     | W   | 0.834      | 0.729        | -                | 0.412 (0.251)    | 1 (0.834) |     6.59 | Aleksib, b1t, iM, jL, w0nderful |
+|           20 |     1172 | 2024-06-12 | Astralis     | W   | 0.834      | 0.729        | -                | 0.412 (0.251)    | 1 (0.834) |     6.60 | Aleksib, b1t, iM, jL, w0nderful |
 |           19 |     1714 | 2024-05-29 | HEROIC       | L   | 0.742      | -            | -                | -                | -         |   -20.72 | Aleksib, b1t, iM, jL, w0nderful |
 |           18 |     1735 | 2024-05-28 | Spirit       | L   | 0.735      | -            | -                | -                | -         |   -12.82 | Aleksib, b1t, iM, jL, w0nderful |
 |           17 |     1753 | 2024-05-27 | BIG          | W   | 0.729      | -            | -                | -                | -         |     0.57 | Aleksib, b1t, iM, jL, w0nderful |

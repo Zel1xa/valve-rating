@@ -6,9 +6,9 @@ Global Rank: [60](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [44]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1003.3<br />
+Final Rank Value:  1003.5<br />
 <br />
-Final Rank Value (1003.3) = Starting Rank Value (986.3) + Head To Head Adjustments (17.0)<br />
+Final Rank Value (1003.5) = Starting Rank Value (986.3) + Head To Head Adjustments (17.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -38,27 +38,27 @@ Note:<br />
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           22 |        2 | 2024-08-06 | ECSTATIC         | W   | 1.000      | 0.333        | -                | 0.078 (0.026)    | 0 (0.000) |     2.93 | acoR, Altekz, niko, valde, Zyphon |
-|           21 |       14 | 2024-08-05 | Sashi            | W   | 1.000      | 0.143        | 0.184 (0.026)    | 0.980 (0.140)    | 0 (0.000) |    23.09 | acoR, Altekz, niko, valde, Zyphon |
-|           20 |       19 | 2024-08-05 | 777              | W   | 1.000      | 0.143        | 0.015 (0.002)    | -                | 0 (0.000) |     4.74 | acoR, Altekz, niko, valde, Zyphon |
-|           19 |       33 | 2024-08-04 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -14.46 | acoR, Altekz, niko, valde, Zyphon |
-|           18 |       41 | 2024-08-04 | TALON            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.14 | acoR, Altekz, niko, valde, Zyphon |
-|           17 |       97 | 2024-08-02 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |   -10.47 | acoR, Altekz, niko, valde, Zyphon |
-|           16 |      230 | 2024-07-30 | 9 Pandas         | W   | 1.000      | 0.500        | 0.081 (0.041)    | 0.716 (0.358)    | 0 (0.000) |    18.97 | acoR, Altekz, niko, valde, Zyphon |
-|           15 |      286 | 2024-07-29 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -20.54 | acoR, Altekz, niko, valde, Zyphon |
-|           14 |      316 | 2024-07-28 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -15.78 | acoR, Altekz, niko, valde, Zyphon |
-|           13 |      487 | 2024-07-22 | CPH Wolves       | L   | 1.000      | -            | -                | -                | -         |   -22.88 | acoR, Altekz, niko, valde, Zyphon |
+|           21 |       14 | 2024-08-05 | Sashi            | W   | 1.000      | 0.143        | 0.184 (0.026)    | 0.980 (0.140)    | 0 (0.000) |    23.10 | acoR, Altekz, niko, valde, Zyphon |
+|           20 |       19 | 2024-08-05 | 777              | W   | 1.000      | 0.143        | 0.015 (0.002)    | -                | 0 (0.000) |     4.73 | acoR, Altekz, niko, valde, Zyphon |
+|           19 |       33 | 2024-08-04 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -14.43 | acoR, Altekz, niko, valde, Zyphon |
+|           18 |       41 | 2024-08-04 | TALON            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.13 | acoR, Altekz, niko, valde, Zyphon |
+|           17 |       97 | 2024-08-02 | PARIVISION       | L   | 1.000      | -            | -                | -                | -         |   -10.46 | acoR, Altekz, niko, valde, Zyphon |
+|           16 |      230 | 2024-07-30 | 9 Pandas         | W   | 1.000      | 0.500        | 0.081 (0.041)    | 0.716 (0.358)    | 0 (0.000) |    19.00 | acoR, Altekz, niko, valde, Zyphon |
+|           15 |      286 | 2024-07-29 | GUN5             | L   | 1.000      | -            | -                | -                | -         |   -20.49 | acoR, Altekz, niko, valde, Zyphon |
+|           14 |      316 | 2024-07-28 | 1WIN             | L   | 1.000      | -            | -                | -                | -         |   -15.76 | acoR, Altekz, niko, valde, Zyphon |
+|           13 |      487 | 2024-07-22 | CPH Wolves       | L   | 1.000      | -            | -                | -                | -         |   -22.87 | acoR, Altekz, niko, valde, Zyphon |
 |           12 |      530 | 2024-07-21 | Preasy           | W   | 1.000      | 0.143        | 0.008 (0.001)    | 0.221 (0.032)    | 0 (0.000) |     6.35 | acoR, Altekz, niko, valde, Zyphon |
-|           11 |      636 | 2024-07-18 | Nexus            | L   | 1.000      | -            | -                | -                | -         |   -26.27 | acoR, Altekz, niko, valde, Zyphon |
+|           11 |      636 | 2024-07-18 | Nexus            | L   | 1.000      | -            | -                | -                | -         |   -26.23 | acoR, Altekz, niko, valde, Zyphon |
 |           10 |      660 | 2024-07-18 | LEON             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.23 | acoR, Altekz, niko, valde, Zyphon |
-|            9 |      706 | 2024-07-17 | GUN5             | W   | 1.000      | 0.500        | 0.072 (0.036)    | 0.562 (0.281)    | 0 (0.000) |    11.10 | acoR, Altekz, niko, valde, Zyphon |
+|            9 |      706 | 2024-07-17 | GUN5             | W   | 1.000      | 0.500        | 0.072 (0.036)    | 0.562 (0.281)    | 0 (0.000) |    11.11 | acoR, Altekz, niko, valde, Zyphon |
 |            8 |      727 | 2024-07-17 | Into the Breach  | L   | 1.000      | -            | -                | -                | -         |   -28.55 | acoR, Altekz, niko, valde, Zyphon |
 |            7 |      773 | 2024-07-16 | 500              | W   | 1.000      | -            | -                | -                | 0 (0.000) |     0.74 | acoR, Altekz, niko, valde, Zyphon |
 |            6 |      807 | 2024-07-15 | 3DMAX            | W   | 1.000      | 0.500        | 0.509 (0.255)    | 1.000 (0.500)    | 0 (0.000) |    26.86 | acoR, Altekz, niko, valde, Zyphon |
 |            5 |      852 | 2024-07-13 | Sashi            | W   | 1.000      | 0.358        | 0.184 (0.066)    | 0.980 (0.351)    | -         |    22.29 | acoR, Altekz, niko, valde, Zyphon |
-|            4 |      865 | 2024-07-12 | Johnny Speeds    | W   | 1.000      | 0.358        | 0.122 (0.044)    | 1.000 (0.358)    | -         |    24.80 | acoR, Altekz, niko, valde, Zyphon |
-|            3 |      924 | 2024-07-09 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | -         |    18.69 | acoR, Altekz, niko, valde, Zyphon |
+|            4 |      865 | 2024-07-12 | Johnny Speeds    | W   | 1.000      | 0.358        | 0.122 (0.044)    | 1.000 (0.358)    | -         |    24.81 | acoR, Altekz, niko, valde, Zyphon |
+|            3 |      924 | 2024-07-09 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | -         |    18.72 | acoR, Altekz, niko, valde, Zyphon |
 |            2 |      943 | 2024-07-08 | FLuffy Gangsters | L   | 1.000      | -            | -                | -                | -         |   -27.57 | acoR, Altekz, niko, valde, Zyphon |
-|            1 |      946 | 2024-07-08 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | -         |    18.62 | acoR, Altekz, niko, valde, Zyphon |
+|            1 |      946 | 2024-07-08 | Passion UA       | W   | 1.000      | 0.358        | 0.173 (0.062)    | 1.000 (0.358)    | -         |    18.65 | acoR, Altekz, niko, valde, Zyphon |
 
 <br />
 <span id="table2"></span><br />

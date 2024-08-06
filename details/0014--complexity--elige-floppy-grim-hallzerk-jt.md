@@ -50,7 +50,7 @@ Note:<br />
 |           24 |     1102 | 2024-06-14 | ENCE          | L   | 0.848      | -            | -                | -                | -         |   -21.13 | EliGE, floppy, Grim, hallzerk, JT |
 |           23 |     1114 | 2024-06-14 | Alliance      | W   | 0.847      | -            | -                | -                | 1 (0.847) |     0.38 | EliGE, floppy, Grim, hallzerk, JT |
 |           22 |     1434 | 2024-06-06 | FURIA         | L   | 0.795      | -            | -                | -                | -         |   -13.56 | EliGE, floppy, Grim, hallzerk, JT |
-|           21 |     1454 | 2024-06-06 | BetBoom       | L   | 0.794      | -            | -                | -                | -         |   -20.12 | EliGE, floppy, Grim, hallzerk, JT |
+|           21 |     1454 | 2024-06-06 | BetBoom       | L   | 0.794      | -            | -                | -                | -         |   -20.10 | EliGE, floppy, Grim, hallzerk, JT |
 |           20 |     1466 | 2024-06-06 | fnatic        | L   | 0.793      | -            | -                | -                | -         |   -18.84 | EliGE, floppy, Grim, hallzerk, JT |
 |           19 |     1510 | 2024-06-05 | BIG           | W   | 0.788      | 0.715        | 0.154 (0.087)    | 0.297 (0.167)    | 1 (0.788) |     3.35 | EliGE, floppy, Grim, hallzerk, JT |
 |           18 |     1523 | 2024-06-05 | Eternal Fire  | W   | 0.786      | 0.715        | 0.739 (0.415)    | 0.448 (0.252)    | 1 (0.786) |    13.23 | EliGE, floppy, Grim, hallzerk, JT |

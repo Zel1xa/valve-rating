@@ -44,7 +44,7 @@ Note:<br />
 |           89 |      191 | 2024-07-31 | Solid             | W   | 1.000      | 0.371        | -                | 0.825 (0.306)    | 0 (0.000) |    12.33 | doc, gafolo, koala, pepe, rdnzao |
 |           88 |      225 | 2024-07-30 | Hype              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    10.28 | doc, gafolo, koala, pepe, rdnzao |
 |           87 |      298 | 2024-07-28 | Bad News Chickens | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.49 | doc, gafolo, koala, pepe, rdnzao |
-|           86 |      346 | 2024-07-26 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -8.59 | doc, gafolo, koala, pepe, rdnzao |
+|           86 |      346 | 2024-07-26 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -8.58 | doc, gafolo, koala, pepe, rdnzao |
 |           85 |      373 | 2024-07-25 | BESTIA            | W   | 1.000      | -            | -                | -                | 0 (0.000) |    16.14 | doc, gafolo, koala, pepe, rdnzao |
 |           84 |      380 | 2024-07-25 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.23 | doc, gafolo, koala, pepe, rdnzao |
 |           83 |      422 | 2024-07-24 | Bad News Chickens | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.44 | doc, gafolo, koala, pepe, rdnzao |
@@ -71,16 +71,16 @@ Note:<br />
 |           62 |      984 | 2024-06-27 | Galorys           | W   | 0.937      | -            | -                | -                | -         |     8.60 | doc, gafolo, koala, pepe, rdnzao |
 |           61 |      987 | 2024-06-27 | inSanitY          | L   | 0.935      | -            | -                | -                | -         |   -15.63 | doc, gafolo, koala, pepe, rdnzao |
 |           60 |     1088 | 2024-06-14 | Fluxo             | L   | 0.849      | -            | -                | -                | -         |   -11.47 | doc, gafolo, koala, pepe, rdnzao |
-|           59 |     1210 | 2024-06-10 | Vikings KR        | W   | 0.821      | -            | -                | -                | -         |     5.30 | doc, gafolo, koala, pepe, rdnzao |
+|           59 |     1210 | 2024-06-10 | Vikings KR        | W   | 0.821      | -            | -                | -                | -         |     5.29 | doc, gafolo, koala, pepe, rdnzao |
 |           58 |     1243 | 2024-06-09 | paiN              | L   | 0.816      | -            | -                | -                | -         |    -4.14 | doc, gafolo, koala, pepe, rdnzao |
 |           57 |     1262 | 2024-06-09 | BESTIA            | W   | 0.814      | 0.450        | 0.096 (0.035)    | 0.793 (0.291)    | -         |    12.55 | doc, gafolo, koala, pepe, rdnzao |
 |           56 |     1314 | 2024-06-08 | Hype              | W   | 0.809      | -            | -                | -                | -         |     8.66 | doc, gafolo, koala, pepe, rdnzao |
 |           55 |     1329 | 2024-06-08 | Patins da Ferrari | L   | 0.808      | -            | -                | -                | -         |   -19.83 | doc, gafolo, koala, pepe, rdnzao |
 |           54 |     1356 | 2024-06-07 | 9z                | L   | 0.803      | -            | -                | -                | -         |    -2.17 | doc, gafolo, koala, pepe, rdnzao |
 |           53 |     1415 | 2024-06-06 | paiN              | W   | 0.797      | 0.450        | 0.324 (0.116)    | 0.857 (0.307)    | -         |    21.34 | doc, gafolo, koala, pepe, rdnzao |
-|           52 |     1484 | 2024-06-05 | Imperial          | L   | 0.790      | -            | -                | -                | -         |    -4.91 | doc, gafolo, koala, pepe, rdnzao |
+|           52 |     1484 | 2024-06-05 | Imperial          | L   | 0.790      | -            | -                | -                | -         |    -4.90 | doc, gafolo, koala, pepe, rdnzao |
 |           51 |     1534 | 2024-06-04 | BESTIA            | W   | 0.783      | 0.450        | 0.096 (0.034)    | 0.793 (0.280)    | -         |    13.85 | doc, gafolo, koala, pepe, rdnzao |
-|           50 |     1861 | 2024-05-22 | Imperial          | W   | 0.696      | 0.450        | 0.233 (0.073)    | -                | -         |    17.62 | doc, drg, gafolo, pepe, rdnzao   |
+|           50 |     1861 | 2024-05-22 | Imperial          | W   | 0.696      | 0.450        | 0.233 (0.073)    | -                | -         |    17.63 | doc, drg, gafolo, pepe, rdnzao   |
 |           49 |     1865 | 2024-05-22 | Imperial          | L   | 0.695      | -            | -                | -                | -         |    -4.17 | doc, drg, gafolo, pepe, rdnzao   |
 |           48 |     1892 | 2024-05-21 | Case              | L   | 0.691      | -            | -                | -                | -         |   -13.35 | doc, drg, gafolo, pepe, rdnzao   |
 |           47 |     1893 | 2024-05-21 | Case              | W   | 0.690      | 0.450        | -                | 0.795 (0.247)    | -         |     8.46 | doc, drg, gafolo, pepe, rdnzao   |

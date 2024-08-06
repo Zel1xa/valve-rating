@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           31 |       75 | 2024-08-03 | Astralis     | W   | 1.000      | 0.581        | 0.389 (0.226)    | 0.412 (0.239)    | 1 (1.000) |     9.50 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           31 |       75 | 2024-08-03 | Astralis     | W   | 1.000      | 0.581        | 0.389 (0.226)    | 0.412 (0.239)    | 1 (1.000) |     9.51 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           30 |      239 | 2024-07-30 | Astralis     | W   | 1.000      | 0.581        | 0.389 (0.226)    | 0.412 (0.239)    | 1 (1.000) |    10.03 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           29 |      272 | 2024-07-29 | GamerLegion  | W   | 1.000      | -            | -                | -                | 1 (1.000) |     0.68 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           28 |      599 | 2024-07-19 | Virtus.pro   | L   | 1.000      | -            | -                | -                | -         |   -22.19 | apEX, flameZ, mezii, Spinx, ZywOo |
@@ -48,7 +48,7 @@ Note:<br />
 |           23 |     1167 | 2024-06-12 | Virtus.pro   | L   | 0.835      | -            | -                | -                | -         |   -19.93 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           22 |     1592 | 2024-06-02 | G2           | L   | 0.769      | -            | -                | -                | -         |    -9.34 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           21 |     1621 | 2024-06-01 | Spirit       | W   | 0.762      | 0.624        | 1.000 (0.476)    | -                | 1 (0.762) |    13.70 | apEX, flameZ, mezii, Spinx, ZywOo |
-|           20 |     1656 | 2024-05-31 | HEROIC       | W   | 0.756      | -            | -                | -                | 1 (0.756) |     4.13 | apEX, flameZ, mezii, Spinx, ZywOo |
+|           20 |     1656 | 2024-05-31 | HEROIC       | W   | 0.756      | -            | -                | -                | 1 (0.756) |     4.14 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           19 |     1704 | 2024-05-29 | 9z           | L   | 0.743      | -            | -                | -                | -         |   -21.15 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           18 |     1748 | 2024-05-27 | G2           | W   | 0.730      | 0.624        | 1.000 (0.456)    | 0.489 (0.223)    | 1 (0.730) |    13.72 | apEX, flameZ, mezii, Spinx, ZywOo |
 |           17 |     1758 | 2024-05-27 | Monte        | W   | 0.729      | 0.624        | -                | 0.611 (0.278)    | 1 (0.729) |     0.22 | apEX, flameZ, mezii, Spinx, ZywOo |

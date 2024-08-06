@@ -64,14 +64,14 @@ Note:<br />
 |           18 |     1413 | 2024-06-06 | Akimbo           | W   | 0.797      | -            | -                | -                | -         |     5.25 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
 |           17 |     1479 | 2024-06-05 | Vibe             | W   | 0.791      | -            | -                | -                | -         |     0.89 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
 |           16 |     1528 | 2024-06-04 | E-Xolos LAZER    | W   | 0.784      | -            | -                | -                | -         |     5.53 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
-|           15 |     1866 | 2024-05-22 | NRG              | L   | 0.695      | -            | -                | -                | -         |   -13.65 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
+|           15 |     1866 | 2024-05-22 | NRG              | L   | 0.695      | -            | -                | -                | -         |   -13.66 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
 |           14 |     1894 | 2024-05-21 | Limitless        | W   | 0.690      | -            | -                | -                | -         |     4.69 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
 |           13 |     2023 | 2024-05-17 | Party Astronauts | L   | 0.663      | -            | -                | -                | -         |   -12.96 | b4rtiN, dumau, latto, NEKIZ, saadzin  |
 |           12 |     2727 | 2024-04-19 | M80              | L   | 0.477      | -            | -                | -                | -         |    -3.79 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
 |           11 |     2769 | 2024-04-18 | Elevate          | W   | 0.471      | -            | -                | -                | -         |     6.77 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
 |           10 |     2773 | 2024-04-18 | Liquid           | L   | 0.470      | -            | -                | -                | -         |    -0.57 | b4rtiN, dumau, latto, NEKIZ, Stewie2K |
 |            9 |     3482 | 2024-03-20 | The MongolZ      | L   | 0.274      | -            | -                | -                | -         |    -0.05 | b4rtiN, coldzera, dumau, latto, NEKIZ |
-|            8 |     3497 | 2024-03-19 | Apeks            | W   | 0.268      | -            | -                | -                | 1 (0.268) |     2.97 | b4rtiN, coldzera, dumau, latto, NEKIZ |
+|            8 |     3497 | 2024-03-19 | Apeks            | W   | 0.268      | -            | -                | -                | 1 (0.268) |     2.98 | b4rtiN, coldzera, dumau, latto, NEKIZ |
 |            7 |     3508 | 2024-03-18 | GamerLegion      | L   | 0.261      | -            | -                | -                | -         |    -6.51 | b4rtiN, coldzera, dumau, latto, NEKIZ |
 |            6 |     3521 | 2024-03-17 | Cloud9           | L   | 0.256      | -            | -                | -                | -         |    -3.93 | b4rtiN, coldzera, dumau, latto, NEKIZ |
 |            5 |     3531 | 2024-03-17 | FURIA            | W   | 0.255      | 0.143        | 0.284 (0.010)    | -                | 1 (0.255) |     7.88 | b4rtiN, coldzera, dumau, latto, NEKIZ |

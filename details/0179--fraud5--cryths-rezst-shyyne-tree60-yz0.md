@@ -4,7 +4,7 @@ Roster: cryths, Rezst, shyyne, Tree60, yz0<br />
 Global Rank: [179](../standings_global.md)<br />
 <br />
 Region: [Europe]( ../standings_europe.md)<br />
-Regional Rank: [114]( ../standings_europe.md)<br />
+Regional Rank: [113]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  641.6<br />
 <br />

@@ -37,7 +37,7 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           19 |     2705 | 2024-04-20 | Sashi             | L   | 0.481      | -            | -                | -                | -         |    -6.17 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
+|           19 |     2705 | 2024-04-20 | Sashi             | L   | 0.481      | -            | -                | -                | -         |    -6.16 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
 |           18 |     2743 | 2024-04-19 | BetBoom           | W   | 0.475      | 0.143        | 0.248 (0.017)    | 0.526 (0.036)    | -         |    13.04 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
 |           17 |     2753 | 2024-04-19 | Sashi             | L   | 0.474      | -            | -                | -                | -         |    -6.05 | alpha, Ax1Le, Boombl4, HObbit, Perfecto      |
 |           16 |     3027 | 2024-04-09 | FaZe              | L   | 0.412      | -            | -                | -                | -         |    -0.38 | Ax1Le, Boombl4, electroNic, HObbit, Perfecto |

@@ -6,9 +6,9 @@ Global Rank: [12](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [2]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1608.1<br />
+Final Rank Value:  1608.2<br />
 <br />
-Final Rank Value (1608.1) = Starting Rank Value (1721.6) + Head To Head Adjustments (-113.4)<br />
+Final Rank Value (1608.2) = Starting Rank Value (1721.6) + Head To Head Adjustments (-113.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -42,25 +42,25 @@ Note:<br />
 |           43 |      645 | 2024-07-18 | Sashi              | W   | 1.000      | 1.000        | 0.184 (0.184)    | 0.980 (0.980)    | 1 (1.000) |     2.84 | chelo, FalleN, KSCERATO, skullz, yuurih |
 |           42 |      656 | 2024-07-18 | FlyQuest           | W   | 1.000      | 1.000        | 0.104 (0.104)    | 0.284 (0.284)    | 1 (1.000) |     2.90 | chelo, FalleN, KSCERATO, skullz, yuurih |
 |           41 |      714 | 2024-07-17 | Natus Vincere      | L   | 1.000      | -            | -                | -                | -         |    -4.25 | chelo, FalleN, KSCERATO, skullz, yuurih |
-|           40 |     1315 | 2024-06-08 | Ninjas in Pyjamas  | L   | 0.809      | -            | -                | -                | -         |   -12.62 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           40 |     1315 | 2024-06-08 | Ninjas in Pyjamas  | L   | 0.809      | -            | -                | -                | -         |   -12.61 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           39 |     1434 | 2024-06-06 | Complexity         | W   | 0.795      | 0.715        | 0.341 (0.194)    | -                | 1 (0.795) |    13.56 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           38 |     1451 | 2024-06-06 | fnatic             | W   | 0.794      | 0.715        | 0.371 (0.211)    | 0.695 (0.395)    | 1 (0.794) |     8.63 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           37 |     1473 | 2024-06-06 | Eternal Fire       | W   | 0.793      | 0.715        | 0.739 (0.419)    | 0.448 (0.254)    | 1 (0.793) |    15.14 | chelo, FalleN, KSCERATO, kye, yuurih    |
-|           36 |     1503 | 2024-06-05 | BetBoom            | W   | 0.788      | 0.715        | 0.248 (0.140)    | 0.526 (0.296)    | 1 (0.788) |     6.45 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           36 |     1503 | 2024-06-05 | BetBoom            | W   | 0.788      | 0.715        | 0.248 (0.140)    | 0.526 (0.296)    | 1 (0.788) |     6.47 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           35 |     1520 | 2024-06-05 | BIG                | L   | 0.787      | -            | -                | -                | -         |   -19.82 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           34 |     1598 | 2024-06-02 | GUN5               | L   | 0.768      | -            | -                | -                | -         |   -23.44 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           33 |     1603 | 2024-06-02 | MOUZ NXT           | W   | 0.767      | 0.435        | -                | 0.984 (0.328)    | -         |     1.41 | chelo, FalleN, KSCERATO, kye, yuurih    |
-|           32 |     1642 | 2024-06-01 | Zero Tenacity      | W   | 0.760      | 0.435        | 0.143 (0.047)    | 1.000 (0.330)    | -         |     1.47 | chelo, FalleN, KSCERATO, kye, yuurih    |
-|           31 |     1693 | 2024-05-30 | RUBY               | W   | 0.747      | -            | -                | -                | -         |     0.56 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           32 |     1642 | 2024-06-01 | Zero Tenacity      | W   | 0.760      | 0.435        | 0.143 (0.047)    | 1.000 (0.330)    | -         |     1.50 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           31 |     1693 | 2024-05-30 | RUBY               | W   | 0.747      | -            | -                | -                | -         |     0.58 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           30 |     1801 | 2024-05-25 | 1WIN               | L   | 0.714      | -            | -                | -                | -         |   -21.69 | chelo, FalleN, KSCERATO, kye, yuurih    |
-|           29 |     1813 | 2024-05-24 | Passion UA         | W   | 0.708      | 0.435        | 0.173 (0.053)    | 1.000 (0.308)    | -         |     0.87 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           29 |     1813 | 2024-05-24 | Passion UA         | W   | 0.708      | 0.435        | 0.173 (0.053)    | 1.000 (0.308)    | -         |     0.88 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           28 |     2376 | 2024-05-05 | Monte              | L   | 0.581      | -            | -                | -                | -         |   -17.77 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           27 |     2396 | 2024-05-04 | ENCE               | W   | 0.575      | 0.889        | 0.173 (0.088)    | 0.431 (0.220)    | 1 (0.575) |     3.76 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           26 |     2411 | 2024-05-03 | Bad News Kangaroos | W   | 0.568      | -            | -                | -                | 1 (0.568) |     0.16 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           25 |     2454 | 2024-05-01 | FORZE              | L   | 0.555      | -            | -                | -                | -         |   -17.18 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           24 |     2476 | 2024-04-30 | Liquid             | L   | 0.549      | -            | -                | -                | -         |   -10.40 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           23 |     2726 | 2024-04-19 | MIBR               | L   | 0.477      | -            | -                | -                | -         |   -11.77 | chelo, FalleN, KSCERATO, kye, yuurih    |
-|           22 |     2751 | 2024-04-19 | Metizport          | W   | 0.474      | -            | -                | -                | 1 (0.474) |     0.18 | chelo, FalleN, KSCERATO, kye, yuurih    |
+|           22 |     2751 | 2024-04-19 | Metizport          | W   | 0.474      | -            | -                | -                | 1 (0.474) |     0.24 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           21 |     2777 | 2024-04-18 | 9z                 | L   | 0.469      | -            | -                | -                | -         |   -10.11 | chelo, FalleN, KSCERATO, kye, yuurih    |
 |           20 |     3068 | 2024-04-09 | HEROIC             | L   | 0.407      | -            | -                | -                | -         |    -8.66 | arT, chelo, FalleN, KSCERATO, yuurih    |
 |           19 |     3097 | 2024-04-08 | MOUZ               | L   | 0.401      | -            | -                | -                | -         |    -3.77 | arT, chelo, FalleN, KSCERATO, yuurih    |

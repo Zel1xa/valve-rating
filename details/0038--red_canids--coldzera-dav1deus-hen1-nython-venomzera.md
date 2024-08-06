@@ -39,7 +39,7 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           88 |       55 | 2024-08-03 | ODDIK           | L   | 1.000      | -            | -                | -                | -         |   -18.21 | coldzera, dav1deuS, HEN1, nython, venomzera    |
 |           87 |       62 | 2024-08-03 | Vikings KR      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.74 | coldzera, dav1deuS, HEN1, nython, venomzera    |
-|           86 |      290 | 2024-07-28 | MIBR            | L   | 1.000      | -            | -                | -                | -         |    -7.40 | coldzera, dav1deuS, hardzao, nython, venomzera |
+|           86 |      290 | 2024-07-28 | MIBR            | L   | 1.000      | -            | -                | -                | -         |    -7.39 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           85 |      295 | 2024-07-28 | paiN            | L   | 1.000      | -            | -                | -                | -         |    -8.06 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           84 |      350 | 2024-07-26 | ODDIK           | L   | 1.000      | -            | -                | -                | -         |   -22.48 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           83 |      417 | 2024-07-24 | Fluxo           | W   | 1.000      | -            | -                | -                | 0 (0.000) |    15.48 | coldzera, dav1deuS, hardzao, nython, venomzera |
@@ -55,16 +55,16 @@ Note:<br />
 |           73 |      746 | 2024-07-16 | Sharks          | W   | 1.000      | 0.450        | -                | 0.558 (0.251)    | -         |     7.86 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           72 |      752 | 2024-07-16 | Sharks          | W   | 1.000      | 0.450        | -                | 0.558 (0.251)    | -         |     8.40 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           71 |      844 | 2024-07-13 | Legacy          | L   | 1.000      | -            | -                | -                | -         |   -19.40 | coldzera, dav1deuS, hardzao, nython, venomzera |
-|           70 |      873 | 2024-07-11 | KRÜ             | W   | 1.000      | -            | -                | -                | -         |     5.30 | coldzera, dav1deuS, hardzao, nython, venomzera |
+|           70 |      873 | 2024-07-11 | KRÜ             | W   | 1.000      | -            | -                | -                | -         |     5.29 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           69 |      908 | 2024-07-09 | Bounty Hunters  | W   | 1.000      | -            | -                | -                | -         |     7.72 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           68 |      931 | 2024-07-08 | SPORT           | W   | 1.000      | -            | -                | -                | -         |     2.50 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           67 |     1047 | 2024-06-15 | fnatic          | L   | 0.857      | -            | -                | -                | -         |    -4.38 | coldzera, dav1deuS, hardzao, nython, venomzera |
-|           66 |     1080 | 2024-06-14 | KOI             | L   | 0.851      | -            | -                | -                | -         |   -16.17 | coldzera, dav1deuS, hardzao, nython, venomzera |
+|           66 |     1080 | 2024-06-14 | KOI             | L   | 0.851      | -            | -                | -                | -         |   -16.16 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           65 |     1086 | 2024-06-14 | fnatic          | W   | 0.850      | 0.548        | 0.371 (0.173)    | 0.695 (0.324)    | 1 (0.850) |    22.41 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           64 |     1234 | 2024-06-09 | BESTIA          | L   | 0.817      | -            | -                | -                | -         |   -17.35 | coldzera, dav1deuS, hardzao, nython, venomzera |
-|           63 |     1239 | 2024-06-09 | Imperial        | L   | 0.816      | -            | -                | -                | -         |    -8.65 | coldzera, dav1deuS, hardzao, nython, venomzera |
+|           63 |     1239 | 2024-06-09 | Imperial        | L   | 0.816      | -            | -                | -                | -         |    -8.64 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           62 |     1372 | 2024-06-07 | Intense         | W   | 0.802      | -            | -                | -                | -         |     2.37 | coldzera, dav1deuS, hardzao, nython, venomzera |
-|           61 |     1412 | 2024-06-06 | Imperial        | W   | 0.797      | 0.450        | 0.233 (0.084)    | 0.673 (0.241)    | -         |    16.36 | coldzera, dav1deuS, hardzao, nython, venomzera |
+|           61 |     1412 | 2024-06-06 | Imperial        | W   | 0.797      | 0.450        | 0.233 (0.084)    | 0.673 (0.241)    | -         |    16.37 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           60 |     1483 | 2024-06-05 | 9z              | W   | 0.790      | 0.450        | 0.404 (0.144)    | 0.604 (0.215)    | -         |    21.42 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           59 |     1897 | 2024-05-21 | Sharks          | L   | 0.690      | -            | -                | -                | -         |   -15.12 | coldzera, dav1deuS, hardzao, nython, venomzera |
 |           58 |     1899 | 2024-05-21 | Sharks          | W   | 0.690      | -            | -                | -                | -         |     6.57 | coldzera, dav1deuS, hardzao, nython, venomzera |

@@ -6,9 +6,9 @@ Global Rank: [25](../standings_global.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [6]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1314.5<br />
+Final Rank Value:  1314.6<br />
 <br />
-Final Rank Value (1314.5) = Starting Rank Value (1415.7) + Head To Head Adjustments (-101.1)<br />
+Final Rank Value (1314.6) = Starting Rank Value (1415.7) + Head To Head Adjustments (-101.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -47,27 +47,27 @@ Note:<br />
 |           74 |      220 | 2024-07-30 | Dusty Roots    | L   | 1.000      | -            | -                | -                | -         |   -30.03 | brnz4n, drop, exit, insani, saffee |
 |           73 |      223 | 2024-07-30 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     1.27 | brnz4n, drop, exit, insani, saffee |
 |           72 |      229 | 2024-07-30 | 9z Academy     | W   | 1.000      | -            | -                | -                | -         |     0.27 | brnz4n, drop, exit, insani, saffee |
-|           71 |      265 | 2024-07-29 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -21.67 | brnz4n, drop, exit, insani, saffee |
-|           70 |      290 | 2024-07-28 | RED Canids     | W   | 1.000      | -            | -                | -                | -         |     7.40 | brnz4n, drop, exit, insani, saffee |
+|           71 |      265 | 2024-07-29 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -21.66 | brnz4n, drop, exit, insani, saffee |
+|           70 |      290 | 2024-07-28 | RED Canids     | W   | 1.000      | -            | -                | -                | -         |     7.39 | brnz4n, drop, exit, insani, saffee |
 |           69 |      296 | 2024-07-28 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -22.68 | brnz4n, drop, exit, insani, saffee |
 |           68 |      386 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.542 (0.244)    | -         |     1.23 | brnz4n, drop, exit, insani, saffee |
 |           67 |      387 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.542 (0.244)    | -         |     1.25 | brnz4n, drop, exit, insani, saffee |
 |           66 |      650 | 2024-07-18 | The MongolZ    | L   | 1.000      | -            | -                | -                | -         |    -3.15 | brnz4n, drop, exit, insani, saffee |
 |           65 |      702 | 2024-07-17 | Spirit         | L   | 1.000      | -            | -                | -                | -         |    -1.43 | brnz4n, drop, exit, insani, saffee |
 |           64 |     1072 | 2024-06-15 | Complexity     | L   | 0.854      | -            | -                | -                | -         |    -6.54 | brnz4n, drop, exit, insani, saffee |
-|           63 |     1098 | 2024-06-14 | Alliance       | W   | 0.849      | -            | -                | -                | 1 (0.849) |     1.24 | brnz4n, drop, exit, insani, saffee |
+|           63 |     1098 | 2024-06-14 | Alliance       | W   | 0.849      | -            | -                | -                | 1 (0.849) |     1.25 | brnz4n, drop, exit, insani, saffee |
 |           62 |     1111 | 2024-06-14 | ENCE           | L   | 0.847      | -            | -                | -                | -         |   -15.32 | brnz4n, drop, exit, insani, saffee |
 |           61 |     1353 | 2024-06-07 | Bounty Hunters | L   | 0.804      | -            | -                | -                | -         |   -24.03 | brnz4n, drop, exit, insani, saffee |
-|           60 |     1414 | 2024-06-06 | 9z             | L   | 0.797      | -            | -                | -                | -         |   -11.85 | brnz4n, drop, exit, insani, saffee |
+|           60 |     1414 | 2024-06-06 | 9z             | L   | 0.797      | -            | -                | -                | -         |   -11.86 | brnz4n, drop, exit, insani, saffee |
 |           59 |     1482 | 2024-06-05 | BESTIA         | W   | 0.790      | 0.450        | -                | 0.793 (0.282)    | -         |     2.55 | brnz4n, drop, exit, insani, saffee |
 |           58 |     1536 | 2024-06-04 | Galorys        | W   | 0.783      | -            | -                | -                | -         |     1.00 | brnz4n, drop, exit, insani, saffee |
 |           57 |     1860 | 2024-05-22 | paiN           | W   | 0.696      | 0.450        | 0.324 (0.101)    | 0.857 (0.268)    | -         |     8.37 | brnz4n, drop, exit, insani, saffee |
 |           56 |     1864 | 2024-05-22 | paiN           | W   | 0.696      | 0.450        | 0.324 (0.101)    | 0.857 (0.268)    | -         |     8.87 | brnz4n, drop, exit, insani, saffee |
-|           55 |     1938 | 2024-05-20 | BetBoom        | L   | 0.683      | -            | -                | -                | -         |   -12.62 | brnz4n, drop, exit, insani, saffee |
+|           55 |     1938 | 2024-05-20 | BetBoom        | L   | 0.683      | -            | -                | -                | -         |   -12.60 | brnz4n, drop, exit, insani, saffee |
 |           54 |     1949 | 2024-05-20 | BIG            | W   | 0.681      | 0.769        | 0.154 (0.081)    | -                | -         |     6.75 | brnz4n, drop, exit, insani, saffee |
-|           53 |     1958 | 2024-05-20 | BetBoom        | L   | 0.680      | -            | -                | -                | -         |   -13.05 | brnz4n, drop, exit, insani, saffee |
+|           53 |     1958 | 2024-05-20 | BetBoom        | L   | 0.680      | -            | -                | -                | -         |   -13.03 | brnz4n, drop, exit, insani, saffee |
 |           52 |     2035 | 2024-05-17 | HEROIC         | L   | 0.662      | -            | -                | -                | -         |    -7.50 | brnz4n, drop, exit, insani, saffee |
-|           51 |     2068 | 2024-05-16 | Aurora         | W   | 0.655      | 0.769        | 0.421 (0.212)    | 0.776 (0.391)    | 1 (0.655) |    13.57 | brnz4n, drop, exit, insani, saffee |
+|           51 |     2068 | 2024-05-16 | Aurora         | W   | 0.655      | 0.769        | 0.421 (0.212)    | 0.776 (0.391)    | 1 (0.655) |    13.58 | brnz4n, drop, exit, insani, saffee |
 |           50 |     2126 | 2024-05-15 | HEROIC         | L   | 0.647      | -            | -                | -                | -         |    -7.31 | brnz4n, drop, exit, insani, saffee |
 |           49 |     2532 | 2024-04-28 | Aurora         | W   | 0.533      | 0.500        | 0.421 (0.112)    | -                | 1 (0.533) |    12.23 | brnz4n, drop, exit, insani, saffee |
 |           48 |     2535 | 2024-04-27 | Apeks          | W   | 0.531      | -            | -                | -                | 1 (0.531) |     1.07 | brnz4n, drop, exit, insani, saffee |
@@ -79,7 +79,7 @@ Note:<br />
 |           42 |     2719 | 2024-04-19 | paiN           | W   | 0.478      | -            | -                | -                | -         |     6.62 | brnz4n, drop, exit, insani, saffee |
 |           41 |     2726 | 2024-04-19 | FURIA          | W   | 0.477      | 0.589        | 0.284 (0.080)    | -                | 1 (0.477) |    11.77 | brnz4n, drop, exit, insani, saffee |
 |           40 |     2745 | 2024-04-19 | paiN           | L   | 0.475      | -            | -                | -                | -         |    -8.45 | brnz4n, drop, exit, insani, saffee |
-|           39 |     2767 | 2024-04-18 | Imperial       | W   | 0.471      | -            | -                | -                | -         |     4.54 | brnz4n, drop, exit, insani, saffee |
+|           39 |     2767 | 2024-04-18 | Imperial       | W   | 0.471      | -            | -                | -                | -         |     4.55 | brnz4n, drop, exit, insani, saffee |
 |           38 |     2772 | 2024-04-18 | paiN           | W   | 0.470      | -            | -                | -                | -         |     6.63 | brnz4n, drop, exit, insani, saffee |
 |           37 |     2776 | 2024-04-18 | OG             | W   | 0.470      | -            | -                | -                | 1 (0.470) |     1.53 | brnz4n, drop, exit, insani, saffee |
 |           36 |     2821 | 2024-04-17 | RED Canids     | W   | 0.463      | -            | -                | -                | -         |     1.89 | brnz4n, drop, exit, insani, saffee |

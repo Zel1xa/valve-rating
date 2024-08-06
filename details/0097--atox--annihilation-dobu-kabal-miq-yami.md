@@ -6,9 +6,9 @@ Global Rank: [97](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [6]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  871.6<br />
+Final Rank Value:  871.9<br />
 <br />
-Final Rank Value (871.6) = Starting Rank Value (863.9) + Head To Head Adjustments (7.7)<br />
+Final Rank Value (871.9) = Starting Rank Value (863.9) + Head To Head Adjustments (8.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,9 +37,9 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |      120 | 2024-08-02 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.19 | Annihilation, dobu, kabal, MiQ, yAmi  |
+|           20 |      120 | 2024-08-02 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.06 | Annihilation, dobu, kabal, MiQ, yAmi  |
 |           19 |      151 | 2024-08-01 | CatEvil     | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.235 (0.034)    | 0 (0.000) |     6.58 | Annihilation, dobu, kabal, MiQ, yAmi  |
-|           18 |      161 | 2024-08-01 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.42 | Annihilation, dobu, kabal, MiQ, yAmi  |
+|           18 |      161 | 2024-08-01 | Rare Atom   | L   | 1.000      | -            | -                | -                | -         |   -14.27 | Annihilation, dobu, kabal, MiQ, yAmi  |
 |           17 |     1279 | 2024-06-09 | Lynn Vision | L   | 0.813      | -            | -                | -                | -         |    -7.71 | Annihilation, dobu, kabal, MiQ, Zesta |
 |           16 |     1459 | 2024-06-06 | Lynn Vision | W   | 0.794      | 0.416        | 0.086 (0.028)    | 0.186 (0.061)    | 0 (0.000) |    17.72 | Annihilation, dobu, kabal, MiQ, Zesta |
 |           15 |     1518 | 2024-06-05 | GR          | W   | 0.787      | 0.416        | 0.008 (0.003)    | 0.074 (0.024)    | 0 (0.000) |     5.82 | Annihilation, dobu, kabal, MiQ, Zesta |

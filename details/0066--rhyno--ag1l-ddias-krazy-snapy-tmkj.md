@@ -6,9 +6,9 @@ Global Rank: [66](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [48]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  983.9<br />
+Final Rank Value:  984.2<br />
 <br />
-Final Rank Value (983.9) = Starting Rank Value (964.3) + Head To Head Adjustments (19.6)<br />
+Final Rank Value (984.2) = Starting Rank Value (964.3) + Head To Head Adjustments (19.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -39,25 +39,25 @@ Note:<br />
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
 |           25 |       17 | 2024-08-05 | Meteor        | W   | 1.000      | 0.143        | 0.014 (0.002)    | -                | 0 (0.000) |     7.42 | Ag1l, DDias, krazy, snapy, TMKj        |
 |           24 |      259 | 2024-07-30 | Enterprise    | L   | 1.000      | -            | -                | -                | -         |   -17.90 | Ag1l, DDias, krazy, snapy, TMKj        |
-|           23 |      471 | 2024-07-23 | FAVBET        | W   | 1.000      | 0.143        | -                | 0.333 (0.048)    | 0 (0.000) |    10.06 | Ag1l, DDias, krazy, snapy, TMKj        |
+|           23 |      471 | 2024-07-23 | FAVBET        | W   | 1.000      | 0.143        | -                | 0.333 (0.048)    | 0 (0.000) |    10.08 | Ag1l, DDias, krazy, snapy, TMKj        |
 |           22 |      579 | 2024-07-19 | MOUZ NXT      | L   | 1.000      | -            | -                | -                | -         |   -11.72 | Ag1l, DDias, krazy, snapy, TMKj        |
-|           21 |      652 | 2024-07-18 | Nexus         | W   | 1.000      | 0.500        | 0.014 (0.007)    | 0.457 (0.229)    | 0 (0.000) |     6.33 | Ag1l, DDias, krazy, snapy, TMKj        |
+|           21 |      652 | 2024-07-18 | Nexus         | W   | 1.000      | 0.500        | 0.014 (0.007)    | 0.457 (0.229)    | 0 (0.000) |     6.37 | Ag1l, DDias, krazy, snapy, TMKj        |
 |           20 |      722 | 2024-07-17 | HAVU          | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.65 | Ag1l, DDias, krazy, snapy, TMKj        |
-|           19 |      771 | 2024-07-16 | MOUZ NXT      | L   | 1.000      | -            | -                | -                | -         |   -12.15 | Ag1l, DDias, krazy, snapy, TMKj        |
+|           19 |      771 | 2024-07-16 | MOUZ NXT      | L   | 1.000      | -            | -                | -                | -         |   -12.14 | Ag1l, DDias, krazy, snapy, TMKj        |
 |           18 |     1189 | 2024-06-11 | Nemiga        | L   | 0.828      | -            | -                | -                | -         |    -7.40 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |           17 |     1211 | 2024-06-10 | CYBERSHOKE    | W   | 0.821      | 0.500        | 0.039 (0.016)    | 0.347 (0.142)    | 0 (0.000) |     8.87 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           16 |     1242 | 2024-06-09 | Rebels        | W   | 0.816      | 0.500        | 0.038 (0.016)    | 0.591 (0.241)    | 0 (0.000) |    14.24 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           16 |     1242 | 2024-06-09 | Rebels        | W   | 0.816      | 0.500        | 0.038 (0.016)    | 0.591 (0.241)    | 0 (0.000) |    14.23 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |           15 |     1339 | 2024-06-08 | NAVI Junior   | W   | 0.807      | 0.500        | -                | 0.089 (0.036)    | 0 (0.000) |     2.45 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |           14 |     1431 | 2024-06-06 | MOUZ NXT      | L   | 0.796      | -            | -                | -                | -         |    -8.17 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           13 |     1542 | 2024-06-04 | Endpoint      | W   | 0.782      | 0.500        | 0.012 (0.005)    | 0.513 (0.201)    | -         |     9.78 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           12 |     1739 | 2024-05-28 | Sampi         | L   | 0.734      | -            | -                | -                | -         |   -13.96 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           11 |     1763 | 2024-05-27 | Endpoint      | W   | 0.727      | 0.435        | 0.012 (0.004)    | 0.513 (0.162)    | -         |     9.26 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|           10 |     1804 | 2024-05-25 | Zero Tenacity | L   | 0.713      | -            | -                | -                | -         |    -7.95 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|            9 |     1871 | 2024-05-22 | MOUZ NXT      | W   | 0.694      | 0.435        | 0.139 (0.042)    | 0.984 (0.297)    | -         |    12.60 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|            8 |     1908 | 2024-05-21 | B8            | L   | 0.689      | -            | -                | -                | -         |    -6.22 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           13 |     1542 | 2024-06-04 | Endpoint      | W   | 0.782      | 0.500        | 0.012 (0.005)    | 0.513 (0.201)    | -         |     9.79 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           12 |     1739 | 2024-05-28 | Sampi         | L   | 0.734      | -            | -                | -                | -         |   -13.97 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           11 |     1763 | 2024-05-27 | Endpoint      | W   | 0.727      | 0.435        | 0.012 (0.004)    | 0.513 (0.162)    | -         |     9.27 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|           10 |     1804 | 2024-05-25 | Zero Tenacity | L   | 0.713      | -            | -                | -                | -         |    -7.84 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            9 |     1871 | 2024-05-22 | MOUZ NXT      | W   | 0.694      | 0.435        | 0.139 (0.042)    | 0.984 (0.297)    | -         |    12.61 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            8 |     1908 | 2024-05-21 | B8            | L   | 0.689      | -            | -                | -                | -         |    -6.21 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |            7 |     2014 | 2024-05-18 | LEON          | W   | 0.666      | 0.143        | 0.007 (0.001)    | -                | -         |     3.55 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |            6 |     2070 | 2024-05-16 | CPH Wolves    | W   | 0.655      | 0.143        | -                | 0.361 (0.034)    | -         |     5.37 | DDias, krazy, renatoohaxx, snapy, TMKj |
-|            5 |     2135 | 2024-05-15 | EYEBALLERS    | W   | 0.646      | 0.143        | 0.005 (0.001)    | 0.499 (0.046)    | -         |     7.74 | DDias, krazy, renatoohaxx, snapy, TMKj |
+|            5 |     2135 | 2024-05-15 | EYEBALLERS    | W   | 0.646      | 0.143        | 0.005 (0.001)    | 0.499 (0.046)    | -         |     7.88 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |            4 |     2230 | 2024-05-12 | AL QATRAO     | W   | 0.628      | 0.306        | 0.004 (0.001)    | -                | 1 (0.628) |     3.54 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |            3 |     2266 | 2024-05-11 | ALL-IN        | W   | 0.620      | -            | -                | -                | 1 (0.620) |     1.59 | DDias, krazy, renatoohaxx, snapy, TMKj |
 |            2 |     3902 | 2024-03-03 | Portugal      | L   | 0.161      | -            | -                | -                | -         |    -4.21 | DDias, krazy, renatoohaxx, snapy, TMKj |

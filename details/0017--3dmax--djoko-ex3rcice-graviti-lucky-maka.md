@@ -6,9 +6,9 @@ Global Rank: [17](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [13]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1430.8<br />
+Final Rank Value:  1431.0<br />
 <br />
-Final Rank Value (1430.8) = Starting Rank Value (1687.6) + Head To Head Adjustments (-256.8)<br />
+Final Rank Value (1431.0) = Starting Rank Value (1687.6) + Head To Head Adjustments (-256.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,58 +37,58 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           83 |       38 | 2024-08-04 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |   -23.62 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           83 |       38 | 2024-08-04 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |   -23.61 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           82 |       64 | 2024-08-03 | fnatic            | W   | 1.000      | 0.143        | 0.371 (0.053)    | -                | 0 (0.000) |    14.15 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           81 |      108 | 2024-08-02 | BLEED             | W   | 1.000      | -            | -                | -                | -         |    11.44 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           80 |      141 | 2024-08-01 | Betera            | W   | 1.000      | -            | -                | -                | -         |     0.31 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           79 |      183 | 2024-07-31 | Cloud9            | W   | 1.000      | -            | -                | -                | -         |     0.65 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           78 |      303 | 2024-07-28 | The MongolZ       | W   | 1.000      | 0.650        | 1.000 (0.650)    | 0.709 (0.461)    | 1 (1.000) |    26.53 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           77 |      317 | 2024-07-28 | Aurora            | W   | 1.000      | 0.650        | 0.421 (0.274)    | 0.776 (0.505)    | 1 (1.000) |    18.54 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           76 |      331 | 2024-07-27 | ENCE              | W   | 1.000      | 0.650        | 0.173 (0.113)    | -                | 1 (1.000) |    15.36 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           76 |      331 | 2024-07-27 | ENCE              | W   | 1.000      | 0.650        | 0.173 (0.113)    | -                | 1 (1.000) |    15.35 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           75 |      357 | 2024-07-26 | Eternal Fire      | L   | 1.000      | -            | -                | -                | -         |    -5.98 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           74 |      397 | 2024-07-25 | Revenant          | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.80 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           73 |      409 | 2024-07-25 | DMS               | W   | 1.000      | -            | -                | -                | 1 (1.000) |     2.13 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           72 |      437 | 2024-07-24 | AMKAL             | W   | 1.000      | 0.650        | 0.130 (0.084)    | 0.463 (0.301)    | 1 (1.000) |     9.23 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           71 |      704 | 2024-07-17 | 9 Pandas          | W   | 1.000      | 0.500        | -                | 0.716 (0.358)    | -         |     4.96 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           72 |      437 | 2024-07-24 | AMKAL             | W   | 1.000      | 0.650        | 0.130 (0.084)    | 0.463 (0.301)    | 1 (1.000) |     9.27 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           71 |      704 | 2024-07-17 | 9 Pandas          | W   | 1.000      | 0.500        | -                | 0.716 (0.358)    | -         |     4.98 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           70 |      807 | 2024-07-15 | TSM               | L   | 1.000      | -            | -                | -                | -         |   -26.86 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           69 |      933 | 2024-07-08 | Latvia            | L   | 1.000      | -            | -                | -                | -         |   -30.08 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           69 |      933 | 2024-07-08 | Latvia            | L   | 1.000      | -            | -                | -                | -         |   -30.09 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           68 |     1015 | 2024-06-17 | 5W                | L   | 0.867      | -            | -                | -                | -         |   -24.87 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           67 |     1029 | 2024-06-16 | B8                | L   | 0.862      | -            | -                | -                | -         |   -22.64 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           67 |     1029 | 2024-06-16 | B8                | L   | 0.862      | -            | -                | -                | -         |   -22.62 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           66 |     1034 | 2024-06-16 | Permitta          | W   | 0.861      | 0.435        | -                | 0.940 (0.352)    | -         |     1.56 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           65 |     1040 | 2024-06-16 | Enterprise        | W   | 0.860      | -            | -                | -                | -         |     1.46 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           65 |     1040 | 2024-06-16 | Enterprise        | W   | 0.860      | -            | -                | -                | -         |     1.47 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           64 |     1055 | 2024-06-15 | GUN5              | W   | 0.856      | -            | -                | -                | -         |     1.88 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           63 |     1075 | 2024-06-15 | BLEED             | W   | 0.853      | -            | -                | -                | -         |    10.05 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           62 |     1109 | 2024-06-14 | Sashi             | W   | 0.848      | -            | -                | -                | -         |     5.62 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           61 |     1120 | 2024-06-14 | Passion UA        | W   | 0.846      | 0.435        | 0.173 (0.064)    | 1.000 (0.368)    | -         |     3.05 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           61 |     1120 | 2024-06-14 | Passion UA        | W   | 0.846      | 0.435        | 0.173 (0.064)    | 1.000 (0.368)    | -         |     3.06 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           60 |     1138 | 2024-06-13 | 9INE              | W   | 0.842      | -            | -                | -                | -         |     1.49 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           59 |     1150 | 2024-06-13 | VP.Prodigy        | W   | 0.840      | -            | -                | -                | -         |     1.26 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           59 |     1150 | 2024-06-13 | VP.Prodigy        | W   | 0.840      | -            | -                | -                | -         |     1.27 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           58 |     1181 | 2024-06-11 | SINNERS           | W   | 0.829      | -            | -                | -                | -         |     2.42 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           57 |     1192 | 2024-06-11 | BUHAWI            | W   | 0.828      | -            | -                | -                | -         |     0.08 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           56 |     1208 | 2024-06-10 | EYEBALLERS        | W   | 0.822      | -            | -                | -                | -         |     1.23 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           56 |     1208 | 2024-06-10 | EYEBALLERS        | W   | 0.822      | -            | -                | -                | -         |     1.25 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           55 |     1215 | 2024-06-10 | SAW               | W   | 0.821      | -            | -                | -                | -         |     4.96 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           54 |     1222 | 2024-06-10 | PARIVISION        | W   | 0.820      | -            | -                | -                | -         |     3.34 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           53 |     1226 | 2024-06-10 | 9 Pandas          | W   | 0.820      | -            | -                | -                | -         |     2.94 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           54 |     1222 | 2024-06-10 | PARIVISION        | W   | 0.820      | -            | -                | -                | -         |     3.35 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           53 |     1226 | 2024-06-10 | 9 Pandas          | W   | 0.820      | -            | -                | -                | -         |     2.95 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           52 |     1248 | 2024-06-09 | 9INE              | L   | 0.815      | -            | -                | -                | -         |   -24.32 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           51 |     1261 | 2024-06-09 | Monte             | L   | 0.815      | -            | -                | -                | -         |   -23.79 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           50 |     1268 | 2024-06-09 | SINNERS           | L   | 0.814      | -            | -                | -                | -         |   -23.69 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           50 |     1268 | 2024-06-09 | SINNERS           | L   | 0.814      | -            | -                | -                | -         |   -23.68 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           49 |     1275 | 2024-06-09 | Aurora            | W   | 0.814      | 0.143        | 0.421 (0.049)    | -                | -         |    12.52 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           48 |     1285 | 2024-06-09 | RUSH B            | W   | 0.813      | -            | -                | -                | -         |     0.84 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           47 |     1323 | 2024-06-08 | Illuminar         | L   | 0.808      | -            | -                | -                | -         |   -24.71 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           46 |     1381 | 2024-06-07 | Gaimin Gladiators | W   | 0.801      | -            | -                | -                | -         |     1.34 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           45 |     1420 | 2024-06-06 | Nexus             | W   | 0.796      | -            | -                | -                | -         |     0.40 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           44 |     1437 | 2024-06-06 | Sangal            | L   | 0.795      | -            | -                | -                | -         |   -22.07 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           44 |     1437 | 2024-06-06 | Sangal            | L   | 0.795      | -            | -                | -                | -         |   -22.05 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           43 |     1500 | 2024-06-05 | KOI               | L   | 0.789      | -            | -                | -                | -         |   -23.32 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           42 |     1546 | 2024-06-04 | Aurora            | W   | 0.782      | 0.500        | 0.421 (0.164)    | 0.776 (0.303)    | -         |    11.98 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           41 |     1630 | 2024-06-01 | VP.Prodigy        | L   | 0.761      | -            | -                | -                | -         |   -23.29 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           40 |     1683 | 2024-05-30 | Sampi             | W   | 0.749      | 0.435        | -                | 1.000 (0.325)    | -         |     0.61 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           39 |     1805 | 2024-05-25 | MOUZ NXT          | L   | 0.713      | -            | -                | -                | -         |   -21.31 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           38 |     1828 | 2024-05-23 | Zero Tenacity     | W   | 0.701      | 0.435        | -                | 1.000 (0.305)    | -         |     1.48 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           37 |     2042 | 2024-05-17 | B8                | L   | 0.661      | -            | -                | -                | -         |   -19.43 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           36 |     2128 | 2024-05-15 | Zero Tenacity     | L   | 0.647      | -            | -                | -                | -         |   -19.46 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           38 |     1828 | 2024-05-23 | Zero Tenacity     | W   | 0.701      | 0.435        | -                | 1.000 (0.305)    | -         |     1.51 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           37 |     2042 | 2024-05-17 | B8                | L   | 0.661      | -            | -                | -                | -         |   -19.42 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           36 |     2128 | 2024-05-15 | Zero Tenacity     | L   | 0.647      | -            | -                | -                | -         |   -19.45 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           35 |     2324 | 2024-05-08 | G2                | L   | 0.601      | -            | -                | -                | -         |    -2.56 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           34 |     2467 | 2024-05-01 | Sashi             | L   | 0.554      | -            | -                | -                | -         |   -16.10 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           34 |     2467 | 2024-05-01 | Sashi             | L   | 0.554      | -            | -                | -                | -         |   -16.09 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           33 |     2491 | 2024-04-30 | BetBoom           | W   | 0.547      | 0.384        | 0.248 (0.052)    | -                | -         |     3.84 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
-|           32 |     2499 | 2024-04-29 | PARIVISION        | W   | 0.542      | -            | -                | -                | -         |     0.82 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
+|           32 |     2499 | 2024-04-29 | PARIVISION        | W   | 0.542      | -            | -                | -                | -         |     0.83 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           31 |     2546 | 2024-04-27 | Astralis          | L   | 0.528      | -            | -                | -                | -         |    -5.87 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           30 |     2620 | 2024-04-24 | fnatic            | W   | 0.508      | 0.889        | 0.371 (0.167)    | 0.695 (0.314)    | 1 (0.508) |     5.81 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |
 |           29 |     2645 | 2024-04-23 | SAW               | W   | 0.500      | -            | -                | -                | 1 (0.500) |     1.09 | Djoko, Ex3rcice, Graviti, Lucky, Maka  |

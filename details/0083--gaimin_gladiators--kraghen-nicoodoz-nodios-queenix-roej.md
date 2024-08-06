@@ -6,9 +6,9 @@ Global Rank: [83](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [61]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  928.0<br />
+Final Rank Value:  928.3<br />
 <br />
-Final Rank Value (928.0) = Starting Rank Value (958.0) + Head To Head Adjustments (-29.9)<br />
+Final Rank Value (928.3) = Starting Rank Value (958.0) + Head To Head Adjustments (-29.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           53 |       44 | 2024-08-04 | TYLOO            | L   | 1.000      | -            | -                | -                | -         |   -17.55 | kraghen, nicoodoz, Nodios, Queenix, roeJ |
-|           52 |      349 | 2024-07-26 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -8.76 | kraghen, nicoodoz, Nodios, Queenix, roeJ |
+|           53 |       44 | 2024-08-04 | TYLOO            | L   | 1.000      | -            | -                | -                | -         |   -17.54 | kraghen, nicoodoz, Nodios, Queenix, roeJ |
+|           52 |      349 | 2024-07-26 | Passion UA       | L   | 1.000      | -            | -                | -                | -         |    -8.72 | kraghen, nicoodoz, Nodios, Queenix, roeJ |
 |           51 |     1099 | 2024-06-14 | GUN5             | L   | 0.849      | -            | -                | -                | -         |   -12.43 | kraghen, Nodios, Patti, Queenix, salazar |
 |           50 |     1225 | 2024-06-10 | Enterprise       | L   | 0.820      | -            | -                | -                | -         |   -15.23 | kraghen, Nodios, Patti, Queenix, salazar |
 |           49 |     1281 | 2024-06-09 | 5W               | L   | 0.813      | -            | -                | -                | -         |   -14.07 | kraghen, Nodios, Patti, Queenix, salazar |
-|           48 |     1325 | 2024-06-08 | EYEBALLERS       | W   | 0.808      | 0.450        | -                | 0.499 (0.181)    | 0 (0.000) |    10.15 | kraghen, Nodios, Patti, Queenix, salazar |
+|           48 |     1325 | 2024-06-08 | EYEBALLERS       | W   | 0.808      | 0.450        | -                | 0.499 (0.181)    | 0 (0.000) |    10.27 | kraghen, Nodios, Patti, Queenix, salazar |
 |           47 |     1381 | 2024-06-07 | 3DMAX            | L   | 0.801      | -            | -                | -                | -         |    -1.34 | kraghen, Nodios, Patti, Queenix, salazar |
 |           46 |     1446 | 2024-06-06 | Astralis Talent  | W   | 0.795      | 0.450        | -                | 0.160 (0.057)    | 0 (0.000) |     5.78 | kraghen, Nodios, Patti, Queenix, salazar |
 |           45 |     1698 | 2024-05-30 | Lynn Vision      | L   | 0.746      | -            | -                | -                | -         |   -10.11 | kraghen, Nodios, Patti, Queenix, salazar |
 |           44 |     1741 | 2024-05-28 | The MongolZ      | L   | 0.733      | -            | -                | -                | -         |    -0.15 | kraghen, Nodios, Patti, Queenix, salazar |
 |           43 |     2027 | 2024-05-17 | ENCE             | L   | 0.663      | -            | -                | -                | -         |    -2.08 | kraghen, Nodios, Patti, Queenix, salazar |
-|           42 |     2033 | 2024-05-17 | GamerLegion      | L   | 0.662      | -            | -                | -                | -         |    -6.33 | kraghen, Nodios, Patti, Queenix, salazar |
+|           42 |     2033 | 2024-05-17 | GamerLegion      | L   | 0.662      | -            | -                | -                | -         |    -6.34 | kraghen, Nodios, Patti, Queenix, salazar |
 |           41 |     2039 | 2024-05-17 | Rebels           | L   | 0.661      | -            | -                | -                | -         |   -10.41 | kraghen, Nodios, Patti, Queenix, salazar |
 |           40 |     2125 | 2024-05-15 | BLEED            | W   | 0.647      | 0.384        | 0.126 (0.031)    | 0.550 (0.137)    | 0 (0.000) |    18.56 | kraghen, Nodios, Patti, Queenix, salazar |
 |           39 |     2350 | 2024-05-07 | Grannys Knockers | L   | 0.593      | -            | -                | -                | -         |   -14.54 | kraghen, Nodios, Patti, Queenix, salazar |
 |           38 |     2361 | 2024-05-06 | 500              | W   | 0.588      | -            | -                | -                | -         |     0.63 | kraghen, Nodios, Patti, Queenix, salazar |
 |           37 |     2372 | 2024-05-05 | Sashi            | W   | 0.582      | 0.143        | 0.184 (0.015)    | 0.980 (0.081)    | -         |    14.05 | kraghen, Nodios, Patti, Queenix, salazar |
 |           36 |     2381 | 2024-05-05 | Kronjyllands     | W   | 0.581      | -            | -                | -                | -         |     0.64 | kraghen, Nodios, Patti, Queenix, salazar |
-|           35 |     2412 | 2024-05-03 | AMKAL            | L   | 0.568      | -            | -                | -                | -         |    -5.24 | kraghen, Nodios, Patti, Queenix, salazar |
+|           35 |     2412 | 2024-05-03 | AMKAL            | L   | 0.568      | -            | -                | -                | -         |    -5.23 | kraghen, Nodios, Patti, Queenix, salazar |
 |           34 |     2433 | 2024-05-02 | HAVU             | W   | 0.562      | -            | -                | -                | -         |     2.98 | kraghen, Nodios, Patti, Queenix, salazar |
 |           33 |     2445 | 2024-05-02 | SINNERS          | W   | 0.560      | 0.435        | 0.037 (0.009)    | 0.808 (0.197)    | -         |    11.15 | kraghen, Nodios, Patti, Queenix, salazar |
-|           32 |     2478 | 2024-04-30 | AMKAL            | L   | 0.549      | -            | -                | -                | -         |    -5.09 | kraghen, Nodios, Patti, Queenix, salazar |
-|           31 |     2507 | 2024-04-29 | kONO             | L   | 0.541      | -            | -                | -                | -         |   -12.51 | kraghen, Nodios, Patti, Queenix, salazar |
-|           30 |     2533 | 2024-04-28 | 9 Pandas         | L   | 0.533      | -            | -                | -                | -         |    -9.43 | kraghen, Nodios, Patti, Queenix, salazar |
-|           29 |     2581 | 2024-04-26 | ALTERNATE aTTaX  | L   | 0.520      | -            | -                | -                | -         |    -9.75 | kraghen, Nodios, Patti, Queenix, salazar |
-|           28 |     2642 | 2024-04-23 | Sashi            | L   | 0.501      | -            | -                | -                | -         |    -4.95 | kraghen, Nodios, Patti, Queenix, salazar |
+|           32 |     2478 | 2024-04-30 | AMKAL            | L   | 0.549      | -            | -                | -                | -         |    -5.08 | kraghen, Nodios, Patti, Queenix, salazar |
+|           31 |     2507 | 2024-04-29 | kONO             | L   | 0.541      | -            | -                | -                | -         |   -12.50 | kraghen, Nodios, Patti, Queenix, salazar |
+|           30 |     2533 | 2024-04-28 | 9 Pandas         | L   | 0.533      | -            | -                | -                | -         |    -9.41 | kraghen, Nodios, Patti, Queenix, salazar |
+|           29 |     2581 | 2024-04-26 | ALTERNATE aTTaX  | L   | 0.520      | -            | -                | -                | -         |    -9.74 | kraghen, Nodios, Patti, Queenix, salazar |
+|           28 |     2642 | 2024-04-23 | Sashi            | L   | 0.501      | -            | -                | -                | -         |    -4.94 | kraghen, Nodios, Patti, Queenix, salazar |
 |           27 |     2657 | 2024-04-22 | BLEED            | L   | 0.494      | -            | -                | -                | -         |    -7.56 | kraghen, Nodios, Patti, Queenix, salazar |
-|           26 |     2675 | 2024-04-21 | AMKAL            | W   | 0.488      | 0.384        | 0.130 (0.024)    | 0.463 (0.087)    | -         |    10.11 | kraghen, Nodios, Patti, Queenix, salazar |
+|           26 |     2675 | 2024-04-21 | AMKAL            | W   | 0.488      | 0.384        | 0.130 (0.024)    | 0.463 (0.087)    | -         |    10.13 | kraghen, Nodios, Patti, Queenix, salazar |
 |           25 |     2712 | 2024-04-20 | Nemiga           | W   | 0.480      | 0.384        | 0.315 (0.058)    | 0.720 (0.133)    | -         |    10.62 | kraghen, Nodios, Patti, Queenix, salazar |
 |           24 |     2854 | 2024-04-17 | SINNERS          | W   | 0.460      | 0.384        | 0.037 (0.007)    | 0.808 (0.143)    | -         |    10.34 | kraghen, Nodios, Patti, Queenix, salazar |
 |           23 |     2875 | 2024-04-16 | Permitta         | W   | 0.454      | 0.384        | -                | 0.940 (0.164)    | -         |     6.79 | kraghen, Nodios, Patti, Queenix, salazar |

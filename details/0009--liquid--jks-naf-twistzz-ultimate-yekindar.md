@@ -9,9 +9,9 @@ Regional Rank: [8]( ../standings_europe.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [1]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  1671.8<br />
+Final Rank Value:  1671.9<br />
 <br />
-Final Rank Value (1671.8) = Starting Rank Value (1594.9) + Head To Head Adjustments (76.9)<br />
+Final Rank Value (1671.9) = Starting Rank Value (1594.9) + Head To Head Adjustments (76.9)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -44,18 +44,18 @@ Note:<br />
 |           37 |      144 | 2024-08-01 | Natus Vincere    | W   | 1.000      | 0.581        | 1.000 (0.581)    | 0.365 (0.212)    | 1 (1.000) |    26.87 | jks, NAF, Twistzz, ultimate, YEKINDAR  |
 |           36 |      188 | 2024-07-31 | Virtus.pro       | W   | 1.000      | 0.581        | 0.498 (0.290)    | 0.316 (0.183)    | 1 (1.000) |    19.04 | jks, NAF, Twistzz, ultimate, YEKINDAR  |
 |           35 |     1701 | 2024-05-29 | G2               | L   | 0.744      | -            | -                | -                | -         |    -3.12 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
-|           34 |     1726 | 2024-05-28 | Falcons          | W   | 0.737      | 0.624        | 0.220 (0.101)    | -                | 1 (0.737) |     6.24 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
+|           34 |     1726 | 2024-05-28 | Falcons          | W   | 0.737      | 0.624        | 0.220 (0.101)    | -                | 1 (0.737) |     6.25 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           33 |     1744 | 2024-05-27 | 9z               | L   | 0.731      | -            | -                | -                | -         |   -16.36 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           32 |     1755 | 2024-05-27 | Complexity       | W   | 0.729      | 0.624        | 0.341 (0.155)    | 0.372 (0.169)    | 1 (0.729) |    13.39 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           31 |     1829 | 2024-05-23 | Eternal Fire     | L   | 0.701      | -            | -                | -                | -         |    -8.76 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           30 |     1873 | 2024-05-22 | Astralis         | W   | 0.693      | 0.769        | 0.389 (0.207)    | 0.412 (0.220)    | -         |    15.24 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
-|           29 |     1918 | 2024-05-21 | ENCE             | W   | 0.687      | 0.769        | 0.173 (0.091)    | 0.431 (0.228)    | -         |     5.50 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
-|           28 |     1974 | 2024-05-19 | AMKAL            | W   | 0.674      | 0.769        | -                | 0.463 (0.240)    | -         |     2.07 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
+|           29 |     1918 | 2024-05-21 | ENCE             | W   | 0.687      | 0.769        | 0.173 (0.091)    | 0.431 (0.228)    | -         |     5.51 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
+|           28 |     1974 | 2024-05-19 | AMKAL            | W   | 0.674      | 0.769        | -                | 0.463 (0.240)    | -         |     2.08 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           27 |     1989 | 2024-05-18 | OG               | W   | 0.669      | 0.769        | 0.137 (0.070)    | -                | -         |     0.99 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           26 |     2279 | 2024-05-10 | Astralis         | L   | 0.615      | -            | -                | -                | -         |    -5.66 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           25 |     2323 | 2024-05-08 | FlyQuest         | W   | 0.601      | 0.889        | -                | 0.284 (0.152)    | 1 (0.601) |     1.96 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           24 |     2391 | 2024-05-04 | MOUZ             | L   | 0.575      | -            | -                | -                | -         |    -3.40 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
-|           23 |     2453 | 2024-05-01 | Monte            | W   | 0.555      | -            | -                | -                | 1 (0.555) |     0.60 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
+|           23 |     2453 | 2024-05-01 | Monte            | W   | 0.555      | -            | -                | -                | 1 (0.555) |     0.61 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           22 |     2476 | 2024-04-30 | FURIA            | W   | 0.549      | 0.889        | 0.284 (0.139)    | 0.479 (0.234)    | 1 (0.549) |    10.40 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           21 |     2720 | 2024-04-19 | M80              | L   | 0.478      | -            | -                | -                | -         |   -13.34 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
 |           20 |     2770 | 2024-04-18 | M80              | W   | 0.471      | -            | -                | -                | -         |     1.62 | cadiaN, NAF, skullz, Twistzz, YEKINDAR |
