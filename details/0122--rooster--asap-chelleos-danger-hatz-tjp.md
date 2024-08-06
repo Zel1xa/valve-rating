@@ -6,9 +6,9 @@ Global Rank: [122](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [8]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  811.1<br />
+Final Rank Value:  810.7<br />
 <br />
-Final Rank Value (811.1) = Starting Rank Value (778.5) + Head To Head Adjustments (32.6)<br />
+Final Rank Value (810.7) = Starting Rank Value (778.4) + Head To Head Adjustments (32.3)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -17,11 +17,11 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 - Opponent Network: 0.048[<sup>2</sup>](#table1)
 - LAN Wins: 0.060[<sup>2</sup>](#table1)
 
-The average of these factors is 0.185<br />
+The average of these factors is 0.184<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 778.5
-- 400 + ( ( 0.185 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 778.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 778.4
+- 400 + ( ( 0.184 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 778.4
 
 
 #### Factors<br />
@@ -37,58 +37,58 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           37 |      468 | 2024-07-23 | The Art of War     | L   | 1.000      | -            | -                | -                | -         |   -25.36 | asap, chelleos, dangeR, Hatz, TjP   |
-|           36 |      472 | 2024-07-23 | The Art of War     | L   | 1.000      | -            | -                | -                | -         |   -26.68 | asap, chelleos, dangeR, Hatz, TjP   |
-|           35 |      652 | 2024-07-18 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.222 (0.074)    | 0 (0.000) |     8.68 | asap, chelleos, dangeR, Hatz, TjP   |
-|           34 |      657 | 2024-07-18 | DXA                | L   | 1.000      | -            | -                | -                | -         |   -23.35 | asap, chelleos, dangeR, Hatz, TjP   |
-|           33 |      770 | 2024-07-16 | Mindfreak          | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.224 (0.075)    | 0 (0.000) |     9.71 | asap, chelleos, dangeR, Hatz, TjP   |
-|           32 |      772 | 2024-07-16 | Mindfreak          | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.224 (0.075)    | 0 (0.000) |    10.49 | asap, chelleos, dangeR, Hatz, TjP   |
-|           31 |     1285 | 2024-06-08 | FlyQuest           | L   | 0.817      | -            | -                | -                | -         |    -3.65 | asap, chelleos, dangeR, nettik, TjP |
-|           30 |     1395 | 2024-06-07 | FlyQuest           | W   | 0.804      | 0.333        | 0.104 (0.028)    | 0.286 (0.077)    | 0 (0.000) |    22.09 | asap, chelleos, dangeR, nettik, TjP |
-|           29 |     1466 | 2024-06-06 | Bad News Kangaroos | W   | 0.797      | 0.333        | 0.017 (0.004)    | 0.222 (0.059)    | 0 (0.000) |    12.03 | asap, chelleos, dangeR, nettik, TjP |
-|           28 |     1870 | 2024-05-22 | Vantage            | W   | 0.698      | 0.333        | -                | 0.067 (0.016)    | 0 (0.000) |     6.03 | asap, chelleos, dangeR, nettik, TjP |
-|           27 |     1875 | 2024-05-22 | Vantage            | W   | 0.697      | -            | -                | -                | 0 (0.000) |     6.34 | asap, chelleos, dangeR, nettik, TjP |
-|           26 |     2128 | 2024-05-15 | Canon Event        | W   | 0.651      | -            | -                | -                | 0 (0.000) |     2.78 | asap, chelleos, dangeR, nettik, TjP |
-|           25 |     2133 | 2024-05-15 | Canon Event        | W   | 0.651      | -            | -                | -                | 0 (0.000) |     2.85 | asap, chelleos, dangeR, nettik, TjP |
-|           24 |     2321 | 2024-05-08 | KZG                | W   | 0.604      | 0.333        | 0.005 (0.001)    | 0.109 (0.022)    | -         |     5.92 | asap, chelleos, dangeR, nettik, TjP |
-|           23 |     2324 | 2024-05-08 | KZG                | W   | 0.604      | 0.333        | 0.005 (0.001)    | 0.109 (0.022)    | -         |     6.20 | asap, chelleos, dangeR, nettik, TjP |
-|           22 |     2555 | 2024-04-26 | MIBR               | L   | 0.530      | -            | -                | -                | -         |    -0.46 | asap, chelleos, dangeR, nettik, TjP |
-|           21 |     2577 | 2024-04-26 | KZG                | W   | 0.524      | 0.500        | 0.005 (0.001)    | 0.109 (0.029)    | 1 (0.524) |     5.61 | asap, chelleos, dangeR, nettik, TjP |
-|           20 |     2580 | 2024-04-25 | Rebels             | L   | 0.523      | -            | -                | -                | -         |    -4.22 | asap, chelleos, dangeR, nettik, TjP |
-|           19 |     2711 | 2024-04-19 | Bad News Kangaroos | L   | 0.483      | -            | -                | -                | -         |    -7.80 | asap, chelleos, dangeR, nettik, TjP |
-|           18 |     2753 | 2024-04-19 | FlyQuest           | L   | 0.478      | -            | -                | -                | -         |    -1.73 | asap, chelleos, dangeR, nettik, TjP |
-|           17 |     2759 | 2024-04-18 | Bad News Kangaroos | W   | 0.477      | 0.143        | 0.017 (0.001)    | -                | -         |     7.32 | asap, chelleos, dangeR, nettik, TjP |
-|           16 |     2835 | 2024-04-17 | Arcade             | W   | 0.465      | -            | -                | -                | -         |     4.75 | asap, chelleos, dangeR, nettik, TjP |
-|           15 |     2839 | 2024-04-17 | Canon Event        | W   | 0.464      | -            | -                | -                | -         |     2.25 | asap, chelleos, dangeR, nettik, TjP |
-|           14 |     3008 | 2024-04-10 | Bad News Kangaroos | L   | 0.418      | -            | -                | -                | -         |    -6.75 | asap, chelleos, dangeR, nettik, TjP |
-|           13 |     3015 | 2024-04-10 | Bad News Kangaroos | W   | 0.417      | 0.333        | 0.017 (0.002)    | 0.222 (0.031)    | -         |     6.54 | asap, chelleos, dangeR, nettik, TjP |
-|           12 |     3368 | 2024-03-27 | Arcade             | W   | 0.325      | -            | -                | -                | -         |     3.53 | asap, chelleos, dangeR, nettik, TjP |
-|           11 |     3373 | 2024-03-27 | Arcade             | W   | 0.324      | -            | -                | -                | -         |     3.63 | asap, chelleos, dangeR, nettik, TjP |
-|           10 |     3640 | 2024-03-13 | FlyQuest           | L   | 0.231      | -            | -                | -                | -         |    -0.82 | asap, chelleos, dangeR, nettik, TjP |
-|            9 |     3648 | 2024-03-13 | FlyQuest           | L   | 0.231      | -            | -                | -                | -         |    -0.82 | asap, chelleos, dangeR, nettik, TjP |
-|            8 |     3815 | 2024-03-06 | Mindfreak          | W   | 0.185      | -            | -                | -                | -         |     1.98 | asap, chelleos, dangeR, nettik, TjP |
-|            7 |     3821 | 2024-03-06 | Mindfreak          | W   | 0.184      | -            | -                | -                | -         |     2.01 | asap, chelleos, dangeR, nettik, TjP |
-|            6 |     4070 | 2024-02-23 | FlyQuest           | L   | 0.104      | -            | -                | -                | -         |    -0.36 | asap, chelleos, dangeR, nettik, TjP |
-|            5 |     4072 | 2024-02-22 | Bad News Kangaroos | W   | 0.103      | -            | -                | -                | -         |     0.95 | asap, chelleos, dangeR, nettik, TjP |
-|            4 |     4089 | 2024-02-22 | FlyQuest           | L   | 0.098      | -            | -                | -                | -         |    -0.34 | asap, chelleos, dangeR, nettik, TjP |
-|            3 |     4092 | 2024-02-21 | Vantage            | W   | 0.096      | -            | -                | -                | -         |     1.01 | asap, chelleos, dangeR, nettik, TjP |
-|            2 |     4119 | 2024-02-21 | DXA                | W   | 0.091      | -            | -                | -                | -         |     1.10 | asap, chelleos, dangeR, nettik, TjP |
-|            1 |     4123 | 2024-02-21 | DXA                | W   | 0.091      | -            | -                | -                | -         |     1.11 | asap, chelleos, dangeR, nettik, TjP |
+|           37 |      470 | 2024-07-23 | The Art of War     | L   | 1.000      | -            | -                | -                | -         |   -25.35 | asap, chelleos, dangeR, Hatz, TjP   |
+|           36 |      474 | 2024-07-23 | The Art of War     | L   | 1.000      | -            | -                | -                | -         |   -26.67 | asap, chelleos, dangeR, Hatz, TjP   |
+|           35 |      654 | 2024-07-18 | DXA                | W   | 1.000      | 0.333        | 0.002 (0.001)    | 0.222 (0.074)    | 0 (0.000) |     8.69 | asap, chelleos, dangeR, Hatz, TjP   |
+|           34 |      659 | 2024-07-18 | DXA                | L   | 1.000      | -            | -                | -                | -         |   -23.34 | asap, chelleos, dangeR, Hatz, TjP   |
+|           33 |      772 | 2024-07-16 | Mindfreak          | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.223 (0.074)    | 0 (0.000) |     9.72 | asap, chelleos, dangeR, Hatz, TjP   |
+|           32 |      774 | 2024-07-16 | Mindfreak          | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.223 (0.074)    | 0 (0.000) |    10.50 | asap, chelleos, dangeR, Hatz, TjP   |
+|           31 |     1287 | 2024-06-08 | FlyQuest           | L   | 0.815      | -            | -                | -                | -         |    -3.65 | asap, chelleos, dangeR, nettik, TjP |
+|           30 |     1397 | 2024-06-07 | FlyQuest           | W   | 0.802      | 0.333        | 0.104 (0.028)    | 0.285 (0.076)    | 0 (0.000) |    22.03 | asap, chelleos, dangeR, nettik, TjP |
+|           29 |     1468 | 2024-06-06 | Bad News Kangaroos | W   | 0.795      | 0.333        | 0.016 (0.004)    | 0.222 (0.059)    | 0 (0.000) |    12.00 | asap, chelleos, dangeR, nettik, TjP |
+|           28 |     1872 | 2024-05-22 | Vantage            | W   | 0.696      | 0.333        | -                | 0.067 (0.015)    | 0 (0.000) |     6.02 | asap, chelleos, dangeR, nettik, TjP |
+|           27 |     1877 | 2024-05-22 | Vantage            | W   | 0.696      | -            | -                | -                | 0 (0.000) |     6.33 | asap, chelleos, dangeR, nettik, TjP |
+|           26 |     2130 | 2024-05-15 | Canon Event        | W   | 0.649      | -            | -                | -                | 0 (0.000) |     2.78 | asap, chelleos, dangeR, nettik, TjP |
+|           25 |     2135 | 2024-05-15 | Canon Event        | W   | 0.649      | -            | -                | -                | 0 (0.000) |     2.85 | asap, chelleos, dangeR, nettik, TjP |
+|           24 |     2323 | 2024-05-08 | KZG                | W   | 0.603      | 0.333        | 0.005 (0.001)    | 0.109 (0.022)    | -         |     5.91 | asap, chelleos, dangeR, nettik, TjP |
+|           23 |     2326 | 2024-05-08 | KZG                | W   | 0.602      | 0.333        | 0.005 (0.001)    | 0.109 (0.022)    | -         |     6.19 | asap, chelleos, dangeR, nettik, TjP |
+|           22 |     2557 | 2024-04-26 | MIBR               | L   | 0.528      | -            | -                | -                | -         |    -0.46 | asap, chelleos, dangeR, nettik, TjP |
+|           21 |     2579 | 2024-04-26 | KZG                | W   | 0.522      | 0.500        | 0.005 (0.001)    | 0.109 (0.028)    | 1 (0.522) |     5.60 | asap, chelleos, dangeR, nettik, TjP |
+|           20 |     2582 | 2024-04-25 | Rebels             | L   | 0.521      | -            | -                | -                | -         |    -4.21 | asap, chelleos, dangeR, nettik, TjP |
+|           19 |     2713 | 2024-04-19 | Bad News Kangaroos | L   | 0.482      | -            | -                | -                | -         |    -7.78 | asap, chelleos, dangeR, nettik, TjP |
+|           18 |     2755 | 2024-04-19 | FlyQuest           | L   | 0.476      | -            | -                | -                | -         |    -1.73 | asap, chelleos, dangeR, nettik, TjP |
+|           17 |     2761 | 2024-04-18 | Bad News Kangaroos | W   | 0.475      | 0.143        | 0.016 (0.001)    | -                | -         |     7.29 | asap, chelleos, dangeR, nettik, TjP |
+|           16 |     2837 | 2024-04-17 | Arcade             | W   | 0.463      | -            | -                | -                | -         |     4.74 | asap, chelleos, dangeR, nettik, TjP |
+|           15 |     2841 | 2024-04-17 | Canon Event        | W   | 0.463      | -            | -                | -                | -         |     2.25 | asap, chelleos, dangeR, nettik, TjP |
+|           14 |     3010 | 2024-04-10 | Bad News Kangaroos | L   | 0.416      | -            | -                | -                | -         |    -6.72 | asap, chelleos, dangeR, nettik, TjP |
+|           13 |     3017 | 2024-04-10 | Bad News Kangaroos | W   | 0.416      | 0.333        | 0.016 (0.002)    | 0.222 (0.031)    | -         |     6.51 | asap, chelleos, dangeR, nettik, TjP |
+|           12 |     3370 | 2024-03-27 | Arcade             | W   | 0.323      | -            | -                | -                | -         |     3.52 | asap, chelleos, dangeR, nettik, TjP |
+|           11 |     3375 | 2024-03-27 | Arcade             | W   | 0.323      | -            | -                | -                | -         |     3.60 | asap, chelleos, dangeR, nettik, TjP |
+|           10 |     3642 | 2024-03-13 | FlyQuest           | L   | 0.229      | -            | -                | -                | -         |    -0.81 | asap, chelleos, dangeR, nettik, TjP |
+|            9 |     3650 | 2024-03-13 | FlyQuest           | L   | 0.229      | -            | -                | -                | -         |    -0.82 | asap, chelleos, dangeR, nettik, TjP |
+|            8 |     3817 | 2024-03-06 | Mindfreak          | W   | 0.183      | -            | -                | -                | -         |     1.97 | asap, chelleos, dangeR, nettik, TjP |
+|            7 |     3823 | 2024-03-06 | Mindfreak          | W   | 0.182      | -            | -                | -                | -         |     1.99 | asap, chelleos, dangeR, nettik, TjP |
+|            6 |     4072 | 2024-02-23 | FlyQuest           | L   | 0.102      | -            | -                | -                | -         |    -0.36 | asap, chelleos, dangeR, nettik, TjP |
+|            5 |     4074 | 2024-02-22 | Bad News Kangaroos | W   | 0.101      | -            | -                | -                | -         |     0.93 | asap, chelleos, dangeR, nettik, TjP |
+|            4 |     4091 | 2024-02-22 | FlyQuest           | L   | 0.096      | -            | -                | -                | -         |    -0.34 | asap, chelleos, dangeR, nettik, TjP |
+|            3 |     4094 | 2024-02-21 | Vantage            | W   | 0.095      | -            | -                | -                | -         |     0.99 | asap, chelleos, dangeR, nettik, TjP |
+|            2 |     4121 | 2024-02-21 | DXA                | W   | 0.089      | -            | -                | -                | -         |     1.08 | asap, chelleos, dangeR, nettik, TjP |
+|            1 |     4125 | 2024-02-21 | DXA                | W   | 0.089      | -            | -                | -                | -         |     1.08 | asap, chelleos, dangeR, nettik, TjP |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,245.28)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- First, take the sum of their top 10 scaled winnings ($3,236.25)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-08 |      0.817 | $2,000.00      | $1,633.06       |
-| 2024-04-28 |      0.537 | $3,000.00      | $1,612.22       |
+| 2024-06-08 |      0.815 | $2,000.00      | $1,629.44       |
+| 2024-04-28 |      0.536 | $3,000.00      | $1,606.81       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

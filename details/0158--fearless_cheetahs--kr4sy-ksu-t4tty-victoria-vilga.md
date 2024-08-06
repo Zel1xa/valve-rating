@@ -6,13 +6,13 @@ Global Rank: [158](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [102]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  692.7<br />
+Final Rank Value:  692.5<br />
 <br />
-Final Rank Value (692.7) = Starting Rank Value (679.0) + Head To Head Adjustments (13.7)<br />
+Final Rank Value (692.5) = Starting Rank Value (678.9) + Head To Head Adjustments (13.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
-- Bounty Offered: 0.281[<sup>1</sup>](#table2)
+- Bounty Offered: 0.280[<sup>1</sup>](#table2)
 - Bounty Collected: 0.258[<sup>2</sup>](#table1)
 - Opponent Network: 0.006[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.136<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 679.0
-- 400 + ( ( 0.136 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 679.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 678.9
+- 400 + ( ( 0.136 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 678.9
 
 
 #### Factors<br />
@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     2665 | 2024-04-21 | Astralis W    | L   | 0.493      | -            | -                | -                | -         |    -8.49 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            9 |     2683 | 2024-04-20 | BIG EQUIPA    | L   | 0.487      | -            | -                | -                | -         |    -6.11 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            8 |     2730 | 2024-04-19 | 1WIN Gang     | W   | 0.480      | 0.331        | 0.001 (0.000)    | 0.016 (0.003)    | 0 (0.000) |     6.60 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            7 |     2948 | 2024-04-11 | Crescent fe   | W   | 0.426      | 0.331        | 0.005 (0.001)    | 0.076 (0.011)    | 0 (0.000) |     5.86 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            6 |     3120 | 2024-04-07 | NIP Impact    | L   | 0.398      | -            | -                | -                | -         |    -5.95 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            5 |     3136 | 2024-04-06 | Let Her Cook  | W   | 0.391      | 0.262        | 0.060 (0.006)    | 0.141 (0.014)    | 0 (0.000) |     9.69 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            4 |     3357 | 2024-03-27 | Spirit fe     | W   | 0.327      | 0.331        | 0.005 (0.001)    | 0.139 (0.015)    | 0 (0.000) |     4.90 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            3 |     3442 | 2024-03-21 | Let Her Cook  | W   | 0.287      | 0.331        | 0.060 (0.006)    | 0.141 (0.013)    | 0 (0.000) |     7.24 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            2 |     3799 | 2024-03-06 | NAVI Javelins | L   | 0.187      | -            | -                | -                | -         |    -1.83 | kr4sy, Ksu, t4tty, Victoria, vilga |
-|            1 |     4017 | 2024-02-25 | 1WIN Gang     | W   | 0.120      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.78 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|           10 |     2667 | 2024-04-21 | Astralis W    | L   | 0.491      | -            | -                | -                | -         |    -8.46 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            9 |     2685 | 2024-04-20 | BIG EQUIPA    | L   | 0.485      | -            | -                | -                | -         |    -6.09 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            8 |     2732 | 2024-04-19 | 1WIN Gang     | W   | 0.478      | 0.331        | 0.001 (0.000)    | 0.016 (0.003)    | 0 (0.000) |     6.58 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            7 |     2950 | 2024-04-11 | Crescent fe   | W   | 0.425      | 0.331        | 0.005 (0.001)    | 0.076 (0.011)    | 0 (0.000) |     5.84 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            6 |     3122 | 2024-04-07 | NIP Impact    | L   | 0.396      | -            | -                | -                | -         |    -5.92 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            5 |     3138 | 2024-04-06 | Let Her Cook  | W   | 0.389      | 0.262        | 0.060 (0.006)    | 0.141 (0.014)    | 0 (0.000) |     9.65 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            4 |     3359 | 2024-03-27 | Spirit fe     | W   | 0.325      | 0.331        | 0.005 (0.001)    | 0.139 (0.015)    | 0 (0.000) |     4.87 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            3 |     3444 | 2024-03-21 | Let Her Cook  | W   | 0.285      | 0.331        | 0.060 (0.006)    | 0.141 (0.013)    | 0 (0.000) |     7.19 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            2 |     3801 | 2024-03-06 | NAVI Javelins | L   | 0.185      | -            | -                | -                | -         |    -1.82 | kr4sy, Ksu, t4tty, Victoria, vilga |
+|            1 |     4019 | 2024-02-25 | 1WIN Gang     | W   | 0.118      | 0.250        | 0.001 (0.000)    | 0.016 (0.000)    | 0 (0.000) |     1.76 | kr4sy, Ksu, t4tty, Victoria, vilga |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($878.78)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- First, take the sum of their top 10 scaled winnings ($874.54)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-04-21 |      0.493 | $1,600.00      | $788.89         |
-| 2024-02-25 |      0.120 | $750.00        | $89.90          |
+| 2024-04-21 |      0.491 | $1,600.00      | $786.00         |
+| 2024-02-25 |      0.118 | $750.00        | $88.54          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

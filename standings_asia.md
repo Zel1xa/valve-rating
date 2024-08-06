@@ -4,8 +4,8 @@
 | Standing | Points | Team Name          | Roster                                            |                                                                                         |
 | :- | -: | :- | :- | :- |
 | 1        |   1699 | The MongolZ        | 910, bLitz, mzinho, Senzu, Techno                 | [details](details/0007--the_mongolz--910-blitz-mzinho-senzu-techno.md)                  |
-| 2        |   1179 | FlyQuest           | aliStair, dexter, INS, Liazz, Vexite              | [details](details/0032--flyquest--alistair-dexter-ins-liazz-vexite.md)                  |
-| 3        |   1035 | Lynn Vision        | afufu, EmiliaQAQ, flying, Westmelon, z4kr         | [details](details/0053--lynn_vision--afufu-emiliaqaq-flying-westmelon-z4kr.md)          |
+| 2        |   1178 | FlyQuest           | aliStair, dexter, INS, Liazz, Vexite              | [details](details/0032--flyquest--alistair-dexter-ins-liazz-vexite.md)                  |
+| 3        |   1034 | Lynn Vision        | afufu, EmiliaQAQ, flying, Westmelon, z4kr         | [details](details/0053--lynn_vision--afufu-emiliaqaq-flying-westmelon-z4kr.md)          |
 | 4        |    921 | TYLOO              | JamYoung, Jee, Mercury, Moseyuh, Starry           | [details](details/0086--tyloo--jamyoung-jee-mercury-moseyuh-starry.md)                  |
 | 5        |    920 | Rare Atom          | ChildKing, kaze, L1haNg, somebody, Summer         | [details](details/0087--rare_atom--childking-kaze-l1hang-somebody-summer.md)            |
 | 6        |    872 | ATOX               | Annihilation, dobu, kabal, MiQ, yAmi              | [details](details/0097--atox--annihilation-dobu-kabal-miq-yami.md)                      |
@@ -21,7 +21,7 @@
 | 16       |    672 | KZG                | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs        | [details](details/0165--kzg--estate-hassie-jinxzie-mingovi-samuukxs.md)                 |
 | 17       |    647 | DXA                | Kiyo, lucas222, prakM, Roflko, Zuko               | [details](details/0175--dxa--kiyo-lucas222-prakm-roflko-zuko.md)                        |
 | 18       |    646 | Vantage            | Drox, N1ghtraid, Omichella, SkulL, vision         | [details](details/0176--vantage--drox-n1ghtraid-omichella-skull-vision_.md)             |
-| 19       |    641 | CatEvil            | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei    | [details](details/0180--catevil--biuckmt-bza-roninbaby-splashske-tanxiaomei.md)         |
+| 19       |    642 | CatEvil            | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei    | [details](details/0180--catevil--biuckmt-bza-roninbaby-splashske-tanxiaomei.md)         |
 | 20       |    621 | Arcade             | foggers, Kobe, TRIPLUS, versa, void               | [details](details/0185--arcade--foggers-kobe-triplus-versa-void.md)                     |
 | 21       |    593 | NOM                | dan1, m4tthi, MOREE, suraniZ, Zax1e               | [details](details/0191--nom--dan1-m4tthi-moree-suraniz-zax1e.md)                        |
 | 22       |    514 | RKON               | alecc, Crunchy, doom, Jynx, TRIPLUS               | [details](details/0200--rkon--alecc-crunchy-doom-jynx-triplus.md)                       |

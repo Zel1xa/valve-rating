@@ -6,9 +6,9 @@ Global Rank: [112](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [80]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  837.9<br />
+Final Rank Value:  837.8<br />
 <br />
-Final Rank Value (837.9) = Starting Rank Value (870.5) + Head To Head Adjustments (-32.6)<br />
+Final Rank Value (837.8) = Starting Rank Value (870.3) + Head To Head Adjustments (-32.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.229<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 870.5
-- 400 + ( ( 0.229 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 870.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 870.3
+- 400 + ( ( 0.229 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 870.3
 
 
 #### Factors<br />
@@ -37,55 +37,55 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                       |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |      597 | 2024-07-19 | WOPA              | L   | 1.000      | -            | -                | -                | -         |   -26.68 | b1st, dwushka, KusMe, Something, xdENiSZERA  |
-|           33 |      714 | 2024-07-17 | RUBY              | L   | 1.000      | -            | -                | -                | -         |   -14.58 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           32 |      799 | 2024-07-15 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -14.56 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           31 |     1068 | 2024-06-15 | ARCRED            | L   | 0.858      | -            | -                | -                | -         |   -10.77 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           30 |     1135 | 2024-06-13 | HOTU              | W   | 0.845      | 0.450        | 0.007 (0.003)    | -                | 0 (0.000) |     5.62 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           29 |     1144 | 2024-06-13 | 3DMAX             | L   | 0.844      | -            | -                | -                | -         |    -1.29 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           28 |     1281 | 2024-06-09 | Illuminar         | L   | 0.817      | -            | -                | -                | -         |   -13.62 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           27 |     1336 | 2024-06-08 | EYEBALLERS        | L   | 0.811      | -            | -                | -                | -         |   -13.08 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           26 |     1434 | 2024-06-06 | Space             | L   | 0.800      | -            | -                | -                | -         |   -14.54 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           25 |     1556 | 2024-06-04 | SINNERS           | W   | 0.785      | 0.435        | 0.037 (0.013)    | 0.809 (0.276)    | 0 (0.000) |    16.30 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           24 |     1603 | 2024-06-02 | GUN5              | L   | 0.771      | -            | -                | -                | -         |   -11.00 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           23 |     1624 | 2024-06-01 | 3DMAX             | W   | 0.766      | 0.435        | 0.508 (0.169)    | 1.000 (0.333)    | 0 (0.000) |    23.41 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           22 |     1634 | 2024-06-01 | 777               | W   | 0.765      | 0.143        | 0.015 (0.002)    | -                | 0 (0.000) |     6.47 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           21 |     1651 | 2024-05-31 | LEON              | L   | 0.760      | -            | -                | -                | -         |   -18.76 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           20 |     1667 | 2024-05-31 | Alliance          | W   | 0.757      | 0.435        | 0.017 (0.006)    | 0.292 (0.096)    | 0 (0.000) |     9.79 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           19 |     1678 | 2024-05-30 | Insilio           | L   | 0.753      | -            | -                | -                | -         |   -11.57 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           18 |     1724 | 2024-05-28 | CYBERSHOKE        | W   | 0.740      | 0.372        | 0.039 (0.011)    | 0.346 (0.095)    | 0 (0.000) |    10.43 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           17 |     1754 | 2024-05-27 | Permitta          | W   | 0.732      | 0.435        | 0.024 (0.007)    | 0.902 (0.287)    | 0 (0.000) |    12.03 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           16 |     1805 | 2024-05-24 | DMS               | W   | 0.712      | 0.435        | -                | 0.438 (0.136)    | 0 (0.000) |    12.09 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           15 |     1856 | 2024-05-22 | ALTERNATE aTTaX   | W   | 0.700      | 0.435        | 0.031 (0.010)    | 0.550 (0.167)    | 0 (0.000) |    11.81 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           14 |     1945 | 2024-05-20 | SINNERS           | L   | 0.685      | -            | -                | -                | -         |    -5.45 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           13 |     2002 | 2024-05-18 | CPH Wolves        | W   | 0.672      | 0.143        | -                | 0.361 (0.035)    | 0 (0.000) |     8.02 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           12 |     2167 | 2024-05-14 | LEON              | W   | 0.647      | -            | -                | -                | -         |     5.40 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           11 |     2198 | 2024-05-13 | WOPA              | W   | 0.639      | -            | -                | -                | -         |     4.00 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|           10 |     2367 | 2024-05-05 | Nemiga            | L   | 0.586      | -            | -                | -                | -         |    -2.73 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            9 |     2499 | 2024-04-29 | Nexus             | W   | 0.545      | 0.396        | 0.014 (0.003)    | 0.458 (0.099)    | -         |     8.03 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            8 |     2517 | 2024-04-28 | brazylijski luz   | L   | 0.539      | -            | -                | -                | -         |    -9.26 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            7 |     2520 | 2024-04-28 | LEON              | W   | 0.538      | 0.396        | 0.007 (0.001)    | 0.127 (0.027)    | -         |     4.67 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            6 |     3413 | 2024-03-23 | FORZE             | L   | 0.299      | -            | -                | -                | -         |    -4.20 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            5 |     3432 | 2024-03-22 | ex-Guild Eagles   | W   | 0.291      | -            | -                | -                | -         |     3.86 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            4 |     3477 | 2024-03-20 | TSM               | W   | 0.278      | -            | -                | -                | -         |     2.25 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            3 |     3704 | 2024-03-10 | 1WIN              | L   | 0.212      | -            | -                | -                | -         |    -2.81 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            2 |     3772 | 2024-03-07 | Permitta          | L   | 0.193      | -            | -                | -                | -         |    -2.21 | dwushka, KusMe, shady, Something, xdENiSZERA |
-|            1 |     3842 | 2024-03-05 | FORZE YNG         | W   | 0.180      | -            | -                | -                | -         |     0.38 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           34 |      599 | 2024-07-19 | WOPA              | L   | 1.000      | -            | -                | -                | -         |   -26.68 | b1st, dwushka, KusMe, Something, xdENiSZERA  |
+|           33 |      716 | 2024-07-17 | RUBY              | L   | 1.000      | -            | -                | -                | -         |   -14.58 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           32 |      801 | 2024-07-15 | Aurora Young Blud | L   | 1.000      | -            | -                | -                | -         |   -14.56 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           31 |     1070 | 2024-06-15 | ARCRED            | L   | 0.856      | -            | -                | -                | -         |   -10.75 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           30 |     1137 | 2024-06-13 | HOTU              | W   | 0.844      | 0.450        | 0.007 (0.003)    | -                | 0 (0.000) |     5.62 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           29 |     1146 | 2024-06-13 | 3DMAX             | L   | 0.843      | -            | -                | -                | -         |    -1.28 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           28 |     1283 | 2024-06-09 | Illuminar         | L   | 0.815      | -            | -                | -                | -         |   -13.58 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           27 |     1338 | 2024-06-08 | EYEBALLERS        | L   | 0.809      | -            | -                | -                | -         |   -13.05 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           26 |     1436 | 2024-06-06 | Space             | L   | 0.798      | -            | -                | -                | -         |   -14.51 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           25 |     1558 | 2024-06-04 | SINNERS           | W   | 0.783      | 0.435        | 0.037 (0.013)    | 0.808 (0.275)    | 0 (0.000) |    16.27 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           24 |     1605 | 2024-06-02 | GUN5              | L   | 0.769      | -            | -                | -                | -         |   -10.97 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           23 |     1626 | 2024-06-01 | 3DMAX             | W   | 0.764      | 0.435        | 0.509 (0.169)    | 1.000 (0.332)    | 0 (0.000) |    23.36 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           22 |     1636 | 2024-06-01 | 777               | W   | 0.763      | 0.143        | 0.015 (0.002)    | -                | 0 (0.000) |     6.46 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           21 |     1653 | 2024-05-31 | LEON              | L   | 0.758      | -            | -                | -                | -         |   -18.71 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           20 |     1669 | 2024-05-31 | Alliance          | W   | 0.756      | 0.435        | 0.017 (0.006)    | 0.291 (0.095)    | 0 (0.000) |     9.77 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           19 |     1680 | 2024-05-30 | Insilio           | L   | 0.751      | -            | -                | -                | -         |   -11.54 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           18 |     1726 | 2024-05-28 | CYBERSHOKE        | W   | 0.738      | 0.372        | 0.039 (0.011)    | 0.346 (0.095)    | 0 (0.000) |    10.41 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           17 |     1756 | 2024-05-27 | Permitta          | W   | 0.731      | 0.435        | 0.023 (0.007)    | 0.901 (0.286)    | 0 (0.000) |    12.00 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           16 |     1807 | 2024-05-24 | DMS               | W   | 0.711      | 0.435        | -                | 0.438 (0.135)    | 0 (0.000) |    12.06 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           15 |     1858 | 2024-05-22 | ALTERNATE aTTaX   | W   | 0.698      | 0.435        | 0.031 (0.009)    | 0.550 (0.167)    | 0 (0.000) |    11.78 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           14 |     1947 | 2024-05-20 | SINNERS           | L   | 0.683      | -            | -                | -                | -         |    -5.43 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           13 |     2004 | 2024-05-18 | CPH Wolves        | W   | 0.670      | 0.143        | -                | 0.361 (0.035)    | 0 (0.000) |     8.01 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           12 |     2169 | 2024-05-14 | LEON              | W   | 0.645      | -            | -                | -                | -         |     5.39 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           11 |     2200 | 2024-05-13 | WOPA              | W   | 0.638      | -            | -                | -                | -         |     3.99 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|           10 |     2369 | 2024-05-05 | Nemiga            | L   | 0.584      | -            | -                | -                | -         |    -2.72 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            9 |     2501 | 2024-04-29 | Nexus             | W   | 0.543      | 0.396        | 0.014 (0.003)    | 0.457 (0.098)    | -         |     8.00 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            8 |     2519 | 2024-04-28 | brazylijski luz   | L   | 0.537      | -            | -                | -                | -         |    -9.24 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            7 |     2522 | 2024-04-28 | LEON              | W   | 0.537      | 0.396        | 0.007 (0.001)    | 0.127 (0.027)    | -         |     4.66 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            6 |     3415 | 2024-03-23 | FORZE             | L   | 0.297      | -            | -                | -                | -         |    -4.18 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            5 |     3434 | 2024-03-22 | ex-Guild Eagles   | W   | 0.289      | -            | -                | -                | -         |     3.83 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            4 |     3479 | 2024-03-20 | TSM               | W   | 0.276      | -            | -                | -                | -         |     2.23 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            3 |     3706 | 2024-03-10 | 1WIN              | L   | 0.211      | -            | -                | -                | -         |    -2.79 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            2 |     3774 | 2024-03-07 | Permitta          | L   | 0.191      | -            | -                | -                | -         |    -2.19 | dwushka, KusMe, shady, Something, xdENiSZERA |
+|            1 |     3844 | 2024-03-05 | FORZE YNG         | W   | 0.178      | -            | -                | -                | -         |     0.38 | dwushka, KusMe, shady, Something, xdENiSZERA |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($8,186.11)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- First, take the sum of their top 10 scaled winnings ($8,168.06)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.03) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.865 | $5,000.00      | $4,324.31       |
-| 2024-06-02 |      0.772 | $5,000.00      | $3,861.81       |
+| 2024-06-16 |      0.863 | $5,000.00      | $4,315.28       |
+| 2024-06-02 |      0.771 | $5,000.00      | $3,852.78       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

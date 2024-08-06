@@ -8,20 +8,20 @@ Regional Rank: [58]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  511.2<br />
 <br />
-Final Rank Value (511.2) = Starting Rank Value (510.7) + Head To Head Adjustments (0.6)<br />
+Final Rank Value (511.2) = Starting Rank Value (510.5) + Head To Head Adjustments (0.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.211[<sup>2</sup>](#table1)
+- Bounty Collected: 0.210[<sup>2</sup>](#table1)
 - Opponent Network: 0.005[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.054<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 510.7
-- 400 + ( ( 0.054 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 510.7
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 510.5
+- 400 + ( ( 0.054 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 510.5
 
 
 #### Factors<br />
@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |     1712 | 2024-05-29 | 9z Academy   | W   | 0.746      | 0.371        | 0.000 (0.000)    | 0.069 (0.019)    | 0 (0.000) |    11.69 | abr, CutzMeretz, desh, legy, Leomonster |
-|           25 |     1727 | 2024-05-28 | Hype         | L   | 0.740      | -            | -                | -                | -         |    -2.53 | abr, CutzMeretz, desh, legy, Leomonster |
-|           24 |     1928 | 2024-05-20 | BESTIA       | L   | 0.688      | -            | -                | -                | -         |    -1.32 | abr, CutzMeretz, desh, legy, Leomonster |
-|           23 |     2102 | 2024-05-15 | Case         | L   | 0.654      | -            | -                | -                | -         |    -2.10 | abr, CutzMeretz, desh, legy, Leomonster |
-|           22 |     2105 | 2024-05-15 | Case         | L   | 0.654      | -            | -                | -                | -         |    -2.14 | abr, CutzMeretz, desh, legy, Leomonster |
-|           21 |     2154 | 2024-05-14 | RED Canids   | L   | 0.648      | -            | -                | -                | -         |    -0.72 | abr, CutzMeretz, desh, legy, Leomonster |
-|           20 |     2159 | 2024-05-14 | RED Canids   | L   | 0.648      | -            | -                | -                | -         |    -0.72 | abr, CutzMeretz, desh, legy, Leomonster |
-|           19 |     3168 | 2024-04-04 | Fluxo        | L   | 0.381      | -            | -                | -                | -         |    -0.55 | abr, CutzMeretz, desh, legy, Leomonster |
-|           18 |     3174 | 2024-04-04 | Fluxo        | L   | 0.381      | -            | -                | -                | -         |    -0.55 | abr, CutzMeretz, desh, legy, Leomonster |
-|           17 |     3344 | 2024-03-27 | 2GAME        | L   | 0.328      | -            | -                | -                | -         |    -2.96 | abr, CutzMeretz, desh, legy, Leomonster |
-|           16 |     3348 | 2024-03-27 | 2GAME        | W   | 0.328      | 0.450        | 0.002 (0.000)    | 0.051 (0.007)    | 0 (0.000) |     7.50 | abr, CutzMeretz, desh, legy, Leomonster |
-|           15 |     3623 | 2024-03-13 | MIBR Academy | L   | 0.233      | -            | -                | -                | -         |    -3.70 | abr, CutzMeretz, desh, legy, Leomonster |
-|           14 |     3678 | 2024-03-11 | RED Canids   | L   | 0.220      | -            | -                | -                | -         |    -0.28 | abr, CutzMeretz, desh, legy, Leomonster |
-|           13 |     3730 | 2024-03-09 | Fluxo        | L   | 0.205      | -            | -                | -                | -         |    -0.30 | abr, CutzMeretz, desh, legy, Leomonster |
-|           12 |     3779 | 2024-03-07 | Sharks       | L   | 0.192      | -            | -                | -                | -         |    -0.41 | abr, CutzMeretz, desh, legy, Leomonster |
-|           11 |     4035 | 2024-02-24 | W7M          | L   | 0.115      | -            | -                | -                | -         |    -0.49 | abr, CutzMeretz, desh, legy, Leomonster |
-|           10 |     4042 | 2024-02-24 | W7M          | L   | 0.115      | -            | -                | -                | -         |    -0.49 | abr, CutzMeretz, desh, legy, Leomonster |
-|            9 |     4064 | 2024-02-23 | Galorys      | W   | 0.108      | 0.450        | 0.030 (0.001)    | 0.543 (0.026)    | 0 (0.000) |     3.06 | abr, CutzMeretz, desh, legy, Leomonster |
-|            8 |     4065 | 2024-02-23 | Galorys      | L   | 0.108      | -            | -                | -                | -         |    -0.34 | abr, CutzMeretz, desh, legy, Leomonster |
-|            7 |     4098 | 2024-02-21 | Sharks       | L   | 0.095      | -            | -                | -                | -         |    -0.21 | abr, CutzMeretz, desh, legy, Leomonster |
-|            6 |     4207 | 2024-02-17 | Galorys      | L   | 0.066      | -            | -                | -                | -         |    -0.21 | abr, CutzMeretz, desh, legy, Leomonster |
-|            5 |     4286 | 2024-02-14 | adalYamigos  | L   | 0.048      | -            | -                | -                | -         |    -0.61 | abr, CutzMeretz, desh, legy, Leomonster |
-|            4 |     4293 | 2024-02-14 | adalYamigos  | L   | 0.048      | -            | -                | -                | -         |    -0.60 | abr, CutzMeretz, desh, legy, Leomonster |
-|            3 |     4300 | 2024-02-14 | Solid        | L   | 0.047      | -            | -                | -                | -         |    -0.15 | abr, CutzMeretz, desh, legy, Leomonster |
-|            2 |     4339 | 2024-02-13 | W7M          | L   | 0.040      | -            | -                | -                | -         |    -0.17 | abr, CutzMeretz, desh, legy, Leomonster |
-|            1 |     4350 | 2024-02-12 | W7M          | L   | 0.033      | -            | -                | -                | -         |    -0.14 | abr, CutzMeretz, desh, legy, Leomonster |
+|           26 |     1714 | 2024-05-29 | 9z Academy   | W   | 0.744      | 0.371        | 0.000 (0.000)    | 0.069 (0.019)    | 0 (0.000) |    11.67 | abr, CutzMeretz, desh, legy, Leomonster |
+|           25 |     1729 | 2024-05-28 | Hype         | L   | 0.738      | -            | -                | -                | -         |    -2.52 | abr, CutzMeretz, desh, legy, Leomonster |
+|           24 |     1930 | 2024-05-20 | BESTIA       | L   | 0.686      | -            | -                | -                | -         |    -1.32 | abr, CutzMeretz, desh, legy, Leomonster |
+|           23 |     2104 | 2024-05-15 | Case         | L   | 0.652      | -            | -                | -                | -         |    -2.09 | abr, CutzMeretz, desh, legy, Leomonster |
+|           22 |     2107 | 2024-05-15 | Case         | L   | 0.652      | -            | -                | -                | -         |    -2.13 | abr, CutzMeretz, desh, legy, Leomonster |
+|           21 |     2156 | 2024-05-14 | RED Canids   | L   | 0.646      | -            | -                | -                | -         |    -0.72 | abr, CutzMeretz, desh, legy, Leomonster |
+|           20 |     2161 | 2024-05-14 | RED Canids   | L   | 0.646      | -            | -                | -                | -         |    -0.72 | abr, CutzMeretz, desh, legy, Leomonster |
+|           19 |     3170 | 2024-04-04 | Fluxo        | L   | 0.379      | -            | -                | -                | -         |    -0.55 | abr, CutzMeretz, desh, legy, Leomonster |
+|           18 |     3176 | 2024-04-04 | Fluxo        | L   | 0.379      | -            | -                | -                | -         |    -0.55 | abr, CutzMeretz, desh, legy, Leomonster |
+|           17 |     3346 | 2024-03-27 | 2GAME        | L   | 0.326      | -            | -                | -                | -         |    -2.95 | abr, CutzMeretz, desh, legy, Leomonster |
+|           16 |     3350 | 2024-03-27 | 2GAME        | W   | 0.326      | 0.450        | 0.002 (0.000)    | 0.050 (0.007)    | 0 (0.000) |     7.46 | abr, CutzMeretz, desh, legy, Leomonster |
+|           15 |     3625 | 2024-03-13 | MIBR Academy | L   | 0.232      | -            | -                | -                | -         |    -3.67 | abr, CutzMeretz, desh, legy, Leomonster |
+|           14 |     3680 | 2024-03-11 | RED Canids   | L   | 0.218      | -            | -                | -                | -         |    -0.28 | abr, CutzMeretz, desh, legy, Leomonster |
+|           13 |     3732 | 2024-03-09 | Fluxo        | L   | 0.204      | -            | -                | -                | -         |    -0.30 | abr, CutzMeretz, desh, legy, Leomonster |
+|           12 |     3781 | 2024-03-07 | Sharks       | L   | 0.190      | -            | -                | -                | -         |    -0.41 | abr, CutzMeretz, desh, legy, Leomonster |
+|           11 |     4037 | 2024-02-24 | W7M          | L   | 0.113      | -            | -                | -                | -         |    -0.48 | abr, CutzMeretz, desh, legy, Leomonster |
+|           10 |     4044 | 2024-02-24 | W7M          | L   | 0.113      | -            | -                | -                | -         |    -0.48 | abr, CutzMeretz, desh, legy, Leomonster |
+|            9 |     4066 | 2024-02-23 | Galorys      | W   | 0.106      | 0.450        | 0.030 (0.001)    | 0.543 (0.026)    | 0 (0.000) |     3.01 | abr, CutzMeretz, desh, legy, Leomonster |
+|            8 |     4067 | 2024-02-23 | Galorys      | L   | 0.106      | -            | -                | -                | -         |    -0.34 | abr, CutzMeretz, desh, legy, Leomonster |
+|            7 |     4100 | 2024-02-21 | Sharks       | L   | 0.093      | -            | -                | -                | -         |    -0.20 | abr, CutzMeretz, desh, legy, Leomonster |
+|            6 |     4209 | 2024-02-17 | Galorys      | L   | 0.064      | -            | -                | -                | -         |    -0.20 | abr, CutzMeretz, desh, legy, Leomonster |
+|            5 |     4288 | 2024-02-14 | adalYamigos  | L   | 0.046      | -            | -                | -                | -         |    -0.58 | abr, CutzMeretz, desh, legy, Leomonster |
+|            4 |     4295 | 2024-02-14 | adalYamigos  | L   | 0.046      | -            | -                | -                | -         |    -0.58 | abr, CutzMeretz, desh, legy, Leomonster |
+|            3 |     4302 | 2024-02-14 | Solid        | L   | 0.045      | -            | -                | -                | -         |    -0.14 | abr, CutzMeretz, desh, legy, Leomonster |
+|            2 |     4341 | 2024-02-13 | W7M          | L   | 0.038      | -            | -                | -                | -         |    -0.16 | abr, CutzMeretz, desh, legy, Leomonster |
+|            1 |     4352 | 2024-02-12 | W7M          | L   | 0.031      | -            | -                | -                | -         |    -0.13 | abr, CutzMeretz, desh, legy, Leomonster |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -9,22 +9,22 @@ Regional Rank: [52]( ../standings_europe.md)<br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [20]( ../standings_americas.md)<br />
 <br />
-Final Rank Value:  951.6<br />
+Final Rank Value:  952.4<br />
 <br />
-Final Rank Value (951.6) = Starting Rank Value (813.2) + Head To Head Adjustments (138.4)<br />
+Final Rank Value (952.4) = Starting Rank Value (814.3) + Head To Head Adjustments (138.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.344[<sup>1</sup>](#table2)
 - Bounty Collected: 0.314[<sup>2</sup>](#table1)
-- Opponent Network: 0.148[<sup>2</sup>](#table1)
+- Opponent Network: 0.150[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.202<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 813.2
-- 400 + ( ( 0.202 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 813.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 814.3
+- 400 + ( ( 0.202 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 814.3
 
 
 #### Factors<br />
@@ -40,25 +40,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                            |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |       53 | 2024-08-03 | Take Flyte       | W   | 1.000      | 0.303        | -                | 0.236 (0.072)    | 0 (0.000) |     5.26 | JBa, MarKE, phzy, Sonic, susp     |
-|           11 |      161 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.513 (0.245)    | 0 (0.000) |    13.82 | JBa, phzy, Sonic, stanislaw, susp |
-|           10 |      167 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.513 (0.245)    | 0 (0.000) |    15.09 | JBa, phzy, Sonic, stanislaw, susp |
-|            9 |      501 | 2024-07-21 | NRG              | W   | 1.000      | 0.303        | 0.020 (0.006)    | 0.514 (0.156)    | 0 (0.000) |    20.06 | JBa, phzy, Sonic, stanislaw, susp |
-|            8 |      502 | 2024-07-21 | Elevate          | W   | 1.000      | 0.303        | 0.027 (0.008)    | 0.513 (0.155)    | 0 (0.000) |    18.57 | JBa, phzy, Sonic, stanislaw, susp |
-|            7 |      527 | 2024-07-20 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.523 (0.158)    | 0 (0.000) |    20.65 | JBa, phzy, Sonic, stanislaw, susp |
-|            6 |      601 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.236 (0.113)    | 0 (0.000) |     9.04 | JBa, phzy, Sonic, stanislaw, susp |
-|            5 |      606 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.236 (0.113)    | 0 (0.000) |     9.73 | JBa, phzy, Sonic, stanislaw, susp |
-|            4 |      671 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.131 (0.063)    | 0 (0.000) |    10.33 | JBa, phzy, Sonic, stanislaw, susp |
-|            3 |      674 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | -                | 0 (0.000) |    11.18 | JBa, phzy, Sonic, stanislaw, susp |
-|            2 |      730 | 2024-07-16 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.347 (0.165)    | -         |    17.99 | JBa, phzy, Sonic, stanislaw, susp |
-|            1 |      736 | 2024-07-16 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -13.31 | JBa, phzy, Sonic, stanislaw, susp |
+|           12 |       55 | 2024-08-03 | Take Flyte       | W   | 1.000      | 0.303        | -                | 0.236 (0.072)    | 0 (0.000) |     5.25 | JBa, MarKE, phzy, Sonic, susp     |
+|           11 |      163 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.513 (0.244)    | 0 (0.000) |    13.80 | JBa, phzy, Sonic, stanislaw, susp |
+|           10 |      169 | 2024-07-31 | Elevate          | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.513 (0.244)    | 0 (0.000) |    15.06 | JBa, phzy, Sonic, stanislaw, susp |
+|            9 |      503 | 2024-07-21 | NRG              | W   | 1.000      | 0.303        | 0.020 (0.006)    | 0.514 (0.156)    | 0 (0.000) |    20.03 | JBa, phzy, Sonic, stanislaw, susp |
+|            8 |      504 | 2024-07-21 | Elevate          | W   | 1.000      | 0.303        | 0.027 (0.008)    | 0.513 (0.155)    | 0 (0.000) |    18.54 | JBa, phzy, Sonic, stanislaw, susp |
+|            7 |      529 | 2024-07-20 | Party Astronauts | W   | 1.000      | 0.303        | 0.041 (0.012)    | 0.522 (0.158)    | 0 (0.000) |    20.61 | JBa, phzy, Sonic, stanislaw, susp |
+|            6 |      603 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.236 (0.113)    | 0 (0.000) |     9.02 | JBa, phzy, Sonic, stanislaw, susp |
+|            5 |      608 | 2024-07-18 | Take Flyte       | W   | 1.000      | 0.477        | 0.002 (0.001)    | 0.236 (0.113)    | 0 (0.000) |     9.71 | JBa, phzy, Sonic, stanislaw, susp |
+|            4 |      673 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | 0.131 (0.063)    | 0 (0.000) |    10.31 | JBa, phzy, Sonic, stanislaw, susp |
+|            3 |      676 | 2024-07-17 | Limitless        | W   | 1.000      | 0.477        | 0.005 (0.002)    | -                | 0 (0.000) |    11.16 | JBa, phzy, Sonic, stanislaw, susp |
+|            2 |      732 | 2024-07-16 | LAG              | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.385 (0.184)    | -         |    17.95 | JBa, phzy, Sonic, stanislaw, susp |
+|            1 |      738 | 2024-07-16 | LAG              | L   | 1.000      | -            | -                | -                | -         |   -13.36 | JBa, phzy, Sonic, stanislaw, susp |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($4,000.00)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

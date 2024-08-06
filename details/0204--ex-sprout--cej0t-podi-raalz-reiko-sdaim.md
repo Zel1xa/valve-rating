@@ -6,22 +6,22 @@ Global Rank: [204](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [126]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  504.6<br />
+Final Rank Value:  503.1<br />
 <br />
-Final Rank Value (504.6) = Starting Rank Value (506.6) + Head To Head Adjustments (-2.0)<br />
+Final Rank Value (503.1) = Starting Rank Value (505.1) + Head To Head Adjustments (-2.1)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.208[<sup>2</sup>](#table1)
+- Bounty Collected: 0.205[<sup>2</sup>](#table1)
 - Opponent Network: 0.000[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
-The average of these factors is 0.052<br />
+The average of these factors is 0.051<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 506.6
-- 400 + ( ( 0.052 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 506.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 505.1
+- 400 + ( ( 0.051 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 505.1
 
 
 #### Factors<br />
@@ -37,23 +37,23 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |     3320 | 2024-03-28 | Rebels          | L   | 0.333      | -            | -                | -                | -         |    -0.65 | cej0t, podi, raalz, reiko, Sdaim     |
-|            9 |     3394 | 2024-03-25 | ALTERNATE aTTaX | L   | 0.313      | -            | -                | -                | -         |    -0.66 | cej0t, podi, raalz, reiko, Sdaim     |
-|            8 |     3423 | 2024-03-22 | Aurora          | L   | 0.293      | -            | -                | -                | -         |    -0.01 | cej0t, podi, raalz, reiko, Sdaim     |
-|            7 |     3495 | 2024-03-19 | B8              | L   | 0.271      | -            | -                | -                | -         |    -0.32 | cej0t, podi, raalz, reiko, Sdaim     |
-|            6 |     3781 | 2024-03-07 | Alliance        | L   | 0.191      | -            | -                | -                | -         |    -0.76 | cej0t, raalz, reiko, Sdaim, sL1m3    |
-|            5 |     3845 | 2024-03-05 | KOI             | L   | 0.180      | -            | -                | -                | -         |    -0.22 | cej0t, raalz, reiko, Sdaim, sL1m3    |
-|            4 |     3887 | 2024-03-03 | BetBoom         | L   | 0.166      | -            | -                | -                | -         |    -0.03 | Buzz, cej0t, raalz, reiko, sL1m3     |
-|            3 |     4358 | 2024-02-11 | Metizport       | L   | 0.025      | -            | -                | -                | -         |    -0.11 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
-|            2 |     4382 | 2024-02-09 | fnatic          | W   | 0.012      | 0.143        | 0.371 (0.001)    | 0.697 (0.001)    | 0 (0.000) |     0.39 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
-|            1 |     4385 | 2024-02-09 | 3DMAX           | W   | 0.012      | 0.143        | 0.508 (0.001)    | 1.000 (0.002)    | 0 (0.000) |     0.38 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|           10 |     3322 | 2024-03-28 | Rebels          | L   | 0.331      | -            | -                | -                | -         |    -0.64 | cej0t, podi, raalz, reiko, Sdaim     |
+|            9 |     3396 | 2024-03-25 | ALTERNATE aTTaX | L   | 0.311      | -            | -                | -                | -         |    -0.65 | cej0t, podi, raalz, reiko, Sdaim     |
+|            8 |     3425 | 2024-03-22 | Aurora          | L   | 0.291      | -            | -                | -                | -         |    -0.01 | cej0t, podi, raalz, reiko, Sdaim     |
+|            7 |     3497 | 2024-03-19 | B8              | L   | 0.269      | -            | -                | -                | -         |    -0.31 | cej0t, podi, raalz, reiko, Sdaim     |
+|            6 |     3783 | 2024-03-07 | Alliance        | L   | 0.189      | -            | -                | -                | -         |    -0.75 | cej0t, raalz, reiko, Sdaim, sL1m3    |
+|            5 |     3847 | 2024-03-05 | KOI             | L   | 0.178      | -            | -                | -                | -         |    -0.22 | cej0t, raalz, reiko, Sdaim, sL1m3    |
+|            4 |     3889 | 2024-03-03 | BetBoom         | L   | 0.164      | -            | -                | -                | -         |    -0.03 | Buzz, cej0t, raalz, reiko, sL1m3     |
+|            3 |     4360 | 2024-02-11 | Metizport       | L   | 0.023      | -            | -                | -                | -         |    -0.10 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|            2 |     4384 | 2024-02-09 | fnatic          | W   | 0.011      | 0.143        | 0.371 (0.001)    | 0.696 (0.001)    | 0 (0.000) |     0.33 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
+|            1 |     4387 | 2024-02-09 | 3DMAX           | W   | 0.010      | 0.143        | 0.509 (0.001)    | 1.000 (0.001)    | 0 (0.000) |     0.32 | Anlelele, cej0t, raalz, Sdaim, sL1m3 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

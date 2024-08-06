@@ -6,22 +6,22 @@ Global Rank: [196](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [124]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  543.0<br />
+Final Rank Value:  542.8<br />
 <br />
-Final Rank Value (543.0) = Starting Rank Value (521.2) + Head To Head Adjustments (21.9)<br />
+Final Rank Value (542.8) = Starting Rank Value (521.0) + Head To Head Adjustments (21.8)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.000[<sup>1</sup>](#table2)
-- Bounty Collected: 0.231[<sup>2</sup>](#table1)
+- Bounty Collected: 0.230[<sup>2</sup>](#table1)
 - Opponent Network: 0.006[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
 The average of these factors is 0.059<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 521.2
-- 400 + ( ( 0.059 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 521.2
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 521.0
+- 400 + ( ( 0.059 - 0.000 ) / ( 0.780 - 0.000 ) ) * 1600 = 521.0
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1616 | 2024-06-01 | Verdant          | L   | 0.767      | -            | -                | -                | -         |    -2.85 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|           11 |     1683 | 2024-05-30 | 1WIN             | L   | 0.752      | -            | -                | -                | -         |    -1.53 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|           10 |     1705 | 2024-05-29 | Grannys Knockers | W   | 0.747      | 0.372        | 0.004 (0.001)    | 0.128 (0.036)    | 0 (0.000) |    18.76 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            9 |     2248 | 2024-05-11 | Verdant          | L   | 0.626      | -            | -                | -                | -         |    -1.85 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            8 |     2407 | 2024-05-03 | RUBY             | L   | 0.572      | -            | -                | -                | -         |    -1.87 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            7 |     2450 | 2024-05-01 | B8               | L   | 0.559      | -            | -                | -                | -         |    -0.96 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            6 |     2480 | 2024-04-30 | MOUZ NXT         | L   | 0.552      | -            | -                | -                | -         |    -0.97 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            5 |     2547 | 2024-04-27 | Viperio          | W   | 0.532      | 0.143        | 0.001 (0.000)    | 0.037 (0.003)    | 0 (0.000) |    10.60 | 1mpala, 4X1s, Alv, torox, xm1nd |
-|            4 |     3697 | 2024-03-10 | MOUZ NXT         | L   | 0.213      | -            | -                | -                | -         |    -0.34 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            3 |     3807 | 2024-03-06 | Endpoint         | L   | 0.186      | -            | -                | -                | -         |    -0.68 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            2 |     3971 | 2024-02-27 | FORZE            | L   | 0.133      | -            | -                | -                | -         |    -0.49 | 1mpala, 4X1s, Alv, lom1k, torox |
-|            1 |     3975 | 2024-02-27 | Sashi            | W   | 0.133      | 0.143        | 0.184 (0.003)    | 0.983 (0.019)    | 0 (0.000) |     4.07 | 1mpala, 4X1s, Alv, lom1k, torox |
+|           12 |     1618 | 2024-06-01 | Verdant          | L   | 0.765      | -            | -                | -                | -         |    -2.84 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|           11 |     1685 | 2024-05-30 | 1WIN             | L   | 0.751      | -            | -                | -                | -         |    -1.53 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|           10 |     1707 | 2024-05-29 | Grannys Knockers | W   | 0.745      | 0.372        | 0.004 (0.001)    | 0.128 (0.035)    | 0 (0.000) |    18.72 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            9 |     2250 | 2024-05-11 | Verdant          | L   | 0.624      | -            | -                | -                | -         |    -1.85 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            8 |     2409 | 2024-05-03 | RUBY             | L   | 0.570      | -            | -                | -                | -         |    -1.86 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            7 |     2452 | 2024-05-01 | B8               | L   | 0.557      | -            | -                | -                | -         |    -0.96 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            6 |     2482 | 2024-04-30 | MOUZ NXT         | L   | 0.550      | -            | -                | -                | -         |    -0.97 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            5 |     2549 | 2024-04-27 | Viperio          | W   | 0.530      | 0.143        | 0.001 (0.000)    | 0.036 (0.003)    | 0 (0.000) |    10.57 | 1mpala, 4X1s, Alv, torox, xm1nd |
+|            4 |     3699 | 2024-03-10 | MOUZ NXT         | L   | 0.212      | -            | -                | -                | -         |    -0.34 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            3 |     3809 | 2024-03-06 | Endpoint         | L   | 0.184      | -            | -                | -                | -         |    -0.67 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            2 |     3973 | 2024-02-27 | FORZE            | L   | 0.132      | -            | -                | -                | -         |    -0.48 | 1mpala, 4X1s, Alv, lom1k, torox |
+|            1 |     3977 | 2024-02-27 | Sashi            | W   | 0.131      | 0.143        | 0.184 (0.003)    | 0.982 (0.018)    | 0 (0.000) |     4.01 | 1mpala, 4X1s, Alv, lom1k, torox |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

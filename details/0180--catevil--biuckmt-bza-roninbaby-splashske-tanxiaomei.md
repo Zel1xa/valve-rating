@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent     | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                         |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           11 |      145 | 2024-08-01 | ATOX         | L   | 1.000      | -            | -                | -                | -         |    -6.56 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
-|           10 |      156 | 2024-08-01 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -6.82 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
-|            9 |      273 | 2024-07-29 | Bromo        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.117 (0.017)    | 0 (0.000) |    10.48 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            8 |      274 | 2024-07-29 | -72c         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.039 (0.006)    | 0 (0.000) |    15.68 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            7 |      300 | 2024-07-28 | NE           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.73 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            6 |      332 | 2024-07-27 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -5.48 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            5 |      355 | 2024-07-26 | FengDa       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.88 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            4 |      847 | 2024-07-13 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -5.77 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            3 |      873 | 2024-07-11 | The MongolZ  | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.710 (0.101)    | 0 (0.000) |    31.46 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            2 |      874 | 2024-07-11 | Steel Helmet | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |    14.08 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
-|            1 |      878 | 2024-07-11 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -5.96 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|           11 |      147 | 2024-08-01 | ATOX         | L   | 1.000      | -            | -                | -                | -         |    -6.57 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
+|           10 |      158 | 2024-08-01 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -6.82 | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei |
+|            9 |      275 | 2024-07-29 | Bromo        | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.117 (0.017)    | 0 (0.000) |    10.48 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            8 |      276 | 2024-07-29 | -72c         | W   | 1.000      | 0.143        | 0.003 (0.000)    | 0.039 (0.006)    | 0 (0.000) |    15.68 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            7 |      302 | 2024-07-28 | NE           | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.73 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            6 |      334 | 2024-07-27 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -5.48 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            5 |      357 | 2024-07-26 | FengDa       | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.88 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            4 |      849 | 2024-07-13 | TYLOO        | L   | 1.000      | -            | -                | -                | -         |    -5.77 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            3 |      875 | 2024-07-11 | The MongolZ  | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.710 (0.101)    | 0 (0.000) |    31.46 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            2 |      876 | 2024-07-11 | Steel Helmet | W   | 1.000      | 0.143        | 0.006 (0.001)    | 0.000 (0.000)    | 0 (0.000) |    14.08 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
+|            1 |      880 | 2024-07-11 | Rare Atom    | L   | 1.000      | -            | -                | -                | -         |    -5.95 | Biuckmt, BZA, lan, Roninbaby, tanxiaomei       |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($321,880.58)
+- Divide that value by the 5th highest value among all rosters ($321,345.23)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
