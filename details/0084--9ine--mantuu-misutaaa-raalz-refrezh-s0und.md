@@ -37,40 +37,40 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                  |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |       44 | 2024-08-04 | ENCE              | L   | 1.000      | -            | -                | -                | -         |    -2.69 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           33 |       95 | 2024-08-03 | Into the Breach   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.31 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           32 |      119 | 2024-08-02 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -10.52 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           31 |      128 | 2024-08-02 | Into the Breach   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.53 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           30 |      172 | 2024-08-01 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -8.90 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           29 |      218 | 2024-07-31 | EYEBALLERS        | L   | 1.000      | -            | -                | -                | -         |   -22.58 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           28 |      224 | 2024-07-31 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -17.20 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           27 |      285 | 2024-07-29 | Monte             | L   | 1.000      | -            | -                | -                | -         |   -11.17 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           26 |      354 | 2024-07-27 | Aurora Young Blud | W   | 1.000      | 0.435        | 0.019 (0.008)    | 0.522 (0.227)    | 0 (0.000) |    14.34 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           25 |      422 | 2024-07-25 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -9.26 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           24 |      449 | 2024-07-24 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    12.71 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           23 |      456 | 2024-07-24 | Rebels            | W   | 1.000      | 0.371        | 0.038 (0.014)    | 0.578 (0.214)    | 0 (0.000) |    18.20 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           22 |      487 | 2024-07-23 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -8.79 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           21 |      518 | 2024-07-22 | FLuffy Gangsters  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.10 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           20 |      544 | 2024-07-21 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.641 (0.237)    | 0 (0.000) |    14.73 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           19 |      619 | 2024-07-19 | Insilio           | W   | 1.000      | 0.371        | 0.023 (0.008)    | 0.539 (0.200)    | 0 (0.000) |    17.24 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           18 |      641 | 2024-07-18 | K10               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.40 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           17 |      661 | 2024-07-18 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -5.11 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           16 |      711 | 2024-07-17 | Astralis Talent   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.55 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           15 |      734 | 2024-07-17 | Endpoint          | W   | 1.000      | 0.371        | 0.012 (0.004)    | 0.540 (0.200)    | -         |    13.88 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           14 |      743 | 2024-07-17 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -12.05 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           13 |      778 | 2024-07-16 | CPH Wolves        | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.354 (0.118)    | -         |    12.33 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           12 |      829 | 2024-07-15 | B8                | L   | 1.000      | -            | -                | -                | -         |    -5.60 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           11 |      869 | 2024-07-13 | ROSOMAHA          | W   | 1.000      | -            | -                | -                | -         |     3.38 | mantuu, misutaaa, raalz, refrezh, s0und |
-|           10 |      898 | 2024-07-11 | Endpoint          | L   | 1.000      | -            | -                | -                | -         |   -16.94 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            9 |      920 | 2024-07-10 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -5.43 | mantuu, misutaaa, n0te, raalz, s0und    |
-|            8 |      940 | 2024-07-09 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -4.82 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            7 |     1153 | 2024-06-13 | 3DMAX             | L   | 0.840      | -            | -                | -                | -         |    -1.50 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            6 |     1263 | 2024-06-09 | 3DMAX             | W   | 0.813      | 0.450        | 0.510 (0.187)    | 1.000 (0.366)    | -         |    24.26 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            5 |     1325 | 2024-06-08 | BLEED             | L   | 0.807      | -            | -                | -                | -         |    -1.86 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            4 |     1383 | 2024-06-07 | Endpoint          | W   | 0.801      | 0.450        | 0.012 (0.004)    | 0.540 (0.195)    | -         |    11.30 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            3 |     1409 | 2024-06-07 | Nexus             | W   | 0.799      | 0.500        | 0.014 (0.005)    | 0.447 (0.179)    | -         |     8.08 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            2 |     1473 | 2024-06-06 | EYEBALLERS        | L   | 0.792      | -            | -                | -                | -         |   -12.48 | mantuu, misutaaa, raalz, refrezh, s0und |
-|            1 |     1507 | 2024-06-05 | Rebels            | L   | 0.787      | -            | -                | -                | -         |    -9.27 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           34 |       46 | 2024-08-04 | ENCE              | L   | 1.000      | -            | -                | -                | -         |    -2.69 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           33 |       97 | 2024-08-03 | Into the Breach   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.31 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           32 |      121 | 2024-08-02 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -10.52 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           31 |      130 | 2024-08-02 | Into the Breach   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     8.53 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           30 |      174 | 2024-08-01 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -8.90 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           29 |      220 | 2024-07-31 | EYEBALLERS        | L   | 1.000      | -            | -                | -                | -         |   -22.58 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           28 |      226 | 2024-07-31 | Permitta          | L   | 1.000      | -            | -                | -                | -         |   -17.20 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           27 |      287 | 2024-07-29 | Monte             | L   | 1.000      | -            | -                | -                | -         |   -11.17 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           26 |      356 | 2024-07-27 | Aurora Young Blud | W   | 1.000      | 0.435        | 0.019 (0.008)    | 0.522 (0.227)    | 0 (0.000) |    14.34 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           25 |      424 | 2024-07-25 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -9.26 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           24 |      451 | 2024-07-24 | Sampi             | W   | 1.000      | 0.435        | 0.027 (0.012)    | 1.000 (0.435)    | 0 (0.000) |    12.71 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           23 |      458 | 2024-07-24 | Rebels            | W   | 1.000      | 0.371        | 0.038 (0.014)    | 0.578 (0.214)    | 0 (0.000) |    18.20 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           22 |      489 | 2024-07-23 | Passion UA        | L   | 1.000      | -            | -                | -                | -         |    -8.79 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           21 |      520 | 2024-07-22 | FLuffy Gangsters  | W   | 1.000      | -            | -                | -                | 0 (0.000) |     5.10 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           20 |      546 | 2024-07-21 | Enterprise        | W   | 1.000      | 0.371        | 0.039 (0.015)    | 0.641 (0.237)    | 0 (0.000) |    14.73 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           19 |      621 | 2024-07-19 | Insilio           | W   | 1.000      | 0.371        | 0.023 (0.008)    | 0.539 (0.200)    | 0 (0.000) |    17.24 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           18 |      643 | 2024-07-18 | K10               | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.40 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           17 |      663 | 2024-07-18 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -5.11 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           16 |      713 | 2024-07-17 | Astralis Talent   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     7.55 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           15 |      736 | 2024-07-17 | Endpoint          | W   | 1.000      | 0.371        | 0.012 (0.004)    | 0.540 (0.200)    | -         |    13.88 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           14 |      745 | 2024-07-17 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -12.05 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           13 |      780 | 2024-07-16 | CPH Wolves        | W   | 1.000      | 0.333        | 0.004 (0.001)    | 0.354 (0.118)    | -         |    12.34 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           12 |      831 | 2024-07-15 | B8                | L   | 1.000      | -            | -                | -                | -         |    -5.60 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           11 |      871 | 2024-07-13 | ROSOMAHA          | W   | 1.000      | -            | -                | -                | -         |     3.38 | mantuu, misutaaa, raalz, refrezh, s0und |
+|           10 |      900 | 2024-07-11 | Endpoint          | L   | 1.000      | -            | -                | -                | -         |   -16.94 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            9 |      922 | 2024-07-10 | Sashi             | L   | 1.000      | -            | -                | -                | -         |    -5.43 | mantuu, misutaaa, n0te, raalz, s0und    |
+|            8 |      942 | 2024-07-09 | Johnny Speeds     | L   | 1.000      | -            | -                | -                | -         |    -4.82 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            7 |     1155 | 2024-06-13 | 3DMAX             | L   | 0.840      | -            | -                | -                | -         |    -1.50 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            6 |     1265 | 2024-06-09 | 3DMAX             | W   | 0.813      | 0.450        | 0.510 (0.187)    | 1.000 (0.366)    | -         |    24.26 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            5 |     1327 | 2024-06-08 | BLEED             | L   | 0.807      | -            | -                | -                | -         |    -1.86 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            4 |     1385 | 2024-06-07 | Endpoint          | W   | 0.801      | 0.450        | 0.012 (0.004)    | 0.540 (0.195)    | -         |    11.30 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            3 |     1411 | 2024-06-07 | Nexus             | W   | 0.799      | 0.500        | 0.014 (0.005)    | 0.447 (0.179)    | -         |     8.08 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            2 |     1475 | 2024-06-06 | EYEBALLERS        | L   | 0.792      | -            | -                | -                | -         |   -12.48 | mantuu, misutaaa, raalz, refrezh, s0und |
+|            1 |     1509 | 2024-06-05 | Rebels            | L   | 0.787      | -            | -                | -                | -         |    -9.27 | mantuu, misutaaa, raalz, refrezh, s0und |
 
 <br />
 <span id="table2"></span><br />

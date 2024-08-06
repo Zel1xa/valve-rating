@@ -37,51 +37,51 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           45 |      208 | 2024-07-31 | Zero Tenacity   | L   | 1.000      | -            | -                | -                | -         |   -12.49 | adamS, dav1g, JUST, mopoz, stadodo |
-|           44 |      370 | 2024-07-26 | EYEBALLERS      | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |     5.87 | adamS, dav1g, JUST, mopoz, stadodo |
-|           43 |      645 | 2024-07-18 | Monte           | L   | 1.000      | -            | -                | -                | -         |   -17.94 | adamS, dav1g, JUST, mopoz, stadodo |
-|           42 |      779 | 2024-07-16 | Insilio         | W   | 1.000      | 0.500        | 0.023 (0.011)    | 0.539 (0.270)    | 0 (0.000) |    10.26 | adamS, dav1g, JUST, mopoz, stadodo |
-|           41 |     1045 | 2024-06-16 | 9z              | L   | 0.860      | -            | -                | -                | -         |    -3.22 | adamS, dav1g, JUST, mopoz, stadodo |
-|           40 |     1095 | 2024-06-14 | RED Canids      | W   | 0.850      | 0.548        | 0.076 (0.036)    | 0.732 (0.341)    | 1 (0.850) |    16.09 | adamS, dav1g, JUST, mopoz, stadodo |
-|           39 |     1100 | 2024-06-14 | Imperial        | W   | 0.849      | 0.548        | 0.233 (0.108)    | 0.658 (0.306)    | 1 (0.849) |    20.32 | adamS, dav1g, JUST, mopoz, stadodo |
-|           38 |     1266 | 2024-06-09 | Sangal          | L   | 0.813      | -            | -                | -                | -         |    -8.15 | adamS, dav1g, JUST, mopoz, stadodo |
-|           37 |     1454 | 2024-06-06 | SINNERS         | W   | 0.794      | 0.500        | 0.037 (0.015)    | 0.800 (0.317)    | 0 (0.000) |    11.11 | adamS, dav1g, JUST, mopoz, stadodo |
-|           36 |     1515 | 2024-06-05 | 3DMAX           | W   | 0.787      | 0.500        | 0.510 (0.201)    | 1.000 (0.393)    | 0 (0.000) |    23.29 | adamS, dav1g, JUST, mopoz, stadodo |
-|           35 |     1644 | 2024-06-01 | ENCE            | L   | 0.760      | -            | -                | -                | -         |    -3.21 | adamS, dav1g, JUST, mopoz, stadodo |
-|           34 |     1650 | 2024-06-01 | Zero Tenacity   | L   | 0.759      | -            | -                | -                | -         |    -9.61 | adamS, dav1g, JUST, mopoz, stadodo |
-|           33 |     2320 | 2024-05-09 | B8              | L   | 0.605      | -            | -                | -                | -         |    -9.56 | adamS, dav1g, JUST, mopoz, stadodo |
-|           32 |     2483 | 2024-05-01 | Zero Tenacity   | L   | 0.552      | -            | -                | -                | -         |    -8.72 | adamS, dav1g, JUST, mopoz, stadodo |
-|           31 |     2799 | 2024-04-18 | ex-Guild Eagles | L   | 0.467      | -            | -                | -                | -         |   -11.78 | adamS, dav1g, JUST, mopoz, stadodo |
-|           30 |     2810 | 2024-04-18 | fnatic          | W   | 0.467      | 0.143        | 0.371 (0.025)    | -                | 0 (0.000) |    13.65 | adamS, dav1g, JUST, mopoz, stadodo |
-|           29 |     2884 | 2024-04-16 | BLEED           | L   | 0.453      | -            | -                | -                | -         |    -8.68 | adamS, dav1g, JUST, mopoz, stadodo |
-|           28 |     3015 | 2024-04-10 | RUSH B          | W   | 0.414      | 0.500        | -                | 0.371 (0.077)    | -         |     3.21 | adamS, dav1g, JUST, mopoz, stadodo |
-|           27 |     3070 | 2024-04-09 | Aurora          | W   | 0.407      | 0.500        | 0.420 (0.086)    | 0.758 (0.154)    | -         |    12.39 | adamS, dav1g, JUST, mopoz, stadodo |
-|           26 |     3076 | 2024-04-09 | Apeks           | L   | 0.406      | -            | -                | -                | -         |    -9.17 | adamS, dav1g, JUST, mopoz, stadodo |
-|           25 |     3103 | 2024-04-08 | GUN5            | W   | 0.400      | -            | -                | -                | -         |     0.29 | adamS, dav1g, JUST, mopoz, stadodo |
-|           24 |     3104 | 2024-04-08 | fnatic          | L   | 0.400      | -            | -                | -                | -         |    -0.83 | adamS, dav1g, JUST, mopoz, stadodo |
-|           23 |     3207 | 2024-04-04 | NOM             | W   | 0.373      | -            | -                | -                | -         |     0.47 | adamS, dav1g, JUST, mopoz, stadodo |
-|           22 |     3241 | 2024-04-03 | 9INE            | W   | 0.367      | -            | -                | -                | -         |     0.52 | adamS, dav1g, JUST, mopoz, stadodo |
-|           21 |     3279 | 2024-04-02 | TSM             | W   | 0.361      | -            | -                | -                | -         |     1.14 | adamS, dav1g, JUST, mopoz, stadodo |
-|           20 |     3346 | 2024-03-28 | EYEBALLERS      | L   | 0.326      | -            | -                | -                | -         |    -7.50 | adamS, dav1g, JUST, mopoz, stadodo |
-|           19 |     3518 | 2024-03-18 | FURIA           | L   | 0.260      | -            | -                | -                | -         |    -0.23 | adamS, dav1g, JUST, mopoz, stadodo |
-|           18 |     3533 | 2024-03-17 | ENCE            | L   | 0.255      | -            | -                | -                | -         |    -0.82 | adamS, dav1g, JUST, mopoz, stadodo |
-|           17 |     3549 | 2024-03-17 | SAW             | L   | 0.253      | -            | -                | -                | -         |    -2.98 | adamS, dav1g, JUST, mopoz, stadodo |
-|           16 |     3641 | 2024-03-13 | Sangal          | W   | 0.228      | 0.500        | 0.219 (0.025)    | 0.846 (0.096)    | -         |     4.31 | adamS, dav1g, JUST, mopoz, stadodo |
-|           15 |     3695 | 2024-03-11 | B8              | L   | 0.214      | -            | -                | -                | -         |    -3.31 | adamS, dav1g, JUST, mopoz, stadodo |
-|           14 |     3704 | 2024-03-11 | Apeks           | L   | 0.213      | -            | -                | -                | -         |    -4.93 | adamS, dav1g, JUST, mopoz, stadodo |
-|           13 |     3816 | 2024-03-06 | 9 Pandas        | W   | 0.181      | 0.500        | 0.081 (0.007)    | 0.700 (0.063)    | -         |     2.24 | adamS, dav1g, JUST, mopoz, stadodo |
-|           12 |     3852 | 2024-03-05 | FORZE           | W   | 0.174      | -            | -                | -                | -         |     1.50 | adamS, dav1g, JUST, mopoz, stadodo |
-|           11 |     3858 | 2024-03-05 | Nemiga          | W   | 0.174      | 0.143        | 0.314 (0.008)    | -                | -         |     3.42 | adamS, dav1g, JUST, mopoz, stadodo |
-|           10 |     3866 | 2024-03-05 | ex-Sprout       | W   | 0.174      | -            | -                | -                | -         |     0.21 | adamS, dav1g, JUST, mopoz, stadodo |
-|            9 |     3906 | 2024-03-03 | The Chosen Few  | L   | 0.160      | -            | -                | -                | -         |    -4.60 | adamS, dav1g, JUST, mopoz, stadodo |
-|            8 |     3961 | 2024-02-29 | Aurora          | L   | 0.141      | -            | -                | -                | -         |    -0.15 | adamS, dav1g, JUST, mopoz, stadodo |
-|            7 |     3965 | 2024-02-29 | HAVU            | W   | 0.140      | -            | -                | -                | -         |     0.47 | adamS, dav1g, JUST, mopoz, stadodo |
-|            6 |     3974 | 2024-02-28 | FORZE           | L   | 0.134      | -            | -                | -                | -         |    -3.15 | adamS, dav1g, JUST, mopoz, stadodo |
-|            5 |     3978 | 2024-02-28 | kONO            | W   | 0.133      | -            | -                | -                | -         |     0.76 | adamS, dav1g, JUST, mopoz, stadodo |
-|            4 |     4269 | 2024-02-16 | fnatic          | W   | 0.052      | -            | -                | -                | 1 (0.052) |     1.53 | adamS, dav1g, JUST, mopoz, stadodo |
-|            3 |     4293 | 2024-02-15 | 9 Pandas        | W   | 0.045      | -            | -                | -                | 1 (0.045) |     0.56 | adamS, dav1g, JUST, mopoz, stadodo |
-|            2 |     4322 | 2024-02-14 | 3DMAX           | W   | 0.041      | -            | -                | -                | 1 (0.041) |     1.24 | adamS, dav1g, JUST, mopoz, stadodo |
-|            1 |     4336 | 2024-02-14 | Natus Vincere   | L   | 0.039      | -            | -                | -                | -         |    -0.01 | adamS, dav1g, JUST, mopoz, stadodo |
+|           45 |      210 | 2024-07-31 | Zero Tenacity   | L   | 1.000      | -            | -                | -                | -         |   -12.49 | adamS, dav1g, JUST, mopoz, stadodo |
+|           44 |      372 | 2024-07-26 | EYEBALLERS      | W   | 1.000      | 0.500        | -                | 0.488 (0.244)    | 0 (0.000) |     5.87 | adamS, dav1g, JUST, mopoz, stadodo |
+|           43 |      647 | 2024-07-18 | Monte           | L   | 1.000      | -            | -                | -                | -         |   -17.94 | adamS, dav1g, JUST, mopoz, stadodo |
+|           42 |      781 | 2024-07-16 | Insilio         | W   | 1.000      | 0.500        | 0.023 (0.011)    | 0.539 (0.270)    | 0 (0.000) |    10.26 | adamS, dav1g, JUST, mopoz, stadodo |
+|           41 |     1047 | 2024-06-16 | 9z              | L   | 0.860      | -            | -                | -                | -         |    -3.22 | adamS, dav1g, JUST, mopoz, stadodo |
+|           40 |     1097 | 2024-06-14 | RED Canids      | W   | 0.850      | 0.548        | 0.076 (0.036)    | 0.732 (0.341)    | 1 (0.850) |    16.09 | adamS, dav1g, JUST, mopoz, stadodo |
+|           39 |     1102 | 2024-06-14 | Imperial        | W   | 0.849      | 0.548        | 0.233 (0.108)    | 0.658 (0.306)    | 1 (0.849) |    20.32 | adamS, dav1g, JUST, mopoz, stadodo |
+|           38 |     1268 | 2024-06-09 | Sangal          | L   | 0.813      | -            | -                | -                | -         |    -8.15 | adamS, dav1g, JUST, mopoz, stadodo |
+|           37 |     1456 | 2024-06-06 | SINNERS         | W   | 0.794      | 0.500        | 0.037 (0.015)    | 0.800 (0.317)    | 0 (0.000) |    11.11 | adamS, dav1g, JUST, mopoz, stadodo |
+|           36 |     1517 | 2024-06-05 | 3DMAX           | W   | 0.787      | 0.500        | 0.510 (0.201)    | 1.000 (0.393)    | 0 (0.000) |    23.29 | adamS, dav1g, JUST, mopoz, stadodo |
+|           35 |     1646 | 2024-06-01 | ENCE            | L   | 0.760      | -            | -                | -                | -         |    -3.21 | adamS, dav1g, JUST, mopoz, stadodo |
+|           34 |     1652 | 2024-06-01 | Zero Tenacity   | L   | 0.759      | -            | -                | -                | -         |    -9.61 | adamS, dav1g, JUST, mopoz, stadodo |
+|           33 |     2322 | 2024-05-09 | B8              | L   | 0.605      | -            | -                | -                | -         |    -9.56 | adamS, dav1g, JUST, mopoz, stadodo |
+|           32 |     2485 | 2024-05-01 | Zero Tenacity   | L   | 0.552      | -            | -                | -                | -         |    -8.72 | adamS, dav1g, JUST, mopoz, stadodo |
+|           31 |     2801 | 2024-04-18 | ex-Guild Eagles | L   | 0.467      | -            | -                | -                | -         |   -11.78 | adamS, dav1g, JUST, mopoz, stadodo |
+|           30 |     2812 | 2024-04-18 | fnatic          | W   | 0.467      | 0.143        | 0.371 (0.025)    | -                | 0 (0.000) |    13.65 | adamS, dav1g, JUST, mopoz, stadodo |
+|           29 |     2886 | 2024-04-16 | BLEED           | L   | 0.453      | -            | -                | -                | -         |    -8.68 | adamS, dav1g, JUST, mopoz, stadodo |
+|           28 |     3017 | 2024-04-10 | RUSH B          | W   | 0.414      | 0.500        | -                | 0.371 (0.077)    | -         |     3.21 | adamS, dav1g, JUST, mopoz, stadodo |
+|           27 |     3072 | 2024-04-09 | Aurora          | W   | 0.407      | 0.500        | 0.420 (0.086)    | 0.758 (0.154)    | -         |    12.39 | adamS, dav1g, JUST, mopoz, stadodo |
+|           26 |     3078 | 2024-04-09 | Apeks           | L   | 0.406      | -            | -                | -                | -         |    -9.17 | adamS, dav1g, JUST, mopoz, stadodo |
+|           25 |     3105 | 2024-04-08 | GUN5            | W   | 0.400      | -            | -                | -                | -         |     0.29 | adamS, dav1g, JUST, mopoz, stadodo |
+|           24 |     3106 | 2024-04-08 | fnatic          | L   | 0.400      | -            | -                | -                | -         |    -0.83 | adamS, dav1g, JUST, mopoz, stadodo |
+|           23 |     3209 | 2024-04-04 | NOM             | W   | 0.373      | -            | -                | -                | -         |     0.47 | adamS, dav1g, JUST, mopoz, stadodo |
+|           22 |     3243 | 2024-04-03 | 9INE            | W   | 0.367      | -            | -                | -                | -         |     0.52 | adamS, dav1g, JUST, mopoz, stadodo |
+|           21 |     3281 | 2024-04-02 | TSM             | W   | 0.361      | -            | -                | -                | -         |     1.14 | adamS, dav1g, JUST, mopoz, stadodo |
+|           20 |     3348 | 2024-03-28 | EYEBALLERS      | L   | 0.326      | -            | -                | -                | -         |    -7.50 | adamS, dav1g, JUST, mopoz, stadodo |
+|           19 |     3520 | 2024-03-18 | FURIA           | L   | 0.260      | -            | -                | -                | -         |    -0.23 | adamS, dav1g, JUST, mopoz, stadodo |
+|           18 |     3535 | 2024-03-17 | ENCE            | L   | 0.255      | -            | -                | -                | -         |    -0.82 | adamS, dav1g, JUST, mopoz, stadodo |
+|           17 |     3551 | 2024-03-17 | SAW             | L   | 0.253      | -            | -                | -                | -         |    -2.98 | adamS, dav1g, JUST, mopoz, stadodo |
+|           16 |     3643 | 2024-03-13 | Sangal          | W   | 0.228      | 0.500        | 0.219 (0.025)    | 0.846 (0.096)    | -         |     4.31 | adamS, dav1g, JUST, mopoz, stadodo |
+|           15 |     3697 | 2024-03-11 | B8              | L   | 0.214      | -            | -                | -                | -         |    -3.31 | adamS, dav1g, JUST, mopoz, stadodo |
+|           14 |     3706 | 2024-03-11 | Apeks           | L   | 0.213      | -            | -                | -                | -         |    -4.93 | adamS, dav1g, JUST, mopoz, stadodo |
+|           13 |     3818 | 2024-03-06 | 9 Pandas        | W   | 0.181      | 0.500        | 0.081 (0.007)    | 0.700 (0.063)    | -         |     2.24 | adamS, dav1g, JUST, mopoz, stadodo |
+|           12 |     3854 | 2024-03-05 | FORZE           | W   | 0.174      | -            | -                | -                | -         |     1.50 | adamS, dav1g, JUST, mopoz, stadodo |
+|           11 |     3860 | 2024-03-05 | Nemiga          | W   | 0.174      | 0.143        | 0.314 (0.008)    | -                | -         |     3.42 | adamS, dav1g, JUST, mopoz, stadodo |
+|           10 |     3868 | 2024-03-05 | ex-Sprout       | W   | 0.174      | -            | -                | -                | -         |     0.21 | adamS, dav1g, JUST, mopoz, stadodo |
+|            9 |     3908 | 2024-03-03 | The Chosen Few  | L   | 0.160      | -            | -                | -                | -         |    -4.60 | adamS, dav1g, JUST, mopoz, stadodo |
+|            8 |     3963 | 2024-02-29 | Aurora          | L   | 0.141      | -            | -                | -                | -         |    -0.15 | adamS, dav1g, JUST, mopoz, stadodo |
+|            7 |     3967 | 2024-02-29 | HAVU            | W   | 0.140      | -            | -                | -                | -         |     0.47 | adamS, dav1g, JUST, mopoz, stadodo |
+|            6 |     3976 | 2024-02-28 | FORZE           | L   | 0.134      | -            | -                | -                | -         |    -3.15 | adamS, dav1g, JUST, mopoz, stadodo |
+|            5 |     3980 | 2024-02-28 | kONO            | W   | 0.133      | -            | -                | -                | -         |     0.76 | adamS, dav1g, JUST, mopoz, stadodo |
+|            4 |     4271 | 2024-02-16 | fnatic          | W   | 0.052      | -            | -                | -                | 1 (0.052) |     1.53 | adamS, dav1g, JUST, mopoz, stadodo |
+|            3 |     4295 | 2024-02-15 | 9 Pandas        | W   | 0.045      | -            | -                | -                | 1 (0.045) |     0.56 | adamS, dav1g, JUST, mopoz, stadodo |
+|            2 |     4324 | 2024-02-14 | 3DMAX           | W   | 0.041      | -            | -                | -                | 1 (0.041) |     1.24 | adamS, dav1g, JUST, mopoz, stadodo |
+|            1 |     4338 | 2024-02-14 | Natus Vincere   | L   | 0.039      | -            | -                | -                | -         |    -0.01 | adamS, dav1g, JUST, mopoz, stadodo |
 
 <br />
 <span id="table2"></span><br />

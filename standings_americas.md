@@ -49,12 +49,12 @@
 | 44       |    694 | TSM Shimmer       | empathy, Juli, Lx, madss, phoebe                 | [details](details/0157--tsm_shimmer--empathy-juli-lx-madss-phoebe.md)                  |
 | 45       |    670 | 2GAME             | beg0d, dok, dzt, santos, vhz                     | [details](details/0166--2game--beg0d-dok-dzt-santos-vhz.md)                            |
 | 46       |    668 | Limitless         | DJF, Seb, Tender, wiz, Wolffe                    | [details](details/0167--limitless--djf-seb-tender-wiz-wolffe.md)                       |
-| 47       |    666 | Homyno            | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE            | [details](details/0169--homyno--binox-j0lz-melio-sup3rant-tenskee.md)                  |
-| 48       |    665 | Carpe Diem        | arcade, Lake, micro, Seb, wiz                    | [details](details/0170--carpe_diem--arcade-lake-micro-seb-wiz.md)                      |
-| 49       |    660 | SPORT             | DANVIET, PremiuM, timid, voltera, xns            | [details](details/0173--sport--danviet-premium-timid-voltera-xns.md)                   |
+| 47       |    666 | Homyno            | BiNoX, J0LZ, Melio, Sup3rant, TENSKEE            | [details](details/0170--homyno--binox-j0lz-melio-sup3rant-tenskee.md)                  |
+| 48       |    665 | Carpe Diem        | arcade, Lake, micro, Seb, wiz                    | [details](details/0171--carpe_diem--arcade-lake-micro-seb-wiz.md)                      |
+| 49       |    660 | SPORT             | DANVIET, PremiuM, timid, voltera, xns            | [details](details/0174--sport--danviet-premium-timid-voltera-xns.md)                   |
 | 50       |    641 | Take Flyte        | cbass, Grave, jchancE, serv0, z0mb1e             | [details](details/0181--take_flyte--cbass-grave-jchance-serv0-z0mb1e.md)               |
 | 51       |    621 | adalYamigos       | delboNi, f4stzin, piriajr, shz, zqkS             | [details](details/0185--adalyamigos--delboni-f4stzin-piriajr-shz-zqks.md)              |
-| 52       |    609 | Nouns fe          | ashe, jesscas, katalyyst, lunari, raynee         | [details](details/0189--nouns_fe--ashe-jesscas-katalyyst-lunari-raynee.md)             |
+| 52       |    609 | Nouns fe          | ashe, jesscas, katalyyst, lunari, raynee         | [details](details/0188--nouns_fe--ashe-jesscas-katalyyst-lunari-raynee.md)             |
 | 53       |    583 | Limitless         | Danejoris, grape, Mellow, PoseidoNN, xCAPE       | [details](details/0192--limitless--danejoris-grape-mellow-poseidonn-xcape.md)          |
 | 54       |    529 | FURIA Academy     | GYZER, Jotag3, max, mello, msr                   | [details](details/0198--furia_academy--gyzer-jotag3-max-mello-msr.md)                  |
 | 55       |    519 | FURIA Academy     | cerolzin, GYZER, kye, mello, zmb                 | [details](details/0199--furia_academy--cerolzin-gyzer-kye-mello-zmb.md)                |

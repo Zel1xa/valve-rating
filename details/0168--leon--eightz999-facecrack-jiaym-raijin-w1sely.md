@@ -37,24 +37,24 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           18 |      675 | 2024-07-18 | TSM               | L   | 1.000      | -            | -                | -                | -         |    -3.24 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           17 |      733 | 2024-07-17 | Preasy            | L   | 1.000      | -            | -                | -                | -         |   -11.07 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           16 |     1091 | 2024-06-15 | Preasy            | L   | 0.851      | -            | -                | -                | -         |    -9.60 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           15 |     1122 | 2024-06-14 | RUBY              | L   | 0.846      | -            | -                | -                | -         |    -6.10 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           14 |     1184 | 2024-06-12 | CYBERSHOKE        | L   | 0.833      | -            | -                | -                | -         |    -6.77 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           13 |     1211 | 2024-06-11 | MASONIC           | W   | 0.825      | 0.143        | 0.009 (0.001)    | 0.081 (0.010)    | 0 (0.000) |    15.55 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           12 |     1586 | 2024-06-03 | Verdant           | L   | 0.774      | -            | -                | -                | -         |    -5.57 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           11 |     1649 | 2024-06-01 | Aurora Young Blud | L   | 0.759      | -            | -                | -                | -         |    -6.16 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|           10 |     1672 | 2024-05-31 | VP.Prodigy        | W   | 0.754      | 0.372        | 0.025 (0.007)    | 0.383 (0.107)    | 0 (0.000) |    18.61 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            9 |     1722 | 2024-05-29 | HOTU              | L   | 0.741      | -            | -                | -                | -         |   -12.08 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            8 |     2029 | 2024-05-18 | Rhyno             | L   | 0.665      | -            | -                | -                | -         |    -3.52 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            7 |     2055 | 2024-05-17 | WOPA              | W   | 0.659      | 0.143        | 0.001 (0.000)    | 0.121 (0.011)    | 0 (0.000) |     8.41 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            6 |     2188 | 2024-05-14 | VP.Prodigy        | L   | 0.641      | -            | -                | -                | -         |    -5.35 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            5 |     2213 | 2024-05-13 | Secret            | W   | 0.634      | 0.143        | 0.000 (0.000)    | 0.055 (0.005)    | 0 (0.000) |     6.17 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            4 |     2525 | 2024-04-29 | Nexus             | L   | 0.539      | -            | -                | -                | -         |    -5.06 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            3 |     2541 | 2024-04-28 | VP.Prodigy        | L   | 0.532      | -            | -                | -                | -         |    -4.61 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            2 |     2829 | 2024-04-18 | BIG               | L   | 0.465      | -            | -                | -                | -         |    -0.51 | eightz999, facecrack, JIaYm, Raijin, w1sely |
-|            1 |     3306 | 2024-04-01 | Lazer Cats        | W   | 0.353      | 0.384        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.25 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           18 |      677 | 2024-07-18 | TSM               | L   | 1.000      | -            | -                | -                | -         |    -3.24 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           17 |      735 | 2024-07-17 | Preasy            | L   | 1.000      | -            | -                | -                | -         |   -11.07 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           16 |     1093 | 2024-06-15 | Preasy            | L   | 0.851      | -            | -                | -                | -         |    -9.60 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           15 |     1124 | 2024-06-14 | RUBY              | L   | 0.846      | -            | -                | -                | -         |    -6.10 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           14 |     1186 | 2024-06-12 | CYBERSHOKE        | L   | 0.833      | -            | -                | -                | -         |    -6.77 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           13 |     1213 | 2024-06-11 | MASONIC           | W   | 0.825      | 0.143        | 0.009 (0.001)    | 0.081 (0.010)    | 0 (0.000) |    15.55 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           12 |     1588 | 2024-06-03 | Verdant           | L   | 0.774      | -            | -                | -                | -         |    -5.57 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           11 |     1651 | 2024-06-01 | Aurora Young Blud | L   | 0.759      | -            | -                | -                | -         |    -6.16 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|           10 |     1674 | 2024-05-31 | VP.Prodigy        | W   | 0.754      | 0.372        | 0.025 (0.007)    | 0.383 (0.107)    | 0 (0.000) |    18.62 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            9 |     1724 | 2024-05-29 | HOTU              | L   | 0.741      | -            | -                | -                | -         |   -12.08 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            8 |     2031 | 2024-05-18 | Rhyno             | L   | 0.665      | -            | -                | -                | -         |    -3.51 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            7 |     2057 | 2024-05-17 | WOPA              | W   | 0.659      | 0.143        | 0.001 (0.000)    | 0.121 (0.011)    | 0 (0.000) |     8.41 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            6 |     2190 | 2024-05-14 | VP.Prodigy        | L   | 0.641      | -            | -                | -                | -         |    -5.34 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            5 |     2215 | 2024-05-13 | Secret            | W   | 0.634      | 0.143        | 0.000 (0.000)    | 0.055 (0.005)    | 0 (0.000) |     6.17 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            4 |     2527 | 2024-04-29 | Nexus             | L   | 0.539      | -            | -                | -                | -         |    -5.06 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            3 |     2543 | 2024-04-28 | VP.Prodigy        | L   | 0.532      | -            | -                | -                | -         |    -4.61 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            2 |     2831 | 2024-04-18 | BIG               | L   | 0.465      | -            | -                | -                | -         |    -0.51 | eightz999, facecrack, JIaYm, Raijin, w1sely |
+|            1 |     3308 | 2024-04-01 | Lazer Cats        | W   | 0.353      | 0.384        | 0.002 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.25 | eightz999, facecrack, JIaYm, Raijin, w1sely |
 
 <br />
 <span id="table2"></span><br />

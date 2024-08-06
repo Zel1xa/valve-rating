@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent  | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      175 | 2024-08-01 | GUN5      | L   | 1.000      | -            | -                | -                | -         |    -5.38 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            9 |      293 | 2024-07-29 | 1WIN      | L   | 1.000      | -            | -                | -                | -         |    -2.80 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            8 |      335 | 2024-07-28 | GUN5      | W   | 1.000      | 0.143        | 0.072 (0.010)    | 0.550 (0.079)    | 0 (0.000) |    26.18 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
-|            7 |     2009 | 2024-05-18 | GUN5      | L   | 0.667      | -            | -                | -                | -         |    -2.36 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            6 |     2043 | 2024-05-17 | Rare Atom | W   | 0.661      | 0.143        | 0.009 (0.001)    | 0.465 (0.044)    | 0 (0.000) |    17.44 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            5 |     2205 | 2024-05-14 | Heimo     | W   | 0.638      | 0.143        | 0.006 (0.001)    | 0.103 (0.009)    | 0 (0.000) |    13.85 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            4 |     2226 | 2024-05-13 | Rare Atom | L   | 0.631      | -            | -                | -                | -         |    -2.68 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            3 |     2763 | 2024-04-19 | JANO      | L   | 0.473      | -            | -                | -                | -         |    -4.87 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            2 |     2815 | 2024-04-18 | RUBY      | L   | 0.466      | -            | -                | -                | -         |    -1.55 | dan1, hotd0g , m4tthi, meztal, MOREE |
-|            1 |     2854 | 2024-04-17 | Sampi     | W   | 0.459      | 0.143        | 0.027 (0.002)    | 1.000 (0.066)    | 0 (0.000) |    12.86 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|           10 |      177 | 2024-08-01 | GUN5      | L   | 1.000      | -            | -                | -                | -         |    -5.37 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            9 |      295 | 2024-07-29 | 1WIN      | L   | 1.000      | -            | -                | -                | -         |    -2.80 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            8 |      337 | 2024-07-28 | GUN5      | W   | 1.000      | 0.143        | 0.072 (0.010)    | 0.550 (0.079)    | 0 (0.000) |    26.19 | dan1, m4tthi, MOREE, suraniZ, Zax1e  |
+|            7 |     2011 | 2024-05-18 | GUN5      | L   | 0.667      | -            | -                | -                | -         |    -2.35 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            6 |     2045 | 2024-05-17 | Rare Atom | W   | 0.661      | 0.143        | 0.009 (0.001)    | 0.465 (0.044)    | 0 (0.000) |    17.44 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            5 |     2207 | 2024-05-14 | Heimo     | W   | 0.638      | 0.143        | 0.006 (0.001)    | 0.103 (0.009)    | 0 (0.000) |    13.85 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            4 |     2228 | 2024-05-13 | Rare Atom | L   | 0.631      | -            | -                | -                | -         |    -2.68 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            3 |     2765 | 2024-04-19 | JANO      | L   | 0.473      | -            | -                | -                | -         |    -4.87 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            2 |     2817 | 2024-04-18 | RUBY      | L   | 0.466      | -            | -                | -                | -         |    -1.55 | dan1, hotd0g , m4tthi, meztal, MOREE |
+|            1 |     2856 | 2024-04-17 | Sampi     | W   | 0.459      | 0.143        | 0.027 (0.002)    | 1.000 (0.066)    | 0 (0.000) |    12.86 | dan1, hotd0g , m4tthi, meztal, MOREE |
 
 <br />
 <span id="table2"></span><br />

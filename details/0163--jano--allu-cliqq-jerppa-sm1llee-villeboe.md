@@ -37,21 +37,21 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1619 | 2024-06-02 | FAVBET            | L   | 0.766      | -            | -                | -                | -         |    -8.36 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
-|           14 |     1723 | 2024-05-29 | Zero Tenacity     | L   | 0.741      | -            | -                | -                | -         |    -1.87 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
-|           13 |     2556 | 2024-04-27 | Sashi             | L   | 0.527      | -            | -                | -                | -         |    -1.01 | allu, doto, Jerppa, juho, Sm1llee      |
-|           12 |     2731 | 2024-04-20 | Sangal            | L   | 0.478      | -            | -                | -                | -         |    -1.07 | allu, doto, Jerppa, juho, Sm1llee      |
-|           11 |     2763 | 2024-04-19 | NOM               | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.106 (0.007)    | 0 (0.000) |     4.87 | allu, doto, Jerppa, juho, Sm1llee      |
-|           10 |     2868 | 2024-04-17 | RUBY              | L   | 0.458      | -            | -                | -                | -         |    -2.84 | allu, doto, Jerppa, juho, Sm1llee      |
-|            9 |     2873 | 2024-04-17 | MOUZ NXT          | L   | 0.458      | -            | -                | -                | -         |    -1.67 | allu, doto, Jerppa, juho, Sm1llee      |
-|            8 |     2954 | 2024-04-12 | Zero Tenacity     | W   | 0.424      | 0.371        | 0.143 (0.022)    | 1.000 (0.157)    | 0 (0.000) |    12.02 | allu, doto, Jerppa, juho, Sm1llee      |
-|            7 |     3120 | 2024-04-08 | Permitta          | L   | 0.398      | -            | -                | -                | -         |    -1.94 | allu, doto, Jerppa, juho, Sm1llee      |
-|            6 |     3153 | 2024-04-06 | Johnny Speeds     | L   | 0.386      | -            | -                | -                | -         |    -0.36 | allu, doto, Jerppa, juho, Sm1llee      |
-|            5 |     3218 | 2024-04-04 | Gaimin Gladiators | L   | 0.372      | -            | -                | -                | -         |    -1.72 | allu, doto, Jerppa, juho, Sm1llee      |
-|            4 |     3687 | 2024-03-12 | kONO              | L   | 0.219      | -            | -                | -                | -         |    -2.28 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            3 |     3776 | 2024-03-08 | INGLORIOUS        | W   | 0.192      | 0.143        | 0.000 (0.000)    | 0.014 (0.000)    | 0 (0.000) |     1.92 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            2 |     3886 | 2024-03-04 | Endpoint          | L   | 0.166      | -            | -                | -                | -         |    -3.96 | allu, doto, Jelo, Jerppa, Sm1llee      |
-|            1 |     3971 | 2024-02-29 | Sashi             | L   | 0.138      | -            | -                | -                | -         |    -0.29 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|           15 |     1621 | 2024-06-02 | FAVBET            | L   | 0.766      | -            | -                | -                | -         |    -8.36 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
+|           14 |     1725 | 2024-05-29 | Zero Tenacity     | L   | 0.741      | -            | -                | -                | -         |    -1.87 | allu, Cliqq, Jerppa, Sm1llee, Villeboe |
+|           13 |     2558 | 2024-04-27 | Sashi             | L   | 0.527      | -            | -                | -                | -         |    -1.01 | allu, doto, Jerppa, juho, Sm1llee      |
+|           12 |     2733 | 2024-04-20 | Sangal            | L   | 0.478      | -            | -                | -                | -         |    -1.07 | allu, doto, Jerppa, juho, Sm1llee      |
+|           11 |     2765 | 2024-04-19 | NOM               | W   | 0.473      | 0.143        | 0.000 (0.000)    | 0.106 (0.007)    | 0 (0.000) |     4.87 | allu, doto, Jerppa, juho, Sm1llee      |
+|           10 |     2870 | 2024-04-17 | RUBY              | L   | 0.458      | -            | -                | -                | -         |    -2.84 | allu, doto, Jerppa, juho, Sm1llee      |
+|            9 |     2875 | 2024-04-17 | MOUZ NXT          | L   | 0.458      | -            | -                | -                | -         |    -1.67 | allu, doto, Jerppa, juho, Sm1llee      |
+|            8 |     2956 | 2024-04-12 | Zero Tenacity     | W   | 0.424      | 0.371        | 0.143 (0.022)    | 1.000 (0.157)    | 0 (0.000) |    12.02 | allu, doto, Jerppa, juho, Sm1llee      |
+|            7 |     3122 | 2024-04-08 | Permitta          | L   | 0.398      | -            | -                | -                | -         |    -1.94 | allu, doto, Jerppa, juho, Sm1llee      |
+|            6 |     3155 | 2024-04-06 | Johnny Speeds     | L   | 0.386      | -            | -                | -                | -         |    -0.36 | allu, doto, Jerppa, juho, Sm1llee      |
+|            5 |     3220 | 2024-04-04 | Gaimin Gladiators | L   | 0.372      | -            | -                | -                | -         |    -1.72 | allu, doto, Jerppa, juho, Sm1llee      |
+|            4 |     3689 | 2024-03-12 | kONO              | L   | 0.219      | -            | -                | -                | -         |    -2.28 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            3 |     3778 | 2024-03-08 | INGLORIOUS        | W   | 0.192      | 0.143        | 0.000 (0.000)    | 0.014 (0.000)    | 0 (0.000) |     1.92 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            2 |     3888 | 2024-03-04 | Endpoint          | L   | 0.166      | -            | -                | -                | -         |    -3.96 | allu, doto, Jelo, Jerppa, Sm1llee      |
+|            1 |     3973 | 2024-02-29 | Sashi             | L   | 0.138      | -            | -                | -                | -         |    -0.29 | allu, doto, Jelo, Jerppa, Sm1llee      |
 
 <br />
 <span id="table2"></span><br />

@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           54 |        6 | 2024-08-06 | BLEED           | W   | 1.000      | 0.143        | 0.126 (0.018)    | -                | 0 (0.000) |    17.44 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           53 |        9 | 2024-08-06 | Metizport       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.51 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           52 |       28 | 2024-08-05 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.84 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           51 |       36 | 2024-08-05 | 9 Pandas        | L   | 1.000      | -            | -                | -                | -         |   -22.29 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           50 |       53 | 2024-08-04 | 3DMAX           | W   | 1.000      | 0.143        | 0.510 (0.073)    | 1.000 (0.143)    | -         |    23.58 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           49 |       85 | 2024-08-03 | Cloud9          | W   | 1.000      | -            | -                | -                | -         |     2.47 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           48 |      134 | 2024-08-02 | Nemiga          | W   | 1.000      | 0.143        | 0.314 (0.045)    | -                | -         |    12.95 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           47 |      225 | 2024-07-31 | fnatic          | W   | 1.000      | 0.143        | 0.371 (0.053)    | -                | -         |    24.23 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           46 |      565 | 2024-07-20 | Nexus           | W   | 1.000      | 0.333        | -                | 0.447 (0.149)    | -         |     3.00 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           45 |      585 | 2024-07-20 | Illuminar       | L   | 1.000      | -            | -                | -                | -         |   -26.11 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           44 |      600 | 2024-07-19 | Preasy          | W   | 1.000      | -            | -                | -                | -         |     2.65 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           43 |      661 | 2024-07-18 | 9INE            | W   | 1.000      | 0.333        | -                | 0.523 (0.174)    | -         |     5.11 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           42 |      669 | 2024-07-18 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |   -23.46 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           41 |      784 | 2024-07-16 | Young Ninjas    | W   | 1.000      | -            | -                | -                | -         |     2.08 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           40 |      832 | 2024-07-15 | Endpoint        | W   | 1.000      | 0.371        | -                | 0.540 (0.200)    | -         |     4.01 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           39 |      880 | 2024-07-12 | TSM             | L   | 1.000      | -            | -                | -                | -         |   -24.84 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           38 |      917 | 2024-07-10 | Sashi           | W   | 1.000      | 0.358        | 0.184 (0.066)    | 0.958 (0.343)    | -         |    13.67 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
-|           37 |      918 | 2024-07-10 | Endpoint        | W   | 1.000      | 0.358        | -                | 0.540 (0.193)    | -         |     3.71 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
-|           36 |      940 | 2024-07-09 | 9INE            | W   | 1.000      | 0.371        | -                | 0.523 (0.194)    | -         |     4.82 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
-|           35 |      942 | 2024-07-09 | Revenant        | L   | 1.000      | -            | -                | -                | -         |   -28.47 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           34 |      965 | 2024-07-07 | lajtbitexe      | W   | 0.999      | -            | -                | -                | -         |     1.53 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           33 |      973 | 2024-07-05 | kONO            | W   | 0.986      | 0.333        | 0.028 (0.009)    | 0.553 (0.182)    | -         |     3.17 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
-|           32 |      983 | 2024-06-30 | Young Gods      | W   | 0.953      | -            | -                | -                | -         |     1.35 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           31 |     1005 | 2024-06-27 | Revenant        | W   | 0.931      | 0.333        | 0.027 (0.009)    | -                | -         |     2.46 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           30 |     1009 | 2024-06-25 | Revenant        | W   | 0.919      | -            | -                | -                | -         |     2.36 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           29 |     1016 | 2024-06-23 | los kogutos     | W   | 0.905      | -            | -                | -                | -         |     0.24 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|           28 |     1083 | 2024-06-15 | Lilmix          | W   | 0.853      | -            | -                | -                | 1 (0.853) |     2.90 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           27 |     1125 | 2024-06-14 | Lilmix          | W   | 0.846      | -            | -                | -                | 1 (0.846) |     2.85 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|           26 |     1167 | 2024-06-13 | Kappa Bar       | W   | 0.838      | -            | -                | -                | 1 (0.838) |     0.56 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           25 |     1269 | 2024-06-09 | Alliance        | W   | 0.813      | -            | -                | -                | 1 (0.813) |     2.70 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           24 |     1304 | 2024-06-09 | Preasy          | W   | 0.811      | -            | -                | -                | 1 (0.811) |     0.55 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           23 |     1579 | 2024-06-04 | Enterprise      | L   | 0.778      | -            | -                | -                | -         |   -21.01 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           22 |     1597 | 2024-06-03 | brazylijski luz | W   | 0.773      | -            | -                | -                | -         |     2.04 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           21 |     1599 | 2024-06-03 | Zero Tenacity   | W   | 0.772      | 0.371        | 0.143 (0.041)    | 1.000 (0.286)    | -         |     8.18 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           20 |     1689 | 2024-05-31 | UNiTY           | L   | 0.751      | -            | -                | -                | -         |   -20.25 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           19 |     1794 | 2024-05-26 | Preasy          | W   | 0.719      | -            | -                | -                | -         |     1.45 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           18 |     1898 | 2024-05-22 | Permitta        | W   | 0.691      | 0.371        | 0.039 (0.010)    | 0.919 (0.235)    | -         |     2.47 | bobeksde, draken, Lekr0, Ro1f, spooke     |
-|           17 |     2206 | 2024-05-14 | kONO            | L   | 0.638      | -            | -                | -                | -         |   -18.50 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           16 |     2222 | 2024-05-13 | UNiTY           | W   | 0.632      | -            | -                | -                | -         |     2.73 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           15 |     2227 | 2024-05-13 | ECLOT           | W   | 0.631      | 0.333        | 0.061 (0.013)    | -                | -         |     7.37 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           14 |     2238 | 2024-05-12 | Verdant         | W   | 0.627      | -            | -                | -                | -         |     2.49 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           13 |     2251 | 2024-05-12 | Preasy          | L   | 0.625      | -            | -                | -                | -         |   -18.66 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           12 |     2268 | 2024-05-11 | Lilmix          | W   | 0.620      | -            | -                | -                | 1 (0.620) |     1.73 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           11 |     2283 | 2024-05-11 | Flying Angels   | W   | 0.618      | -            | -                | -                | 1 (0.618) |     0.27 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|           10 |     2299 | 2024-05-10 | FAVBET          | W   | 0.611      | -            | -                | -                | -         |     1.08 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            9 |     2825 | 2024-04-18 | UNiTY           | W   | 0.465      | -            | -                | -                | -         |     2.00 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            8 |     2889 | 2024-04-16 | Viperio         | W   | 0.452      | -            | -                | -                | -         |     0.35 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            7 |     3135 | 2024-04-07 | Alliance        | W   | 0.393      | -            | -                | -                | -         |     0.98 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|            6 |     3143 | 2024-04-07 | Metizport       | L   | 0.392      | -            | -                | -                | -         |   -10.85 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|            5 |     3153 | 2024-04-06 | JANO            | W   | 0.386      | -            | -                | -                | -         |     0.36 | bobeksde, chawzyyy, draken, Lekr0, spooke |
-|            4 |     3752 | 2024-03-09 | Alliance        | L   | 0.199      | -            | -                | -                | -         |    -5.81 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            3 |     3856 | 2024-03-05 | B8              | L   | 0.174      | -            | -                | -                | -         |    -4.26 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            2 |     3861 | 2024-03-05 | Insilio         | W   | 0.174      | -            | -                | -                | -         |     0.50 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
-|            1 |     3867 | 2024-03-05 | Sashi           | W   | 0.174      | -            | -                | -                | -         |     1.57 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           54 |        8 | 2024-08-06 | BLEED           | W   | 1.000      | 0.143        | 0.126 (0.018)    | -                | 0 (0.000) |    17.44 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           53 |       11 | 2024-08-06 | Metizport       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.51 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           52 |       30 | 2024-08-05 | Into the Breach | W   | 1.000      | -            | -                | -                | 0 (0.000) |     1.84 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           51 |       38 | 2024-08-05 | 9 Pandas        | L   | 1.000      | -            | -                | -                | -         |   -22.29 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           50 |       55 | 2024-08-04 | 3DMAX           | W   | 1.000      | 0.143        | 0.510 (0.073)    | 1.000 (0.143)    | -         |    23.58 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           49 |       87 | 2024-08-03 | Cloud9          | W   | 1.000      | -            | -                | -                | -         |     2.47 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           48 |      136 | 2024-08-02 | Nemiga          | W   | 1.000      | 0.143        | 0.314 (0.045)    | -                | -         |    12.95 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           47 |      227 | 2024-07-31 | fnatic          | W   | 1.000      | 0.143        | 0.371 (0.053)    | -                | -         |    24.23 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           46 |      567 | 2024-07-20 | Nexus           | W   | 1.000      | 0.333        | -                | 0.447 (0.149)    | -         |     3.00 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           45 |      587 | 2024-07-20 | Illuminar       | L   | 1.000      | -            | -                | -                | -         |   -26.10 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           44 |      602 | 2024-07-19 | Preasy          | W   | 1.000      | -            | -                | -                | -         |     2.65 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           43 |      663 | 2024-07-18 | 9INE            | W   | 1.000      | 0.333        | -                | 0.523 (0.174)    | -         |     5.11 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           42 |      671 | 2024-07-18 | Passion UA      | L   | 1.000      | -            | -                | -                | -         |   -23.46 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           41 |      786 | 2024-07-16 | Young Ninjas    | W   | 1.000      | -            | -                | -                | -         |     2.08 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           40 |      834 | 2024-07-15 | Endpoint        | W   | 1.000      | 0.371        | -                | 0.540 (0.200)    | -         |     4.01 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           39 |      882 | 2024-07-12 | TSM             | L   | 1.000      | -            | -                | -                | -         |   -24.84 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           38 |      919 | 2024-07-10 | Sashi           | W   | 1.000      | 0.358        | 0.184 (0.066)    | 0.958 (0.343)    | -         |    13.67 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
+|           37 |      920 | 2024-07-10 | Endpoint        | W   | 1.000      | 0.358        | -                | 0.540 (0.193)    | -         |     3.71 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
+|           36 |      942 | 2024-07-09 | 9INE            | W   | 1.000      | 0.371        | -                | 0.523 (0.194)    | -         |     4.82 | bobeksde, chawzyyy, Ro1f, SHiNE, spooke   |
+|           35 |      944 | 2024-07-09 | Revenant        | L   | 1.000      | -            | -                | -                | -         |   -28.47 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           34 |      967 | 2024-07-07 | lajtbitexe      | W   | 0.999      | -            | -                | -                | -         |     1.53 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           33 |      975 | 2024-07-05 | kONO            | W   | 0.986      | 0.333        | 0.028 (0.009)    | 0.553 (0.182)    | -         |     3.17 | bobeksde, chawzyyy, draken, Ro1f, spooke  |
+|           32 |      985 | 2024-06-30 | Young Gods      | W   | 0.953      | -            | -                | -                | -         |     1.35 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           31 |     1007 | 2024-06-27 | Revenant        | W   | 0.931      | 0.333        | 0.027 (0.009)    | -                | -         |     2.46 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           30 |     1011 | 2024-06-25 | Revenant        | W   | 0.919      | -            | -                | -                | -         |     2.36 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           29 |     1018 | 2024-06-23 | los kogutos     | W   | 0.905      | -            | -                | -                | -         |     0.24 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|           28 |     1085 | 2024-06-15 | Lilmix          | W   | 0.853      | -            | -                | -                | 1 (0.853) |     2.90 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           27 |     1127 | 2024-06-14 | Lilmix          | W   | 0.846      | -            | -                | -                | 1 (0.846) |     2.85 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|           26 |     1169 | 2024-06-13 | Kappa Bar       | W   | 0.838      | -            | -                | -                | 1 (0.838) |     0.56 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           25 |     1271 | 2024-06-09 | Alliance        | W   | 0.813      | -            | -                | -                | 1 (0.813) |     2.70 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           24 |     1306 | 2024-06-09 | Preasy          | W   | 0.811      | -            | -                | -                | 1 (0.811) |     0.55 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           23 |     1581 | 2024-06-04 | Enterprise      | L   | 0.778      | -            | -                | -                | -         |   -21.01 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           22 |     1599 | 2024-06-03 | brazylijski luz | W   | 0.773      | -            | -                | -                | -         |     2.04 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           21 |     1601 | 2024-06-03 | Zero Tenacity   | W   | 0.772      | 0.371        | 0.143 (0.041)    | 1.000 (0.286)    | -         |     8.18 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           20 |     1691 | 2024-05-31 | UNiTY           | L   | 0.751      | -            | -                | -                | -         |   -20.25 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           19 |     1796 | 2024-05-26 | Preasy          | W   | 0.719      | -            | -                | -                | -         |     1.45 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           18 |     1900 | 2024-05-22 | Permitta        | W   | 0.691      | 0.371        | 0.039 (0.010)    | 0.919 (0.235)    | -         |     2.47 | bobeksde, draken, Lekr0, Ro1f, spooke     |
+|           17 |     2208 | 2024-05-14 | kONO            | L   | 0.638      | -            | -                | -                | -         |   -18.50 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           16 |     2224 | 2024-05-13 | UNiTY           | W   | 0.632      | -            | -                | -                | -         |     2.73 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           15 |     2229 | 2024-05-13 | ECLOT           | W   | 0.631      | 0.333        | 0.061 (0.013)    | -                | -         |     7.37 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           14 |     2240 | 2024-05-12 | Verdant         | W   | 0.627      | -            | -                | -                | -         |     2.49 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           13 |     2253 | 2024-05-12 | Preasy          | L   | 0.625      | -            | -                | -                | -         |   -18.66 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           12 |     2270 | 2024-05-11 | Lilmix          | W   | 0.620      | -            | -                | -                | 1 (0.620) |     1.73 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           11 |     2285 | 2024-05-11 | Flying Angels   | W   | 0.618      | -            | -                | -                | 1 (0.618) |     0.27 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|           10 |     2301 | 2024-05-10 | FAVBET          | W   | 0.611      | -            | -                | -                | -         |     1.08 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            9 |     2827 | 2024-04-18 | UNiTY           | W   | 0.465      | -            | -                | -                | -         |     2.00 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            8 |     2891 | 2024-04-16 | Viperio         | W   | 0.452      | -            | -                | -                | -         |     0.35 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            7 |     3137 | 2024-04-07 | Alliance        | W   | 0.393      | -            | -                | -                | -         |     0.98 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            6 |     3145 | 2024-04-07 | Metizport       | L   | 0.392      | -            | -                | -                | -         |   -10.85 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            5 |     3155 | 2024-04-06 | JANO            | W   | 0.386      | -            | -                | -                | -         |     0.36 | bobeksde, chawzyyy, draken, Lekr0, spooke |
+|            4 |     3754 | 2024-03-09 | Alliance        | L   | 0.199      | -            | -                | -                | -         |    -5.81 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            3 |     3858 | 2024-03-05 | B8              | L   | 0.174      | -            | -                | -                | -         |    -4.26 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            2 |     3863 | 2024-03-05 | Insilio         | W   | 0.174      | -            | -                | -                | -         |     0.50 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
+|            1 |     3869 | 2024-03-05 | Sashi           | W   | 0.174      | -            | -                | -                | -         |     1.57 | chawzyyy, draken, Lekr0, Ro1f, spooke     |
 
 <br />
 <span id="table2"></span><br />

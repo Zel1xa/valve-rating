@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     1072 | 2024-06-15 | FAVBET        | L   | 0.854      | -            | -                | -                | -         |    -4.59 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|           11 |     1109 | 2024-06-14 | EYEBALLERS    | L   | 0.847      | -            | -                | -                | -         |    -3.62 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|           10 |     1144 | 2024-06-13 | Permitta      | W   | 0.841      | 0.143        | 0.039 (0.005)    | 0.919 (0.110)    | 0 (0.000) |    23.82 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            9 |     1180 | 2024-06-12 | Zero Tenacity | L   | 0.834      | -            | -                | -                | -         |    -1.10 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            8 |     1199 | 2024-06-11 | Verdant       | W   | 0.827      | 0.143        | 0.015 (0.002)    | 0.287 (0.034)    | 0 (0.000) |    23.17 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
-|            7 |     2139 | 2024-05-15 | EYEBALLERS    | L   | 0.646      | -            | -                | -                | -         |    -2.36 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            6 |     2722 | 2024-04-20 | System5       | L   | 0.479      | -            | -                | -                | -         |    -4.64 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            5 |     3241 | 2024-04-03 | KOI           | L   | 0.367      | -            | -                | -                | -         |    -0.52 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            4 |     3253 | 2024-04-03 | 9 Pandas      | L   | 0.366      | -            | -                | -                | -         |    -0.71 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
-|            3 |     3337 | 2024-03-28 | TSM           | L   | 0.328      | -            | -                | -                | -         |    -3.16 | KEi, KukuBambo, mynio, nawrot, tomiko     |
-|            2 |     3818 | 2024-03-06 | EYEBALLERS    | L   | 0.181      | -            | -                | -                | -         |    -0.63 | KEi, KukuBambo, mynio, nawrot, tomiko     |
-|            1 |     3991 | 2024-02-27 | Sangal        | L   | 0.128      | -            | -                | -                | -         |    -0.11 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|           12 |     1074 | 2024-06-15 | FAVBET        | L   | 0.854      | -            | -                | -                | -         |    -4.59 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|           11 |     1111 | 2024-06-14 | EYEBALLERS    | L   | 0.847      | -            | -                | -                | -         |    -3.62 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|           10 |     1146 | 2024-06-13 | Permitta      | W   | 0.841      | 0.143        | 0.039 (0.005)    | 0.919 (0.110)    | 0 (0.000) |    23.82 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            9 |     1182 | 2024-06-12 | Zero Tenacity | L   | 0.834      | -            | -                | -                | -         |    -1.10 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            8 |     1201 | 2024-06-11 | Verdant       | W   | 0.827      | 0.143        | 0.015 (0.002)    | 0.287 (0.034)    | 0 (0.000) |    23.17 | hypex, KukuBambo, nawrot, Sterzig, tomiko |
+|            7 |     2141 | 2024-05-15 | EYEBALLERS    | L   | 0.646      | -            | -                | -                | -         |    -2.36 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            6 |     2724 | 2024-04-20 | System5       | L   | 0.479      | -            | -                | -                | -         |    -4.64 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            5 |     3243 | 2024-04-03 | KOI           | L   | 0.367      | -            | -                | -                | -         |    -0.52 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            4 |     3255 | 2024-04-03 | 9 Pandas      | L   | 0.366      | -            | -                | -                | -         |    -0.71 | hypex, KukuBambo, Sterzig, tomiko, zEden  |
+|            3 |     3339 | 2024-03-28 | TSM           | L   | 0.328      | -            | -                | -                | -         |    -3.16 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|            2 |     3820 | 2024-03-06 | EYEBALLERS    | L   | 0.181      | -            | -                | -                | -         |    -0.63 | KEi, KukuBambo, mynio, nawrot, tomiko     |
+|            1 |     3993 | 2024-02-27 | Sangal        | L   | 0.128      | -            | -                | -                | -         |    -0.11 | KEi, KukuBambo, mynio, nawrot, tomiko     |
 
 <br />
 <span id="table2"></span><br />

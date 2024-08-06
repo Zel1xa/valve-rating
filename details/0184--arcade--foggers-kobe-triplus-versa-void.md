@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent           | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           33 |      492 | 2024-07-23 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -10.58 | foggers, Kobe, TRIPLUS, versa, void      |
-|           32 |      496 | 2024-07-23 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -11.46 | foggers, Kobe, TRIPLUS, versa, void      |
-|           31 |      517 | 2024-07-22 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -15.50 | foggers, Kobe, TRIPLUS, versa, void      |
-|           30 |      519 | 2024-07-22 | KZG                | W   | 1.000      | 0.333        | 0.005 (0.002)    | 0.106 (0.035)    | 0 (0.000) |    16.02 | foggers, Kobe, TRIPLUS, versa, void      |
-|           29 |      672 | 2024-07-18 | Bad News Kangaroos | L   | 1.000      | -            | -                | -                | -         |   -10.73 | foggers, kibstar, TRIPLUS, versa, void   |
-|           28 |      676 | 2024-07-18 | Bad News Kangaroos | W   | 1.000      | 0.333        | 0.016 (0.005)    | 0.217 (0.072)    | 0 (0.000) |    21.19 | foggers, kibstar, TRIPLUS, versa, void   |
-|           27 |     2148 | 2024-05-15 | Bad News Kangaroos | L   | 0.645      | -            | -                | -                | -         |    -5.73 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           26 |     2153 | 2024-05-15 | Bad News Kangaroos | L   | 0.645      | -            | -                | -                | -         |    -6.01 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           25 |     2343 | 2024-05-08 | Mindfreak          | L   | 0.598      | -            | -                | -                | -         |    -7.54 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           24 |     2346 | 2024-05-08 | Mindfreak          | L   | 0.598      | -            | -                | -                | -         |    -7.94 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           23 |     2361 | 2024-05-07 | DXA                | L   | 0.592      | -            | -                | -                | -         |    -9.58 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           22 |     2364 | 2024-05-07 | DXA                | W   | 0.592      | 0.333        | 0.002 (0.000)    | 0.217 (0.043)    | 0 (0.000) |     9.25 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           21 |     2856 | 2024-04-17 | Rooster            | L   | 0.459      | -            | -                | -                | -         |    -4.70 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           20 |     2866 | 2024-04-17 | Vantage            | W   | 0.458      | 0.143        | 0.002 (0.000)    | 0.064 (0.004)    | 0 (0.000) |     7.60 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           19 |     3030 | 2024-04-10 | Vantage            | L   | 0.412      | -            | -                | -                | -         |    -6.25 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           18 |     3034 | 2024-04-10 | Vantage            | L   | 0.411      | -            | -                | -                | -         |    -6.49 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           17 |     3263 | 2024-04-03 | FlyQuest           | L   | 0.365      | -            | -                | -                | -         |    -0.72 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           16 |     3268 | 2024-04-03 | FlyQuest           | L   | 0.365      | -            | -                | -                | -         |    -0.72 | apocdud, foggers, Kobe, TRIPLUS, void    |
-|           15 |     3389 | 2024-03-27 | Rooster            | L   | 0.319      | -            | -                | -                | -         |    -3.47 | apocdud, foggers, kibstar, Kobe, void    |
-|           14 |     3394 | 2024-03-27 | Rooster            | L   | 0.318      | -            | -                | -                | -         |    -3.56 | apocdud, foggers, kibstar, Kobe, void    |
-|           13 |     3439 | 2024-03-23 | KZG                | L   | 0.291      | -            | -                | -                | -         |    -4.53 | apocdud, foggers, Kobe, rekonz, void     |
-|           12 |     3441 | 2024-03-23 | Bad News Kangaroos | L   | 0.291      | -            | -                | -                | -         |    -3.40 | apocdud, foggers, Kobe, rekonz, void     |
-|           11 |     3835 | 2024-03-06 | KZG                | W   | 0.179      | 0.333        | 0.005 (0.000)    | 0.106 (0.006)    | 0 (0.000) |     2.92 | apocdud, foggers, Kobe, void, yourwombat |
-|           10 |     3841 | 2024-03-06 | KZG                | W   | 0.178      | 0.333        | 0.005 (0.000)    | 0.106 (0.006)    | 0 (0.000) |     2.96 | apocdud, foggers, Kobe, void, yourwombat |
-|            9 |     4009 | 2024-02-27 | Canon Event        | W   | 0.125      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.11 | apocdud, damyo, foggers, Kobe, void      |
-|            8 |     4012 | 2024-02-27 | Canon Event        | W   | 0.125      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     1.12 | apocdud, damyo, foggers, Kobe, void      |
-|            7 |     4147 | 2024-02-20 | Vantage            | L   | 0.084      | -            | -                | -                | -         |    -1.42 | apocdud, damyo, foggers, Kobe, void      |
-|            6 |     4168 | 2024-02-20 | Cringexe           | W   | 0.078      | 0.143        | -                | 0.003 (0.000)    | 0 (0.000) |     0.62 | apocdud, damyo, foggers, Kobe, void      |
-|            5 |     4170 | 2024-02-20 | gfg123321          | W   | 0.078      | -            | -                | -                | 0 (0.000) |     0.43 | apocdud, damyo, foggers, Kobe, void      |
-|            4 |     4214 | 2024-02-18 | FlyQuest           | L   | 0.065      | -            | -                | -                | -         |    -0.14 | apocdud, damyo, foggers, Kobe, void      |
-|            3 |     4216 | 2024-02-18 | KZG                | W   | 0.065      | 0.143        | 0.005 (0.000)    | 0.106 (0.001)    | -         |     1.10 | apocdud, damyo, foggers, Kobe, void      |
-|            2 |     4219 | 2024-02-17 | FlyQuest           | L   | 0.063      | -            | -                | -                | -         |    -0.13 | apocdud, damyo, foggers, Kobe, void      |
-|            1 |     4242 | 2024-02-16 | LYG                | W   | 0.056      | 0.303        | 0.003 (0.000)    | 0.031 (0.001)    | -         |     0.96 | apocdud, damyo, foggers, Kobe, void      |
+|           33 |      494 | 2024-07-23 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -10.58 | foggers, Kobe, TRIPLUS, versa, void      |
+|           32 |      498 | 2024-07-23 | Mindfreak          | L   | 1.000      | -            | -                | -                | -         |   -11.46 | foggers, Kobe, TRIPLUS, versa, void      |
+|           31 |      519 | 2024-07-22 | KZG                | L   | 1.000      | -            | -                | -                | -         |   -15.50 | foggers, Kobe, TRIPLUS, versa, void      |
+|           30 |      521 | 2024-07-22 | KZG                | W   | 1.000      | 0.333        | 0.005 (0.002)    | 0.106 (0.035)    | 0 (0.000) |    16.02 | foggers, Kobe, TRIPLUS, versa, void      |
+|           29 |      674 | 2024-07-18 | Bad News Kangaroos | L   | 1.000      | -            | -                | -                | -         |   -10.73 | foggers, kibstar, TRIPLUS, versa, void   |
+|           28 |      678 | 2024-07-18 | Bad News Kangaroos | W   | 1.000      | 0.333        | 0.016 (0.005)    | 0.217 (0.072)    | 0 (0.000) |    21.19 | foggers, kibstar, TRIPLUS, versa, void   |
+|           27 |     2150 | 2024-05-15 | Bad News Kangaroos | L   | 0.645      | -            | -                | -                | -         |    -5.73 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           26 |     2155 | 2024-05-15 | Bad News Kangaroos | L   | 0.645      | -            | -                | -                | -         |    -6.01 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           25 |     2345 | 2024-05-08 | Mindfreak          | L   | 0.598      | -            | -                | -                | -         |    -7.54 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           24 |     2348 | 2024-05-08 | Mindfreak          | L   | 0.598      | -            | -                | -                | -         |    -7.94 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           23 |     2363 | 2024-05-07 | DXA                | L   | 0.592      | -            | -                | -                | -         |    -9.58 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           22 |     2366 | 2024-05-07 | DXA                | W   | 0.592      | 0.333        | 0.002 (0.000)    | 0.217 (0.043)    | 0 (0.000) |     9.25 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           21 |     2858 | 2024-04-17 | Rooster            | L   | 0.459      | -            | -                | -                | -         |    -4.70 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           20 |     2868 | 2024-04-17 | Vantage            | W   | 0.458      | 0.143        | 0.002 (0.000)    | 0.064 (0.004)    | 0 (0.000) |     7.60 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           19 |     3032 | 2024-04-10 | Vantage            | L   | 0.412      | -            | -                | -                | -         |    -6.25 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           18 |     3036 | 2024-04-10 | Vantage            | L   | 0.411      | -            | -                | -                | -         |    -6.49 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           17 |     3265 | 2024-04-03 | FlyQuest           | L   | 0.365      | -            | -                | -                | -         |    -0.72 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           16 |     3270 | 2024-04-03 | FlyQuest           | L   | 0.365      | -            | -                | -                | -         |    -0.72 | apocdud, foggers, Kobe, TRIPLUS, void    |
+|           15 |     3391 | 2024-03-27 | Rooster            | L   | 0.319      | -            | -                | -                | -         |    -3.47 | apocdud, foggers, kibstar, Kobe, void    |
+|           14 |     3396 | 2024-03-27 | Rooster            | L   | 0.318      | -            | -                | -                | -         |    -3.56 | apocdud, foggers, kibstar, Kobe, void    |
+|           13 |     3441 | 2024-03-23 | KZG                | L   | 0.291      | -            | -                | -                | -         |    -4.53 | apocdud, foggers, Kobe, rekonz, void     |
+|           12 |     3443 | 2024-03-23 | Bad News Kangaroos | L   | 0.291      | -            | -                | -                | -         |    -3.40 | apocdud, foggers, Kobe, rekonz, void     |
+|           11 |     3837 | 2024-03-06 | KZG                | W   | 0.179      | 0.333        | 0.005 (0.000)    | 0.106 (0.006)    | 0 (0.000) |     2.92 | apocdud, foggers, Kobe, void, yourwombat |
+|           10 |     3843 | 2024-03-06 | KZG                | W   | 0.178      | 0.333        | 0.005 (0.000)    | 0.106 (0.006)    | 0 (0.000) |     2.96 | apocdud, foggers, Kobe, void, yourwombat |
+|            9 |     4011 | 2024-02-27 | Canon Event        | W   | 0.125      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     1.11 | apocdud, damyo, foggers, Kobe, void      |
+|            8 |     4014 | 2024-02-27 | Canon Event        | W   | 0.125      | 0.333        | 0.000 (0.000)    | -                | 0 (0.000) |     1.12 | apocdud, damyo, foggers, Kobe, void      |
+|            7 |     4149 | 2024-02-20 | Vantage            | L   | 0.084      | -            | -                | -                | -         |    -1.42 | apocdud, damyo, foggers, Kobe, void      |
+|            6 |     4170 | 2024-02-20 | Cringexe           | W   | 0.078      | 0.143        | -                | 0.003 (0.000)    | 0 (0.000) |     0.62 | apocdud, damyo, foggers, Kobe, void      |
+|            5 |     4172 | 2024-02-20 | gfg123321          | W   | 0.078      | -            | -                | -                | 0 (0.000) |     0.43 | apocdud, damyo, foggers, Kobe, void      |
+|            4 |     4216 | 2024-02-18 | FlyQuest           | L   | 0.065      | -            | -                | -                | -         |    -0.14 | apocdud, damyo, foggers, Kobe, void      |
+|            3 |     4218 | 2024-02-18 | KZG                | W   | 0.065      | 0.143        | 0.005 (0.000)    | 0.106 (0.001)    | -         |     1.10 | apocdud, damyo, foggers, Kobe, void      |
+|            2 |     4221 | 2024-02-17 | FlyQuest           | L   | 0.063      | -            | -                | -                | -         |    -0.13 | apocdud, damyo, foggers, Kobe, void      |
+|            1 |     4244 | 2024-02-16 | LYG                | W   | 0.056      | 0.303        | 0.003 (0.000)    | 0.031 (0.001)    | -         |     0.96 | apocdud, damyo, foggers, Kobe, void      |
 
 <br />
 <span id="table2"></span><br />

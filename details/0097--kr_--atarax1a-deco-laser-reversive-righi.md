@@ -37,60 +37,60 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           54 |      138 | 2024-08-01 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -18.51 | atarax1a, deco, laser, reversive, righi   |
-|           53 |      148 | 2024-08-01 | JOGA DE TERNO     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.59 | atarax1a, deco, laser, reversive, righi   |
-|           52 |      195 | 2024-07-31 | Case              | W   | 1.000      | 0.450        | 0.029 (0.013)    | 0.778 (0.350)    | 0 (0.000) |    16.73 | atarax1a, deco, laser, reversive, righi   |
-|           51 |      197 | 2024-07-31 | Case              | W   | 1.000      | 0.450        | 0.029 (0.013)    | 0.778 (0.350)    | 0 (0.000) |    18.26 | atarax1a, deco, laser, reversive, righi   |
-|           50 |      250 | 2024-07-30 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -9.23 | atarax1a, deco, laser, reversive, righi   |
-|           49 |      466 | 2024-07-23 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -5.11 | atarax1a, deco, laser, reversive, righi   |
-|           48 |      473 | 2024-07-23 | Case              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.56 | atarax1a, deco, laser, reversive, righi   |
-|           47 |      500 | 2024-07-22 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | -                | 0 (0.000) |    18.38 | atarax1a, deco, laser, reversive, righi   |
-|           46 |      563 | 2024-07-20 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -15.90 | atarax1a, deco, laser, reversive, righi   |
-|           45 |      573 | 2024-07-20 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | 0 (0.000) |    13.52 | atarax1a, deco, laser, reversive, righi   |
-|           44 |      587 | 2024-07-19 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |   -10.75 | atarax1a, deco, laser, reversive, righi   |
-|           43 |      625 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.01 | atarax1a, deco, laser, reversive, righi   |
-|           42 |      628 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -16.40 | atarax1a, deco, laser, reversive, righi   |
-|           41 |      635 | 2024-07-18 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -14.74 | atarax1a, deco, laser, reversive, righi   |
-|           40 |      658 | 2024-07-18 | inSanitY          | W   | 1.000      | 0.384        | 0.048 (0.019)    | -                | 0 (0.000) |    22.21 | atarax1a, deco, laser, reversive, righi   |
-|           39 |      698 | 2024-07-17 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -4.15 | atarax1a, deco, laser, reversive, righi   |
-|           38 |      705 | 2024-07-17 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -4.32 | atarax1a, deco, laser, reversive, righi   |
-|           37 |      722 | 2024-07-17 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.51 | atarax1a, deco, laser, reversive, righi   |
-|           36 |      732 | 2024-07-17 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.31 | atarax1a, deco, laser, reversive, righi   |
-|           35 |      758 | 2024-07-16 | Hype              | W   | 1.000      | 0.450        | 0.025 (0.011)    | 0.476 (0.214)    | 0 (0.000) |    17.89 | atarax1a, deco, laser, reversive, righi   |
-|           34 |      763 | 2024-07-16 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -13.42 | atarax1a, deco, laser, reversive, righi   |
-|           33 |      769 | 2024-07-16 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -19.50 | atarax1a, deco, laser, reversive, righi   |
-|           32 |      811 | 2024-07-15 | Sharks            | W   | 1.000      | 0.450        | 0.030 (0.014)    | 0.546 (0.246)    | -         |    20.57 | atarax1a, deco, laser, reversive, righi   |
-|           31 |      815 | 2024-07-15 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -10.55 | atarax1a, deco, laser, reversive, righi   |
-|           30 |      851 | 2024-07-14 | FURIA Academy     | W   | 1.000      | -            | -                | -                | -         |     4.02 | atarax1a, deco, laser, reversive, righi   |
-|           29 |      864 | 2024-07-13 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -10.13 | atarax1a, deco, laser, reversive, righi   |
-|           28 |      865 | 2024-07-13 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |    -9.40 | atarax1a, deco, laser, reversive, righi   |
-|           27 |      874 | 2024-07-12 | W7M               | W   | 1.000      | -            | -                | -                | -         |    12.95 | atarax1a, deco, laser, reversive, righi   |
-|           26 |      888 | 2024-07-11 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -5.30 | atarax1a, deco, laser, reversive, righi   |
-|           25 |      922 | 2024-07-09 | Sharks            | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.546 (0.202)    | -         |    21.06 | atarax1a, laser, reversive, righi, yel    |
-|           24 |      924 | 2024-07-09 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -17.27 | Andrew, atarax1a, laser, reversive, righi |
-|           23 |      943 | 2024-07-08 | Solid             | W   | 1.000      | 0.371        | 0.024 (0.009)    | 0.807 (0.299)    | -         |    14.77 | atarax1a, deco, laser, reversive, righi   |
-|           22 |      972 | 2024-07-05 | FURIA Academy     | W   | 0.987      | -            | -                | -                | -         |     4.06 | atarax1a, laser, lenci, reversive, righi  |
-|           21 |      994 | 2024-06-28 | Sharks            | L   | 0.941      | -            | -                | -                | -         |    -8.92 | atarax1a, laser, lenci, reversive, righi  |
-|           20 |     1001 | 2024-06-27 | Galorys           | L   | 0.934      | -            | -                | -                | -         |   -15.32 | atarax1a, laser, lenci, reversive, righi  |
-|           19 |     1141 | 2024-06-13 | paiN              | L   | 0.841      | -            | -                | -                | -         |    -1.75 | atarax1a, laser, lenci, reversive, righi  |
-|           18 |     1205 | 2024-06-11 | Bounty Hunters    | W   | 0.826      | 0.450        | 0.022 (0.008)    | 0.540 (0.201)    | -         |    14.40 | atarax1a, laser, lenci, reversive, righi  |
-|           17 |     1252 | 2024-06-09 | Hype              | L   | 0.815      | -            | -                | -                | -         |   -11.76 | atarax1a, laser, lenci, reversive, righi  |
-|           16 |     1313 | 2024-06-08 | Fluxo             | L   | 0.809      | -            | -                | -                | -         |    -6.30 | atarax1a, laser, lenci, reversive, righi  |
-|           15 |     1376 | 2024-06-07 | Solid             | W   | 0.801      | 0.450        | 0.024 (0.009)    | 0.807 (0.291)    | -         |    13.57 | atarax1a, laser, lenci, reversive, righi  |
-|           14 |     1399 | 2024-06-07 | inSanitY          | L   | 0.800      | -            | -                | -                | -         |    -9.29 | atarax1a, laser, lenci, reversive, righi  |
-|           13 |     2072 | 2024-05-16 | FURIA Academy     | L   | 0.655      | -            | -                | -                | -         |   -18.33 | atarax1a, laser, lenci, reversive, righi  |
-|           12 |     2080 | 2024-05-16 | Case              | L   | 0.654      | -            | -                | -                | -         |   -10.61 | Andrew, atarax1a, laser, lenci, reversive |
-|           11 |     2127 | 2024-05-15 | Solid             | W   | 0.648      | 0.371        | -                | 0.807 (0.194)    | -         |     9.62 | atarax1a, laser, lenci, reversive, righi  |
-|           10 |     2186 | 2024-05-14 | ODDIK             | L   | 0.641      | -            | -                | -                | -         |    -8.23 | atarax1a, laser, lenci, reversive, righi  |
-|            9 |     2220 | 2024-05-13 | Imperial          | L   | 0.633      | -            | -                | -                | -         |    -2.44 | atarax1a, laser, lenci, reversive, righi  |
-|            8 |     2235 | 2024-05-12 | Galorys           | L   | 0.628      | -            | -                | -                | -         |   -10.52 | atarax1a, laser, lenci, reversive, righi  |
-|            7 |     2261 | 2024-05-11 | 9z                | L   | 0.621      | -            | -                | -                | -         |    -0.66 | atarax1a, laser, lenci, reversive, righi  |
-|            6 |     2289 | 2024-05-10 | Solid             | W   | 0.615      | 0.435        | -                | 0.807 (0.216)    | -         |     8.97 | atarax1a, laser, lenci, reversive, righi  |
-|            5 |     2317 | 2024-05-09 | W7M               | W   | 0.606      | -            | -                | -                | -         |     7.41 | atarax1a, laser, lenci, reversive, righi  |
-|            4 |     2358 | 2024-05-07 | Galorys           | W   | 0.593      | -            | -                | -                | -         |     9.11 | atarax1a, laser, lenci, reversive, righi  |
-|            3 |     2383 | 2024-05-05 | paiN              | L   | 0.581      | -            | -                | -                | -         |    -1.09 | atarax1a, laser, lenci, reversive, righi  |
-|            2 |     4280 | 2024-02-15 | 9z                | L   | 0.048      | -            | -                | -                | -         |    -0.04 | atarax1a, laser, lenci, reversive, righi  |
-|            1 |     4312 | 2024-02-14 | O PLANO           | W   | 0.042      | -            | -                | -                | -         |     0.14 | atarax1a, laser, lenci, reversive, righi  |
+|           54 |      140 | 2024-08-01 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -18.51 | atarax1a, deco, laser, reversive, righi   |
+|           53 |      150 | 2024-08-01 | JOGA DE TERNO     | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.59 | atarax1a, deco, laser, reversive, righi   |
+|           52 |      197 | 2024-07-31 | Case              | W   | 1.000      | 0.450        | 0.029 (0.013)    | 0.778 (0.350)    | 0 (0.000) |    16.73 | atarax1a, deco, laser, reversive, righi   |
+|           51 |      199 | 2024-07-31 | Case              | W   | 1.000      | 0.450        | 0.029 (0.013)    | 0.778 (0.350)    | 0 (0.000) |    18.26 | atarax1a, deco, laser, reversive, righi   |
+|           50 |      252 | 2024-07-30 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -9.23 | atarax1a, deco, laser, reversive, righi   |
+|           49 |      468 | 2024-07-23 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -5.11 | atarax1a, deco, laser, reversive, righi   |
+|           48 |      475 | 2024-07-23 | Case              | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.56 | atarax1a, deco, laser, reversive, righi   |
+|           47 |      502 | 2024-07-22 | Hype              | W   | 1.000      | 0.371        | 0.025 (0.009)    | -                | 0 (0.000) |    18.38 | atarax1a, deco, laser, reversive, righi   |
+|           46 |      565 | 2024-07-20 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -15.90 | atarax1a, deco, laser, reversive, righi   |
+|           45 |      575 | 2024-07-20 | Patins da Ferrari | W   | 1.000      | -            | -                | -                | 0 (0.000) |    13.52 | atarax1a, deco, laser, reversive, righi   |
+|           44 |      589 | 2024-07-19 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |   -10.75 | atarax1a, deco, laser, reversive, righi   |
+|           43 |      627 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.01 | atarax1a, deco, laser, reversive, righi   |
+|           42 |      630 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -16.40 | atarax1a, deco, laser, reversive, righi   |
+|           41 |      637 | 2024-07-18 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -14.74 | atarax1a, deco, laser, reversive, righi   |
+|           40 |      660 | 2024-07-18 | inSanitY          | W   | 1.000      | 0.384        | 0.048 (0.019)    | -                | 0 (0.000) |    22.21 | atarax1a, deco, laser, reversive, righi   |
+|           39 |      700 | 2024-07-17 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -4.15 | atarax1a, deco, laser, reversive, righi   |
+|           38 |      707 | 2024-07-17 | Imperial          | L   | 1.000      | -            | -                | -                | -         |    -4.32 | atarax1a, deco, laser, reversive, righi   |
+|           37 |      724 | 2024-07-17 | SPORT             | W   | 1.000      | -            | -                | -                | 0 (0.000) |     9.51 | atarax1a, deco, laser, reversive, righi   |
+|           36 |      734 | 2024-07-17 | Yawara            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.31 | atarax1a, deco, laser, reversive, righi   |
+|           35 |      760 | 2024-07-16 | Hype              | W   | 1.000      | 0.450        | 0.025 (0.011)    | 0.476 (0.214)    | 0 (0.000) |    17.89 | atarax1a, deco, laser, reversive, righi   |
+|           34 |      765 | 2024-07-16 | Hype              | L   | 1.000      | -            | -                | -                | -         |   -13.42 | atarax1a, deco, laser, reversive, righi   |
+|           33 |      771 | 2024-07-16 | Dusty Roots       | L   | 1.000      | -            | -                | -                | -         |   -19.50 | atarax1a, deco, laser, reversive, righi   |
+|           32 |      813 | 2024-07-15 | Sharks            | W   | 1.000      | 0.450        | 0.030 (0.014)    | 0.546 (0.246)    | -         |    20.57 | atarax1a, deco, laser, reversive, righi   |
+|           31 |      817 | 2024-07-15 | Sharks            | L   | 1.000      | -            | -                | -                | -         |   -10.55 | atarax1a, deco, laser, reversive, righi   |
+|           30 |      853 | 2024-07-14 | FURIA Academy     | W   | 1.000      | -            | -                | -                | -         |     4.02 | atarax1a, deco, laser, reversive, righi   |
+|           29 |      866 | 2024-07-13 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |   -10.13 | atarax1a, deco, laser, reversive, righi   |
+|           28 |      867 | 2024-07-13 | ODDIK             | L   | 1.000      | -            | -                | -                | -         |    -9.40 | atarax1a, deco, laser, reversive, righi   |
+|           27 |      876 | 2024-07-12 | W7M               | W   | 1.000      | -            | -                | -                | -         |    12.95 | atarax1a, deco, laser, reversive, righi   |
+|           26 |      890 | 2024-07-11 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -5.30 | atarax1a, deco, laser, reversive, righi   |
+|           25 |      924 | 2024-07-09 | Sharks            | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.546 (0.202)    | -         |    21.06 | atarax1a, laser, reversive, righi, yel    |
+|           24 |      926 | 2024-07-09 | Vikings KR        | L   | 1.000      | -            | -                | -                | -         |   -17.27 | Andrew, atarax1a, laser, reversive, righi |
+|           23 |      945 | 2024-07-08 | Solid             | W   | 1.000      | 0.371        | 0.024 (0.009)    | 0.807 (0.299)    | -         |    14.77 | atarax1a, deco, laser, reversive, righi   |
+|           22 |      974 | 2024-07-05 | FURIA Academy     | W   | 0.987      | -            | -                | -                | -         |     4.06 | atarax1a, laser, lenci, reversive, righi  |
+|           21 |      996 | 2024-06-28 | Sharks            | L   | 0.941      | -            | -                | -                | -         |    -8.92 | atarax1a, laser, lenci, reversive, righi  |
+|           20 |     1003 | 2024-06-27 | Galorys           | L   | 0.934      | -            | -                | -                | -         |   -15.32 | atarax1a, laser, lenci, reversive, righi  |
+|           19 |     1143 | 2024-06-13 | paiN              | L   | 0.841      | -            | -                | -                | -         |    -1.75 | atarax1a, laser, lenci, reversive, righi  |
+|           18 |     1207 | 2024-06-11 | Bounty Hunters    | W   | 0.826      | 0.450        | 0.022 (0.008)    | 0.540 (0.201)    | -         |    14.40 | atarax1a, laser, lenci, reversive, righi  |
+|           17 |     1254 | 2024-06-09 | Hype              | L   | 0.815      | -            | -                | -                | -         |   -11.76 | atarax1a, laser, lenci, reversive, righi  |
+|           16 |     1315 | 2024-06-08 | Fluxo             | L   | 0.809      | -            | -                | -                | -         |    -6.30 | atarax1a, laser, lenci, reversive, righi  |
+|           15 |     1378 | 2024-06-07 | Solid             | W   | 0.801      | 0.450        | 0.024 (0.009)    | 0.807 (0.291)    | -         |    13.57 | atarax1a, laser, lenci, reversive, righi  |
+|           14 |     1401 | 2024-06-07 | inSanitY          | L   | 0.800      | -            | -                | -                | -         |    -9.29 | atarax1a, laser, lenci, reversive, righi  |
+|           13 |     2074 | 2024-05-16 | FURIA Academy     | L   | 0.655      | -            | -                | -                | -         |   -18.33 | atarax1a, laser, lenci, reversive, righi  |
+|           12 |     2082 | 2024-05-16 | Case              | L   | 0.654      | -            | -                | -                | -         |   -10.61 | Andrew, atarax1a, laser, lenci, reversive |
+|           11 |     2129 | 2024-05-15 | Solid             | W   | 0.648      | 0.371        | -                | 0.807 (0.194)    | -         |     9.62 | atarax1a, laser, lenci, reversive, righi  |
+|           10 |     2188 | 2024-05-14 | ODDIK             | L   | 0.641      | -            | -                | -                | -         |    -8.23 | atarax1a, laser, lenci, reversive, righi  |
+|            9 |     2222 | 2024-05-13 | Imperial          | L   | 0.633      | -            | -                | -                | -         |    -2.44 | atarax1a, laser, lenci, reversive, righi  |
+|            8 |     2237 | 2024-05-12 | Galorys           | L   | 0.628      | -            | -                | -                | -         |   -10.52 | atarax1a, laser, lenci, reversive, righi  |
+|            7 |     2263 | 2024-05-11 | 9z                | L   | 0.621      | -            | -                | -                | -         |    -0.66 | atarax1a, laser, lenci, reversive, righi  |
+|            6 |     2291 | 2024-05-10 | Solid             | W   | 0.615      | 0.435        | -                | 0.807 (0.216)    | -         |     8.97 | atarax1a, laser, lenci, reversive, righi  |
+|            5 |     2319 | 2024-05-09 | W7M               | W   | 0.606      | -            | -                | -                | -         |     7.41 | atarax1a, laser, lenci, reversive, righi  |
+|            4 |     2360 | 2024-05-07 | Galorys           | W   | 0.593      | -            | -                | -                | -         |     9.11 | atarax1a, laser, lenci, reversive, righi  |
+|            3 |     2385 | 2024-05-05 | paiN              | L   | 0.581      | -            | -                | -                | -         |    -1.09 | atarax1a, laser, lenci, reversive, righi  |
+|            2 |     4282 | 2024-02-15 | 9z                | L   | 0.048      | -            | -                | -                | -         |    -0.04 | atarax1a, laser, lenci, reversive, righi  |
+|            1 |     4314 | 2024-02-14 | O PLANO           | W   | 0.042      | -            | -                | -                | -         |     0.14 | atarax1a, laser, lenci, reversive, righi  |
 
 <br />
 <span id="table2"></span><br />

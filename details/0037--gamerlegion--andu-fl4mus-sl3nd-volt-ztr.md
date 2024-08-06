@@ -37,30 +37,30 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |      249 | 2024-07-30 | Falcons           | L   | 1.000      | -            | -                | -                | -         |    -5.34 | aNdu, FL4MUS, sl3nd, volt, ztr  |
-|           23 |      287 | 2024-07-29 | Vitality          | L   | 1.000      | -            | -                | -                | -         |    -0.68 | aNdu, FL4MUS, sl3nd, volt, ztr  |
-|           22 |     1077 | 2024-06-15 | 5W                | L   | 0.853      | -            | -                | -                | -         |   -19.41 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           21 |     1119 | 2024-06-14 | Endpoint          | W   | 0.846      | 0.450        | -                | 0.540 (0.206)    | 0 (0.000) |     4.46 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           20 |     1149 | 2024-06-13 | Illuminar         | L   | 0.840      | -            | -                | -                | -         |   -21.67 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           19 |     1324 | 2024-06-08 | 5W                | W   | 0.807      | 0.450        | 0.081 (0.029)    | -                | 0 (0.000) |     5.48 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           18 |     1381 | 2024-06-07 | MOUZ NXT          | W   | 0.801      | 0.450        | 0.139 (0.050)    | 0.961 (0.346)    | 0 (0.000) |    10.54 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           17 |     1444 | 2024-06-06 | ECLOT             | W   | 0.794      | 0.450        | 0.061 (0.022)    | 0.537 (0.192)    | 0 (0.000) |    12.20 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           16 |     1678 | 2024-05-31 | GUN5              | L   | 0.753      | -            | -                | -                | -         |   -18.75 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           15 |     1885 | 2024-05-22 | Eternal Fire      | L   | 0.693      | -            | -                | -                | -         |    -1.26 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           14 |     1918 | 2024-05-21 | AMKAL             | W   | 0.687      | 0.769        | 0.130 (0.068)    | 0.452 (0.239)    | 0 (0.000) |    11.71 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           13 |     2027 | 2024-05-18 | fnatic            | W   | 0.665      | 0.769        | 0.371 (0.189)    | 0.680 (0.348)    | 0 (0.000) |    18.14 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           12 |     2048 | 2024-05-17 | Gaimin Gladiators | W   | 0.660      | 0.769        | 0.037 (0.019)    | 0.331 (0.168)    | 0 (0.000) |     6.33 | aNdu, FL4MUS, sl3nd, Snax, volt |
-|           11 |     2351 | 2024-05-07 | Virtus.pro        | L   | 0.594      | -            | -                | -                | -         |    -0.91 | aNdu, isak, sl3nd, Snax, volt   |
-|           10 |     2425 | 2024-05-03 | ENCE              | W   | 0.566      | 0.889        | 0.173 (0.087)    | 0.422 (0.212)    | 1 (0.566) |    14.68 | aNdu, isak, sl3nd, Snax, volt   |
-|            9 |     2443 | 2024-05-02 | FORZE             | W   | 0.561      | 0.889        | 0.057 (0.029)    | 0.163 (0.081)    | 1 (0.561) |     4.63 | aNdu, isak, sl3nd, Snax, volt   |
-|            8 |     2474 | 2024-05-01 | MOUZ              | L   | 0.553      | -            | -                | -                | -         |    -0.29 | aNdu, isak, sl3nd, Snax, volt   |
-|            7 |     2504 | 2024-04-30 | ENCE              | W   | 0.545      | 0.889        | 0.173 (0.084)    | 0.422 (0.204)    | 1 (0.545) |    14.56 | aNdu, isak, sl3nd, Snax, volt   |
-|            6 |     2719 | 2024-04-20 | BIG               | L   | 0.479      | -            | -                | -                | -         |    -4.06 | aNdu, Goody, sl3nd, Snax, volt  |
-|            5 |     2807 | 2024-04-18 | Sashi             | L   | 0.467      | -            | -                | -                | -         |    -7.39 | aNdu, isak, sl3nd, Snax, volt   |
-|            4 |     2887 | 2024-04-16 | MOUZ NXT          | W   | 0.453      | 0.384        | 0.139 (0.024)    | 0.961 (0.167)    | -         |     5.84 | aNdu, isak, sl3nd, Snax, volt   |
-|            3 |     3280 | 2024-04-02 | Monte             | L   | 0.360      | -            | -                | -                | -         |    -7.87 | aNdu, isak, sl3nd, Snax, volt   |
-|            2 |     3288 | 2024-04-02 | FAVBET            | L   | 0.359      | -            | -                | -                | -         |    -9.91 | aNdu, isak, sl3nd, Snax, volt   |
-|            1 |     3308 | 2024-04-01 | GUN5              | W   | 0.352      | -            | -                | -                | -         |     0.18 | aNdu, isak, sl3nd, Snax, volt   |
+|           24 |      251 | 2024-07-30 | Falcons           | L   | 1.000      | -            | -                | -                | -         |    -5.34 | aNdu, FL4MUS, sl3nd, volt, ztr  |
+|           23 |      289 | 2024-07-29 | Vitality          | L   | 1.000      | -            | -                | -                | -         |    -0.68 | aNdu, FL4MUS, sl3nd, volt, ztr  |
+|           22 |     1079 | 2024-06-15 | 5W                | L   | 0.853      | -            | -                | -                | -         |   -19.41 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           21 |     1121 | 2024-06-14 | Endpoint          | W   | 0.846      | 0.450        | -                | 0.540 (0.206)    | 0 (0.000) |     4.46 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           20 |     1151 | 2024-06-13 | Illuminar         | L   | 0.840      | -            | -                | -                | -         |   -21.66 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           19 |     1326 | 2024-06-08 | 5W                | W   | 0.807      | 0.450        | 0.081 (0.029)    | -                | 0 (0.000) |     5.48 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           18 |     1383 | 2024-06-07 | MOUZ NXT          | W   | 0.801      | 0.450        | 0.139 (0.050)    | 0.961 (0.346)    | 0 (0.000) |    10.54 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           17 |     1446 | 2024-06-06 | ECLOT             | W   | 0.794      | 0.450        | 0.061 (0.022)    | 0.537 (0.192)    | 0 (0.000) |    12.20 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           16 |     1680 | 2024-05-31 | GUN5              | L   | 0.753      | -            | -                | -                | -         |   -18.73 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           15 |     1887 | 2024-05-22 | Eternal Fire      | L   | 0.693      | -            | -                | -                | -         |    -1.26 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           14 |     1920 | 2024-05-21 | AMKAL             | W   | 0.687      | 0.769        | 0.130 (0.068)    | 0.452 (0.239)    | 0 (0.000) |    11.71 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           13 |     2029 | 2024-05-18 | fnatic            | W   | 0.665      | 0.769        | 0.371 (0.189)    | 0.680 (0.348)    | 0 (0.000) |    18.14 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           12 |     2050 | 2024-05-17 | Gaimin Gladiators | W   | 0.660      | 0.769        | 0.037 (0.019)    | 0.331 (0.168)    | 0 (0.000) |     6.33 | aNdu, FL4MUS, sl3nd, Snax, volt |
+|           11 |     2353 | 2024-05-07 | Virtus.pro        | L   | 0.594      | -            | -                | -                | -         |    -0.91 | aNdu, isak, sl3nd, Snax, volt   |
+|           10 |     2427 | 2024-05-03 | ENCE              | W   | 0.566      | 0.889        | 0.173 (0.087)    | 0.422 (0.212)    | 1 (0.566) |    14.68 | aNdu, isak, sl3nd, Snax, volt   |
+|            9 |     2445 | 2024-05-02 | FORZE             | W   | 0.561      | 0.889        | 0.057 (0.029)    | 0.163 (0.081)    | 1 (0.561) |     4.63 | aNdu, isak, sl3nd, Snax, volt   |
+|            8 |     2476 | 2024-05-01 | MOUZ              | L   | 0.553      | -            | -                | -                | -         |    -0.29 | aNdu, isak, sl3nd, Snax, volt   |
+|            7 |     2506 | 2024-04-30 | ENCE              | W   | 0.545      | 0.889        | 0.173 (0.084)    | 0.422 (0.204)    | 1 (0.545) |    14.56 | aNdu, isak, sl3nd, Snax, volt   |
+|            6 |     2721 | 2024-04-20 | BIG               | L   | 0.479      | -            | -                | -                | -         |    -4.06 | aNdu, Goody, sl3nd, Snax, volt  |
+|            5 |     2809 | 2024-04-18 | Sashi             | L   | 0.467      | -            | -                | -                | -         |    -7.39 | aNdu, isak, sl3nd, Snax, volt   |
+|            4 |     2889 | 2024-04-16 | MOUZ NXT          | W   | 0.453      | 0.384        | 0.139 (0.024)    | 0.961 (0.167)    | -         |     5.84 | aNdu, isak, sl3nd, Snax, volt   |
+|            3 |     3282 | 2024-04-02 | Monte             | L   | 0.360      | -            | -                | -                | -         |    -7.87 | aNdu, isak, sl3nd, Snax, volt   |
+|            2 |     3290 | 2024-04-02 | FAVBET            | L   | 0.359      | -            | -                | -                | -         |    -9.91 | aNdu, isak, sl3nd, Snax, volt   |
+|            1 |     3310 | 2024-04-01 | GUN5              | W   | 0.352      | -            | -                | -                | -         |     0.18 | aNdu, isak, sl3nd, Snax, volt   |
 
 <br />
 <span id="table2"></span><br />

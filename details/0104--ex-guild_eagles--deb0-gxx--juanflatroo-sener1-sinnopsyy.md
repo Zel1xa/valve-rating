@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                      |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           37 |     1210 | 2024-06-11 | SINNERS           | L   | 0.825      | -            | -                | -                | -         |    -7.50 | deb0, gxx-, juanflatroo, SENER1, sinnopsyy  |
-|           36 |     1806 | 2024-05-25 | Zero Tenacity     | L   | 0.714      | -            | -                | -                | -         |    -4.64 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           35 |     1815 | 2024-05-25 | The Suspect       | W   | 0.712      | 0.143        | 0.008 (0.001)    | 0.223 (0.023)    | 0 (0.000) |     9.76 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           34 |     1824 | 2024-05-24 | Zero Tenacity     | W   | 0.707      | 0.273        | 0.143 (0.028)    | 1.000 (0.193)    | 0 (0.000) |    18.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           33 |     1829 | 2024-05-24 | Serbia            | W   | 0.706      | 0.273        | 0.012 (0.002)    | 0.219 (0.042)    | 0 (0.000) |     9.25 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           32 |     2059 | 2024-05-17 | Sashi             | L   | 0.658      | -            | -                | -                | -         |    -2.34 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           31 |     2402 | 2024-05-05 | 1WIN              | L   | 0.578      | -            | -                | -                | -         |    -6.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           30 |     2516 | 2024-04-29 | EYEBALLERS        | L   | 0.540      | -            | -                | -                | -         |    -7.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           29 |     2557 | 2024-04-27 | Insilio           | L   | 0.527      | -            | -                | -                | -         |    -6.44 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           28 |     2583 | 2024-04-26 | BLEED             | L   | 0.520      | -            | -                | -                | -         |    -3.93 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           27 |     2618 | 2024-04-25 | PARIVISION        | L   | 0.513      | -            | -                | -                | -         |    -3.83 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           26 |     2642 | 2024-04-24 | Zero Tenacity     | W   | 0.505      | 0.435        | 0.143 (0.031)    | 1.000 (0.220)    | 0 (0.000) |    12.27 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           25 |     2669 | 2024-04-22 | 3DMAX             | L   | 0.493      | -            | -                | -                | -         |    -0.20 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           24 |     2681 | 2024-04-22 | Sangal            | W   | 0.491      | 0.435        | 0.219 (0.047)    | 0.846 (0.181)    | 0 (0.000) |    13.11 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           23 |     2794 | 2024-04-18 | Sashi             | L   | 0.467      | -            | -                | -                | -         |    -2.43 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           22 |     2799 | 2024-04-18 | KOI               | W   | 0.467      | 0.143        | 0.058 (0.004)    | 0.356 (0.024)    | 0 (0.000) |    11.78 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           21 |     2811 | 2024-04-18 | FRAGMATIC         | W   | 0.467      | -            | -                | -                | 0 (0.000) |     1.23 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           20 |     2818 | 2024-04-18 | AMKAL             | L   | 0.466      | -            | -                | -                | -         |    -2.17 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           19 |     2888 | 2024-04-16 | Sashi             | W   | 0.453      | 0.384        | 0.184 (0.032)    | 0.958 (0.167)    | -         |    12.18 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           18 |     3081 | 2024-04-09 | Metizport         | W   | 0.406      | 0.384        | 0.036 (0.006)    | 0.510 (0.080)    | -         |     8.73 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           17 |     3248 | 2024-04-03 | AMKAL             | L   | 0.366      | -            | -                | -                | -         |    -1.66 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           16 |     3278 | 2024-04-02 | Insilio           | L   | 0.361      | -            | -                | -                | -         |    -4.16 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           15 |     3287 | 2024-04-02 | AMKAL             | W   | 0.359      | 0.143        | 0.130 (0.007)    | 0.452 (0.023)    | -         |     9.72 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           14 |     3297 | 2024-04-02 | 500               | L   | 0.358      | -            | -                | -                | -         |    -7.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           13 |     3302 | 2024-04-01 | 500               | W   | 0.354      | 0.384        | -                | 0.090 (0.012)    | -         |     4.25 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           12 |     3383 | 2024-03-27 | ALTERNATE aTTaX   | L   | 0.321      | -            | -                | -                | -         |    -2.82 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           11 |     3453 | 2024-03-22 | VP.Prodigy        | L   | 0.285      | -            | -                | -                | -         |    -3.79 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|           10 |     3994 | 2024-02-27 | Croatia           | L   | 0.127      | -            | -                | -                | -         |    -3.46 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            9 |     4001 | 2024-02-27 | Metizport         | W   | 0.127      | -            | -                | -                | -         |     2.50 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            8 |     4080 | 2024-02-24 | GamerLegion       | L   | 0.105      | -            | -                | -                | -         |    -1.85 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            7 |     4089 | 2024-02-23 | BetBoom           | W   | 0.099      | 0.143        | 0.248 (0.004)    | -                | 1 (0.099) |     3.02 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            6 |     4107 | 2024-02-22 | Gaimin Gladiators | L   | 0.093      | -            | -                | -                | -         |    -0.90 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            5 |     4130 | 2024-02-21 | ex-Preasy         | W   | 0.087      | -            | -                | -                | 1 (0.087) |     1.22 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            4 |     4160 | 2024-02-20 | Nexus             | W   | 0.079      | -            | -                | -                | 1 (0.079) |     1.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            3 |     4184 | 2024-02-19 | ENCE              | L   | 0.073      | -            | -                | -                | -         |    -0.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            2 |     4193 | 2024-02-19 | MOUZ              | L   | 0.072      | -            | -                | -                | -         |    -0.01 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
-|            1 |     4414 | 2024-02-08 | Insilio           | L   | 0.001      | -            | -                | -                | -         |    -0.01 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           37 |     1212 | 2024-06-11 | SINNERS           | L   | 0.825      | -            | -                | -                | -         |    -7.50 | deb0, gxx-, juanflatroo, SENER1, sinnopsyy  |
+|           36 |     1808 | 2024-05-25 | Zero Tenacity     | L   | 0.714      | -            | -                | -                | -         |    -4.64 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           35 |     1817 | 2024-05-25 | The Suspect       | W   | 0.712      | 0.143        | 0.008 (0.001)    | 0.223 (0.023)    | 0 (0.000) |     9.76 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           34 |     1826 | 2024-05-24 | Zero Tenacity     | W   | 0.707      | 0.273        | 0.143 (0.028)    | 1.000 (0.193)    | 0 (0.000) |    18.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           33 |     1831 | 2024-05-24 | Serbia            | W   | 0.706      | 0.273        | 0.012 (0.002)    | 0.219 (0.042)    | 0 (0.000) |     9.25 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           32 |     2061 | 2024-05-17 | Sashi             | L   | 0.658      | -            | -                | -                | -         |    -2.34 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           31 |     2404 | 2024-05-05 | 1WIN              | L   | 0.578      | -            | -                | -                | -         |    -6.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           30 |     2518 | 2024-04-29 | EYEBALLERS        | L   | 0.540      | -            | -                | -                | -         |    -7.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           29 |     2559 | 2024-04-27 | Insilio           | L   | 0.527      | -            | -                | -                | -         |    -6.44 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           28 |     2585 | 2024-04-26 | BLEED             | L   | 0.520      | -            | -                | -                | -         |    -3.93 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           27 |     2620 | 2024-04-25 | PARIVISION        | L   | 0.513      | -            | -                | -                | -         |    -3.83 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           26 |     2644 | 2024-04-24 | Zero Tenacity     | W   | 0.505      | 0.435        | 0.143 (0.031)    | 1.000 (0.220)    | 0 (0.000) |    12.27 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           25 |     2671 | 2024-04-22 | 3DMAX             | L   | 0.493      | -            | -                | -                | -         |    -0.20 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           24 |     2683 | 2024-04-22 | Sangal            | W   | 0.491      | 0.435        | 0.219 (0.047)    | 0.846 (0.181)    | 0 (0.000) |    13.11 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           23 |     2796 | 2024-04-18 | Sashi             | L   | 0.467      | -            | -                | -                | -         |    -2.43 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           22 |     2801 | 2024-04-18 | KOI               | W   | 0.467      | 0.143        | 0.058 (0.004)    | 0.356 (0.024)    | 0 (0.000) |    11.78 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           21 |     2813 | 2024-04-18 | FRAGMATIC         | W   | 0.467      | -            | -                | -                | 0 (0.000) |     1.23 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           20 |     2820 | 2024-04-18 | AMKAL             | L   | 0.466      | -            | -                | -                | -         |    -2.17 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           19 |     2890 | 2024-04-16 | Sashi             | W   | 0.453      | 0.384        | 0.184 (0.032)    | 0.958 (0.167)    | -         |    12.18 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           18 |     3083 | 2024-04-09 | Metizport         | W   | 0.406      | 0.384        | 0.036 (0.006)    | 0.510 (0.080)    | -         |     8.73 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           17 |     3250 | 2024-04-03 | AMKAL             | L   | 0.366      | -            | -                | -                | -         |    -1.66 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           16 |     3280 | 2024-04-02 | Insilio           | L   | 0.361      | -            | -                | -                | -         |    -4.16 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           15 |     3289 | 2024-04-02 | AMKAL             | W   | 0.359      | 0.143        | 0.130 (0.007)    | 0.452 (0.023)    | -         |     9.72 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           14 |     3299 | 2024-04-02 | 500               | L   | 0.358      | -            | -                | -                | -         |    -7.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           13 |     3304 | 2024-04-01 | 500               | W   | 0.354      | 0.384        | -                | 0.090 (0.012)    | -         |     4.25 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           12 |     3385 | 2024-03-27 | ALTERNATE aTTaX   | L   | 0.321      | -            | -                | -                | -         |    -2.82 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           11 |     3455 | 2024-03-22 | VP.Prodigy        | L   | 0.285      | -            | -                | -                | -         |    -3.78 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|           10 |     3996 | 2024-02-27 | Croatia           | L   | 0.127      | -            | -                | -                | -         |    -3.46 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            9 |     4003 | 2024-02-27 | Metizport         | W   | 0.127      | -            | -                | -                | -         |     2.50 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            8 |     4082 | 2024-02-24 | GamerLegion       | L   | 0.105      | -            | -                | -                | -         |    -1.85 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            7 |     4091 | 2024-02-23 | BetBoom           | W   | 0.099      | 0.143        | 0.248 (0.004)    | -                | 1 (0.099) |     3.02 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            6 |     4109 | 2024-02-22 | Gaimin Gladiators | L   | 0.093      | -            | -                | -                | -         |    -0.90 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            5 |     4132 | 2024-02-21 | ex-Preasy         | W   | 0.087      | -            | -                | -                | 1 (0.087) |     1.22 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            4 |     4162 | 2024-02-20 | Nexus             | W   | 0.079      | -            | -                | -                | 1 (0.079) |     1.35 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            3 |     4186 | 2024-02-19 | ENCE              | L   | 0.073      | -            | -                | -                | -         |    -0.05 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            2 |     4195 | 2024-02-19 | MOUZ              | L   | 0.072      | -            | -                | -                | -         |    -0.01 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
+|            1 |     4416 | 2024-02-08 | Insilio           | L   | 0.001      | -            | -                | -                | -         |    -0.01 | gxx-, juanflatroo, rigoN, SENER1, sinnopsyy |
 
 <br />
 <span id="table2"></span><br />

@@ -37,31 +37,31 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                              |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           25 |     2909 | 2024-04-15 | Sashi             | L   | 0.446      | -            | -                | -                | -         |    -2.04 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           24 |     2937 | 2024-04-13 | 3DMAX             | L   | 0.432      | -            | -                | -                | -         |    -0.14 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           23 |     3088 | 2024-04-09 | kONO              | W   | 0.405      | 0.384        | 0.028 (0.004)    | 0.553 (0.086)    | 0 (0.000) |     6.31 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           22 |     3142 | 2024-04-07 | Zero Tenacity     | W   | 0.392      | 0.358        | 0.143 (0.020)    | 1.000 (0.140)    | 0 (0.000) |    10.28 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           21 |     3448 | 2024-03-22 | FORZE             | L   | 0.286      | -            | -                | -                | -         |    -3.29 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           20 |     3527 | 2024-03-18 | Sampi             | W   | 0.258      | 0.371        | 0.027 (0.003)    | 1.000 (0.096)    | 0 (0.000) |     5.21 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           19 |     3567 | 2024-03-16 | Passion UA        | W   | 0.246      | 0.371        | 0.173 (0.016)    | 1.000 (0.091)    | 0 (0.000) |     6.45 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           18 |     3623 | 2024-03-14 | Entropiq          | W   | 0.231      | -            | -                | -                | 0 (0.000) |     1.57 | Altekz, Kristou, refrezh, roeJ, TMB |
-|           17 |     3696 | 2024-03-11 | Metizport         | L   | 0.214      | -            | -                | -                | -         |    -2.29 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           16 |     3706 | 2024-03-11 | HEROIC            | L   | 0.213      | -            | -                | -                | -         |    -0.10 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           15 |     3711 | 2024-03-11 | Permitta          | W   | 0.212      | 0.371        | 0.039 (0.003)    | 0.919 (0.072)    | 0 (0.000) |     5.01 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           14 |     3761 | 2024-03-09 | Fraud5            | W   | 0.198      | -            | -                | -                | 0 (0.000) |     1.94 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           13 |     3804 | 2024-03-07 | Secret            | W   | 0.185      | -            | -                | -                | 0 (0.000) |     1.15 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           12 |     3897 | 2024-03-03 | Gaimin Gladiators | W   | 0.161      | 0.143        | 0.037 (0.001)    | 0.331 (0.008)    | 0 (0.000) |     3.76 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           11 |     3903 | 2024-03-03 | BetBoom           | W   | 0.161      | 0.143        | 0.248 (0.006)    | 0.513 (0.012)    | -         |     4.92 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|           10 |     3911 | 2024-03-03 | kONO              | W   | 0.160      | 0.143        | 0.028 (0.001)    | 0.553 (0.013)    | -         |     2.78 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            9 |     3919 | 2024-03-03 | fnatic            | L   | 0.159      | -            | -                | -                | -         |    -0.07 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            8 |     3922 | 2024-03-03 | MOUZ NXT          | L   | 0.158      | -            | -                | -                | -         |    -0.90 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            7 |     3950 | 2024-03-01 | BetBoom           | L   | 0.147      | -            | -                | -                | -         |    -0.13 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            6 |     3972 | 2024-02-28 | fnatic            | W   | 0.134      | 0.500        | 0.371 (0.025)    | 0.680 (0.046)    | -         |     4.17 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            5 |     4130 | 2024-02-21 | ex-Guild Eagles   | L   | 0.087      | -            | -                | -                | -         |    -1.22 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            4 |     4157 | 2024-02-20 | PERA              | W   | 0.080      | 0.143        | 0.047 (0.001)    | 0.435 (0.005)    | 1 (0.080) |     1.77 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            3 |     4182 | 2024-02-19 | OG                | L   | 0.074      | -            | -                | -                | -         |    -0.53 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            2 |     4186 | 2024-02-19 | HEROIC            | L   | 0.073      | -            | -                | -                | -         |    -0.03 | Altekz, dupreeh, refrezh, roeJ, TMB |
-|            1 |     4409 | 2024-02-09 | Gaimin Gladiators | W   | 0.005      | -            | -                | -                | -         |     0.11 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           25 |     2911 | 2024-04-15 | Sashi             | L   | 0.446      | -            | -                | -                | -         |    -2.04 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           24 |     2939 | 2024-04-13 | 3DMAX             | L   | 0.432      | -            | -                | -                | -         |    -0.14 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           23 |     3090 | 2024-04-09 | kONO              | W   | 0.405      | 0.384        | 0.028 (0.004)    | 0.553 (0.086)    | 0 (0.000) |     6.31 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           22 |     3144 | 2024-04-07 | Zero Tenacity     | W   | 0.392      | 0.358        | 0.143 (0.020)    | 1.000 (0.140)    | 0 (0.000) |    10.28 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           21 |     3450 | 2024-03-22 | FORZE             | L   | 0.286      | -            | -                | -                | -         |    -3.29 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           20 |     3529 | 2024-03-18 | Sampi             | W   | 0.258      | 0.371        | 0.027 (0.003)    | 1.000 (0.096)    | 0 (0.000) |     5.22 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           19 |     3569 | 2024-03-16 | Passion UA        | W   | 0.246      | 0.371        | 0.173 (0.016)    | 1.000 (0.091)    | 0 (0.000) |     6.45 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           18 |     3625 | 2024-03-14 | Entropiq          | W   | 0.231      | -            | -                | -                | 0 (0.000) |     1.57 | Altekz, Kristou, refrezh, roeJ, TMB |
+|           17 |     3698 | 2024-03-11 | Metizport         | L   | 0.214      | -            | -                | -                | -         |    -2.29 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           16 |     3708 | 2024-03-11 | HEROIC            | L   | 0.213      | -            | -                | -                | -         |    -0.10 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           15 |     3713 | 2024-03-11 | Permitta          | W   | 0.212      | 0.371        | 0.039 (0.003)    | 0.919 (0.072)    | 0 (0.000) |     5.01 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           14 |     3763 | 2024-03-09 | Fraud5            | W   | 0.198      | -            | -                | -                | 0 (0.000) |     1.94 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           13 |     3806 | 2024-03-07 | Secret            | W   | 0.185      | -            | -                | -                | 0 (0.000) |     1.15 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           12 |     3899 | 2024-03-03 | Gaimin Gladiators | W   | 0.161      | 0.143        | 0.037 (0.001)    | 0.331 (0.008)    | 0 (0.000) |     3.76 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           11 |     3905 | 2024-03-03 | BetBoom           | W   | 0.161      | 0.143        | 0.248 (0.006)    | 0.513 (0.012)    | -         |     4.92 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|           10 |     3913 | 2024-03-03 | kONO              | W   | 0.160      | 0.143        | 0.028 (0.001)    | 0.553 (0.013)    | -         |     2.78 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            9 |     3921 | 2024-03-03 | fnatic            | L   | 0.159      | -            | -                | -                | -         |    -0.07 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            8 |     3924 | 2024-03-03 | MOUZ NXT          | L   | 0.158      | -            | -                | -                | -         |    -0.90 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            7 |     3952 | 2024-03-01 | BetBoom           | L   | 0.147      | -            | -                | -                | -         |    -0.13 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            6 |     3974 | 2024-02-28 | fnatic            | W   | 0.134      | 0.500        | 0.371 (0.025)    | 0.680 (0.046)    | -         |     4.17 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            5 |     4132 | 2024-02-21 | ex-Guild Eagles   | L   | 0.087      | -            | -                | -                | -         |    -1.22 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            4 |     4159 | 2024-02-20 | PERA              | W   | 0.080      | 0.143        | 0.047 (0.001)    | 0.435 (0.005)    | 1 (0.080) |     1.77 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            3 |     4184 | 2024-02-19 | OG                | L   | 0.074      | -            | -                | -                | -         |    -0.53 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            2 |     4188 | 2024-02-19 | HEROIC            | L   | 0.073      | -            | -                | -                | -         |    -0.03 | Altekz, dupreeh, refrezh, roeJ, TMB |
+|            1 |     4411 | 2024-02-09 | Gaimin Gladiators | W   | 0.005      | -            | -                | -                | -         |     0.11 | Altekz, dupreeh, refrezh, roeJ, TMB |
 
 <br />
 <span id="table2"></span><br />

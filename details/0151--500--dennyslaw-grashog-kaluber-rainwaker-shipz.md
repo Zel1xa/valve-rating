@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           22 |     2454 | 2024-05-02 | 1WIN              | L   | 0.559      | -            | -                | -                | -         |    -3.96 | dennyslaw, Grashog, KalubeR, Rainwaker, SHiPZ |
-|           21 |     2524 | 2024-04-29 | Sashi             | L   | 0.539      | -            | -                | -                | -         |    -1.27 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           20 |     2553 | 2024-04-27 | Zero Tenacity     | L   | 0.527      | -            | -                | -                | -         |    -2.24 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           19 |     2823 | 2024-04-18 | Secret            | L   | 0.465      | -            | -                | -                | -         |   -10.93 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           18 |     2848 | 2024-04-17 | Portugal          | L   | 0.460      | -            | -                | -                | -         |    -8.41 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           17 |     2885 | 2024-04-16 | Passion UA        | W   | 0.453      | 0.384        | 0.173 (0.030)    | 1.000 (0.174)    | 0 (0.000) |    12.19 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           16 |     2974 | 2024-04-11 | PARIVISION        | W   | 0.420      | 0.384        | 0.017 (0.003)    | 0.590 (0.095)    | 0 (0.000) |    11.70 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           15 |     3297 | 2024-04-02 | ex-Guild Eagles   | W   | 0.358      | 0.384        | 0.007 (0.001)    | 0.207 (0.029)    | 0 (0.000) |     7.05 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           14 |     3302 | 2024-04-01 | ex-Guild Eagles   | L   | 0.354      | -            | -                | -                | -         |    -4.25 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           13 |     3374 | 2024-03-27 | Ninjas in Pyjamas | L   | 0.321      | -            | -                | -                | -         |    -0.04 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           12 |     3381 | 2024-03-27 | FORZE             | W   | 0.321      | 0.143        | 0.057 (0.003)    | 0.163 (0.007)    | 0 (0.000) |     7.69 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           11 |     3726 | 2024-03-10 | Young Ninjas      | L   | 0.206      | -            | -                | -                | -         |    -2.79 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|           10 |     3799 | 2024-03-07 | Sangal            | W   | 0.186      | 0.143        | 0.219 (0.006)    | 0.846 (0.023)    | 0 (0.000) |     5.42 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|            9 |     3875 | 2024-03-05 | Entropiq          | W   | 0.172      | 0.143        | 0.000 (0.000)    | 0.034 (0.001)    | 0 (0.000) |     1.59 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|            8 |     3934 | 2024-03-02 | ALTERNATE aTTaX   | W   | 0.153      | 0.358        | 0.031 (0.002)    | 0.537 (0.029)    | 0 (0.000) |     3.98 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|            7 |     4022 | 2024-02-26 | Imperial fe       | W   | 0.119      | 0.143        | 0.128 (0.002)    | 0.287 (0.005)    | 0 (0.000) |     3.23 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|            6 |     4070 | 2024-02-24 | Portugal          | W   | 0.107      | 0.358        | 0.003 (0.000)    | 0.115 (0.004)    | 0 (0.000) |     1.59 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
-|            5 |     4213 | 2024-02-18 | Sangal            | L   | 0.065      | -            | -                | -                | -         |    -0.14 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
-|            4 |     4253 | 2024-02-16 | SINNERS           | L   | 0.054      | -            | -                | -                | -         |    -0.13 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
-|            3 |     4259 | 2024-02-16 | B8                | L   | 0.053      | -            | -                | -                | -         |    -0.18 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
-|            2 |     4261 | 2024-02-16 | SINNERS           | W   | 0.053      | 0.143        | 0.037 (0.000)    | 0.800 (0.006)    | 0 (0.000) |     1.54 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
-|            1 |     4393 | 2024-02-10 | Secret            | L   | 0.012      | -            | -                | -                | -         |    -0.27 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
+|           22 |     2456 | 2024-05-02 | 1WIN              | L   | 0.559      | -            | -                | -                | -         |    -3.96 | dennyslaw, Grashog, KalubeR, Rainwaker, SHiPZ |
+|           21 |     2526 | 2024-04-29 | Sashi             | L   | 0.539      | -            | -                | -                | -         |    -1.27 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           20 |     2555 | 2024-04-27 | Zero Tenacity     | L   | 0.527      | -            | -                | -                | -         |    -2.24 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           19 |     2825 | 2024-04-18 | Secret            | L   | 0.465      | -            | -                | -                | -         |   -10.93 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           18 |     2850 | 2024-04-17 | Portugal          | L   | 0.460      | -            | -                | -                | -         |    -8.41 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           17 |     2887 | 2024-04-16 | Passion UA        | W   | 0.453      | 0.384        | 0.173 (0.030)    | 1.000 (0.174)    | 0 (0.000) |    12.19 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           16 |     2976 | 2024-04-11 | PARIVISION        | W   | 0.420      | 0.384        | 0.017 (0.003)    | 0.590 (0.095)    | 0 (0.000) |    11.70 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           15 |     3299 | 2024-04-02 | ex-Guild Eagles   | W   | 0.358      | 0.384        | 0.007 (0.001)    | 0.207 (0.029)    | 0 (0.000) |     7.05 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           14 |     3304 | 2024-04-01 | ex-Guild Eagles   | L   | 0.354      | -            | -                | -                | -         |    -4.25 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           13 |     3376 | 2024-03-27 | Ninjas in Pyjamas | L   | 0.321      | -            | -                | -                | -         |    -0.04 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           12 |     3383 | 2024-03-27 | FORZE             | W   | 0.321      | 0.143        | 0.057 (0.003)    | 0.163 (0.007)    | 0 (0.000) |     7.69 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           11 |     3728 | 2024-03-10 | Young Ninjas      | L   | 0.206      | -            | -                | -                | -         |    -2.79 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|           10 |     3801 | 2024-03-07 | Sangal            | W   | 0.186      | 0.143        | 0.219 (0.006)    | 0.846 (0.023)    | 0 (0.000) |     5.42 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|            9 |     3877 | 2024-03-05 | Entropiq          | W   | 0.172      | 0.143        | 0.000 (0.000)    | 0.034 (0.001)    | 0 (0.000) |     1.59 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|            8 |     3936 | 2024-03-02 | ALTERNATE aTTaX   | W   | 0.153      | 0.358        | 0.031 (0.002)    | 0.537 (0.029)    | 0 (0.000) |     3.98 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|            7 |     4024 | 2024-02-26 | Imperial fe       | W   | 0.119      | 0.143        | 0.128 (0.002)    | 0.287 (0.005)    | 0 (0.000) |     3.23 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|            6 |     4072 | 2024-02-24 | Portugal          | W   | 0.107      | 0.358        | 0.003 (0.000)    | 0.115 (0.004)    | 0 (0.000) |     1.59 | dennyslaw, Grashog, Rainwaker, REDSTAR, SHiPZ |
+|            5 |     4215 | 2024-02-18 | Sangal            | L   | 0.065      | -            | -                | -                | -         |    -0.14 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
+|            4 |     4255 | 2024-02-16 | SINNERS           | L   | 0.054      | -            | -                | -                | -         |    -0.13 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
+|            3 |     4261 | 2024-02-16 | B8                | L   | 0.053      | -            | -                | -                | -         |    -0.18 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
+|            2 |     4263 | 2024-02-16 | SINNERS           | W   | 0.053      | 0.143        | 0.037 (0.000)    | 0.800 (0.006)    | 0 (0.000) |     1.54 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
+|            1 |     4395 | 2024-02-10 | Secret            | L   | 0.012      | -            | -                | -                | -         |    -0.27 | dennyslaw, Patrick, Rainwaker, REDSTAR, SHiPZ |
 
 <br />
 <span id="table2"></span><br />

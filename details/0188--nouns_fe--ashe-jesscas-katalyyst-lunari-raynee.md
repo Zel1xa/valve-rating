@@ -1,7 +1,7 @@
 ### Roster Details<br />
 Team Name: Nouns fe<br />
 Roster: ashe, jesscas, katalyyst, lunari, raynee<br />
-Global Rank: [189](../standings_global.md)<br />
+Global Rank: [188](../standings_global.md)<br />
 <br />
 Region: [Americas]( ../standings_americas.md)<br />
 Regional Rank: [52]( ../standings_americas.md)<br />
@@ -37,16 +37,16 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           10 |      307 | 2024-07-28 | TSM Shimmer      | L   | 1.000      | -            | -                | -                | -         |   -12.61 | ashe, jesscas, katalyyst, lunari, raynee |
-|            9 |      979 | 2024-06-30 | Lotus fe         | L   | 0.955      | -            | -                | -                | -         |   -14.82 | ashe, daria, jesscas, katalyyst, raynee  |
-|            8 |     2738 | 2024-04-19 | FlyQuest RED     | L   | 0.475      | -            | -                | -                | -         |    -5.20 | ashe, katalyyst, Knopk@, lunari, tokkis  |
-|            7 |     2960 | 2024-04-11 | Limitless Angels | L   | 0.422      | -            | -                | -                | -         |    -6.75 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            6 |     3184 | 2024-04-04 | cleanup crew fe  | W   | 0.375      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     5.64 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            5 |     3359 | 2024-03-27 | Karma            | L   | 0.322      | -            | -                | -                | -         |    -5.02 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            4 |     3456 | 2024-03-21 | COVEN            | W   | 0.282      | 0.322        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.04 | ashe, jesscas, katalyyst, lunari, tokkis |
-|            3 |     3599 | 2024-03-14 | TSM Shimmer      | L   | 0.236      | -            | -                | -                | -         |    -3.10 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            2 |     3810 | 2024-03-06 | WG Bandits       | W   | 0.182      | 0.322        | 0.002 (0.000)    | 0.020 (0.001)    | 0 (0.000) |     2.73 | ashe, jesscas, katalyyst, lunari, Rice   |
-|            1 |     4353 | 2024-02-13 | COVEN            | W   | 0.035      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.39 | ashe, jesscas, katalyyst, lunari, Rice   |
+|           10 |      309 | 2024-07-28 | TSM Shimmer      | L   | 1.000      | -            | -                | -                | -         |   -12.61 | ashe, jesscas, katalyyst, lunari, raynee |
+|            9 |      981 | 2024-06-30 | Lotus fe         | L   | 0.955      | -            | -                | -                | -         |   -14.82 | ashe, daria, jesscas, katalyyst, raynee  |
+|            8 |     2740 | 2024-04-19 | FlyQuest RED     | L   | 0.475      | -            | -                | -                | -         |    -5.20 | ashe, katalyyst, Knopk@, lunari, tokkis  |
+|            7 |     2962 | 2024-04-11 | Limitless Angels | L   | 0.422      | -            | -                | -                | -         |    -6.75 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            6 |     3186 | 2024-04-04 | cleanup crew fe  | W   | 0.375      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     5.64 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            5 |     3361 | 2024-03-27 | Karma            | L   | 0.322      | -            | -                | -                | -         |    -5.02 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            4 |     3458 | 2024-03-21 | COVEN            | W   | 0.282      | 0.322        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.04 | ashe, jesscas, katalyyst, lunari, tokkis |
+|            3 |     3601 | 2024-03-14 | TSM Shimmer      | L   | 0.236      | -            | -                | -                | -         |    -3.10 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            2 |     3812 | 2024-03-06 | WG Bandits       | W   | 0.182      | 0.322        | 0.002 (0.000)    | 0.020 (0.001)    | 0 (0.000) |     2.73 | ashe, jesscas, katalyyst, lunari, Rice   |
+|            1 |     4355 | 2024-02-13 | COVEN            | W   | 0.035      | 0.143        | 0.001 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.39 | ashe, jesscas, katalyyst, lunari, Rice   |
 
 <br />
 <span id="table2"></span><br />

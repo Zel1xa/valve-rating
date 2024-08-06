@@ -37,18 +37,18 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent        | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      663 | 2024-07-18 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -16.28 | darber, Goody, leaf, rud, Tree60 |
-|           11 |      724 | 2024-07-17 | K10             | L   | 1.000      | -            | -                | -                | -         |   -17.55 | darber, Goody, leaf, rud, Tree60 |
-|           10 |     1588 | 2024-06-03 | PERA            | L   | 0.774      | -            | -                | -                | -         |    -6.41 | darber, Goody, leaf, rud, Tree60 |
-|            9 |     1747 | 2024-05-28 | UNiTY           | W   | 0.734      | 0.379        | 0.024 (0.007)    | 0.331 (0.092)    | 0 (0.000) |    17.02 | darber, Goody, leaf, rud, Tree60 |
-|            8 |     1839 | 2024-05-23 | brazylijski luz | L   | 0.700      | -            | -                | -                | -         |    -8.65 | darber, Goody, leaf, rud, Tree60 |
-|            7 |     2403 | 2024-05-05 | MOUZ NXT        | L   | 0.578      | -            | -                | -                | -         |    -3.29 | darber, Goody, leaf, rud, shadiy |
-|            6 |     2413 | 2024-05-04 | B8              | L   | 0.572      | -            | -                | -                | -         |    -3.03 | darber, Goody, leaf, rud, shadiy |
-|            5 |     2485 | 2024-05-01 | RUBY            | W   | 0.551      | 0.435        | 0.095 (0.023)    | 0.479 (0.115)    | 0 (0.000) |    12.72 | darber, Goody, leaf, rud, shadiy |
-|            4 |     2489 | 2024-04-30 | Sampi           | L   | 0.548      | -            | -                | -                | -         |    -4.89 | darber, Goody, leaf, rud, sSen   |
-|            3 |     2574 | 2024-04-27 | K10             | W   | 0.525      | 0.143        | 0.008 (0.001)    | 0.129 (0.010)    | 0 (0.000) |     6.85 | darber, Goody, leaf, rud, sSen   |
-|            2 |     3320 | 2024-03-30 | NAVI Junior     | W   | 0.339      | 0.333        | 0.003 (0.000)    | 0.115 (0.013)    | 0 (0.000) |     5.02 | darber, Goody, leaf, nestee, rud |
-|            1 |     3348 | 2024-03-28 | Passion UA      | W   | 0.326      | 0.333        | 0.173 (0.019)    | 1.000 (0.109)    | 0 (0.000) |     8.90 | darber, Goody, leaf, nestee, rud |
+|           12 |      665 | 2024-07-18 | Astralis Talent | L   | 1.000      | -            | -                | -                | -         |   -16.28 | darber, Goody, leaf, rud, Tree60 |
+|           11 |      726 | 2024-07-17 | K10             | L   | 1.000      | -            | -                | -                | -         |   -17.55 | darber, Goody, leaf, rud, Tree60 |
+|           10 |     1590 | 2024-06-03 | PERA            | L   | 0.774      | -            | -                | -                | -         |    -6.41 | darber, Goody, leaf, rud, Tree60 |
+|            9 |     1749 | 2024-05-28 | UNiTY           | W   | 0.734      | 0.379        | 0.024 (0.007)    | 0.331 (0.092)    | 0 (0.000) |    17.02 | darber, Goody, leaf, rud, Tree60 |
+|            8 |     1841 | 2024-05-23 | brazylijski luz | L   | 0.700      | -            | -                | -                | -         |    -8.65 | darber, Goody, leaf, rud, Tree60 |
+|            7 |     2405 | 2024-05-05 | MOUZ NXT        | L   | 0.578      | -            | -                | -                | -         |    -3.29 | darber, Goody, leaf, rud, shadiy |
+|            6 |     2415 | 2024-05-04 | B8              | L   | 0.572      | -            | -                | -                | -         |    -3.03 | darber, Goody, leaf, rud, shadiy |
+|            5 |     2487 | 2024-05-01 | RUBY            | W   | 0.551      | 0.435        | 0.095 (0.023)    | 0.479 (0.115)    | 0 (0.000) |    12.72 | darber, Goody, leaf, rud, shadiy |
+|            4 |     2491 | 2024-04-30 | Sampi           | L   | 0.548      | -            | -                | -                | -         |    -4.89 | darber, Goody, leaf, rud, sSen   |
+|            3 |     2576 | 2024-04-27 | K10             | W   | 0.525      | 0.143        | 0.008 (0.001)    | 0.129 (0.010)    | 0 (0.000) |     6.85 | darber, Goody, leaf, rud, sSen   |
+|            2 |     3322 | 2024-03-30 | NAVI Junior     | W   | 0.339      | 0.333        | 0.003 (0.000)    | 0.115 (0.013)    | 0 (0.000) |     5.02 | darber, Goody, leaf, nestee, rud |
+|            1 |     3350 | 2024-03-28 | Passion UA      | W   | 0.326      | 0.333        | 0.173 (0.019)    | 1.000 (0.109)    | 0 (0.000) |     8.90 | darber, Goody, leaf, nestee, rud |
 
 <br />
 <span id="table2"></span><br />

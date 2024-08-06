@@ -20,7 +20,7 @@
 | 15       |    688 | Mindfreak          | Forleks, gump, Sliimey, supar, tucks              | [details](details/0159--mindfreak--forleks-gump-sliimey-supar-tucks.md)                 |
 | 16       |    672 | KZG                | Estate, Hassie, JiNxZiE, Mingovi, Samuukxs        | [details](details/0165--kzg--estate-hassie-jinxzie-mingovi-samuukxs.md)                 |
 | 17       |    647 | DXA                | Kiyo, lucas222, prakM, Roflko, Zuko               | [details](details/0175--dxa--kiyo-lucas222-prakm-roflko-zuko.md)                        |
-| 18       |    646 | CatEvil            | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei    | [details](details/0176--catevil--biuckmt-bza-roninbaby-splashske-tanxiaomei.md)         |
+| 18       |    647 | CatEvil            | Biuckmt, BZA, Roninbaby, splashske, tanxiaomei    | [details](details/0176--catevil--biuckmt-bza-roninbaby-splashske-tanxiaomei.md)         |
 | 19       |    646 | Vantage            | Drox, N1ghtraid, Omichella, SkulL, vision         | [details](details/0177--vantage--drox-n1ghtraid-omichella-skull-vision_.md)             |
 | 20       |    622 | Arcade             | foggers, Kobe, TRIPLUS, versa, void               | [details](details/0184--arcade--foggers-kobe-triplus-versa-void.md)                     |
 | 21       |    594 | NOM                | dan1, m4tthi, MOREE, suraniZ, Zax1e               | [details](details/0191--nom--dan1-m4tthi-moree-suraniz-zax1e.md)                        |

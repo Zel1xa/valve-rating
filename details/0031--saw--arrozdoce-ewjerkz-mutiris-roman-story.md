@@ -37,59 +37,59 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           53 |      212 | 2024-07-31 | brazylijski luz   | W   | 1.000      | 0.500        | -                | 0.250 (0.125)    | 0 (0.000) |     4.10 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           52 |      329 | 2024-07-28 | fnatic            | L   | 1.000      | -            | -                | -                | -         |    -5.74 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           51 |      342 | 2024-07-27 | Passion UA        | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    12.97 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           50 |      415 | 2024-07-25 | BC.Game           | W   | 1.000      | 0.435        | -                | 0.307 (0.134)    | 0 (0.000) |     5.49 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           49 |      445 | 2024-07-24 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -22.46 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           48 |      602 | 2024-07-19 | RUSH B            | W   | 1.000      | 0.500        | -                | 0.371 (0.186)    | -         |     5.32 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           47 |      713 | 2024-07-17 | Sangal            | W   | 1.000      | 0.500        | 0.219 (0.109)    | 0.846 (0.423)    | -         |    17.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           46 |      823 | 2024-07-15 | SINNERS           | W   | 1.000      | 0.500        | 0.037 (0.019)    | 0.800 (0.400)    | -         |     8.63 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           45 |     1164 | 2024-06-13 | Astralis          | L   | 0.839      | -            | -                | -                | -         |    -1.16 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           44 |     1190 | 2024-06-12 | FaZe              | L   | 0.832      | -            | -                | -                | -         |    -1.09 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           43 |     1230 | 2024-06-10 | 3DMAX             | L   | 0.819      | -            | -                | -                | -         |    -4.92 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           42 |     1239 | 2024-06-10 | RUSH B            | W   | 0.819      | -            | -                | -                | -         |     5.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           41 |     1242 | 2024-06-10 | Aurora            | W   | 0.818      | 0.143        | 0.420 (0.049)    | -                | -         |    20.99 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           40 |     1275 | 2024-06-09 | SINNERS           | L   | 0.813      | -            | -                | -                | -         |   -16.17 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           39 |     1281 | 2024-06-09 | Monte             | W   | 0.813      | -            | -                | -                | -         |     7.48 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           38 |     1288 | 2024-06-09 | 9 Pandas          | L   | 0.812      | -            | -                | -                | -         |   -15.71 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           37 |     1293 | 2024-06-09 | PARIVISION        | W   | 0.812      | -            | -                | -                | -         |    10.11 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           36 |     1512 | 2024-06-05 | Sangal            | L   | 0.787      | -            | -                | -                | -         |   -13.20 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           35 |     1562 | 2024-06-04 | RUSH B            | L   | 0.780      | -            | -                | -                | -         |   -21.01 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           34 |     1612 | 2024-06-02 | Zero Tenacity     | L   | 0.766      | -            | -                | -                | -         |   -14.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           33 |     1676 | 2024-05-31 | Sangal            | W   | 0.754      | 0.143        | 0.219 (0.024)    | -                | -         |     9.65 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           32 |     1682 | 2024-05-31 | fnatic            | L   | 0.753      | -            | -                | -                | -         |    -4.33 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           31 |     1687 | 2024-05-31 | FAVBET            | W   | 0.752      | -            | -                | -                | -         |     2.18 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           30 |     2060 | 2024-05-17 | Aurora            | L   | 0.658      | -            | -                | -                | -         |    -2.51 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           29 |     2082 | 2024-05-16 | Eternal Fire      | L   | 0.654      | -            | -                | -                | -         |    -1.40 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           28 |     2097 | 2024-05-16 | Aurora            | W   | 0.652      | 0.769        | 0.420 (0.210)    | 0.758 (0.380)    | -         |    18.43 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           27 |     2539 | 2024-04-28 | Virtus.pro        | L   | 0.533      | -            | -                | -                | -         |    -1.03 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           26 |     2555 | 2024-04-27 | Eternal Fire      | W   | 0.527      | 0.889        | 0.738 (0.346)    | 0.438 (0.205)    | 1 (0.527) |    15.69 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           25 |     2588 | 2024-04-26 | Imperial          | W   | 0.520      | 0.889        | 0.233 (0.108)    | 0.658 (0.304)    | 1 (0.520) |    10.86 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           24 |     2636 | 2024-04-24 | Virtus.pro        | L   | 0.506      | -            | -                | -                | -         |    -0.85 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           23 |     2660 | 2024-04-23 | 3DMAX             | L   | 0.499      | -            | -                | -                | -         |    -1.08 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           22 |     2892 | 2024-04-16 | Sampi             | L   | 0.452      | -            | -                | -                | -         |   -11.53 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           21 |     3010 | 2024-04-10 | 9 Pandas          | W   | 0.414      | 0.500        | 0.081 (0.017)    | 0.700 (0.145)    | -         |     3.60 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           20 |     3065 | 2024-04-09 | 3DMAX             | L   | 0.407      | -            | -                | -                | -         |    -0.77 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           19 |     3171 | 2024-04-05 | PGE Turow         | W   | 0.378      | -            | -                | -                | -         |     0.64 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           18 |     3206 | 2024-04-04 | Betera            | W   | 0.374      | -            | -                | -                | -         |     0.84 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           17 |     3249 | 2024-04-03 | PERA              | W   | 0.366      | -            | -                | -                | -         |     2.28 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           16 |     3494 | 2024-03-20 | FURIA             | L   | 0.274      | -            | -                | -                | -         |    -0.40 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           15 |     3511 | 2024-03-19 | paiN              | L   | 0.266      | -            | -                | -                | -         |    -1.79 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           14 |     3519 | 2024-03-18 | Cloud9            | L   | 0.260      | -            | -                | -                | -         |    -5.59 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           13 |     3532 | 2024-03-17 | GamerLegion       | W   | 0.255      | -            | -                | -                | 1 (0.255) |     0.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           12 |     3549 | 2024-03-17 | KOI               | W   | 0.253      | -            | -                | -                | 1 (0.253) |     2.98 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           11 |     3639 | 2024-03-13 | System5           | W   | 0.228      | -            | -                | -                | -         |     0.42 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|           10 |     3723 | 2024-03-10 | OG                | W   | 0.207      | -            | -                | -                | -         |     1.83 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            9 |     3764 | 2024-03-08 | Cloud9            | W   | 0.194      | -            | -                | -                | -         |     1.95 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            8 |     3798 | 2024-03-07 | Liquid            | W   | 0.186      | 0.535        | 0.383 (0.038)    | -                | -         |     5.37 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            7 |     3855 | 2024-03-05 | Monte             | W   | 0.174      | -            | -                | -                | -         |     1.51 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            6 |     4018 | 2024-02-26 | RUSH B            | W   | 0.121      | -            | -                | -                | -         |     0.60 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            5 |     4233 | 2024-02-17 | fnatic            | W   | 0.060      | -            | -                | -                | 1 (0.060) |     1.69 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            4 |     4254 | 2024-02-16 | Enterprise        | W   | 0.054      | -            | -                | -                | 1 (0.054) |     0.35 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            3 |     4289 | 2024-02-15 | Ninjas in Pyjamas | W   | 0.046      | -            | -                | -                | 1 (0.046) |     0.02 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            2 |     4327 | 2024-02-14 | 9 Pandas          | L   | 0.040      | -            | -                | -                | -         |    -0.89 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
-|            1 |     4338 | 2024-02-14 | Virtus.pro        | L   | 0.039      | -            | -                | -                | -         |    -0.06 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           53 |      214 | 2024-07-31 | brazylijski luz   | W   | 1.000      | 0.500        | -                | 0.250 (0.125)    | 0 (0.000) |     4.10 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           52 |      331 | 2024-07-28 | fnatic            | L   | 1.000      | -            | -                | -                | -         |    -5.74 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           51 |      344 | 2024-07-27 | Passion UA        | W   | 1.000      | 0.435        | 0.173 (0.075)    | 1.000 (0.435)    | 0 (0.000) |    12.97 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           50 |      417 | 2024-07-25 | BC.Game           | W   | 1.000      | 0.435        | -                | 0.307 (0.134)    | 0 (0.000) |     5.49 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           49 |      447 | 2024-07-24 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -22.46 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           48 |      604 | 2024-07-19 | RUSH B            | W   | 1.000      | 0.500        | -                | 0.371 (0.186)    | -         |     5.32 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           47 |      715 | 2024-07-17 | Sangal            | W   | 1.000      | 0.500        | 0.219 (0.109)    | 0.846 (0.423)    | -         |    17.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           46 |      825 | 2024-07-15 | SINNERS           | W   | 1.000      | 0.500        | 0.037 (0.019)    | 0.800 (0.400)    | -         |     8.63 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           45 |     1166 | 2024-06-13 | Astralis          | L   | 0.839      | -            | -                | -                | -         |    -1.16 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           44 |     1192 | 2024-06-12 | FaZe              | L   | 0.832      | -            | -                | -                | -         |    -1.09 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           43 |     1232 | 2024-06-10 | 3DMAX             | L   | 0.819      | -            | -                | -                | -         |    -4.92 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           42 |     1241 | 2024-06-10 | RUSH B            | W   | 0.819      | -            | -                | -                | -         |     5.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           41 |     1244 | 2024-06-10 | Aurora            | W   | 0.818      | 0.143        | 0.420 (0.049)    | -                | -         |    20.99 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           40 |     1277 | 2024-06-09 | SINNERS           | L   | 0.813      | -            | -                | -                | -         |   -16.17 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           39 |     1283 | 2024-06-09 | Monte             | W   | 0.813      | -            | -                | -                | -         |     7.47 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           38 |     1290 | 2024-06-09 | 9 Pandas          | L   | 0.812      | -            | -                | -                | -         |   -15.71 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           37 |     1295 | 2024-06-09 | PARIVISION        | W   | 0.812      | -            | -                | -                | -         |    10.11 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           36 |     1514 | 2024-06-05 | Sangal            | L   | 0.787      | -            | -                | -                | -         |   -13.20 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           35 |     1564 | 2024-06-04 | RUSH B            | L   | 0.780      | -            | -                | -                | -         |   -21.01 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           34 |     1614 | 2024-06-02 | Zero Tenacity     | L   | 0.766      | -            | -                | -                | -         |   -14.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           33 |     1678 | 2024-05-31 | Sangal            | W   | 0.754      | 0.143        | 0.219 (0.024)    | -                | -         |     9.65 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           32 |     1684 | 2024-05-31 | fnatic            | L   | 0.753      | -            | -                | -                | -         |    -4.33 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           31 |     1689 | 2024-05-31 | FAVBET            | W   | 0.752      | -            | -                | -                | -         |     2.18 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           30 |     2062 | 2024-05-17 | Aurora            | L   | 0.658      | -            | -                | -                | -         |    -2.51 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           29 |     2084 | 2024-05-16 | Eternal Fire      | L   | 0.654      | -            | -                | -                | -         |    -1.40 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           28 |     2099 | 2024-05-16 | Aurora            | W   | 0.652      | 0.769        | 0.420 (0.210)    | 0.758 (0.380)    | -         |    18.43 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           27 |     2541 | 2024-04-28 | Virtus.pro        | L   | 0.533      | -            | -                | -                | -         |    -1.03 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           26 |     2557 | 2024-04-27 | Eternal Fire      | W   | 0.527      | 0.889        | 0.738 (0.346)    | 0.438 (0.205)    | 1 (0.527) |    15.69 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           25 |     2590 | 2024-04-26 | Imperial          | W   | 0.520      | 0.889        | 0.233 (0.108)    | 0.658 (0.304)    | 1 (0.520) |    10.86 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           24 |     2638 | 2024-04-24 | Virtus.pro        | L   | 0.506      | -            | -                | -                | -         |    -0.85 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           23 |     2662 | 2024-04-23 | 3DMAX             | L   | 0.499      | -            | -                | -                | -         |    -1.08 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           22 |     2894 | 2024-04-16 | Sampi             | L   | 0.452      | -            | -                | -                | -         |   -11.53 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           21 |     3012 | 2024-04-10 | 9 Pandas          | W   | 0.414      | 0.500        | 0.081 (0.017)    | 0.700 (0.145)    | -         |     3.60 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           20 |     3067 | 2024-04-09 | 3DMAX             | L   | 0.407      | -            | -                | -                | -         |    -0.77 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           19 |     3173 | 2024-04-05 | PGE Turow         | W   | 0.378      | -            | -                | -                | -         |     0.64 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           18 |     3208 | 2024-04-04 | Betera            | W   | 0.374      | -            | -                | -                | -         |     0.84 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           17 |     3251 | 2024-04-03 | PERA              | W   | 0.366      | -            | -                | -                | -         |     2.28 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           16 |     3496 | 2024-03-20 | FURIA             | L   | 0.274      | -            | -                | -                | -         |    -0.40 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           15 |     3513 | 2024-03-19 | paiN              | L   | 0.266      | -            | -                | -                | -         |    -1.79 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           14 |     3521 | 2024-03-18 | Cloud9            | L   | 0.260      | -            | -                | -                | -         |    -5.59 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           13 |     3534 | 2024-03-17 | GamerLegion       | W   | 0.255      | -            | -                | -                | 1 (0.255) |     0.80 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           12 |     3551 | 2024-03-17 | KOI               | W   | 0.253      | -            | -                | -                | 1 (0.253) |     2.98 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           11 |     3641 | 2024-03-13 | System5           | W   | 0.228      | -            | -                | -                | -         |     0.42 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|           10 |     3725 | 2024-03-10 | OG                | W   | 0.207      | -            | -                | -                | -         |     1.83 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            9 |     3766 | 2024-03-08 | Cloud9            | W   | 0.194      | -            | -                | -                | -         |     1.95 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            8 |     3800 | 2024-03-07 | Liquid            | W   | 0.186      | 0.535        | 0.383 (0.038)    | -                | -         |     5.37 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            7 |     3857 | 2024-03-05 | Monte             | W   | 0.174      | -            | -                | -                | -         |     1.51 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            6 |     4020 | 2024-02-26 | RUSH B            | W   | 0.121      | -            | -                | -                | -         |     0.60 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            5 |     4235 | 2024-02-17 | fnatic            | W   | 0.060      | -            | -                | -                | 1 (0.060) |     1.69 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            4 |     4256 | 2024-02-16 | Enterprise        | W   | 0.054      | -            | -                | -                | 1 (0.054) |     0.35 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            3 |     4291 | 2024-02-15 | Ninjas in Pyjamas | W   | 0.046      | -            | -                | -                | 1 (0.046) |     0.02 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            2 |     4329 | 2024-02-14 | 9 Pandas          | L   | 0.040      | -            | -                | -                | -         |    -0.89 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
+|            1 |     4340 | 2024-02-14 | Virtus.pro        | L   | 0.039      | -            | -                | -                | -         |    -0.06 | arrozdoce, ewjerkz, MUTiRiS, roman, story |
 
 <br />
 <span id="table2"></span><br />
