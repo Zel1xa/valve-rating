@@ -8,7 +8,7 @@ Regional Rank: [49]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  660.0<br />
 <br />
-Final Rank Value (660.0) = Starting Rank Value (714.3) + Head To Head Adjustments (-54.4)<br />
+Final Rank Value (660.0) = Starting Rank Value (714.4) + Head To Head Adjustments (-54.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.153<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 714.3
-- 400 + ( ( 0.153 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 714.3
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 714.4
+- 400 + ( ( 0.153 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 714.4
 
 
 #### Factors<br />
@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |      129 | 2024-08-01 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -4.48 | DANVIET, PremiuM, timid, voltera, xns  |
-|           11 |      596 | 2024-07-19 | Yawara         | L   | 1.000      | -            | -                | -                | -         |   -23.02 | DANVIET, PremiuM, timid, voltera, xns  |
-|           10 |      623 | 2024-07-18 | 9z Academy     | L   | 1.000      | -            | -                | -                | -         |   -23.64 | DANVIET, PremiuM, timid, voltera, xns  |
-|            9 |      696 | 2024-07-17 | W7M            | L   | 1.000      | -            | -                | -                | -         |   -11.92 | DANVIET, PremiuM, timid, voltera, xns  |
-|            8 |      709 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -9.51 | DANVIET, PremiuM, timid, voltera, xns  |
-|            7 |      763 | 2024-07-16 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -9.46 | DANVIET, PremiuM, timid, voltera, xns  |
-|            6 |      858 | 2024-07-12 | BESTIA         | W   | 1.000      | 0.333        | 0.096 (0.032)    | 0.776 (0.259)    | 0 (0.000) |    25.90 | DANVIET, PremiuM, timid, voltera, xns  |
-|            5 |      879 | 2024-07-11 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.56 | DANVIET, PremiuM, timid, voltera, xns  |
-|            4 |      917 | 2024-07-09 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.60 | DANVIET, PremiuM, timid, voltera, xns  |
-|            3 |      933 | 2024-07-08 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -2.52 | DANVIET, PremiuM, timid, voltera, xns  |
-|            2 |     1009 | 2024-06-20 | ex-Corinthians | W   | 0.888      | 0.270        | 0.004 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.33 | DANVIET, farias, PremiuM, voltera, xns |
-|            1 |     2862 | 2024-04-16 | ODDIK          | L   | 0.456      | -            | -                | -                | -         |    -3.01 | DANVIET, farias, PremiuM, voltera, xns |
+|           12 |      139 | 2024-08-01 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -4.48 | DANVIET, PremiuM, timid, voltera, xns  |
+|           11 |      606 | 2024-07-19 | Yawara         | L   | 1.000      | -            | -                | -                | -         |   -23.02 | DANVIET, PremiuM, timid, voltera, xns  |
+|           10 |      633 | 2024-07-18 | 9z Academy     | L   | 1.000      | -            | -                | -                | -         |   -23.64 | DANVIET, PremiuM, timid, voltera, xns  |
+|            9 |      706 | 2024-07-17 | W7M            | L   | 1.000      | -            | -                | -                | -         |   -11.92 | DANVIET, PremiuM, timid, voltera, xns  |
+|            8 |      719 | 2024-07-17 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |    -9.51 | DANVIET, PremiuM, timid, voltera, xns  |
+|            7 |      773 | 2024-07-16 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -9.46 | DANVIET, PremiuM, timid, voltera, xns  |
+|            6 |      868 | 2024-07-12 | BESTIA         | W   | 1.000      | 0.333        | 0.096 (0.032)    | 0.776 (0.259)    | 0 (0.000) |    25.90 | DANVIET, PremiuM, timid, voltera, xns  |
+|            5 |      889 | 2024-07-11 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     4.56 | DANVIET, PremiuM, timid, voltera, xns  |
+|            4 |      927 | 2024-07-09 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.60 | DANVIET, PremiuM, timid, voltera, xns  |
+|            3 |      943 | 2024-07-08 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -2.52 | DANVIET, PremiuM, timid, voltera, xns  |
+|            2 |     1019 | 2024-06-20 | ex-Corinthians | W   | 0.888      | 0.270        | 0.004 (0.001)    | 0.000 (0.000)    | 0 (0.000) |     7.32 | DANVIET, farias, PremiuM, voltera, xns |
+|            1 |     2872 | 2024-04-16 | ODDIK          | L   | 0.456      | -            | -                | -                | -         |    -3.01 | DANVIET, farias, PremiuM, voltera, xns |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,421.19)
-- Divide that value by the 5th highest value among all rosters ($320,329.44)
+- First, take the sum of their top 10 scaled winnings ($1,420.74)
+- Divide that value by the 5th highest value among all rosters ($320,247.08)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

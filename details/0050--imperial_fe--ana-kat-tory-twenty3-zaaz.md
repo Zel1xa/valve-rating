@@ -6,9 +6,9 @@ Global Rank: [50](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [37]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  1066.7<br />
+Final Rank Value:  1066.6<br />
 <br />
-Final Rank Value (1066.7) = Starting Rank Value (1034.7) + Head To Head Adjustments (32.0)<br />
+Final Rank Value (1066.6) = Starting Rank Value (1034.7) + Head To Head Adjustments (32.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,51 +37,51 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           26 |       81 | 2024-08-03 | NIP Impact    | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.219 (0.060)    | 0 (0.000) |     4.18 | ANa, Kat, tory, twenty3, zAAz |
-|           25 |      100 | 2024-08-02 | Astralis W    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.04 | ANa, Kat, tory, twenty3, zAAz |
-|           24 |     1590 | 2024-06-02 | Let Her Cook  | W   | 0.769      | 0.524        | 0.060 (0.024)    | 0.137 (0.055)    | 1 (0.769) |     8.15 | ANa, Kat, tory, twenty3, zAAz |
-|           23 |     1598 | 2024-06-02 | panelinha     | W   | 0.767      | 0.524        | 0.032 (0.013)    | 0.146 (0.059)    | 1 (0.767) |     6.49 | ANa, Kat, tory, twenty3, zAAz |
-|           22 |     1652 | 2024-05-31 | BIG EQUIPA    | W   | 0.756      | 0.524        | 0.017 (0.007)    | 0.142 (0.056)    | 1 (0.756) |     4.61 | ANa, Kat, tory, twenty3, zAAz |
-|           21 |     1667 | 2024-05-31 | HSG fe        | W   | 0.754      | 0.524        | 0.031 (0.012)    | 0.066 (0.026)    | 1 (0.754) |     5.75 | ANa, Kat, tory, twenty3, zAAz |
-|           20 |     1973 | 2024-05-19 | NAVI Javelins | L   | 0.674      | -            | -                | -                | -         |   -15.66 | ANa, Kat, tory, twenty3, zAAz |
-|           19 |     1981 | 2024-05-19 | NIP Impact    | W   | 0.673      | 0.281        | 0.005 (0.001)    | 0.219 (0.042)    | 0 (0.000) |     3.10 | ANa, Kat, tory, twenty3, zAAz |
-|           18 |     1999 | 2024-05-18 | Crescent fe   | W   | 0.667      | 0.281        | 0.004 (0.001)    | -                | 0 (0.000) |     1.97 | ANa, Kat, tory, twenty3, zAAz |
-|           17 |     2381 | 2024-05-05 | Crescent fe   | W   | 0.580      | -            | -                | -                | 0 (0.000) |     1.74 | ANa, Kat, tory, twenty3, zAAz |
-|           16 |     2547 | 2024-04-27 | NIP Impact    | W   | 0.527      | 0.252        | -                | 0.219 (0.029)    | 0 (0.000) |     2.44 | ANa, Kat, tory, twenty3, zAAz |
-|           15 |     2551 | 2024-04-27 | Spirit fe     | W   | 0.527      | -            | -                | -                | -         |     1.63 | ANa, Kat, tory, twenty3, zAAz |
-|           14 |     2743 | 2024-04-19 | Astralis W    | W   | 0.474      | -            | -                | -                | -         |     1.67 | ANa, Kat, tory, twenty3, zAAz |
-|           13 |     2870 | 2024-04-16 | NAVI Javelins | L   | 0.454      | -            | -                | -                | -         |   -11.05 | ANa, Kat, tory, twenty3, zAAz |
-|           12 |     2905 | 2024-04-14 | NIP Impact    | W   | 0.441      | 0.303        | -                | 0.219 (0.029)    | -         |     2.06 | ANa, Kat, tory, twenty3, zAAz |
-|           11 |     2923 | 2024-04-13 | NAVI Javelins | W   | 0.434      | 0.303        | 0.026 (0.003)    | 0.179 (0.024)    | -         |     3.02 | ANa, Kat, tory, twenty3, zAAz |
-|           10 |     2957 | 2024-04-11 | Astralis W    | W   | 0.421      | -            | -                | -                | -         |     1.11 | ANa, Kat, tory, twenty3, zAAz |
-|            9 |     3006 | 2024-04-10 | Astralis W    | W   | 0.414      | -            | -                | -                | -         |     1.10 | ANa, Kat, tory, twenty3, zAAz |
-|            8 |     3092 | 2024-04-08 | Crescent fe   | W   | 0.400      | -            | -                | -                | -         |     1.36 | ANa, Kat, tory, twenty3, zAAz |
-|            7 |     3123 | 2024-04-07 | NIP Impact    | W   | 0.394      | 0.262        | -                | 0.219 (0.023)    | -         |     1.80 | ANa, Kat, tory, twenty3, zAAz |
-|            6 |     3127 | 2024-04-07 | BIG EQUIPA    | W   | 0.393      | 0.262        | 0.017 (0.002)    | -                | -         |     2.31 | ANa, Kat, tory, twenty3, zAAz |
-|            5 |     3143 | 2024-04-06 | ENCE Athena   | W   | 0.386      | -            | -                | -                | -         |     1.18 | ANa, Kat, tory, twenty3, zAAz |
-|            4 |     3364 | 2024-03-27 | ENCE Athena   | W   | 0.321      | -            | -                | -                | -         |     1.01 | ANa, Kat, tory, twenty3, zAAz |
-|            3 |     3601 | 2024-03-14 | BIG EQUIPA    | W   | 0.235      | 0.331        | 0.017 (0.001)    | -                | -         |     1.40 | ANa, Kat, tory, twenty3, zAAz |
-|            2 |     3777 | 2024-03-07 | NIP Impact    | W   | 0.188      | -            | -                | -                | -         |     0.82 | ANa, Kat, tory, twenty3, zAAz |
-|            1 |     4009 | 2024-02-26 | 500           | L   | 0.119      | -            | -                | -                | -         |    -3.25 | ANa, Kat, tory, twenty3, zAAz |
+|           26 |       89 | 2024-08-03 | NIP Impact    | W   | 1.000      | 0.273        | 0.005 (0.001)    | 0.219 (0.060)    | 0 (0.000) |     4.18 | ANa, Kat, tory, twenty3, zAAz |
+|           25 |      110 | 2024-08-02 | Astralis W    | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.04 | ANa, Kat, tory, twenty3, zAAz |
+|           24 |     1600 | 2024-06-02 | Let Her Cook  | W   | 0.769      | 0.524        | 0.060 (0.024)    | 0.137 (0.055)    | 1 (0.769) |     8.15 | ANa, Kat, tory, twenty3, zAAz |
+|           23 |     1608 | 2024-06-02 | panelinha     | W   | 0.767      | 0.524        | 0.032 (0.013)    | 0.146 (0.059)    | 1 (0.767) |     6.48 | ANa, Kat, tory, twenty3, zAAz |
+|           22 |     1662 | 2024-05-31 | BIG EQUIPA    | W   | 0.755      | 0.524        | 0.017 (0.007)    | 0.142 (0.056)    | 1 (0.755) |     4.61 | ANa, Kat, tory, twenty3, zAAz |
+|           21 |     1677 | 2024-05-31 | HSG fe        | W   | 0.754      | 0.524        | 0.031 (0.012)    | 0.066 (0.026)    | 1 (0.754) |     5.75 | ANa, Kat, tory, twenty3, zAAz |
+|           20 |     1983 | 2024-05-19 | NAVI Javelins | L   | 0.673      | -            | -                | -                | -         |   -15.66 | ANa, Kat, tory, twenty3, zAAz |
+|           19 |     1991 | 2024-05-19 | NIP Impact    | W   | 0.672      | 0.281        | 0.005 (0.001)    | 0.219 (0.041)    | 0 (0.000) |     3.10 | ANa, Kat, tory, twenty3, zAAz |
+|           18 |     2009 | 2024-05-18 | Crescent fe   | W   | 0.667      | 0.281        | 0.004 (0.001)    | -                | 0 (0.000) |     1.97 | ANa, Kat, tory, twenty3, zAAz |
+|           17 |     2391 | 2024-05-05 | Crescent fe   | W   | 0.580      | -            | -                | -                | 0 (0.000) |     1.74 | ANa, Kat, tory, twenty3, zAAz |
+|           16 |     2557 | 2024-04-27 | NIP Impact    | W   | 0.527      | 0.252        | -                | 0.219 (0.029)    | 0 (0.000) |     2.44 | ANa, Kat, tory, twenty3, zAAz |
+|           15 |     2561 | 2024-04-27 | Spirit fe     | W   | 0.526      | -            | -                | -                | -         |     1.63 | ANa, Kat, tory, twenty3, zAAz |
+|           14 |     2753 | 2024-04-19 | Astralis W    | W   | 0.474      | -            | -                | -                | -         |     1.67 | ANa, Kat, tory, twenty3, zAAz |
+|           13 |     2880 | 2024-04-16 | NAVI Javelins | L   | 0.454      | -            | -                | -                | -         |   -11.04 | ANa, Kat, tory, twenty3, zAAz |
+|           12 |     2915 | 2024-04-14 | NIP Impact    | W   | 0.441      | 0.303        | -                | 0.219 (0.029)    | -         |     2.06 | ANa, Kat, tory, twenty3, zAAz |
+|           11 |     2933 | 2024-04-13 | NAVI Javelins | W   | 0.433      | 0.303        | 0.026 (0.003)    | 0.179 (0.023)    | -         |     3.02 | ANa, Kat, tory, twenty3, zAAz |
+|           10 |     2967 | 2024-04-11 | Astralis W    | W   | 0.421      | -            | -                | -                | -         |     1.10 | ANa, Kat, tory, twenty3, zAAz |
+|            9 |     3016 | 2024-04-10 | Astralis W    | W   | 0.414      | -            | -                | -                | -         |     1.10 | ANa, Kat, tory, twenty3, zAAz |
+|            8 |     3102 | 2024-04-08 | Crescent fe   | W   | 0.400      | -            | -                | -                | -         |     1.36 | ANa, Kat, tory, twenty3, zAAz |
+|            7 |     3133 | 2024-04-07 | NIP Impact    | W   | 0.393      | 0.262        | -                | 0.219 (0.023)    | -         |     1.80 | ANa, Kat, tory, twenty3, zAAz |
+|            6 |     3137 | 2024-04-07 | BIG EQUIPA    | W   | 0.393      | 0.262        | 0.017 (0.002)    | -                | -         |     2.31 | ANa, Kat, tory, twenty3, zAAz |
+|            5 |     3153 | 2024-04-06 | ENCE Athena   | W   | 0.386      | -            | -                | -                | -         |     1.17 | ANa, Kat, tory, twenty3, zAAz |
+|            4 |     3374 | 2024-03-27 | ENCE Athena   | W   | 0.321      | -            | -                | -                | -         |     1.01 | ANa, Kat, tory, twenty3, zAAz |
+|            3 |     3611 | 2024-03-14 | BIG EQUIPA    | W   | 0.234      | 0.331        | 0.017 (0.001)    | -                | -         |     1.40 | ANa, Kat, tory, twenty3, zAAz |
+|            2 |     3787 | 2024-03-07 | NIP Impact    | W   | 0.188      | -            | -                | -                | -         |     0.81 | ANa, Kat, tory, twenty3, zAAz |
+|            1 |     4019 | 2024-02-26 | 500           | L   | 0.119      | -            | -                | -                | -         |    -3.24 | ANa, Kat, tory, twenty3, zAAz |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($40,869.43)
-- Divide that value by the 5th highest value among all rosters ($320,329.44)
+- First, take the sum of their top 10 scaled winnings ($40,854.20)
+- Divide that value by the 5th highest value among all rosters ($320,247.08)
 - The final value (0.13) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-02 |      0.769 | $50,000.00     | $38,439.81      |
-| 2024-05-19 |      0.674 | $800.00        | $538.89         |
-| 2024-05-05 |      0.580 | $750.00        | $435.14         |
-| 2024-04-27 |      0.527 | $535.00        | $281.99         |
-| 2024-04-16 |      0.454 | $1,500.00      | $681.53         |
-| 2024-04-07 |      0.394 | $1,250.00      | $492.07         |
+| 2024-06-02 |      0.769 | $50,000.00     | $38,425.93      |
+| 2024-05-19 |      0.673 | $800.00        | $538.67         |
+| 2024-05-05 |      0.580 | $750.00        | $434.93         |
+| 2024-04-27 |      0.527 | $535.00        | $281.84         |
+| 2024-04-16 |      0.454 | $1,500.00      | $681.11         |
+| 2024-04-07 |      0.393 | $1,250.00      | $491.72         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
