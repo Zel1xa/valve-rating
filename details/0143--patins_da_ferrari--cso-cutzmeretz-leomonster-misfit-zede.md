@@ -37,37 +37,37 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           24 |      340 | 2024-07-27 | Case           | L   | 1.000      | -            | -                | -                | -         |    -9.41 | CSO, CutzMeretz, Leomonster, Misfit, zede |
-|           23 |      356 | 2024-07-26 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -5.61 | CSO, CutzMeretz, Leomonster, Misfit, zede |
-|           22 |      368 | 2024-07-26 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -6.56 | CSO, CutzMeretz, Leomonster, Misfit, zede |
-|           21 |      392 | 2024-07-25 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -7.25 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           20 |      471 | 2024-07-23 | Galorys        | L   | 1.000      | -            | -                | -                | -         |   -14.56 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           19 |      498 | 2024-07-22 | paiN Academy   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.03 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           18 |      508 | 2024-07-22 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -6.36 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           17 |      533 | 2024-07-21 | FURIA Academy  | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.102 (0.038)    | 0 (0.000) |     5.98 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           16 |      570 | 2024-07-20 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |   -13.52 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           15 |      699 | 2024-07-17 | Hawks          | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |     5.72 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           14 |      762 | 2024-07-16 | Vikings KR     | L   | 1.000      | -            | -                | -                | -         |   -14.81 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
-|           13 |      901 | 2024-07-10 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -8.59 | bsd, CSO, CutzMeretz, Leomonster, zede    |
-|           12 |      923 | 2024-07-09 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -14.78 | bsd, CSO, CutzMeretz, Leomonster, zede    |
-|           11 |      941 | 2024-07-08 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -8.99 | bsd, CSO, CutzMeretz, Leomonster, zede    |
-|           10 |      964 | 2024-07-06 | 9z Academy     | W   | 0.995      | 0.333        | 0.000 (0.000)    | 0.067 (0.022)    | 0 (0.000) |     4.08 | bsd, CSO, CutzMeretz, Leomonster, zede    |
-|            9 |      974 | 2024-07-01 | Vikings KR     | L   | 0.962      | -            | -                | -                | -         |   -15.73 | bsd, CutzMeretz, Leomonster, perez, zede  |
-|            8 |      977 | 2024-06-30 | Sharks         | W   | 0.955      | 0.333        | 0.030 (0.010)    | 0.546 (0.174)    | 0 (0.000) |    21.58 | bsd, CutzMeretz, Leomonster, perez, zede  |
-|            7 |      987 | 2024-06-29 | Bounty Hunters | L   | 0.947      | -            | -                | -                | -         |   -10.42 | bsd, CutzMeretz, Leomonster, perez, zede  |
-|            6 |     1004 | 2024-06-26 | Dusty Roots    | W   | 0.927      | 0.333        | 0.006 (0.002)    | 0.359 (0.111)    | 0 (0.000) |    14.53 | bsd, CutzMeretz, Leomonster, perez, zede  |
-|            5 |     1108 | 2024-06-14 | inSanitY       | L   | 0.847      | -            | -                | -                | -         |    -8.27 | CutzMeretz, desh, Leomonster, roz, zede   |
-|            4 |     1275 | 2024-06-09 | Vikings KR     | W   | 0.813      | 0.450        | 0.008 (0.003)    | 0.490 (0.179)    | 0 (0.000) |    12.16 | CutzMeretz, desh, Leomonster, roz, zede   |
-|            3 |     1341 | 2024-06-08 | Sharks         | W   | 0.807      | 0.450        | 0.030 (0.011)    | 0.546 (0.198)    | 0 (0.000) |    19.76 | CutzMeretz, desh, Leomonster, roz, zede   |
-|            2 |     1366 | 2024-06-07 | paiN           | L   | 0.802      | -            | -                | -                | -         |    -1.25 | CutzMeretz, desh, Leomonster, roz, zede   |
-|            1 |     1450 | 2024-06-06 | ODDIK          | W   | 0.794      | 0.450        | 0.099 (0.035)    | 0.805 (0.288)    | 0 (0.000) |    17.52 | CutzMeretz, desh, Leomonster, roz, zede   |
+|           24 |      341 | 2024-07-27 | Case           | L   | 1.000      | -            | -                | -                | -         |    -9.41 | CSO, CutzMeretz, Leomonster, Misfit, zede |
+|           23 |      357 | 2024-07-26 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -5.61 | CSO, CutzMeretz, Leomonster, Misfit, zede |
+|           22 |      369 | 2024-07-26 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -6.56 | CSO, CutzMeretz, Leomonster, Misfit, zede |
+|           21 |      393 | 2024-07-25 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -7.25 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           20 |      472 | 2024-07-23 | Galorys        | L   | 1.000      | -            | -                | -                | -         |   -14.56 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           19 |      499 | 2024-07-22 | paiN Academy   | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.03 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           18 |      509 | 2024-07-22 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -6.36 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           17 |      534 | 2024-07-21 | FURIA Academy  | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.102 (0.038)    | 0 (0.000) |     5.98 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           16 |      571 | 2024-07-20 | KRÜ            | L   | 1.000      | -            | -                | -                | -         |   -13.52 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           15 |      700 | 2024-07-17 | Hawks          | W   | 1.000      | 0.371        | 0.000 (0.000)    | 0.028 (0.010)    | 0 (0.000) |     5.72 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           14 |      763 | 2024-07-16 | Vikings KR     | L   | 1.000      | -            | -                | -                | -         |   -14.81 | CSO, CutzMeretz, Leomonster, MTGG, zede   |
+|           13 |      902 | 2024-07-10 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |    -8.59 | bsd, CSO, CutzMeretz, Leomonster, zede    |
+|           12 |      924 | 2024-07-09 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -14.78 | bsd, CSO, CutzMeretz, Leomonster, zede    |
+|           11 |      942 | 2024-07-08 | Sharks         | L   | 1.000      | -            | -                | -                | -         |    -8.99 | bsd, CSO, CutzMeretz, Leomonster, zede    |
+|           10 |      965 | 2024-07-06 | 9z Academy     | W   | 0.995      | 0.333        | 0.000 (0.000)    | 0.067 (0.022)    | 0 (0.000) |     4.08 | bsd, CSO, CutzMeretz, Leomonster, zede    |
+|            9 |      975 | 2024-07-01 | Vikings KR     | L   | 0.962      | -            | -                | -                | -         |   -15.73 | bsd, CutzMeretz, Leomonster, perez, zede  |
+|            8 |      978 | 2024-06-30 | Sharks         | W   | 0.955      | 0.333        | 0.030 (0.010)    | 0.546 (0.174)    | 0 (0.000) |    21.58 | bsd, CutzMeretz, Leomonster, perez, zede  |
+|            7 |      988 | 2024-06-29 | Bounty Hunters | L   | 0.947      | -            | -                | -                | -         |   -10.42 | bsd, CutzMeretz, Leomonster, perez, zede  |
+|            6 |     1005 | 2024-06-26 | Dusty Roots    | W   | 0.927      | 0.333        | 0.006 (0.002)    | 0.359 (0.111)    | 0 (0.000) |    14.52 | bsd, CutzMeretz, Leomonster, perez, zede  |
+|            5 |     1109 | 2024-06-14 | inSanitY       | L   | 0.847      | -            | -                | -                | -         |    -8.27 | CutzMeretz, desh, Leomonster, roz, zede   |
+|            4 |     1276 | 2024-06-09 | Vikings KR     | W   | 0.813      | 0.450        | 0.008 (0.003)    | 0.490 (0.179)    | 0 (0.000) |    12.16 | CutzMeretz, desh, Leomonster, roz, zede   |
+|            3 |     1342 | 2024-06-08 | Sharks         | W   | 0.806      | 0.450        | 0.030 (0.011)    | 0.546 (0.198)    | 0 (0.000) |    19.76 | CutzMeretz, desh, Leomonster, roz, zede   |
+|            2 |     1367 | 2024-06-07 | paiN           | L   | 0.802      | -            | -                | -                | -         |    -1.25 | CutzMeretz, desh, Leomonster, roz, zede   |
+|            1 |     1451 | 2024-06-06 | ODDIK          | W   | 0.794      | 0.450        | 0.099 (0.035)    | 0.805 (0.288)    | 0 (0.000) |    17.51 | CutzMeretz, desh, Leomonster, roz, zede   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,952.55)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($3,952.08)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -75,7 +75,7 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-27 |      1.000 | $1,800.00      | $1,800.00       |
-| 2024-06-16 |      0.861 | $2,500.00      | $2,152.55       |
+| 2024-06-16 |      0.861 | $2,500.00      | $2,152.08       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

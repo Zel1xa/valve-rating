@@ -37,38 +37,38 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                          |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           25 |      140 | 2024-08-01 | Legacy         | L   | 1.000      | -            | -                | -                | -         |    -5.39 | ckzao, diozera, fREQ, keiz, mxa |
-|           24 |      147 | 2024-08-01 | Fluxo          | L   | 1.000      | -            | -                | -                | -         |    -4.14 | ckzao, diozera, fREQ, keiz, mxa |
-|           23 |      274 | 2024-07-29 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -8.03 | ckzao, diozera, fREQ, keiz, mxa |
-|           22 |      313 | 2024-07-28 | Fluxo          | W   | 1.000      | 0.143        | 0.123 (0.018)    | 0.701 (0.100)    | 0 (0.000) |    26.98 | ckzao, diozera, fREQ, keiz, mxa |
-|           21 |      474 | 2024-07-23 | Vikings KR     | W   | 1.000      | 0.371        | 0.008 (0.003)    | 0.490 (0.182)    | 0 (0.000) |    17.70 | ckzao, diozera, fREQ, keiz, mxa |
-|           20 |      501 | 2024-07-22 | Case           | L   | 1.000      | -            | -                | -                | -         |   -10.84 | ckzao, diozera, fREQ, keiz, mxa |
-|           19 |      551 | 2024-07-20 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -6.58 | ckzao, diozera, fREQ, keiz, mxa |
-|           18 |      593 | 2024-07-19 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -3.38 | ckzao, diozera, fREQ, keiz, mxa |
-|           17 |      627 | 2024-07-18 | Bounty Hunters | W   | 1.000      | 0.371        | 0.022 (0.008)    | 0.540 (0.200)    | 0 (0.000) |    23.14 | ckzao, diozera, fREQ, keiz, mxa |
-|           16 |      780 | 2024-07-16 | Galorys        | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | 0 (0.000) |    18.27 | ckzao, diozera, fREQ, keiz, mxa |
-|           15 |      855 | 2024-07-13 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -6.85 | ckzao, diozera, fREQ, keiz, mxa |
-|           14 |      870 | 2024-07-12 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.49 | ckzao, diozera, fREQ, keiz, mxa |
-|           13 |      942 | 2024-07-08 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -6.02 | ckzao, diozera, fREQ, keiz, mxa |
-|           12 |     1384 | 2024-06-07 | RED Canids     | L   | 0.801      | -            | -                | -                | -         |    -2.37 | ckzao, diozera, fREQ, keiz, mxa |
-|           11 |     1587 | 2024-06-03 | Galorys        | W   | 0.774      | 0.371        | 0.030 (0.009)    | 0.530 (0.152)    | 0 (0.000) |    16.39 | ckzao, diozera, fREQ, keiz, mxa |
-|           10 |     1660 | 2024-05-31 | Bounty Hunters | W   | 0.756      | 0.371        | 0.022 (0.006)    | 0.540 (0.151)    | 0 (0.000) |    16.23 | ckzao, diozera, fREQ, keiz, mxa |
-|            9 |     1702 | 2024-05-30 | inSanitY       | L   | 0.747      | -            | -                | -                | -         |    -5.74 | ckzao, diozera, fREQ, keiz, mxa |
-|            8 |     1737 | 2024-05-28 | FURIA Academy  | W   | 0.736      | 0.371        | 0.000 (0.000)    | 0.102 (0.028)    | 0 (0.000) |     5.56 | ckzao, diozera, fREQ, keiz, mxa |
-|            7 |     2211 | 2024-05-13 | Case           | L   | 0.635      | -            | -                | -                | -         |    -6.28 | bsd, ckzao, diozera, fREQ, mxa  |
-|            6 |     2233 | 2024-05-12 | ODDIK          | L   | 0.628      | -            | -                | -                | -         |    -4.43 | bsd, ckzao, diozera, fREQ, mxa  |
-|            5 |     2308 | 2024-05-09 | RED Canids     | L   | 0.608      | -            | -                | -                | -         |    -2.39 | bsd, ckzao, diozera, fREQ, mxa  |
-|            4 |     2337 | 2024-05-08 | Yawara         | W   | 0.600      | 0.435        | 0.000 (0.000)    | 0.047 (0.012)    | 0 (0.000) |     4.06 | bsd, ckzao, diozera, fREQ, mxa  |
-|            3 |     2372 | 2024-05-06 | RED Canids     | L   | 0.587      | -            | -                | -                | -         |    -2.29 | bsd, ckzao, diozera, fREQ, mxa  |
-|            2 |     3633 | 2024-03-13 | Fluxo          | L   | 0.229      | -            | -                | -                | -         |    -1.14 | bsd, ckzao, diozera, mxa, roz   |
-|            1 |     4305 | 2024-02-14 | Fluxo          | L   | 0.043      | -            | -                | -                | -         |    -0.22 | bsd, ckzao, diozera, mxa, roz   |
+|           25 |      141 | 2024-08-01 | Legacy         | L   | 1.000      | -            | -                | -                | -         |    -5.39 | ckzao, diozera, fREQ, keiz, mxa |
+|           24 |      148 | 2024-08-01 | Fluxo          | L   | 1.000      | -            | -                | -                | -         |    -4.14 | ckzao, diozera, fREQ, keiz, mxa |
+|           23 |      275 | 2024-07-29 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -8.03 | ckzao, diozera, fREQ, keiz, mxa |
+|           22 |      314 | 2024-07-28 | Fluxo          | W   | 1.000      | 0.143        | 0.123 (0.018)    | 0.701 (0.100)    | 0 (0.000) |    26.98 | ckzao, diozera, fREQ, keiz, mxa |
+|           21 |      475 | 2024-07-23 | Vikings KR     | W   | 1.000      | 0.371        | 0.008 (0.003)    | 0.490 (0.182)    | 0 (0.000) |    17.70 | ckzao, diozera, fREQ, keiz, mxa |
+|           20 |      502 | 2024-07-22 | Case           | L   | 1.000      | -            | -                | -                | -         |   -10.84 | ckzao, diozera, fREQ, keiz, mxa |
+|           19 |      552 | 2024-07-20 | inSanitY       | L   | 1.000      | -            | -                | -                | -         |    -6.58 | ckzao, diozera, fREQ, keiz, mxa |
+|           18 |      594 | 2024-07-19 | RED Canids     | L   | 1.000      | -            | -                | -                | -         |    -3.38 | ckzao, diozera, fREQ, keiz, mxa |
+|           17 |      628 | 2024-07-18 | Bounty Hunters | W   | 1.000      | 0.371        | 0.022 (0.008)    | 0.540 (0.200)    | 0 (0.000) |    23.14 | ckzao, diozera, fREQ, keiz, mxa |
+|           16 |      781 | 2024-07-16 | Galorys        | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | 0 (0.000) |    18.27 | ckzao, diozera, fREQ, keiz, mxa |
+|           15 |      856 | 2024-07-13 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -6.85 | ckzao, diozera, fREQ, keiz, mxa |
+|           14 |      871 | 2024-07-12 | paiN Academy   | W   | 1.000      | 0.333        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     3.49 | ckzao, diozera, fREQ, keiz, mxa |
+|           13 |      943 | 2024-07-08 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -6.02 | ckzao, diozera, fREQ, keiz, mxa |
+|           12 |     1385 | 2024-06-07 | RED Canids     | L   | 0.801      | -            | -                | -                | -         |    -2.38 | ckzao, diozera, fREQ, keiz, mxa |
+|           11 |     1588 | 2024-06-03 | Galorys        | W   | 0.774      | 0.371        | 0.030 (0.009)    | 0.530 (0.152)    | 0 (0.000) |    16.39 | ckzao, diozera, fREQ, keiz, mxa |
+|           10 |     1661 | 2024-05-31 | Bounty Hunters | W   | 0.756      | 0.371        | 0.022 (0.006)    | 0.540 (0.151)    | 0 (0.000) |    16.23 | ckzao, diozera, fREQ, keiz, mxa |
+|            9 |     1703 | 2024-05-30 | inSanitY       | L   | 0.747      | -            | -                | -                | -         |    -5.74 | ckzao, diozera, fREQ, keiz, mxa |
+|            8 |     1738 | 2024-05-28 | FURIA Academy  | W   | 0.736      | 0.371        | 0.000 (0.000)    | 0.102 (0.028)    | 0 (0.000) |     5.56 | ckzao, diozera, fREQ, keiz, mxa |
+|            7 |     2212 | 2024-05-13 | Case           | L   | 0.634      | -            | -                | -                | -         |    -6.28 | bsd, ckzao, diozera, fREQ, mxa  |
+|            6 |     2234 | 2024-05-12 | ODDIK          | L   | 0.628      | -            | -                | -                | -         |    -4.43 | bsd, ckzao, diozera, fREQ, mxa  |
+|            5 |     2309 | 2024-05-09 | RED Canids     | L   | 0.608      | -            | -                | -                | -         |    -2.39 | bsd, ckzao, diozera, fREQ, mxa  |
+|            4 |     2338 | 2024-05-08 | Yawara         | W   | 0.600      | 0.435        | 0.000 (0.000)    | 0.047 (0.012)    | 0 (0.000) |     4.06 | bsd, ckzao, diozera, fREQ, mxa  |
+|            3 |     2373 | 2024-05-06 | RED Canids     | L   | 0.586      | -            | -                | -                | -         |    -2.29 | bsd, ckzao, diozera, fREQ, mxa  |
+|            2 |     3634 | 2024-03-13 | Fluxo          | L   | 0.228      | -            | -                | -                | -         |    -1.14 | bsd, ckzao, diozera, mxa, roz   |
+|            1 |     4306 | 2024-02-14 | Fluxo          | L   | 0.043      | -            | -                | -                | -         |    -0.22 | bsd, ckzao, diozera, mxa, roz   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($750.00)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

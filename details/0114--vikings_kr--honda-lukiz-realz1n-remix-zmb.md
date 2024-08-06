@@ -37,71 +37,71 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           49 |       68 | 2024-08-03 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -9.42 | honda, lukiz, realz1n, remix, zmb  |
-|           48 |       74 | 2024-08-03 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -4.75 | honda, lukiz, realz1n, remix, zmb  |
-|           47 |      101 | 2024-08-02 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |    15.29 | honda, lukiz, realz1n, remix, zmb  |
-|           46 |      135 | 2024-08-01 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.51 | honda, lukiz, realz1n, remix, zmb  |
-|           45 |      141 | 2024-08-01 | Hype              | W   | 1.000      | 0.143        | 0.025 (0.004)    | -                | 0 (0.000) |    17.47 | honda, lukiz, realz1n, remix, zmb  |
-|           44 |      280 | 2024-07-29 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.57 | honda, lukiz, realz1n, remix, zmb  |
-|           43 |      303 | 2024-07-28 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -7.84 | honda, lukiz, realz1n, remix, zmb  |
-|           42 |      312 | 2024-07-28 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -9.62 | honda, lukiz, realz1n, remix, zmb  |
-|           41 |      322 | 2024-07-28 | SENSEI            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.92 | honda, lukiz, realz1n, remix, zmb  |
-|           40 |      403 | 2024-07-25 | Vex Dragons       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.56 | honda, lukiz, realz1n, remix, zmb  |
-|           39 |      406 | 2024-07-25 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -9.35 | honda, lukiz, realz1n, remix, zmb  |
-|           38 |      474 | 2024-07-23 | Intense           | L   | 1.000      | -            | -                | -                | -         |   -17.70 | honda, lukiz, realz1n, remix, zmb  |
-|           37 |      507 | 2024-07-22 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |   -10.80 | honda, lukiz, realz1n, remix, zmb  |
-|           36 |      561 | 2024-07-20 | Galorys           | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | 0 (0.000) |    13.94 | honda, lukiz, realz1n, remix, zmb  |
-|           35 |      585 | 2024-07-19 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.16 | honda, lukiz, realz1n, remix, zmb  |
-|           34 |      590 | 2024-07-19 | Case              | W   | 1.000      | 0.143        | 0.029 (0.004)    | 0.778 (0.111)    | 0 (0.000) |    18.61 | honda, lukiz, realz1n, remix, zmb  |
-|           33 |      598 | 2024-07-19 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.63 | honda, lukiz, realz1n, remix, zmb  |
-|           32 |      659 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.38 | honda, lukiz, realz1n, remix, zmb  |
-|           31 |      711 | 2024-07-17 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -8.85 | honda, lukiz, realz1n, remix, zmb  |
-|           30 |      725 | 2024-07-17 | Case              | W   | 1.000      | 0.333        | 0.029 (0.010)    | 0.778 (0.259)    | 0 (0.000) |    18.51 | honda, lukiz, realz1n, remix, zmb  |
-|           29 |      762 | 2024-07-16 | Patins da Ferrari | W   | 1.000      | 0.371        | 0.012 (0.005)    | 0.288 (0.107)    | 0 (0.000) |    14.81 | honda, lukiz, realz1n, remix, zmb  |
-|           28 |      823 | 2024-07-15 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -8.49 | honda, lukiz, realz1n, remix, zmb  |
-|           27 |      900 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -18.23 | honda, lukiz, realz1n, remix, zmb  |
-|           26 |      921 | 2024-07-09 | KRÜ               | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.479 (0.160)    | 0 (0.000) |    17.27 | honda, lukiz, realz1n, remix, zmb  |
-|           25 |      932 | 2024-07-09 | Legacy            | L   | 1.000      | -            | -                | -                | -         |    -6.82 | honda, lukiz, realz1n, remix, zmb  |
-|           24 |      968 | 2024-07-05 | MIBR Academy      | W   | 0.988      | -            | -                | -                | -         |     2.52 | honda, lukiz, realz1n, remix, zmb  |
-|           23 |      973 | 2024-07-02 | Bounty Hunters    | L   | 0.968      | -            | -                | -                | -         |   -10.61 | honda, ksloks, realz1n, remix, zmb |
-|           22 |      974 | 2024-07-01 | Patins da Ferrari | W   | 0.962      | 0.333        | 0.012 (0.004)    | 0.288 (0.092)    | -         |    15.73 | honda, ksloks, realz1n, remix, zmb |
-|           21 |      978 | 2024-06-30 | Galorys           | W   | 0.954      | 0.333        | 0.030 (0.009)    | 0.530 (0.169)    | -         |    16.20 | honda, ksloks, realz1n, remix, zmb |
-|           20 |      993 | 2024-06-28 | Dusty Roots       | W   | 0.941      | 0.333        | -                | 0.359 (0.112)    | -         |    15.53 | honda, ksloks, realz1n, remix, zmb |
-|           19 |     1003 | 2024-06-26 | Bounty Hunters    | L   | 0.928      | -            | -                | -                | -         |   -10.18 | honda, ksloks, realz1n, remix, zmb |
-|           18 |     1211 | 2024-06-10 | ex-Corinthians    | W   | 0.822      | -            | -                | -                | -         |     4.85 | honda, ksloks, realz1n, remix, zmb |
-|           17 |     1222 | 2024-06-10 | Sharks            | L   | 0.820      | -            | -                | -                | -         |    -5.30 | honda, ksloks, realz1n, remix, zmb |
-|           16 |     1275 | 2024-06-09 | Patins da Ferrari | L   | 0.813      | -            | -                | -                | -         |   -12.16 | honda, ksloks, realz1n, remix, zmb |
-|           15 |     1328 | 2024-06-08 | BESTIA            | W   | 0.807      | 0.450        | 0.096 (0.035)    | 0.776 (0.282)    | -         |    20.08 | honda, ksloks, realz1n, remix, zmb |
-|           14 |     1387 | 2024-06-07 | Case              | W   | 0.801      | 0.450        | 0.029 (0.011)    | 0.778 (0.280)    | -         |    15.63 | honda, ksloks, realz1n, remix, zmb |
-|           13 |     1440 | 2024-06-06 | Dusty Roots       | L   | 0.794      | -            | -                | -                | -         |   -10.53 | honda, ksloks, realz1n, remix, zmb |
-|           12 |     1460 | 2024-06-06 | Solid             | L   | 0.793      | -            | -                | -                | -         |    -8.72 | honda, ksloks, realz1n, remix, zmb |
-|           11 |     1579 | 2024-06-03 | W7M               | L   | 0.776      | -            | -                | -                | -         |   -13.12 | honda, ksloks, realz1n, remix, zmb |
-|           10 |     1664 | 2024-05-31 | Hawks             | W   | 0.755      | -            | -                | -                | -         |     4.51 | honda, ksloks, realz1n, remix, zmb |
-|            9 |     1712 | 2024-05-29 | Yawara            | W   | 0.743      | -            | -                | -                | -         |     3.65 | honda, ksloks, realz1n, remix, zmb |
-|            8 |     1758 | 2024-05-27 | Smoke             | L   | 0.729      | -            | -                | -                | -         |   -14.63 | honda, ksloks, realz1n, remix, zmb |
-|            7 |     2114 | 2024-05-15 | Sharks            | L   | 0.649      | -            | -                | -                | -         |    -5.77 | honda, ksloks, realz1n, remix, zmb |
-|            6 |     2175 | 2024-05-14 | O PLANO           | W   | 0.642      | -            | -                | -                | -         |     3.35 | honda, ksloks, realz1n, remix, zmb |
-|            5 |     2228 | 2024-05-12 | RED Canids        | L   | 0.629      | -            | -                | -                | -         |    -3.51 | honda, ksloks, realz1n, remix, zmb |
-|            4 |     2241 | 2024-05-12 | Fluxo             | L   | 0.627      | -            | -                | -                | -         |    -3.76 | honda, ksloks, realz1n, remix, zmb |
-|            3 |     2334 | 2024-05-08 | BESTIA            | L   | 0.601      | -            | -                | -                | -         |    -6.80 | honda, JLK, ksloks, realz1n, remix |
-|            2 |     2369 | 2024-05-06 | 9z                | L   | 0.587      | -            | -                | -                | -         |    -0.39 | honda, JLK, ksloks, realz1n, remix |
-|            1 |     2961 | 2024-04-11 | Galorys           | W   | 0.422      | -            | -                | -                | -         |     8.09 | honda, JLK, ksloks, realz1n, remix |
+|           49 |       69 | 2024-08-03 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -9.42 | honda, lukiz, realz1n, remix, zmb  |
+|           48 |       75 | 2024-08-03 | RED Canids        | L   | 1.000      | -            | -                | -                | -         |    -4.75 | honda, lukiz, realz1n, remix, zmb  |
+|           47 |      102 | 2024-08-02 | Dusty Roots       | W   | 1.000      | -            | -                | -                | 0 (0.000) |    15.29 | honda, lukiz, realz1n, remix, zmb  |
+|           46 |      136 | 2024-08-01 | KRÜ               | W   | 1.000      | -            | -                | -                | 0 (0.000) |    18.51 | honda, lukiz, realz1n, remix, zmb  |
+|           45 |      142 | 2024-08-01 | Hype              | W   | 1.000      | 0.143        | 0.025 (0.004)    | -                | 0 (0.000) |    17.47 | honda, lukiz, realz1n, remix, zmb  |
+|           44 |      281 | 2024-07-29 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.57 | honda, lukiz, realz1n, remix, zmb  |
+|           43 |      304 | 2024-07-28 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -7.84 | honda, lukiz, realz1n, remix, zmb  |
+|           42 |      313 | 2024-07-28 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -9.62 | honda, lukiz, realz1n, remix, zmb  |
+|           41 |      323 | 2024-07-28 | SENSEI            | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.92 | honda, lukiz, realz1n, remix, zmb  |
+|           40 |      404 | 2024-07-25 | Vex Dragons       | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.56 | honda, lukiz, realz1n, remix, zmb  |
+|           39 |      407 | 2024-07-25 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |    -9.35 | honda, lukiz, realz1n, remix, zmb  |
+|           38 |      475 | 2024-07-23 | Intense           | L   | 1.000      | -            | -                | -                | -         |   -17.70 | honda, lukiz, realz1n, remix, zmb  |
+|           37 |      508 | 2024-07-22 | Bounty Hunters    | L   | 1.000      | -            | -                | -                | -         |   -10.80 | honda, lukiz, realz1n, remix, zmb  |
+|           36 |      562 | 2024-07-20 | Galorys           | W   | 1.000      | 0.371        | 0.030 (0.011)    | 0.530 (0.196)    | 0 (0.000) |    13.94 | honda, lukiz, realz1n, remix, zmb  |
+|           35 |      586 | 2024-07-19 | Fluxo             | L   | 1.000      | -            | -                | -                | -         |    -4.16 | honda, lukiz, realz1n, remix, zmb  |
+|           34 |      591 | 2024-07-19 | Case              | W   | 1.000      | 0.143        | 0.029 (0.004)    | 0.778 (0.111)    | 0 (0.000) |    18.61 | honda, lukiz, realz1n, remix, zmb  |
+|           33 |      599 | 2024-07-19 | paiN              | L   | 1.000      | -            | -                | -                | -         |    -1.64 | honda, lukiz, realz1n, remix, zmb  |
+|           32 |      660 | 2024-07-18 | Solid             | L   | 1.000      | -            | -                | -                | -         |   -15.38 | honda, lukiz, realz1n, remix, zmb  |
+|           31 |      712 | 2024-07-17 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -8.85 | honda, lukiz, realz1n, remix, zmb  |
+|           30 |      726 | 2024-07-17 | Case              | W   | 1.000      | 0.333        | 0.029 (0.010)    | 0.778 (0.259)    | 0 (0.000) |    18.51 | honda, lukiz, realz1n, remix, zmb  |
+|           29 |      763 | 2024-07-16 | Patins da Ferrari | W   | 1.000      | 0.371        | 0.012 (0.005)    | 0.288 (0.107)    | 0 (0.000) |    14.81 | honda, lukiz, realz1n, remix, zmb  |
+|           28 |      824 | 2024-07-15 | BESTIA            | L   | 1.000      | -            | -                | -                | -         |    -8.49 | honda, lukiz, realz1n, remix, zmb  |
+|           27 |      901 | 2024-07-10 | W7M               | L   | 1.000      | -            | -                | -                | -         |   -18.23 | honda, lukiz, realz1n, remix, zmb  |
+|           26 |      922 | 2024-07-09 | KRÜ               | W   | 1.000      | 0.333        | 0.023 (0.008)    | 0.479 (0.160)    | 0 (0.000) |    17.27 | honda, lukiz, realz1n, remix, zmb  |
+|           25 |      933 | 2024-07-09 | Legacy            | L   | 1.000      | -            | -                | -                | -         |    -6.82 | honda, lukiz, realz1n, remix, zmb  |
+|           24 |      969 | 2024-07-05 | MIBR Academy      | W   | 0.988      | -            | -                | -                | -         |     2.52 | honda, lukiz, realz1n, remix, zmb  |
+|           23 |      974 | 2024-07-02 | Bounty Hunters    | L   | 0.968      | -            | -                | -                | -         |   -10.61 | honda, ksloks, realz1n, remix, zmb |
+|           22 |      975 | 2024-07-01 | Patins da Ferrari | W   | 0.962      | 0.333        | 0.012 (0.004)    | 0.288 (0.092)    | -         |    15.73 | honda, ksloks, realz1n, remix, zmb |
+|           21 |      979 | 2024-06-30 | Galorys           | W   | 0.954      | 0.333        | 0.030 (0.009)    | 0.530 (0.169)    | -         |    16.20 | honda, ksloks, realz1n, remix, zmb |
+|           20 |      994 | 2024-06-28 | Dusty Roots       | W   | 0.941      | 0.333        | -                | 0.359 (0.112)    | -         |    15.53 | honda, ksloks, realz1n, remix, zmb |
+|           19 |     1004 | 2024-06-26 | Bounty Hunters    | L   | 0.928      | -            | -                | -                | -         |   -10.18 | honda, ksloks, realz1n, remix, zmb |
+|           18 |     1212 | 2024-06-10 | ex-Corinthians    | W   | 0.822      | -            | -                | -                | -         |     4.85 | honda, ksloks, realz1n, remix, zmb |
+|           17 |     1223 | 2024-06-10 | Sharks            | L   | 0.820      | -            | -                | -                | -         |    -5.30 | honda, ksloks, realz1n, remix, zmb |
+|           16 |     1276 | 2024-06-09 | Patins da Ferrari | L   | 0.813      | -            | -                | -                | -         |   -12.16 | honda, ksloks, realz1n, remix, zmb |
+|           15 |     1329 | 2024-06-08 | BESTIA            | W   | 0.807      | 0.450        | 0.096 (0.035)    | 0.776 (0.282)    | -         |    20.08 | honda, ksloks, realz1n, remix, zmb |
+|           14 |     1388 | 2024-06-07 | Case              | W   | 0.801      | 0.450        | 0.029 (0.011)    | 0.778 (0.280)    | -         |    15.62 | honda, ksloks, realz1n, remix, zmb |
+|           13 |     1441 | 2024-06-06 | Dusty Roots       | L   | 0.794      | -            | -                | -                | -         |   -10.53 | honda, ksloks, realz1n, remix, zmb |
+|           12 |     1461 | 2024-06-06 | Solid             | L   | 0.793      | -            | -                | -                | -         |    -8.72 | honda, ksloks, realz1n, remix, zmb |
+|           11 |     1580 | 2024-06-03 | W7M               | L   | 0.776      | -            | -                | -                | -         |   -13.12 | honda, ksloks, realz1n, remix, zmb |
+|           10 |     1665 | 2024-05-31 | Hawks             | W   | 0.755      | -            | -                | -                | -         |     4.51 | honda, ksloks, realz1n, remix, zmb |
+|            9 |     1713 | 2024-05-29 | Yawara            | W   | 0.743      | -            | -                | -                | -         |     3.65 | honda, ksloks, realz1n, remix, zmb |
+|            8 |     1759 | 2024-05-27 | Smoke             | L   | 0.729      | -            | -                | -                | -         |   -14.63 | honda, ksloks, realz1n, remix, zmb |
+|            7 |     2115 | 2024-05-15 | Sharks            | L   | 0.649      | -            | -                | -                | -         |    -5.77 | honda, ksloks, realz1n, remix, zmb |
+|            6 |     2176 | 2024-05-14 | O PLANO           | W   | 0.642      | -            | -                | -                | -         |     3.34 | honda, ksloks, realz1n, remix, zmb |
+|            5 |     2229 | 2024-05-12 | RED Canids        | L   | 0.629      | -            | -                | -                | -         |    -3.51 | honda, ksloks, realz1n, remix, zmb |
+|            4 |     2242 | 2024-05-12 | Fluxo             | L   | 0.627      | -            | -                | -                | -         |    -3.76 | honda, ksloks, realz1n, remix, zmb |
+|            3 |     2335 | 2024-05-08 | BESTIA            | L   | 0.601      | -            | -                | -                | -         |    -6.80 | honda, JLK, ksloks, realz1n, remix |
+|            2 |     2370 | 2024-05-06 | 9z                | L   | 0.587      | -            | -                | -                | -         |    -0.39 | honda, JLK, ksloks, realz1n, remix |
+|            1 |     2962 | 2024-04-11 | Galorys           | W   | 0.422      | -            | -                | -                | -         |     8.09 | honda, JLK, ksloks, realz1n, remix |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,643.59)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($2,642.91)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-07-03 |      0.975 | $1,000.00      | $974.63         |
-| 2024-06-10 |      0.822 | $1,320.00      | $1,085.58       |
-| 2024-04-11 |      0.422 | $1,382.00      | $583.38         |
+| 2024-07-03 |      0.974 | $1,000.00      | $974.44         |
+| 2024-06-10 |      0.822 | $1,320.00      | $1,085.33       |
+| 2024-04-11 |      0.422 | $1,382.00      | $583.13         |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

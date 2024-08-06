@@ -37,33 +37,33 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           20 |      134 | 2024-08-01 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.95 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           19 |      190 | 2024-07-31 | Bounty Hunters | L   | 1.000      | -            | -                | -                | -         |    -6.61 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           18 |      234 | 2024-07-30 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -0.72 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           17 |      238 | 2024-07-30 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -0.73 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           16 |      320 | 2024-07-28 | Legacy         | L   | 1.000      | -            | -                | -                | -         |    -3.84 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           15 |      623 | 2024-07-18 | Case           | L   | 1.000      | -            | -                | -                | -         |    -8.13 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           14 |      626 | 2024-07-18 | Case           | L   | 1.000      | -            | -                | -                | -         |    -8.71 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           13 |      684 | 2024-07-17 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -11.94 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           12 |      690 | 2024-07-17 | Solid          | W   | 1.000      | 0.450        | 0.024 (0.011)    | 0.807 (0.363)    | 0 (0.000) |    19.90 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           11 |      803 | 2024-07-15 | Hype           | W   | 1.000      | 0.450        | 0.025 (0.011)    | 0.476 (0.214)    | 0 (0.000) |    23.09 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|           10 |      807 | 2024-07-15 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -7.92 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
-|            9 |     1627 | 2024-06-01 | Case           | L   | 0.762      | -            | -                | -                | -         |    -5.89 | dok, dzt, leleo, spinnie, vhz         |
-|            8 |     1698 | 2024-05-30 | Solid          | L   | 0.748      | -            | -                | -                | -         |    -6.38 | dok, dzt, leleo, spinnie, vhz         |
-|            7 |     1758 | 2024-05-27 | Vikings KR     | W   | 0.729      | 0.371        | 0.008 (0.002)    | 0.490 (0.132)    | 0 (0.000) |    14.63 | beg0d, dok, dzt, spinnie, vhz         |
-|            6 |     1907 | 2024-05-21 | BESTIA         | L   | 0.689      | -            | -                | -                | -         |    -3.11 | beg0d, dok, dzt, spinnie, vhz         |
-|            5 |     1910 | 2024-05-21 | BESTIA         | L   | 0.689      | -            | -                | -                | -         |    -3.20 | beg0d, dok, dzt, spinnie, vhz         |
-|            4 |     2116 | 2024-05-15 | Fluxo          | L   | 0.649      | -            | -                | -                | -         |    -2.08 | beg0d, dok, dzt, spinnie, vhz         |
-|            3 |     2117 | 2024-05-15 | Fluxo          | L   | 0.649      | -            | -                | -                | -         |    -2.13 | beg0d, dok, dzt, spinnie, vhz         |
-|            2 |     2174 | 2024-05-14 | 9z             | L   | 0.642      | -            | -                | -                | -         |    -0.23 | beg0d, dok, dzt, spinnie, vhz         |
-|            1 |     2178 | 2024-05-14 | 9z             | L   | 0.642      | -            | -                | -                | -         |    -0.23 | beg0d, dok, dzt, spinnie, vhz         |
+|           20 |      135 | 2024-08-01 | BESTIA         | L   | 1.000      | -            | -                | -                | -         |    -4.95 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           19 |      191 | 2024-07-31 | Bounty Hunters | L   | 1.000      | -            | -                | -                | -         |    -6.61 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           18 |      235 | 2024-07-30 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -0.72 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           17 |      239 | 2024-07-30 | paiN           | L   | 1.000      | -            | -                | -                | -         |    -0.73 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           16 |      321 | 2024-07-28 | Legacy         | L   | 1.000      | -            | -                | -                | -         |    -3.84 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           15 |      624 | 2024-07-18 | Case           | L   | 1.000      | -            | -                | -                | -         |    -8.13 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           14 |      627 | 2024-07-18 | Case           | L   | 1.000      | -            | -                | -                | -         |    -8.71 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           13 |      685 | 2024-07-17 | Solid          | L   | 1.000      | -            | -                | -                | -         |   -11.94 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           12 |      691 | 2024-07-17 | Solid          | W   | 1.000      | 0.450        | 0.024 (0.011)    | 0.807 (0.363)    | 0 (0.000) |    19.90 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           11 |      804 | 2024-07-15 | Hype           | W   | 1.000      | 0.450        | 0.025 (0.011)    | 0.476 (0.214)    | 0 (0.000) |    23.09 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|           10 |      808 | 2024-07-15 | Hype           | L   | 1.000      | -            | -                | -                | -         |    -7.92 | dok, dzt, MITHPUTTINI, s1cko, spinnie |
+|            9 |     1628 | 2024-06-01 | Case           | L   | 0.762      | -            | -                | -                | -         |    -5.89 | dok, dzt, leleo, spinnie, vhz         |
+|            8 |     1699 | 2024-05-30 | Solid          | L   | 0.747      | -            | -                | -                | -         |    -6.37 | dok, dzt, leleo, spinnie, vhz         |
+|            7 |     1759 | 2024-05-27 | Vikings KR     | W   | 0.729      | 0.371        | 0.008 (0.002)    | 0.490 (0.132)    | 0 (0.000) |    14.63 | beg0d, dok, dzt, spinnie, vhz         |
+|            6 |     1908 | 2024-05-21 | BESTIA         | L   | 0.689      | -            | -                | -                | -         |    -3.11 | beg0d, dok, dzt, spinnie, vhz         |
+|            5 |     1911 | 2024-05-21 | BESTIA         | L   | 0.689      | -            | -                | -                | -         |    -3.20 | beg0d, dok, dzt, spinnie, vhz         |
+|            4 |     2117 | 2024-05-15 | Fluxo          | L   | 0.649      | -            | -                | -                | -         |    -2.08 | beg0d, dok, dzt, spinnie, vhz         |
+|            3 |     2118 | 2024-05-15 | Fluxo          | L   | 0.649      | -            | -                | -                | -         |    -2.13 | beg0d, dok, dzt, spinnie, vhz         |
+|            2 |     2175 | 2024-05-14 | 9z             | L   | 0.642      | -            | -                | -                | -         |    -0.23 | beg0d, dok, dzt, spinnie, vhz         |
+|            1 |     2179 | 2024-05-14 | 9z             | L   | 0.642      | -            | -                | -                | -         |    -0.23 | beg0d, dok, dzt, spinnie, vhz         |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($733.58)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($733.42)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

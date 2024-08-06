@@ -17,7 +17,7 @@
 | 12       |   1103 | ODDIK             | ksloks, matios, naitte, togs, WOOD7              | [details](details/0045--oddik--ksloks-matios-naitte-togs-wood7.md)                     |
 | 13       |   1026 | Nouns             | cJ dA K1nG, Jeorge, junior, nosraC, RUSH         | [details](details/0054--nouns--cj_da_k1ng-jeorge-junior-nosrac-rush.md)                |
 | 14       |   1022 | Sharks            | doc, gafolo, koala, pepe, rdnzao                 | [details](details/0055--sharks--doc-gafolo-koala-pepe-rdnzao.md)                       |
-| 15       |    997 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0064--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |
+| 15       |    997 | BESTIA            | luchov, naz, Noktse, tomaszin, zock              | [details](details/0065--bestia--luchov-naz-noktse-tomaszin-zock.md)                    |
 | 16       |    989 | NRG               | autimatic, Brehze, HexT, nitr0, oSee             | [details](details/0066--nrg--autimatic-brehze-hext-nitr0-osee.md)                      |
 | 17       |    966 | inSanitY          | cass1n, f4stzin, iDk, pesadelo, shz              | [details](details/0069--insanity--cass1n-f4stzin-idk-pesadelo-shz.md)                  |
 | 18       |    966 | Party Astronauts  | ben1337, cxzi, FaNg, Infinite, WolfY             | [details](details/0070--party_astronauts--ben1337-cxzi-fang-infinite-wolfy.md)         |
@@ -28,8 +28,8 @@
 | 23       |    907 | Elevate           | dare, intra, Peeping, shane, snav                | [details](details/0091--elevate--dare-intra-peeping-shane-snav.md)                     |
 | 24       |    894 | Case              | bsd, nyezin, RICIOLI, urban0, yepz               | [details](details/0092--case--bsd-nyezin-ricioli-urban0-yepz.md)                       |
 | 25       |    879 | KRÜ               | atarax1a, deco, laser, reversive, righi          | [details](details/0097--kr_--atarax1a-deco-laser-reversive-righi.md)                   |
-| 26       |    843 | Galorys           | detr0ittJ, happ, hoax, ninjaZ, Tomate            | [details](details/0109--galorys--detr0ittj-happ-hoax-ninjaz-tomate.md)                 |
-| 27       |    842 | panelinha         | annaEX, goddess, josi, Le, yungher               | [details](details/0110--panelinha--annaex-goddess-josi-le-yungher.md)                  |
+| 26       |    843 | Galorys           | detr0ittJ, happ, hoax, ninjaZ, Tomate            | [details](details/0108--galorys--detr0ittj-happ-hoax-ninjaz-tomate.md)                 |
+| 27       |    842 | panelinha         | annaEX, goddess, josi, Le, yungher               | [details](details/0109--panelinha--annaex-goddess-josi-le-yungher.md)                  |
 | 28       |    838 | Hype              | history, leo_drk, MaLLby, rainny, vinaabEAST     | [details](details/0113--hype--history-leo_drk-mallby-rainny-vinaabeast.md)             |
 | 29       |    836 | Vikings KR        | honda, lukiz, realz1n, remix, zmb                | [details](details/0114--vikings_kr--honda-lukiz-realz1n-remix-zmb.md)                  |
 | 30       |    824 | Dusty Roots       | 1962, alexer, maxxkor, OwensinhoM, tom1jed       | [details](details/0118--dusty_roots--1962-alexer-maxxkor-owensinhom-tom1jed.md)        |
@@ -40,7 +40,7 @@
 | 35       |    760 | Sharks            | doc, drg, rdnzao, supLexN1, togs                 | [details](details/0137--sharks--doc-drg-rdnzao-suplexn1-togs.md)                       |
 | 36       |    759 | Mythic            | Austin, Cooper, fl0m, freakazoid, Trucklover86   | [details](details/0138--mythic--austin-cooper-fl0m-freakazoid-trucklover86.md)         |
 | 37       |    758 | LAG               | Experative, nicx, Nyyx, ogwizard, Weeza          | [details](details/0139--lag--experative-nicx-nyyx-ogwizard-weeza.md)                   |
-| 38       |    750 | FlyQuest RED      | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa | [details](details/0141--flyquest_red--bibiahn-emy-goosebreeder-shakezullah-vanessa.md) |
+| 38       |    749 | FlyQuest RED      | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa | [details](details/0141--flyquest_red--bibiahn-emy-goosebreeder-shakezullah-vanessa.md) |
 | 39       |    748 | Patins da Ferrari | CSO, CutzMeretz, Leomonster, Misfit, zede        | [details](details/0143--patins_da_ferrari--cso-cutzmeretz-leomonster-misfit-zede.md)   |
 | 40       |    738 | FLUFFY AIMERS     | ayy, jason, nooz, PNDLM, sacrifice               | [details](details/0147--fluffy_aimers--ayy-jason-nooz-pndlm-sacrifice.md)              |
 | 41       |    734 | FLUFFY AIMERS     | bezymecc, brett, jason, sacrifice, slump         | [details](details/0148--fluffy_aimers--bezymecc-brett-jason-sacrifice-slump.md)        |

@@ -37,25 +37,25 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           12 |     3605 | 2024-03-14 | MIBR Academy  | L   | 0.235      | -            | -                | -                | -         |    -3.54 | Alisson, ALLE, caike, danoco, zock9   |
-|           11 |     3615 | 2024-03-14 | RED Canids    | L   | 0.234      | -            | -                | -                | -         |    -0.27 | Alisson, ALLE, caike, danoco, zock9   |
-|           10 |     3689 | 2024-03-11 | MIBR Academy  | W   | 0.215      | 0.303        | 0.000 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     3.55 | Alisson, ALLE, caike, danoco, zock9   |
-|            9 |     3717 | 2024-03-10 | FURIA Academy | L   | 0.208      | -            | -                | -                | -         |    -3.10 | Alisson, ALLE, danoco, voltera, zock9 |
-|            8 |     3764 | 2024-03-08 | adalYamigos   | L   | 0.194      | -            | -                | -                | -         |    -2.23 | Alisson, ALLE, danoco, voltera, zock9 |
-|            7 |     4148 | 2024-02-20 | Solid         | L   | 0.082      | -            | -                | -                | -         |    -0.25 | Alisson, ALLE, danoco, LUCAS1, zock9  |
-|            6 |     4151 | 2024-02-20 | Sharks        | W   | 0.082      | 0.143        | 0.030 (0.000)    | 0.546 (0.006)    | 0 (0.000) |     2.41 | Alisson, ALLE, danoco, LUCAS1, zock9  |
-|            5 |     4246 | 2024-02-16 | Galorys       | L   | 0.055      | -            | -                | -                | -         |    -0.16 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            4 |     4260 | 2024-02-16 | LA RUGONETA   | L   | 0.053      | -            | -                | -                | -         |    -0.74 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            3 |     4285 | 2024-02-15 | Case          | L   | 0.047      | -            | -                | -                | -         |    -0.11 | ALLE, danoco, LUCAS1, ph1, zock9      |
-|            2 |     4354 | 2024-02-13 | 9z Academy    | W   | 0.035      | 0.303        | 0.000 (0.000)    | 0.067 (0.001)    | 0 (0.000) |     0.58 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
-|            1 |     4370 | 2024-02-12 | Fluxo         | L   | 0.027      | -            | -                | -                | -         |    -0.04 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
+|           12 |     3606 | 2024-03-14 | MIBR Academy  | L   | 0.235      | -            | -                | -                | -         |    -3.54 | Alisson, ALLE, caike, danoco, zock9   |
+|           11 |     3616 | 2024-03-14 | RED Canids    | L   | 0.233      | -            | -                | -                | -         |    -0.27 | Alisson, ALLE, caike, danoco, zock9   |
+|           10 |     3690 | 2024-03-11 | MIBR Academy  | W   | 0.215      | 0.303        | 0.000 (0.000)    | 0.021 (0.001)    | 0 (0.000) |     3.55 | Alisson, ALLE, caike, danoco, zock9   |
+|            9 |     3718 | 2024-03-10 | FURIA Academy | L   | 0.207      | -            | -                | -                | -         |    -3.10 | Alisson, ALLE, danoco, voltera, zock9 |
+|            8 |     3765 | 2024-03-08 | adalYamigos   | L   | 0.194      | -            | -                | -                | -         |    -2.23 | Alisson, ALLE, danoco, voltera, zock9 |
+|            7 |     4149 | 2024-02-20 | Solid         | L   | 0.082      | -            | -                | -                | -         |    -0.25 | Alisson, ALLE, danoco, LUCAS1, zock9  |
+|            6 |     4152 | 2024-02-20 | Sharks        | W   | 0.082      | 0.143        | 0.030 (0.000)    | 0.546 (0.006)    | 0 (0.000) |     2.40 | Alisson, ALLE, danoco, LUCAS1, zock9  |
+|            5 |     4247 | 2024-02-16 | Galorys       | L   | 0.055      | -            | -                | -                | -         |    -0.16 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            4 |     4261 | 2024-02-16 | LA RUGONETA   | L   | 0.053      | -            | -                | -                | -         |    -0.74 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            3 |     4286 | 2024-02-15 | Case          | L   | 0.047      | -            | -                | -                | -         |    -0.11 | ALLE, danoco, LUCAS1, ph1, zock9      |
+|            2 |     4355 | 2024-02-13 | 9z Academy    | W   | 0.035      | 0.303        | 0.000 (0.000)    | 0.067 (0.001)    | 0 (0.000) |     0.57 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
+|            1 |     4371 | 2024-02-12 | Fluxo         | L   | 0.026      | -            | -                | -                | -         |    -0.04 | ALLE, danoco, LUCAS1, sakamoto, zock9 |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

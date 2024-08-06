@@ -6,9 +6,9 @@ Global Rank: [208](../standings_global.md)<br />
 Region: [Europe]( ../standings_europe.md)<br />
 Regional Rank: [127]( ../standings_europe.md)<br />
 <br />
-Final Rank Value:  488.6<br />
+Final Rank Value:  488.5<br />
 <br />
-Final Rank Value (488.6) = Starting Rank Value (493.6) + Head To Head Adjustments (-5.0)<br />
+Final Rank Value (488.5) = Starting Rank Value (493.5) + Head To Head Adjustments (-5.0)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.045<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 493.6
-- 400 + ( ( 0.045 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 493.6
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 493.5
+- 400 + ( ( 0.045 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 493.5
 
 
 #### Factors<br />
@@ -37,29 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent      | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                 |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           16 |     3377 | 2024-03-27 | Aurora        | L   | 0.321      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, FRANSSON, hype, RuStY  |
-|           15 |     3680 | 2024-03-12 | MOUZ NXT      | L   | 0.220      | -            | -                | -                | -         |    -0.30 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           14 |     3719 | 2024-03-10 | FAVBET        | W   | 0.207      | 0.372        | 0.003 (0.000)    | 0.364 (0.028)    | 0 (0.000) |     5.37 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           13 |     3741 | 2024-03-09 | BLUDS         | L   | 0.201      | -            | -                | -                | -         |    -3.91 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           12 |     3752 | 2024-03-09 | Young Ninjas  | L   | 0.200      | -            | -                | -                | -         |    -1.10 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           11 |     3791 | 2024-03-07 | Passion UA    | L   | 0.188      | -            | -                | -                | -         |    -0.19 | bobeksde, eraa, Golden, Plopski, RuStY |
-|           10 |     3828 | 2024-03-06 | Zero Tenacity | L   | 0.180      | -            | -                | -                | -         |    -0.18 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            9 |     3840 | 2024-03-06 | Sampi         | L   | 0.179      | -            | -                | -                | -         |    -0.56 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            8 |     3868 | 2024-03-05 | Endpoint      | L   | 0.173      | -            | -                | -                | -         |    -0.53 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            7 |     3887 | 2024-03-04 | BLEED         | L   | 0.165      | -            | -                | -                | -         |    -0.35 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            6 |     3906 | 2024-03-03 | fnatic        | L   | 0.161      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            5 |     3936 | 2024-03-02 | Permitta      | L   | 0.153      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            4 |     3966 | 2024-02-29 | BLEED         | L   | 0.139      | -            | -                | -                | -         |    -0.30 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            3 |     3995 | 2024-02-27 | Croatia       | L   | 0.127      | -            | -                | -                | -         |    -2.04 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            2 |     4001 | 2024-02-27 | kONO          | L   | 0.126      | -            | -                | -                | -         |    -0.57 | bobeksde, eraa, Golden, Plopski, RuStY |
-|            1 |     4413 | 2024-02-08 | Sangal        | W   | 0.000      | 0.143        | 0.219 (0.000)    | 0.846 (0.000)    | 0 (0.000) |     0.00 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           15 |     3378 | 2024-03-27 | Aurora        | L   | 0.321      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, FRANSSON, hype, RuStY  |
+|           14 |     3681 | 2024-03-12 | MOUZ NXT      | L   | 0.220      | -            | -                | -                | -         |    -0.30 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           13 |     3720 | 2024-03-10 | FAVBET        | W   | 0.207      | 0.372        | 0.003 (0.000)    | 0.364 (0.028)    | 0 (0.000) |     5.37 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           12 |     3742 | 2024-03-09 | BLUDS         | L   | 0.200      | -            | -                | -                | -         |    -3.91 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           11 |     3753 | 2024-03-09 | Young Ninjas  | L   | 0.199      | -            | -                | -                | -         |    -1.09 | bobeksde, eraa, Golden, Plopski, RuStY |
+|           10 |     3792 | 2024-03-07 | Passion UA    | L   | 0.187      | -            | -                | -                | -         |    -0.19 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            9 |     3829 | 2024-03-06 | Zero Tenacity | L   | 0.180      | -            | -                | -                | -         |    -0.18 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            8 |     3841 | 2024-03-06 | Sampi         | L   | 0.178      | -            | -                | -                | -         |    -0.56 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            7 |     3869 | 2024-03-05 | Endpoint      | L   | 0.173      | -            | -                | -                | -         |    -0.53 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            6 |     3888 | 2024-03-04 | BLEED         | L   | 0.165      | -            | -                | -                | -         |    -0.35 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            5 |     3907 | 2024-03-03 | fnatic        | L   | 0.161      | -            | -                | -                | -         |    -0.01 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            4 |     3937 | 2024-03-02 | Permitta      | L   | 0.152      | -            | -                | -                | -         |    -0.29 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            3 |     3967 | 2024-02-29 | BLEED         | L   | 0.139      | -            | -                | -                | -         |    -0.30 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            2 |     3996 | 2024-02-27 | Croatia       | L   | 0.127      | -            | -                | -                | -         |    -2.03 | bobeksde, eraa, Golden, Plopski, RuStY |
+|            1 |     4002 | 2024-02-27 | kONO          | L   | 0.126      | -            | -                | -                | -         |    -0.57 | bobeksde, eraa, Golden, Plopski, RuStY |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($0.00)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

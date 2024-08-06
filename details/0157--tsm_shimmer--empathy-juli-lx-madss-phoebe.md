@@ -37,36 +37,36 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           23 |      304 | 2024-07-28 | Nouns fe         | W   | 1.000      | 0.250        | 0.003 (0.001)    | 0.032 (0.008)    | 0 (0.000) |    12.61 | empathy, Juli, Lx, madss, phoebe   |
-|           22 |     1032 | 2024-06-16 | Lotus fe         | W   | 0.862      | 0.250        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |    12.08 | abby, empathy, Juli, Lx, madss     |
-|           21 |     1257 | 2024-06-09 | Perseverance     | L   | 0.814      | -            | -                | -                | -         |   -17.97 | abby, empathy, Florence, Lx, madss |
-|           20 |     1359 | 2024-06-07 | Zomblers         | L   | 0.804      | -            | -                | -                | -         |   -18.61 | abby, empathy, Florence, Lx, madss |
-|           19 |     1507 | 2024-06-05 | Asian Kings      | W   | 0.788      | -            | -                | -                | 0 (0.000) |     3.70 | abby, empathy, Florence, Lx, madss |
-|           18 |     1550 | 2024-06-04 | Nouns            | L   | 0.782      | -            | -                | -                | -         |    -4.50 | abby, empathy, Florence, Lx, madss |
-|           17 |     1552 | 2024-06-04 | Homyno           | L   | 0.781      | -            | -                | -                | -         |   -12.55 | abby, empathy, Florence, Lx, madss |
-|           16 |     1659 | 2024-05-31 | NAVI Javelins    | L   | 0.756      | -            | -                | -                | -         |    -7.50 | abby, empathy, Lx, madss, phoebe   |
-|           15 |     1665 | 2024-05-31 | panelinha        | L   | 0.755      | -            | -                | -                | -         |    -7.67 | abby, empathy, Lx, madss, phoebe   |
-|           14 |     1779 | 2024-05-26 | FlyQuest RED     | L   | 0.722      | -            | -                | -                | -         |   -10.48 | abby, empathy, Lx, madss, phoebe   |
-|           13 |     1780 | 2024-05-26 | Karma            | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.068 (0.015)    | 0 (0.000) |     9.18 | abby, empathy, Lx, madss, phoebe   |
-|           12 |     2378 | 2024-05-05 | Lotus fe         | W   | 0.582      | 0.250        | 0.004 (0.001)    | 0.037 (0.005)    | 0 (0.000) |     7.21 | abby, empathy, Lx, madss, phoebe   |
-|           11 |     2734 | 2024-04-19 | Limitless Angels | W   | 0.476      | 0.322        | 0.003 (0.000)    | 0.045 (0.007)    | 0 (0.000) |     5.88 | abby, empathy, Lx, madss, phoebe   |
-|           10 |     2912 | 2024-04-14 | FlyQuest RED     | L   | 0.442      | -            | -                | -                | -         |    -6.59 | abby, empathy, Lx, madss, phoebe   |
-|            9 |     2959 | 2024-04-11 | COVEN            | W   | 0.423      | 0.322        | 0.001 (0.000)    | -                | 0 (0.000) |     3.17 | abby, empathy, Lx, madss, phoebe   |
-|            8 |     3126 | 2024-04-07 | Limitless Angels | W   | 0.396      | 0.250        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     4.90 | abby, empathy, Lx, madss, phoebe   |
-|            7 |     3224 | 2024-04-03 | WG Bandits       | W   | 0.369      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     4.16 | abby, empathy, Lx, madss, phoebe   |
-|            6 |     3357 | 2024-03-27 | cleanup crew fe  | W   | 0.323      | 0.322        | -                | 0.020 (0.002)    | 0 (0.000) |     3.94 | abby, empathy, Lx, madss, phoebe   |
-|            5 |     3452 | 2024-03-21 | Karma            | W   | 0.283      | 0.322        | 0.004 (0.000)    | 0.068 (0.006)    | -         |     3.76 | abby, empathy, Lx, madss, phoebe   |
-|            4 |     3596 | 2024-03-14 | Nouns fe         | W   | 0.236      | 0.322        | 0.003 (0.000)    | 0.032 (0.002)    | -         |     3.11 | abby, empathy, Lx, madss, phoebe   |
-|            3 |     3806 | 2024-03-06 | FlyQuest RED     | L   | 0.183      | -            | -                | -                | -         |    -2.74 | abby, empathy, Lx, madss, phoebe   |
-|            2 |     3890 | 2024-03-03 | FlyQuest RED     | L   | 0.162      | -            | -                | -                | -         |    -2.47 | abby, empathy, Lx, madss, phoebe   |
-|            1 |     4030 | 2024-02-25 | FlyQuest RED     | L   | 0.116      | -            | -                | -                | -         |    -1.78 | abby, empathy, Lx, madss, phoebe   |
+|           23 |      305 | 2024-07-28 | Nouns fe         | W   | 1.000      | 0.250        | 0.003 (0.001)    | 0.032 (0.008)    | 0 (0.000) |    12.61 | empathy, Juli, Lx, madss, phoebe   |
+|           22 |     1033 | 2024-06-16 | Lotus fe         | W   | 0.862      | 0.250        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |    12.08 | abby, empathy, Juli, Lx, madss     |
+|           21 |     1258 | 2024-06-09 | Perseverance     | L   | 0.814      | -            | -                | -                | -         |   -17.96 | abby, empathy, Florence, Lx, madss |
+|           20 |     1360 | 2024-06-07 | Zomblers         | L   | 0.803      | -            | -                | -                | -         |   -18.61 | abby, empathy, Florence, Lx, madss |
+|           19 |     1508 | 2024-06-05 | Asian Kings      | W   | 0.787      | -            | -                | -                | 0 (0.000) |     3.70 | abby, empathy, Florence, Lx, madss |
+|           18 |     1551 | 2024-06-04 | Nouns            | L   | 0.782      | -            | -                | -                | -         |    -4.50 | abby, empathy, Florence, Lx, madss |
+|           17 |     1553 | 2024-06-04 | Homyno           | L   | 0.781      | -            | -                | -                | -         |   -12.54 | abby, empathy, Florence, Lx, madss |
+|           16 |     1660 | 2024-05-31 | NAVI Javelins    | L   | 0.756      | -            | -                | -                | -         |    -7.50 | abby, empathy, Lx, madss, phoebe   |
+|           15 |     1666 | 2024-05-31 | panelinha        | L   | 0.755      | -            | -                | -                | -         |    -7.67 | abby, empathy, Lx, madss, phoebe   |
+|           14 |     1780 | 2024-05-26 | FlyQuest RED     | L   | 0.721      | -            | -                | -                | -         |   -10.48 | abby, empathy, Lx, madss, phoebe   |
+|           13 |     1781 | 2024-05-26 | Karma            | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.068 (0.015)    | 0 (0.000) |     9.18 | abby, empathy, Lx, madss, phoebe   |
+|           12 |     2379 | 2024-05-05 | Lotus fe         | W   | 0.582      | 0.250        | 0.004 (0.001)    | 0.037 (0.005)    | 0 (0.000) |     7.21 | abby, empathy, Lx, madss, phoebe   |
+|           11 |     2735 | 2024-04-19 | Limitless Angels | W   | 0.476      | 0.322        | 0.003 (0.000)    | 0.045 (0.007)    | 0 (0.000) |     5.88 | abby, empathy, Lx, madss, phoebe   |
+|           10 |     2913 | 2024-04-14 | FlyQuest RED     | L   | 0.442      | -            | -                | -                | -         |    -6.58 | abby, empathy, Lx, madss, phoebe   |
+|            9 |     2960 | 2024-04-11 | COVEN            | W   | 0.422      | 0.322        | 0.001 (0.000)    | -                | 0 (0.000) |     3.17 | abby, empathy, Lx, madss, phoebe   |
+|            8 |     3127 | 2024-04-07 | Limitless Angels | W   | 0.396      | 0.250        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     4.89 | abby, empathy, Lx, madss, phoebe   |
+|            7 |     3225 | 2024-04-03 | WG Bandits       | W   | 0.369      | 0.322        | 0.002 (0.000)    | 0.020 (0.002)    | 0 (0.000) |     4.15 | abby, empathy, Lx, madss, phoebe   |
+|            6 |     3358 | 2024-03-27 | cleanup crew fe  | W   | 0.323      | 0.322        | -                | 0.020 (0.002)    | 0 (0.000) |     3.94 | abby, empathy, Lx, madss, phoebe   |
+|            5 |     3453 | 2024-03-21 | Karma            | W   | 0.283      | 0.322        | 0.004 (0.000)    | 0.068 (0.006)    | -         |     3.76 | abby, empathy, Lx, madss, phoebe   |
+|            4 |     3597 | 2024-03-14 | Nouns fe         | W   | 0.236      | 0.322        | 0.003 (0.000)    | 0.032 (0.002)    | -         |     3.11 | abby, empathy, Lx, madss, phoebe   |
+|            3 |     3807 | 2024-03-06 | FlyQuest RED     | L   | 0.183      | -            | -                | -                | -         |    -2.74 | abby, empathy, Lx, madss, phoebe   |
+|            2 |     3891 | 2024-03-03 | FlyQuest RED     | L   | 0.162      | -            | -                | -                | -         |    -2.47 | abby, empathy, Lx, madss, phoebe   |
+|            1 |     4031 | 2024-02-25 | FlyQuest RED     | L   | 0.116      | -            | -                | -                | -         |    -1.78 | abby, empathy, Lx, madss, phoebe   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($6,466.93)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($6,465.35)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -74,14 +74,14 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-07-28 |      1.000 | $750.00        | $750.00         |
-| 2024-06-16 |      0.862 | $750.00        | $646.84         |
-| 2024-06-02 |      0.769 | $4,000.00      | $3,074.07       |
-| 2024-05-26 |      0.722 | $1,500.00      | $1,082.29       |
-| 2024-05-05 |      0.582 | $750.00        | $436.84         |
-| 2024-04-14 |      0.442 | $250.00        | $110.53         |
-| 2024-04-07 |      0.396 | $750.00        | $296.81         |
-| 2024-03-03 |      0.162 | $250.00        | $40.61          |
-| 2024-02-25 |      0.116 | $250.00        | $28.94          |
+| 2024-06-16 |      0.862 | $750.00        | $646.70         |
+| 2024-06-02 |      0.768 | $4,000.00      | $3,073.33       |
+| 2024-05-26 |      0.721 | $1,500.00      | $1,082.01       |
+| 2024-05-05 |      0.582 | $750.00        | $436.70         |
+| 2024-04-14 |      0.442 | $250.00        | $110.49         |
+| 2024-04-07 |      0.396 | $750.00        | $296.67         |
+| 2024-03-03 |      0.162 | $250.00        | $40.56          |
+| 2024-02-25 |      0.116 | $250.00        | $28.89          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -14,7 +14,7 @@
 | 9        |    795 | Gods Reign         | Bhavi, f1redup, Ph1NNN, R2B2, reV3nnnn            | [details](details/0125--gods_reign--bhavi-f1redup-ph1nnn-r2b2-rev3nnnn.md)              |
 | 10       |    774 | TYLOO              | advent, JamYoung, kaze, Mercury, zdr              | [details](details/0133--tyloo--advent-jamyoung-kaze-mercury-zdr.md)                     |
 | 11       |    773 | Bad News Kangaroos | BRACE, damyo, Omichella, pz, yourwombat           | [details](details/0134--bad_news_kangaroos--brace-damyo-omichella-pz-yourwombat.md)     |
-| 12       |    769 | Mindfreak          | gump, pain, Rickeh, Texta, tucks                  | [details](details/0136--mindfreak--gump-pain-rickeh-texta-tucks.md)                     |
+| 12       |    768 | Mindfreak          | gump, pain, Rickeh, Texta, tucks                  | [details](details/0136--mindfreak--gump-pain-rickeh-texta-tucks.md)                     |
 | 13       |    749 | Akimbo             | arviast, hyza, laxiee, N2o, obi                   | [details](details/0142--akimbo--arviast-hyza-laxiee-n2o-obi.md)                         |
 | 14       |    719 | True Rippers       | Crazy_Gamer, DayMake, DEFAULTER, Mcg!LLzZz, Rossi | [details](details/0152--true_rippers--crazy_gamer-daymake-defaulter-mcg_llzzz-rossi.md) |
 | 15       |    688 | Mindfreak          | Forleks, gump, Sliimey, supar, tucks              | [details](details/0159--mindfreak--forleks-gump-sliimey-supar-tucks.md)                 |

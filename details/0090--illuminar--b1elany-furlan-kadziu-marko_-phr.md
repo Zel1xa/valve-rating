@@ -8,7 +8,7 @@ Regional Rank: [64]( ../standings_europe.md)<br />
 <br />
 Final Rank Value:  910.9<br />
 <br />
-Final Rank Value (910.9) = Starting Rank Value (905.5) + Head To Head Adjustments (5.4)<br />
+Final Rank Value (910.9) = Starting Rank Value (905.4) + Head To Head Adjustments (5.4)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -20,8 +20,8 @@ To figure out a rosters's Starting Rank Value, first take the average of these f
 The average of these factors is 0.246<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 905.5
-- 400 + ( ( 0.246 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 905.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 905.4
+- 400 + ( ( 0.246 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 905.4
 
 
 #### Factors<br />
@@ -37,48 +37,48 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           27 |       15 | 2024-08-06 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -18.67 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           26 |      130 | 2024-08-02 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -11.06 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           25 |      220 | 2024-07-31 | Sampi             | W   | 1.000      | 0.143        | 0.027 (0.004)    | 1.000 (0.143)    | 0 (0.000) |    15.44 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           24 |      518 | 2024-07-22 | Enterprise        | L   | 1.000      | -            | -                | -                | -         |   -15.90 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           23 |      582 | 2024-07-20 | Johnny Speeds     | W   | 1.000      | 0.371        | 0.122 (0.045)    | 1.000 (0.371)    | 0 (0.000) |    26.11 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           22 |      679 | 2024-07-18 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -12.00 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           21 |      786 | 2024-07-16 | kONO              | W   | 1.000      | 0.371        | 0.028 (0.010)    | 0.553 (0.205)    | 0 (0.000) |    12.95 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           20 |      834 | 2024-07-15 | ALTERNATE aTTaX   | W   | 1.000      | 0.371        | 0.031 (0.012)    | 0.537 (0.199)    | 0 (0.000) |    14.70 | b1elany, Furlan, kadziu, Markoś, phr     |
-|           19 |      893 | 2024-07-11 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -17.17 | b1elany, Furlan, kadziu, Markoś, splawik |
-|           18 |     1085 | 2024-06-15 | B8                | L   | 0.852      | -            | -                | -                | -         |    -6.04 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           17 |     1146 | 2024-06-13 | GamerLegion       | W   | 0.841      | 0.435        | 0.173 (0.063)    | -                | 0 (0.000) |    21.69 | Furlan, kadziu, phr, splawik, ultimate   |
-|           16 |     1157 | 2024-06-13 | Enterprise        | L   | 0.839      | -            | -                | -                | -         |   -11.51 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           15 |     1209 | 2024-06-11 | Sampi             | W   | 0.825      | 0.435        | 0.027 (0.010)    | 1.000 (0.359)    | 0 (0.000) |    12.46 | Furlan, kadziu, phr, splawik, ultimate   |
-|           14 |     1299 | 2024-06-09 | VP.Prodigy        | W   | 0.812      | 0.435        | 0.025 (0.009)    | 0.383 (0.135)    | 0 (0.000) |    13.42 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           13 |     1335 | 2024-06-08 | 3DMAX             | W   | 0.807      | 0.450        | 0.510 (0.185)    | 1.000 (0.363)    | 0 (0.000) |    24.66 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           12 |     1405 | 2024-06-07 | EYEBALLERS        | W   | 0.799      | 0.450        | -                | 0.488 (0.175)    | 0 (0.000) |    14.31 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           11 |     1414 | 2024-06-07 | CYBERSHOKE        | W   | 0.798      | 0.435        | 0.039 (0.014)    | 0.339 (0.118)    | 0 (0.000) |    13.50 | b1elany, Furlan, kadziu, phr, ultimate   |
-|           10 |     1457 | 2024-06-06 | Enterprise        | W   | 0.794      | 0.450        | 0.039 (0.014)    | 0.641 (0.229)    | -         |    15.48 | b1elany, Furlan, kadziu, phr, ultimate   |
-|            9 |     1531 | 2024-06-05 | Aurora Young Blud | L   | 0.786      | -            | -                | -                | -         |    -9.74 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            8 |     1564 | 2024-06-04 | Passion UA        | L   | 0.780      | -            | -                | -                | -         |    -4.89 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            7 |     1718 | 2024-05-29 | INFINITE          | L   | 0.741      | -            | -                | -                | -         |   -19.55 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            6 |     1733 | 2024-05-29 | Passion UA        | L   | 0.739      | -            | -                | -                | -         |    -5.68 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            5 |     1829 | 2024-05-24 | Enterprise        | L   | 0.706      | -            | -                | -                | -         |    -9.88 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            4 |     1830 | 2024-05-24 | MOUZ NXT          | L   | 0.705      | -            | -                | -                | -         |    -6.34 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            3 |     1890 | 2024-05-22 | Zero Tenacity     | L   | 0.692      | -            | -                | -                | -         |    -4.57 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            2 |     1923 | 2024-05-21 | NAVI Junior       | L   | 0.687      | -            | -                | -                | -         |   -15.51 | ANeraX, b1elany, Furlan, phr, ultimate   |
-|            1 |     1959 | 2024-05-20 | Sampi             | L   | 0.680      | -            | -                | -                | -         |   -10.79 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|           27 |       16 | 2024-08-06 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -18.67 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           26 |      131 | 2024-08-02 | 9 Pandas          | L   | 1.000      | -            | -                | -                | -         |   -11.06 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           25 |      221 | 2024-07-31 | Sampi             | W   | 1.000      | 0.143        | 0.027 (0.004)    | 1.000 (0.143)    | 0 (0.000) |    15.44 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           24 |      519 | 2024-07-22 | Enterprise        | L   | 1.000      | -            | -                | -                | -         |   -15.89 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           23 |      583 | 2024-07-20 | Johnny Speeds     | W   | 1.000      | 0.371        | 0.122 (0.045)    | 1.000 (0.371)    | 0 (0.000) |    26.11 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           22 |      680 | 2024-07-18 | Rebels            | L   | 1.000      | -            | -                | -                | -         |   -12.00 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           21 |      787 | 2024-07-16 | kONO              | W   | 1.000      | 0.371        | 0.028 (0.010)    | 0.553 (0.205)    | 0 (0.000) |    12.95 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           20 |      835 | 2024-07-15 | ALTERNATE aTTaX   | W   | 1.000      | 0.371        | 0.031 (0.012)    | 0.537 (0.199)    | 0 (0.000) |    14.70 | b1elany, Furlan, kadziu, Markoś, phr     |
+|           19 |      894 | 2024-07-11 | kONO              | L   | 1.000      | -            | -                | -                | -         |   -17.17 | b1elany, Furlan, kadziu, Markoś, splawik |
+|           18 |     1086 | 2024-06-15 | B8                | L   | 0.852      | -            | -                | -                | -         |    -6.03 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           17 |     1147 | 2024-06-13 | GamerLegion       | W   | 0.841      | 0.435        | 0.173 (0.063)    | -                | 0 (0.000) |    21.68 | Furlan, kadziu, phr, splawik, ultimate   |
+|           16 |     1158 | 2024-06-13 | Enterprise        | L   | 0.839      | -            | -                | -                | -         |   -11.50 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           15 |     1210 | 2024-06-11 | Sampi             | W   | 0.825      | 0.435        | 0.027 (0.010)    | 1.000 (0.358)    | 0 (0.000) |    12.45 | Furlan, kadziu, phr, splawik, ultimate   |
+|           14 |     1300 | 2024-06-09 | VP.Prodigy        | W   | 0.812      | 0.435        | 0.025 (0.009)    | 0.383 (0.135)    | 0 (0.000) |    13.42 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           13 |     1336 | 2024-06-08 | 3DMAX             | W   | 0.807      | 0.450        | 0.510 (0.185)    | 1.000 (0.363)    | 0 (0.000) |    24.65 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           12 |     1406 | 2024-06-07 | EYEBALLERS        | W   | 0.799      | 0.450        | -                | 0.488 (0.175)    | 0 (0.000) |    14.31 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           11 |     1415 | 2024-06-07 | CYBERSHOKE        | W   | 0.798      | 0.435        | 0.039 (0.014)    | 0.339 (0.118)    | 0 (0.000) |    13.49 | b1elany, Furlan, kadziu, phr, ultimate   |
+|           10 |     1458 | 2024-06-06 | Enterprise        | W   | 0.793      | 0.450        | 0.039 (0.014)    | 0.641 (0.229)    | -         |    15.48 | b1elany, Furlan, kadziu, phr, ultimate   |
+|            9 |     1532 | 2024-06-05 | Aurora Young Blud | L   | 0.786      | -            | -                | -                | -         |    -9.74 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            8 |     1565 | 2024-06-04 | Passion UA        | L   | 0.780      | -            | -                | -                | -         |    -4.89 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            7 |     1719 | 2024-05-29 | INFINITE          | L   | 0.741      | -            | -                | -                | -         |   -19.54 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            6 |     1734 | 2024-05-29 | Passion UA        | L   | 0.738      | -            | -                | -                | -         |    -5.67 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            5 |     1830 | 2024-05-24 | Enterprise        | L   | 0.706      | -            | -                | -                | -         |    -9.88 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            4 |     1831 | 2024-05-24 | MOUZ NXT          | L   | 0.705      | -            | -                | -                | -         |    -6.33 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            3 |     1891 | 2024-05-22 | Zero Tenacity     | L   | 0.692      | -            | -                | -                | -         |    -4.57 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            2 |     1924 | 2024-05-21 | NAVI Junior       | L   | 0.687      | -            | -                | -                | -         |   -15.51 | ANeraX, b1elany, Furlan, phr, ultimate   |
+|            1 |     1960 | 2024-05-20 | Sampi             | L   | 0.680      | -            | -                | -                | -         |   -10.79 | ANeraX, b1elany, Furlan, phr, ultimate   |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($3,885.28)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($3,884.44)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-17 |      0.866 | $2,500.00      | $2,164.35       |
-| 2024-06-16 |      0.860 | $2,000.00      | $1,720.93       |
+| 2024-06-17 |      0.866 | $2,500.00      | $2,163.89       |
+| 2024-06-16 |      0.860 | $2,000.00      | $1,720.56       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

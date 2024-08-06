@@ -14,7 +14,7 @@ Final Rank Value (1704.1) = Starting Rank Value (1727.8) + Head To Head Adjustme
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.709[<sup>1</sup>](#table2)
 - Bounty Collected: 0.619[<sup>2</sup>](#table1)
-- Opponent Network: 0.313[<sup>2</sup>](#table1)
+- Opponent Network: 0.312[<sup>2</sup>](#table1)
 - LAN Wins: 0.941[<sup>2</sup>](#table1)
 
 The average of these factors is 0.645<br />
@@ -37,47 +37,47 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                               |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           34 |       55 | 2024-08-04 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | 0.253 (0.147)    | 0.531 (0.309)    | 1 (1.000) |    10.64 | br0, device, jabbi, Staehr, stavn    |
-|           33 |       87 | 2024-08-03 | Vitality          | L   | 1.000      | -            | -                | -                | -         |    -9.50 | br0, device, jabbi, Staehr, stavn    |
-|           32 |      126 | 2024-08-02 | Falcons           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.73 | br0, device, jabbi, Staehr, stavn    |
-|           31 |      251 | 2024-07-30 | Vitality          | L   | 1.000      | -            | -                | -                | -         |   -10.02 | br0, device, jabbi, Staehr, stavn    |
-|           30 |      279 | 2024-07-29 | Falcons           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.62 | br0, device, jabbi, Staehr, stavn    |
-|           29 |     1102 | 2024-06-14 | Virtus.pro        | L   | 0.848      | -            | -                | -                | -         |   -15.19 | br0, device, jabbi, Staehr, stavn    |
-|           28 |     1161 | 2024-06-13 | SAW               | W   | 0.839      | 0.729        | -                | 0.516 (0.316)    | 1 (0.839) |     1.15 | br0, device, jabbi, Staehr, stavn    |
-|           27 |     1184 | 2024-06-12 | Natus Vincere     | L   | 0.833      | -            | -                | -                | -         |    -6.58 | br0, device, jabbi, Staehr, stavn    |
-|           26 |     1345 | 2024-06-08 | The MongolZ       | L   | 0.806      | -            | -                | -                | -         |    -7.22 | br0, device, jabbi, Staehr, stavn    |
-|           25 |     1400 | 2024-06-07 | BetBoom           | W   | 0.800      | 0.715        | 0.248 (0.142)    | 0.513 (0.294)    | 1 (0.800) |     3.81 | br0, device, jabbi, Staehr, stavn    |
-|           24 |     1447 | 2024-06-06 | The MongolZ       | W   | 0.794      | 0.715        | 1.000 (0.568)    | 0.694 (0.394)    | 1 (0.794) |    18.47 | br0, device, jabbi, Staehr, stavn    |
-|           23 |     1467 | 2024-06-06 | ENCE              | W   | 0.793      | 0.715        | -                | 0.422 (0.239)    | 1 (0.793) |     3.07 | br0, device, jabbi, Staehr, stavn    |
-|           22 |     1477 | 2024-06-06 | Ninjas in Pyjamas | L   | 0.792      | -            | -                | -                | -         |   -17.05 | br0, device, jabbi, Staehr, stavn    |
-|           21 |     1523 | 2024-06-05 | Sashi             | L   | 0.787      | -            | -                | -                | -         |   -23.60 | br0, device, jabbi, Staehr, stavn    |
-|           20 |     1536 | 2024-06-05 | HEROIC            | W   | 0.785      | 0.715        | -                | 0.354 (0.199)    | 1 (0.785) |     6.83 | br0, device, jabbi, Staehr, stavn    |
-|           19 |     1885 | 2024-05-22 | Liquid            | L   | 0.692      | -            | -                | -                | -         |   -15.21 | br0, device, jabbi, Staehr, stavn    |
-|           18 |     1926 | 2024-05-21 | Aurora            | W   | 0.686      | 0.769        | 0.420 (0.222)    | 0.758 (0.400)    | -         |     5.46 | br0, device, jabbi, Staehr, stavn    |
-|           17 |     1956 | 2024-05-20 | BetBoom           | W   | 0.681      | 0.769        | 0.248 (0.130)    | 0.513 (0.269)    | -         |     2.33 | br0, device, jabbi, Staehr, stavn    |
-|           16 |     1976 | 2024-05-19 | BIG               | W   | 0.674      | -            | -                | -                | -         |     1.63 | br0, device, jabbi, Staehr, stavn    |
-|           15 |     2272 | 2024-05-11 | Vitality          | L   | 0.620      | -            | -                | -                | -         |    -6.72 | br0, device, jabbi, Staehr, stavn    |
-|           14 |     2291 | 2024-05-10 | Liquid            | W   | 0.613      | 0.889        | 0.383 (0.209)    | 0.437 (0.238)    | 1 (0.613) |     5.66 | br0, device, jabbi, Staehr, stavn    |
-|           13 |     2558 | 2024-04-27 | 3DMAX             | W   | 0.527      | 0.889        | 0.510 (0.239)    | 1.000 (0.468)    | 1 (0.527) |     5.88 | br0, device, jabbi, Staehr, stavn    |
-|           12 |     2629 | 2024-04-24 | FaZe              | W   | 0.508      | 0.889        | 0.625 (0.282)    | -                | -         |     7.46 | br0, device, jabbi, Staehr, stavn    |
-|           11 |     2649 | 2024-04-23 | Eternal Fire      | W   | 0.500      | 0.889        | 0.738 (0.328)    | -                | -         |     7.17 | br0, device, jabbi, Staehr, stavn    |
-|           10 |     2936 | 2024-04-13 | FaZe              | L   | 0.432      | -            | -                | -                | -         |    -7.49 | br0, device, jabbi, Staehr, stavn    |
-|            9 |     3036 | 2024-04-10 | Virtus.pro        | W   | 0.412      | -            | -                | -                | -         |     5.87 | br0, device, jabbi, Staehr, stavn    |
-|            8 |     3084 | 2024-04-09 | FaZe              | W   | 0.405      | 0.624        | 0.625 (0.158)    | -                | -         |     5.85 | br0, device, jabbi, Staehr, stavn    |
-|            7 |     3116 | 2024-04-08 | Steel Helmet      | W   | 0.398      | -            | -                | -                | -         |     0.02 | br0, device, jabbi, Staehr, stavn    |
-|            6 |     4087 | 2024-02-23 | 9 Pandas          | L   | 0.099      | -            | -                | -                | -         |    -3.07 | blameF, device, jabbi, Staehr, stavn |
-|            5 |     4106 | 2024-02-22 | ENCE              | L   | 0.092      | -            | -                | -                | -         |    -2.33 | blameF, device, jabbi, Staehr, stavn |
-|            4 |     4133 | 2024-02-21 | Monte             | W   | 0.086      | -            | -                | -                | -         |     0.04 | blameF, device, jabbi, Staehr, stavn |
-|            3 |     4159 | 2024-02-20 | HEROIC            | L   | 0.079      | -            | -                | -                | -         |    -1.80 | blameF, device, jabbi, Staehr, stavn |
-|            2 |     4174 | 2024-02-19 | Spirit            | L   | 0.075      | -            | -                | -                | -         |    -0.64 | blameF, device, jabbi, Staehr, stavn |
-|            1 |     4184 | 2024-02-19 | Nexus             | W   | 0.073      | -            | -                | -                | -         |     0.02 | blameF, device, jabbi, Staehr, stavn |
+|           34 |       56 | 2024-08-04 | Ninjas in Pyjamas | W   | 1.000      | 0.581        | 0.253 (0.147)    | 0.531 (0.309)    | 1 (1.000) |    10.64 | br0, device, jabbi, Staehr, stavn    |
+|           33 |       88 | 2024-08-03 | Vitality          | L   | 1.000      | -            | -                | -                | -         |    -9.50 | br0, device, jabbi, Staehr, stavn    |
+|           32 |      127 | 2024-08-02 | Falcons           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.73 | br0, device, jabbi, Staehr, stavn    |
+|           31 |      252 | 2024-07-30 | Vitality          | L   | 1.000      | -            | -                | -                | -         |   -10.02 | br0, device, jabbi, Staehr, stavn    |
+|           30 |      280 | 2024-07-29 | Falcons           | W   | 1.000      | -            | -                | -                | 1 (1.000) |     5.62 | br0, device, jabbi, Staehr, stavn    |
+|           29 |     1103 | 2024-06-14 | Virtus.pro        | L   | 0.848      | -            | -                | -                | -         |   -15.19 | br0, device, jabbi, Staehr, stavn    |
+|           28 |     1162 | 2024-06-13 | SAW               | W   | 0.839      | 0.729        | -                | 0.516 (0.316)    | 1 (0.839) |     1.15 | br0, device, jabbi, Staehr, stavn    |
+|           27 |     1185 | 2024-06-12 | Natus Vincere     | L   | 0.833      | -            | -                | -                | -         |    -6.57 | br0, device, jabbi, Staehr, stavn    |
+|           26 |     1346 | 2024-06-08 | The MongolZ       | L   | 0.806      | -            | -                | -                | -         |    -7.22 | br0, device, jabbi, Staehr, stavn    |
+|           25 |     1401 | 2024-06-07 | BetBoom           | W   | 0.800      | 0.715        | 0.248 (0.142)    | 0.513 (0.294)    | 1 (0.800) |     3.81 | br0, device, jabbi, Staehr, stavn    |
+|           24 |     1448 | 2024-06-06 | The MongolZ       | W   | 0.794      | 0.715        | 1.000 (0.568)    | 0.694 (0.394)    | 1 (0.794) |    18.47 | br0, device, jabbi, Staehr, stavn    |
+|           23 |     1468 | 2024-06-06 | ENCE              | W   | 0.793      | 0.715        | -                | 0.422 (0.239)    | 1 (0.793) |     3.07 | br0, device, jabbi, Staehr, stavn    |
+|           22 |     1478 | 2024-06-06 | Ninjas in Pyjamas | L   | 0.792      | -            | -                | -                | -         |   -17.05 | br0, device, jabbi, Staehr, stavn    |
+|           21 |     1524 | 2024-06-05 | Sashi             | L   | 0.786      | -            | -                | -                | -         |   -23.60 | br0, device, jabbi, Staehr, stavn    |
+|           20 |     1537 | 2024-06-05 | HEROIC            | W   | 0.785      | 0.715        | -                | 0.354 (0.199)    | 1 (0.785) |     6.83 | br0, device, jabbi, Staehr, stavn    |
+|           19 |     1886 | 2024-05-22 | Liquid            | L   | 0.692      | -            | -                | -                | -         |   -15.20 | br0, device, jabbi, Staehr, stavn    |
+|           18 |     1927 | 2024-05-21 | Aurora            | W   | 0.686      | 0.769        | 0.420 (0.222)    | 0.758 (0.400)    | -         |     5.47 | br0, device, jabbi, Staehr, stavn    |
+|           17 |     1957 | 2024-05-20 | BetBoom           | W   | 0.680      | 0.769        | 0.248 (0.129)    | 0.513 (0.268)    | -         |     2.33 | br0, device, jabbi, Staehr, stavn    |
+|           16 |     1977 | 2024-05-19 | BIG               | W   | 0.674      | -            | -                | -                | -         |     1.63 | br0, device, jabbi, Staehr, stavn    |
+|           15 |     2273 | 2024-05-11 | Vitality          | L   | 0.620      | -            | -                | -                | -         |    -6.72 | br0, device, jabbi, Staehr, stavn    |
+|           14 |     2292 | 2024-05-10 | Liquid            | W   | 0.613      | 0.889        | 0.383 (0.209)    | 0.437 (0.238)    | 1 (0.613) |     5.66 | br0, device, jabbi, Staehr, stavn    |
+|           13 |     2559 | 2024-04-27 | 3DMAX             | W   | 0.527      | 0.889        | 0.510 (0.239)    | 1.000 (0.468)    | 1 (0.527) |     5.88 | br0, device, jabbi, Staehr, stavn    |
+|           12 |     2630 | 2024-04-24 | FaZe              | W   | 0.507      | 0.889        | 0.625 (0.282)    | -                | -         |     7.46 | br0, device, jabbi, Staehr, stavn    |
+|           11 |     2650 | 2024-04-23 | Eternal Fire      | W   | 0.500      | 0.889        | 0.738 (0.328)    | -                | -         |     7.17 | br0, device, jabbi, Staehr, stavn    |
+|           10 |     2937 | 2024-04-13 | FaZe              | L   | 0.432      | -            | -                | -                | -         |    -7.49 | br0, device, jabbi, Staehr, stavn    |
+|            9 |     3037 | 2024-04-10 | Virtus.pro        | W   | 0.412      | -            | -                | -                | -         |     5.87 | br0, device, jabbi, Staehr, stavn    |
+|            8 |     3085 | 2024-04-09 | FaZe              | W   | 0.405      | 0.624        | 0.625 (0.158)    | -                | -         |     5.85 | br0, device, jabbi, Staehr, stavn    |
+|            7 |     3117 | 2024-04-08 | Steel Helmet      | W   | 0.398      | -            | -                | -                | -         |     0.02 | br0, device, jabbi, Staehr, stavn    |
+|            6 |     4088 | 2024-02-23 | 9 Pandas          | L   | 0.099      | -            | -                | -                | -         |    -3.06 | blameF, device, jabbi, Staehr, stavn |
+|            5 |     4107 | 2024-02-22 | ENCE              | L   | 0.092      | -            | -                | -                | -         |    -2.32 | blameF, device, jabbi, Staehr, stavn |
+|            4 |     4134 | 2024-02-21 | Monte             | W   | 0.086      | -            | -                | -                | -         |     0.04 | blameF, device, jabbi, Staehr, stavn |
+|            3 |     4160 | 2024-02-20 | HEROIC            | L   | 0.079      | -            | -                | -                | -         |    -1.80 | blameF, device, jabbi, Staehr, stavn |
+|            2 |     4175 | 2024-02-19 | Spirit            | L   | 0.075      | -            | -                | -                | -         |    -0.64 | blameF, device, jabbi, Staehr, stavn |
+|            1 |     4185 | 2024-02-19 | Nexus             | W   | 0.073      | -            | -                | -                | -         |     0.02 | blameF, device, jabbi, Staehr, stavn |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($124,452.59)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($124,422.41)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.39) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -85,11 +85,11 @@ Top ten winnings for this roster:<br />
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
 | 2024-08-04 |      1.000 | $12,500.00     | $12,500.00      |
-| 2024-06-16 |      0.860 | $20,000.00     | $17,198.15      |
-| 2024-06-09 |      0.814 | $28,000.00     | $22,778.52      |
-| 2024-05-23 |      0.700 | $50,000.00     | $34,988.43      |
-| 2024-05-12 |      0.627 | $45,000.00     | $28,208.33      |
-| 2024-04-14 |      0.439 | $20,000.00     | $8,779.17       |
+| 2024-06-16 |      0.860 | $20,000.00     | $17,194.44      |
+| 2024-06-09 |      0.813 | $28,000.00     | $22,773.33      |
+| 2024-05-23 |      0.700 | $50,000.00     | $34,979.17      |
+| 2024-05-12 |      0.627 | $45,000.00     | $28,200.00      |
+| 2024-04-14 |      0.439 | $20,000.00     | $8,775.46       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

@@ -37,34 +37,34 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                        |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           13 |      293 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -20.20 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           12 |      324 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.67 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           11 |      371 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.99 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
-|           10 |      874 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.49 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            9 |      878 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |    -4.43 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
-|            8 |     1402 | 2024-06-07 | TYLOO             | L   | 0.799      | -            | -                | -                | -         |    -3.85 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            7 |     1473 | 2024-06-06 | Clutch            | W   | 0.793      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |    12.82 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
-|            6 |     1530 | 2024-06-05 | ATOX              | L   | 0.786      | -            | -                | -                | -         |    -5.80 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
-|            5 |     4238 | 2024-02-16 | FlyQuest          | L   | 0.057      | -            | -                | -                | -         |    -0.12 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            4 |     4264 | 2024-02-16 | MAG               | L   | 0.053      | -            | -                | -                | -         |    -1.24 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            3 |     4268 | 2024-02-16 | Newhappy          | L   | 0.052      | -            | -                | -                | -         |    -1.18 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            2 |     4292 | 2024-02-15 | The Huns          | W   | 0.046      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.26 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
-|            1 |     4332 | 2024-02-14 | ZEUS              | W   | 0.039      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|           13 |      294 | 2024-07-29 | Bromo             | L   | 1.000      | -            | -                | -                | -         |   -20.20 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           12 |      325 | 2024-07-28 | AY                | W   | 1.000      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     6.67 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           11 |      372 | 2024-07-26 | NomadS            | L   | 1.000      | -            | -                | -                | -         |   -20.99 | 7nation, mediocrity, Overdue, SALO_MUX, weqt2 |
+|           10 |      875 | 2024-07-12 | Alter Ego         | L   | 1.000      | -            | -                | -                | -         |   -21.49 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            9 |      879 | 2024-07-12 | Chinggis Warriors | L   | 1.000      | -            | -                | -                | -         |    -4.43 | 7nation, mediocrity, Runnin, SALO_MUX, weqt2  |
+|            8 |     1403 | 2024-06-07 | TYLOO             | L   | 0.799      | -            | -                | -                | -         |    -3.85 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            7 |     1474 | 2024-06-06 | Clutch            | W   | 0.792      | 0.416        | 0.005 (0.002)    | 0.060 (0.020)    | 0 (0.000) |    12.82 | mediocrity, qqGOD, SALO_MUX, uwrr, weqt2      |
+|            6 |     1531 | 2024-06-05 | ATOX              | L   | 0.786      | -            | -                | -                | -         |    -5.80 | mediocrity, qqGOD, Runnin, SALO_MUX, weqt2    |
+|            5 |     4239 | 2024-02-16 | FlyQuest          | L   | 0.057      | -            | -                | -                | -         |    -0.12 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            4 |     4265 | 2024-02-16 | MAG               | L   | 0.053      | -            | -                | -                | -         |    -1.23 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            3 |     4269 | 2024-02-16 | Newhappy          | L   | 0.052      | -            | -                | -                | -         |    -1.18 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            2 |     4293 | 2024-02-15 | The Huns          | W   | 0.045      | 0.143        | 0.000 (0.000)    | 0.002 (0.000)    | 0 (0.000) |     0.25 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
+|            1 |     4333 | 2024-02-14 | ZEUS              | W   | 0.039      | 0.143        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.22 | mediocrity, qqGOD, Reminder, SALO_MUX, weqt2  |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($2,467.87)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($2,467.22)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-09 |      0.812 | $3,000.00      | $2,436.39       |
-| 2024-02-17 |      0.063 | $500.00        | $31.48          |
+| 2024-06-09 |      0.812 | $3,000.00      | $2,435.83       |
+| 2024-02-17 |      0.063 | $500.00        | $31.39          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

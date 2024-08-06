@@ -13,7 +13,7 @@ Final Rank Value (727.8) = Starting Rank Value (713.6) + Head To Head Adjustment
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.286[<sup>1</sup>](#table2)
-- Bounty Collected: 0.282[<sup>2</sup>](#table1)
+- Bounty Collected: 0.281[<sup>2</sup>](#table1)
 - Opponent Network: 0.042[<sup>2</sup>](#table1)
 - LAN Wins: 0.000[<sup>2</sup>](#table1)
 
@@ -37,28 +37,28 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent   | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |        5 | 2024-08-06 | UNiTY      | L   | 1.000      | -            | -                | -                | -         |    -7.20 | cmtry, dem0n, dziugss, Krabeni, makazze  |
-|           14 |     1351 | 2024-06-08 | Rhyno      | L   | 0.806      | -            | -                | -                | -         |    -5.16 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|           13 |     1468 | 2024-06-06 | Endpoint   | W   | 0.793      | 0.500        | 0.012 (0.005)    | 0.540 (0.214)    | 0 (0.000) |    17.57 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|           12 |     1518 | 2024-06-05 | Sampi      | L   | 0.787      | -            | -                | -                | -         |    -6.10 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|           11 |     1570 | 2024-06-04 | MOUZ NXT   | L   | 0.779      | -            | -                | -                | -         |    -2.61 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|           10 |     1592 | 2024-06-03 | Entropiq   | W   | 0.774      | 0.379        | 0.000 (0.000)    | 0.028 (0.008)    | 0 (0.000) |     3.42 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|            9 |     1699 | 2024-05-30 | Permitta   | L   | 0.747      | -            | -                | -                | -         |    -5.83 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|            8 |     1923 | 2024-05-21 | Illuminar  | W   | 0.687      | 0.379        | 0.012 (0.003)    | 0.340 (0.088)    | 0 (0.000) |    15.51 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
-|            7 |     3317 | 2024-03-30 | GL Academy | L   | 0.339      | -            | -                | -                | -         |    -5.03 | dem0n, dezt, Krabeni, Magic, makazze     |
-|            6 |     3326 | 2024-03-29 | Passion UA | W   | 0.333      | 0.333        | 0.173 (0.019)    | 1.000 (0.111)    | 0 (0.000) |     9.16 | dem0n, dezt, Krabeni, Magic, makazze     |
-|            5 |     3329 | 2024-03-29 | Sashi      | W   | 0.332      | 0.333        | 0.009 (0.001)    | 0.024 (0.003)    | 0 (0.000) |     4.85 | dem0n, dezt, Krabeni, Magic, makazze     |
-|            4 |     3376 | 2024-03-27 | Metizport  | L   | 0.321      | -            | -                | -                | -         |    -2.42 | dem0n, dezt, Krabeni, Magic, makazze     |
-|            3 |     3492 | 2024-03-20 | FORZE      | L   | 0.273      | -            | -                | -                | -         |    -2.19 | dem0n, froz1k, Krabeni, Magic, makazze   |
-|            2 |     4160 | 2024-02-20 | ECLOT      | L   | 0.079      | -            | -                | -                | -         |    -0.14 | alkarenn, dem0n, Krabeni, Magic, makazze |
-|            1 |     4192 | 2024-02-19 | Viperio    | W   | 0.072      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.33 | alkarenn, dem0n, Krabeni, Magic, makazze |
+|           15 |        6 | 2024-08-06 | UNiTY      | L   | 1.000      | -            | -                | -                | -         |    -7.20 | cmtry, dem0n, dziugss, Krabeni, makazze  |
+|           14 |     1352 | 2024-06-08 | Rhyno      | L   | 0.806      | -            | -                | -                | -         |    -5.16 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|           13 |     1469 | 2024-06-06 | Endpoint   | W   | 0.793      | 0.500        | 0.012 (0.005)    | 0.540 (0.214)    | 0 (0.000) |    17.56 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|           12 |     1519 | 2024-06-05 | Sampi      | L   | 0.787      | -            | -                | -                | -         |    -6.10 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|           11 |     1571 | 2024-06-04 | MOUZ NXT   | L   | 0.779      | -            | -                | -                | -         |    -2.61 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|           10 |     1593 | 2024-06-03 | Entropiq   | W   | 0.773      | 0.379        | 0.000 (0.000)    | 0.028 (0.008)    | 0 (0.000) |     3.42 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|            9 |     1700 | 2024-05-30 | Permitta   | L   | 0.747      | -            | -                | -                | -         |    -5.83 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|            8 |     1924 | 2024-05-21 | Illuminar  | W   | 0.687      | 0.379        | 0.012 (0.003)    | 0.340 (0.088)    | 0 (0.000) |    15.51 | cmtry, dem0n, dziugss, froz1k, Krabeni   |
+|            7 |     3318 | 2024-03-30 | GL Academy | L   | 0.339      | -            | -                | -                | -         |    -5.03 | dem0n, dezt, Krabeni, Magic, makazze     |
+|            6 |     3327 | 2024-03-29 | Passion UA | W   | 0.333      | 0.333        | 0.173 (0.019)    | 1.000 (0.111)    | 0 (0.000) |     9.16 | dem0n, dezt, Krabeni, Magic, makazze     |
+|            5 |     3330 | 2024-03-29 | Sashi      | W   | 0.332      | 0.333        | 0.009 (0.001)    | 0.024 (0.003)    | 0 (0.000) |     4.84 | dem0n, dezt, Krabeni, Magic, makazze     |
+|            4 |     3377 | 2024-03-27 | Metizport  | L   | 0.321      | -            | -                | -                | -         |    -2.42 | dem0n, dezt, Krabeni, Magic, makazze     |
+|            3 |     3493 | 2024-03-20 | FORZE      | L   | 0.273      | -            | -                | -                | -         |    -2.19 | dem0n, froz1k, Krabeni, Magic, makazze   |
+|            2 |     4161 | 2024-02-20 | ECLOT      | L   | 0.079      | -            | -                | -                | -         |    -0.14 | alkarenn, dem0n, Krabeni, Magic, makazze |
+|            1 |     4193 | 2024-02-19 | Viperio    | W   | 0.072      | 0.303        | 0.000 (0.000)    | 0.000 (0.000)    | 0 (0.000) |     0.33 | alkarenn, dem0n, Krabeni, Magic, makazze |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($1,018.06)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($1,017.50)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.00) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

@@ -8,7 +8,7 @@ Regional Rank: [38]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  749.5<br />
 <br />
-Final Rank Value (749.5) = Starting Rank Value (721.8) + Head To Head Adjustments (27.7)<br />
+Final Rank Value (749.5) = Starting Rank Value (721.8) + Head To Head Adjustments (27.6)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
@@ -37,39 +37,39 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent         | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                           |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           15 |     1428 | 2024-06-06 | Elevate          | L   | 0.795      | -            | -                | -                | -         |    -5.22 | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa |
-|           14 |     1637 | 2024-06-01 | HSG fe           | L   | 0.760      | -            | -                | -                | -         |    -9.59 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           13 |     1674 | 2024-05-31 | BIG EQUIPA       | L   | 0.754      | -            | -                | -                | -         |   -11.54 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           12 |     1779 | 2024-05-26 | TSM Shimmer      | W   | 0.722      | 0.303        | 0.020 (0.004)    | 0.191 (0.042)    | 0 (0.000) |    10.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           11 |     1782 | 2024-05-26 | Lotus fe         | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |     7.81 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|           10 |     2735 | 2024-04-19 | Nouns fe         | W   | 0.476      | 0.322        | 0.003 (0.001)    | 0.032 (0.005)    | 0 (0.000) |     5.20 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            9 |     2912 | 2024-04-14 | TSM Shimmer      | W   | 0.442      | 0.250        | 0.020 (0.002)    | 0.191 (0.021)    | 0 (0.000) |     6.59 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            8 |     2994 | 2024-04-10 | cleanup crew fe  | W   | 0.416      | 0.322        | 0.002 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     4.43 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            7 |     3182 | 2024-04-04 | COVEN            | W   | 0.376      | -            | -                | -                | 0 (0.000) |     2.71 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            6 |     3331 | 2024-03-28 | WG Bandits       | W   | 0.329      | -            | -                | -                | 0 (0.000) |     3.52 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            5 |     3484 | 2024-03-20 | Limitless Angels | W   | 0.276      | 0.322        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     3.37 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            4 |     3626 | 2024-03-13 | Karma            | W   | 0.229      | 0.322        | 0.004 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     2.89 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            3 |     3806 | 2024-03-06 | TSM Shimmer      | W   | 0.183      | 0.322        | 0.020 (0.001)    | 0.191 (0.011)    | 0 (0.000) |     2.74 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            2 |     3890 | 2024-03-03 | TSM Shimmer      | W   | 0.162      | 0.250        | 0.020 (0.001)    | 0.191 (0.008)    | -         |     2.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
-|            1 |     4030 | 2024-02-25 | TSM Shimmer      | W   | 0.116      | 0.250        | 0.020 (0.001)    | 0.191 (0.006)    | -         |     1.78 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           15 |     1429 | 2024-06-06 | Elevate          | L   | 0.795      | -            | -                | -                | -         |    -5.22 | BiBiAhn, Emy, GooseBreeder, Shakezullah, vanessa |
+|           14 |     1638 | 2024-06-01 | HSG fe           | L   | 0.760      | -            | -                | -                | -         |    -9.59 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           13 |     1675 | 2024-05-31 | BIG EQUIPA       | L   | 0.754      | -            | -                | -                | -         |   -11.53 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           12 |     1780 | 2024-05-26 | TSM Shimmer      | W   | 0.721      | 0.303        | 0.020 (0.004)    | 0.191 (0.042)    | 0 (0.000) |    10.48 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           11 |     1783 | 2024-05-26 | Lotus fe         | W   | 0.721      | 0.303        | 0.004 (0.001)    | 0.037 (0.008)    | 0 (0.000) |     7.81 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|           10 |     2736 | 2024-04-19 | Nouns fe         | W   | 0.476      | 0.322        | 0.003 (0.001)    | 0.032 (0.005)    | 0 (0.000) |     5.20 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            9 |     2913 | 2024-04-14 | TSM Shimmer      | W   | 0.442      | 0.250        | 0.020 (0.002)    | 0.191 (0.021)    | 0 (0.000) |     6.58 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            8 |     2995 | 2024-04-10 | cleanup crew fe  | W   | 0.416      | 0.322        | 0.002 (0.000)    | 0.020 (0.003)    | 0 (0.000) |     4.43 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            7 |     3183 | 2024-04-04 | COVEN            | W   | 0.376      | -            | -                | -                | 0 (0.000) |     2.71 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            6 |     3332 | 2024-03-28 | WG Bandits       | W   | 0.329      | -            | -                | -                | 0 (0.000) |     3.52 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            5 |     3485 | 2024-03-20 | Limitless Angels | W   | 0.276      | 0.322        | 0.003 (0.000)    | 0.045 (0.004)    | 0 (0.000) |     3.37 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            4 |     3627 | 2024-03-13 | Karma            | W   | 0.229      | 0.322        | 0.004 (0.000)    | 0.068 (0.005)    | 0 (0.000) |     2.89 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            3 |     3807 | 2024-03-06 | TSM Shimmer      | W   | 0.183      | 0.322        | 0.020 (0.001)    | 0.191 (0.011)    | 0 (0.000) |     2.74 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            2 |     3891 | 2024-03-03 | TSM Shimmer      | W   | 0.162      | 0.250        | 0.020 (0.001)    | 0.191 (0.008)    | -         |     2.47 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
+|            1 |     4031 | 2024-02-25 | TSM Shimmer      | W   | 0.116      | 0.250        | 0.020 (0.001)    | 0.191 (0.006)    | -         |     1.78 | BiBiAhn, Emy, GooseBreeder, Kaoday, vanessa      |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($5,418.12)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($5,416.50)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.02) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-02 |      0.769 | $4,000.00      | $3,074.07       |
-| 2024-05-26 |      0.722 | $2,500.00      | $1,803.82       |
-| 2024-04-14 |      0.442 | $750.00        | $331.60         |
-| 2024-03-03 |      0.162 | $750.00        | $121.82         |
-| 2024-02-25 |      0.116 | $750.00        | $86.81          |
+| 2024-06-02 |      0.768 | $4,000.00      | $3,073.33       |
+| 2024-05-26 |      0.721 | $2,500.00      | $1,803.36       |
+| 2024-04-14 |      0.442 | $750.00        | $331.46         |
+| 2024-03-03 |      0.162 | $750.00        | $121.68         |
+| 2024-02-25 |      0.116 | $750.00        | $86.67          |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

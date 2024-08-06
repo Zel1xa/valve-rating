@@ -6,22 +6,22 @@ Global Rank: [83](../standings_global.md)<br />
 Region: [Asia]( ../standings_asia.md)<br />
 Regional Rank: [6]( ../standings_asia.md)<br />
 <br />
-Final Rank Value:  939.3<br />
+Final Rank Value:  939.4<br />
 <br />
-Final Rank Value (939.3) = Starting Rank Value (859.5) + Head To Head Adjustments (79.8)<br />
+Final Rank Value (939.4) = Starting Rank Value (859.7) + Head To Head Adjustments (79.7)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.326[<sup>1</sup>](#table2)
 - Bounty Collected: 0.376[<sup>2</sup>](#table1)
-- Opponent Network: 0.076[<sup>2</sup>](#table1)
-- LAN Wins: 0.115[<sup>2</sup>](#table1)
+- Opponent Network: 0.077[<sup>2</sup>](#table1)
+- LAN Wins: 0.116[<sup>2</sup>](#table1)
 
 The average of these factors is 0.223<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 859.5
-- 400 + ( ( 0.223 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 859.5
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 859.7
+- 400 + ( ( 0.223 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 859.7
 
 
 #### Factors<br />
@@ -37,43 +37,43 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent    | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                    |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           30 |       27 | 2024-08-05 | TYLOO       | L   | 1.000      | -            | -                | -                | -         |   -13.49 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           29 |       94 | 2024-08-03 | WDNMD       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.36 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           28 |      124 | 2024-08-02 | TYLOO       | W   | 1.000      | 0.143        | 0.056 (0.008)    | 0.283 (0.040)    | 0 (0.000) |    17.65 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           27 |      132 | 2024-08-02 | ATOX        | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.210 (0.030)    | 0 (0.000) |    13.73 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           26 |      164 | 2024-08-01 | TYLOO       | L   | 1.000      | -            | -                | -                | -         |   -13.06 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           25 |      173 | 2024-08-01 | ATOX        | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.210 (0.030)    | 0 (0.000) |    14.08 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           24 |      348 | 2024-07-27 | NomadS      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.38 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           23 |      350 | 2024-07-27 | CatEvil     | W   | 1.000      | 0.143        | -                | 0.231 (0.033)    | 0 (0.000) |     5.30 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           22 |      374 | 2024-07-26 | IHC         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.12 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           21 |      863 | 2024-07-13 | TYLOO       | W   | 1.000      | 0.143        | 0.056 (0.008)    | 0.283 (0.040)    | 0 (0.000) |    19.59 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           20 |      867 | 2024-07-13 | Alter Ego   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.39 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           19 |      894 | 2024-07-11 | The MongolZ | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.694 (0.099)    | 0 (0.000) |    31.36 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           18 |      896 | 2024-07-11 | CatEvil     | W   | 1.000      | 0.143        | -                | 0.231 (0.033)    | -         |     5.80 | ChildKing, kaze, L1haNg, somebody, Summer |
-|           17 |     1203 | 2024-06-11 | Space       | L   | 0.827      | -            | -                | -                | -         |   -11.91 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           16 |     1242 | 2024-06-10 | SINNERS     | W   | 0.818      | 0.435        | 0.037 (0.013)    | 0.790 (0.281)    | -         |    19.77 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           15 |     1398 | 2024-06-07 | Passion UA  | L   | 0.800      | -            | -                | -                | -         |    -5.31 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           14 |     1537 | 2024-06-05 | RUBY        | W   | 0.785      | 0.435        | 0.095 (0.032)    | 0.479 (0.164)    | -         |    16.25 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           13 |     1599 | 2024-06-03 | Sampi       | L   | 0.772      | -            | -                | -                | -         |    -9.94 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           12 |     1843 | 2024-05-23 | MOUZ NXT    | L   | 0.699      | -            | -                | -                | -         |    -5.68 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           11 |     2019 | 2024-05-18 | Sangal      | L   | 0.666      | -            | -                | -                | -         |    -4.16 | ChildKing, L1haNg, Risk, somebody, Summer |
-|           10 |     2040 | 2024-05-17 | NOM         | L   | 0.661      | -            | -                | -                | -         |   -17.45 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            9 |     2090 | 2024-05-16 | Metizport   | L   | 0.653      | -            | -                | -                | -         |    -7.66 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            8 |     2193 | 2024-05-14 | DMS         | L   | 0.640      | -            | -                | -                | -         |    -8.90 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            7 |     2223 | 2024-05-13 | NOM         | W   | 0.632      | -            | -                | -                | -         |     2.69 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            6 |     2764 | 2024-04-19 | The MongolZ | L   | 0.473      | -            | -                | -                | -         |    -0.05 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            5 |     2773 | 2024-04-19 | TYLOO       | W   | 0.472      | 0.143        | 0.019 (0.001)    | -                | -         |     5.33 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            4 |     2814 | 2024-04-18 | Lynn Vision | W   | 0.466      | 0.143        | 0.086 (0.006)    | 0.182 (0.012)    | -         |    10.87 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            3 |     2824 | 2024-04-18 | The MongolZ | L   | 0.465      | -            | -                | -                | -         |    -0.04 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            2 |     2854 | 2024-04-17 | NKT         | W   | 0.459      | -            | -                | -                | -         |     1.70 | ChildKing, L1haNg, Risk, somebody, Summer |
-|            1 |     2859 | 2024-04-17 | MIRAI       | W   | 0.459      | 0.143        | 0.002 (0.000)    | -                | -         |     2.05 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           30 |       28 | 2024-08-05 | TYLOO       | L   | 1.000      | -            | -                | -                | -         |   -13.49 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           29 |       95 | 2024-08-03 | WDNMD       | W   | 1.000      | -            | -                | -                | 1 (1.000) |     1.36 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           28 |      125 | 2024-08-02 | TYLOO       | W   | 1.000      | 0.143        | 0.056 (0.008)    | 0.283 (0.040)    | 0 (0.000) |    17.65 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           27 |      133 | 2024-08-02 | ATOX        | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.209 (0.030)    | 0 (0.000) |    13.72 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           26 |      165 | 2024-08-01 | TYLOO       | L   | 1.000      | -            | -                | -                | -         |   -13.06 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           25 |      174 | 2024-08-01 | ATOX        | W   | 1.000      | 0.143        | 0.020 (0.003)    | 0.209 (0.030)    | 0 (0.000) |    14.07 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           24 |      349 | 2024-07-27 | NomadS      | W   | 1.000      | -            | -                | -                | 0 (0.000) |     3.38 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           23 |      351 | 2024-07-27 | CatEvil     | W   | 1.000      | 0.143        | -                | 0.231 (0.033)    | 0 (0.000) |     5.29 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           22 |      375 | 2024-07-26 | IHC         | W   | 1.000      | -            | -                | -                | 0 (0.000) |     2.12 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           21 |      864 | 2024-07-13 | TYLOO       | W   | 1.000      | 0.143        | 0.056 (0.008)    | 0.283 (0.040)    | 0 (0.000) |    19.59 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           20 |      868 | 2024-07-13 | Alter Ego   | W   | 1.000      | -            | -                | -                | 0 (0.000) |     4.38 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           19 |      895 | 2024-07-11 | The MongolZ | W   | 1.000      | 0.143        | 1.000 (0.143)    | 0.694 (0.099)    | 0 (0.000) |    31.36 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           18 |      897 | 2024-07-11 | CatEvil     | W   | 1.000      | 0.143        | -                | 0.231 (0.033)    | -         |     5.80 | ChildKing, kaze, L1haNg, somebody, Summer |
+|           17 |     1204 | 2024-06-11 | Space       | L   | 0.827      | -            | -                | -                | -         |   -11.92 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           16 |     1243 | 2024-06-10 | SINNERS     | W   | 0.818      | 0.435        | 0.037 (0.013)    | 0.800 (0.284)    | -         |    19.77 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           15 |     1399 | 2024-06-07 | Passion UA  | L   | 0.800      | -            | -                | -                | -         |    -5.31 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           14 |     1538 | 2024-06-05 | RUBY        | W   | 0.785      | 0.435        | 0.095 (0.032)    | 0.479 (0.163)    | -         |    16.24 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           13 |     1600 | 2024-06-03 | Sampi       | L   | 0.771      | -            | -                | -                | -         |    -9.94 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           12 |     1844 | 2024-05-23 | MOUZ NXT    | L   | 0.699      | -            | -                | -                | -         |    -5.69 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           11 |     2020 | 2024-05-18 | Sangal      | L   | 0.666      | -            | -                | -                | -         |    -4.15 | ChildKing, L1haNg, Risk, somebody, Summer |
+|           10 |     2041 | 2024-05-17 | NOM         | L   | 0.661      | -            | -                | -                | -         |   -17.45 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            9 |     2091 | 2024-05-16 | Metizport   | L   | 0.652      | -            | -                | -                | -         |    -7.66 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            8 |     2194 | 2024-05-14 | DMS         | L   | 0.640      | -            | -                | -                | -         |    -8.90 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            7 |     2224 | 2024-05-13 | NOM         | W   | 0.632      | -            | -                | -                | -         |     2.69 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            6 |     2765 | 2024-04-19 | The MongolZ | L   | 0.473      | -            | -                | -                | -         |    -0.05 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            5 |     2774 | 2024-04-19 | TYLOO       | W   | 0.472      | 0.143        | 0.019 (0.001)    | -                | -         |     5.33 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            4 |     2815 | 2024-04-18 | Lynn Vision | W   | 0.466      | 0.143        | 0.086 (0.006)    | 0.182 (0.012)    | -         |    10.86 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            3 |     2825 | 2024-04-18 | The MongolZ | L   | 0.465      | -            | -                | -                | -         |    -0.04 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            2 |     2855 | 2024-04-17 | NKT         | W   | 0.459      | -            | -                | -                | -         |     1.70 | ChildKing, L1haNg, Risk, somebody, Summer |
+|            1 |     2860 | 2024-04-17 | MIRAI       | W   | 0.459      | 0.143        | 0.002 (0.000)    | -                | -         |     2.04 | ChildKing, L1haNg, Risk, somebody, Summer |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
 - First, take the sum of their top 10 scaled winnings ($2,756.00)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />

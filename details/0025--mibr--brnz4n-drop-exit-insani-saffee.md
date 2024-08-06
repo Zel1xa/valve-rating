@@ -8,20 +8,20 @@ Regional Rank: [6]( ../standings_americas.md)<br />
 <br />
 Final Rank Value:  1313.4<br />
 <br />
-Final Rank Value (1313.4) = Starting Rank Value (1414.0) + Head To Head Adjustments (-100.6)<br />
+Final Rank Value (1313.4) = Starting Rank Value (1413.9) + Head To Head Adjustments (-100.5)<br />
 
 #### Starting Rank Value<br />
 To figure out a rosters's Starting Rank Value, first take the average of these four factors:<br />
 - Bounty Offered: 0.594[<sup>1</sup>](#table2)
 - Bounty Collected: 0.485[<sup>2</sup>](#table1)
 - Opponent Network: 0.294[<sup>2</sup>](#table1)
-- LAN Wins: 0.599[<sup>2</sup>](#table1)
+- LAN Wins: 0.598[<sup>2</sup>](#table1)
 
 The average of these factors is 0.493<br />
 <br />
 Next, take the maximum and minimum average across all teams and compute the following:<br />
-- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1414.0
-- 400 + ( ( 0.493 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1414.0
+- 400 + ( ( Roster_Average - Min_Average ) / ( Max_Average - Min_Average ) ) * 1600 = 1413.9
+- 400 + ( ( 0.493 - 0.000 ) / ( 0.778 - 0.000 ) ) * 1600 = 1413.9
 
 
 #### Factors<br />
@@ -37,94 +37,94 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent       | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                             |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           81 |      103 | 2024-08-02 | paiN           | L   | 1.000      | -            | -                | -                | -         |   -11.99 | brnz4n, drop, exit, insani, saffee |
-|           80 |      105 | 2024-08-02 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |   -25.96 | brnz4n, drop, exit, insani, saffee |
-|           79 |      119 | 2024-08-02 | Fluxo          | W   | 1.000      | 0.371        | 0.123 (0.046)    | 0.701 (0.260)    | -         |     7.84 | brnz4n, drop, exit, insani, saffee |
-|           78 |      146 | 2024-08-01 | ODDIK          | W   | 1.000      | 0.371        | -                | 0.805 (0.298)    | -         |     5.02 | brnz4n, drop, exit, insani, saffee |
-|           77 |      193 | 2024-07-31 | Sharks         | W   | 1.000      | -            | -                | -                | -         |     4.63 | brnz4n, drop, exit, insani, saffee |
-|           76 |      196 | 2024-07-31 | ODDIK          | W   | 1.000      | 0.450        | 0.099 (0.045)    | 0.805 (0.362)    | -         |     5.49 | brnz4n, drop, exit, insani, saffee |
-|           75 |      202 | 2024-07-31 | ODDIK          | W   | 1.000      | 0.450        | 0.099 (0.045)    | 0.805 (0.362)    | -         |     5.78 | brnz4n, drop, exit, insani, saffee |
-|           74 |      232 | 2024-07-30 | Dusty Roots    | L   | 1.000      | -            | -                | -                | -         |   -30.03 | brnz4n, drop, exit, insani, saffee |
-|           73 |      235 | 2024-07-30 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     1.27 | brnz4n, drop, exit, insani, saffee |
-|           72 |      241 | 2024-07-30 | 9z Academy     | W   | 1.000      | -            | -                | -                | -         |     0.28 | brnz4n, drop, exit, insani, saffee |
-|           71 |      277 | 2024-07-29 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -21.67 | brnz4n, drop, exit, insani, saffee |
-|           70 |      302 | 2024-07-28 | RED Canids     | W   | 1.000      | -            | -                | -                | -         |     7.39 | brnz4n, drop, exit, insani, saffee |
-|           69 |      308 | 2024-07-28 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -22.68 | brnz4n, drop, exit, insani, saffee |
-|           68 |      398 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.530 (0.239)    | -         |     1.23 | brnz4n, drop, exit, insani, saffee |
-|           67 |      399 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.530 (0.239)    | -         |     1.25 | brnz4n, drop, exit, insani, saffee |
-|           66 |      662 | 2024-07-18 | The MongolZ    | L   | 1.000      | -            | -                | -                | -         |    -3.14 | brnz4n, drop, exit, insani, saffee |
-|           65 |      714 | 2024-07-17 | Spirit         | L   | 1.000      | -            | -                | -                | -         |    -1.42 | brnz4n, drop, exit, insani, saffee |
-|           64 |     1084 | 2024-06-15 | Complexity     | L   | 0.852      | -            | -                | -                | -         |    -6.50 | brnz4n, drop, exit, insani, saffee |
-|           63 |     1110 | 2024-06-14 | Alliance       | W   | 0.847      | -            | -                | -                | 1 (0.847) |     1.26 | brnz4n, drop, exit, insani, saffee |
-|           62 |     1123 | 2024-06-14 | ENCE           | L   | 0.846      | -            | -                | -                | -         |   -15.23 | brnz4n, drop, exit, insani, saffee |
-|           61 |     1365 | 2024-06-07 | Bounty Hunters | L   | 0.802      | -            | -                | -                | -         |   -24.00 | brnz4n, drop, exit, insani, saffee |
-|           60 |     1426 | 2024-06-06 | 9z             | L   | 0.795      | -            | -                | -                | -         |   -11.82 | brnz4n, drop, exit, insani, saffee |
-|           59 |     1494 | 2024-06-05 | BESTIA         | W   | 0.789      | 0.450        | -                | 0.776 (0.275)    | -         |     2.54 | brnz4n, drop, exit, insani, saffee |
-|           58 |     1548 | 2024-06-04 | Galorys        | W   | 0.782      | -            | -                | -                | -         |     1.00 | brnz4n, drop, exit, insani, saffee |
-|           57 |     1872 | 2024-05-22 | paiN           | W   | 0.695      | 0.450        | 0.324 (0.101)    | 0.839 (0.262)    | -         |     8.35 | brnz4n, drop, exit, insani, saffee |
-|           56 |     1876 | 2024-05-22 | paiN           | W   | 0.694      | 0.450        | 0.324 (0.101)    | 0.839 (0.262)    | -         |     8.85 | brnz4n, drop, exit, insani, saffee |
-|           55 |     1950 | 2024-05-20 | BetBoom        | L   | 0.681      | -            | -                | -                | -         |   -12.55 | brnz4n, drop, exit, insani, saffee |
-|           54 |     1961 | 2024-05-20 | BIG            | W   | 0.679      | 0.769        | 0.154 (0.080)    | -                | -         |     6.77 | brnz4n, drop, exit, insani, saffee |
-|           53 |     1970 | 2024-05-20 | BetBoom        | L   | 0.679      | -            | -                | -                | -         |   -12.98 | brnz4n, drop, exit, insani, saffee |
-|           52 |     2047 | 2024-05-17 | HEROIC         | L   | 0.660      | -            | -                | -                | -         |    -7.48 | brnz4n, drop, exit, insani, saffee |
-|           51 |     2080 | 2024-05-16 | Aurora         | W   | 0.654      | 0.769        | 0.420 (0.211)    | 0.758 (0.381)    | 1 (0.654) |    13.66 | brnz4n, drop, exit, insani, saffee |
-|           50 |     2138 | 2024-05-15 | HEROIC         | L   | 0.646      | -            | -                | -                | -         |    -7.28 | brnz4n, drop, exit, insani, saffee |
-|           49 |     2544 | 2024-04-28 | Aurora         | W   | 0.532      | 0.500        | 0.420 (0.112)    | -                | 1 (0.532) |    12.28 | brnz4n, drop, exit, insani, saffee |
-|           48 |     2547 | 2024-04-27 | Apeks          | W   | 0.530      | -            | -                | -                | 1 (0.530) |     1.08 | brnz4n, drop, exit, insani, saffee |
-|           47 |     2573 | 2024-04-26 | Rooster        | W   | 0.524      | -            | -                | -                | 1 (0.524) |     0.46 | brnz4n, drop, exit, insani, saffee |
-|           46 |     2596 | 2024-04-26 | Rebels         | L   | 0.518      | -            | -                | -                | -         |   -15.11 | brnz4n, drop, exit, insani, saffee |
-|           45 |     2599 | 2024-04-25 | KZG            | W   | 0.517      | -            | -                | -                | 1 (0.517) |     0.22 | brnz4n, drop, exit, insani, saffee |
-|           44 |     2709 | 2024-04-20 | paiN           | L   | 0.481      | -            | -                | -                | -         |    -8.84 | brnz4n, drop, exit, insani, saffee |
-|           43 |     2718 | 2024-04-20 | OG             | W   | 0.480      | -            | -                | -                | 1 (0.480) |     1.55 | brnz4n, drop, exit, insani, saffee |
-|           42 |     2731 | 2024-04-19 | paiN           | W   | 0.477      | -            | -                | -                | -         |     6.61 | brnz4n, drop, exit, insani, saffee |
-|           41 |     2738 | 2024-04-19 | FURIA          | W   | 0.476      | 0.589        | 0.284 (0.080)    | -                | 1 (0.476) |    11.75 | brnz4n, drop, exit, insani, saffee |
-|           40 |     2757 | 2024-04-19 | paiN           | L   | 0.474      | -            | -                | -                | -         |    -8.43 | brnz4n, drop, exit, insani, saffee |
-|           39 |     2779 | 2024-04-18 | Imperial       | W   | 0.470      | -            | -                | -                | -         |     4.54 | brnz4n, drop, exit, insani, saffee |
-|           38 |     2784 | 2024-04-18 | paiN           | W   | 0.469      | -            | -                | -                | -         |     6.61 | brnz4n, drop, exit, insani, saffee |
-|           37 |     2788 | 2024-04-18 | OG             | W   | 0.468      | -            | -                | -                | 1 (0.468) |     1.54 | brnz4n, drop, exit, insani, saffee |
-|           36 |     2833 | 2024-04-17 | RED Canids     | W   | 0.462      | -            | -                | -                | -         |     1.88 | brnz4n, drop, exit, insani, saffee |
-|           35 |     2839 | 2024-04-17 | Case           | W   | 0.462      | -            | -                | -                | -         |     0.78 | brnz4n, drop, exit, insani, saffee |
-|           34 |     2878 | 2024-04-16 | Bounty Hunters | W   | 0.456      | -            | -                | -                | -         |     0.69 | brnz4n, drop, exit, insani, saffee |
-|           33 |     2899 | 2024-04-15 | Imperial       | W   | 0.448      | 0.435        | 0.233 (0.045)    | -                | -         |     4.38 | brnz4n, drop, exit, insani, saffee |
-|           32 |     2913 | 2024-04-14 | Galorys        | W   | 0.442      | -            | -                | -                | -         |     0.77 | brnz4n, drop, exit, insani, saffee |
-|           31 |     2927 | 2024-04-13 | Case           | W   | 0.434      | -            | -                | -                | -         |     0.73 | brnz4n, drop, exit, insani, saffee |
-|           30 |     2958 | 2024-04-11 | paiN           | W   | 0.423      | -            | -                | -                | -         |     6.53 | brnz4n, drop, exit, insani, saffee |
-|           29 |     2996 | 2024-04-10 | Galorys        | W   | 0.416      | -            | -                | -                | -         |     0.71 | brnz4n, drop, exit, insani, saffee |
-|           28 |     3000 | 2024-04-10 | Galorys        | W   | 0.415      | -            | -                | -                | -         |     0.71 | brnz4n, drop, exit, insani, saffee |
-|           27 |     3017 | 2024-04-10 | Imperial       | W   | 0.414      | -            | -                | -                | -         |     4.30 | brnz4n, drop, exit, insani, saffee |
-|           26 |     3048 | 2024-04-09 | adalYamigos    | W   | 0.409      | -            | -                | -                | -         |     0.16 | brnz4n, drop, exit, insani, saffee |
-|           25 |     3053 | 2024-04-09 | adalYamigos    | W   | 0.409      | -            | -                | -                | -         |     0.16 | brnz4n, drop, exit, insani, saffee |
-|           24 |     3060 | 2024-04-09 | RED Canids     | W   | 0.408      | -            | -                | -                | -         |     1.81 | brnz4n, drop, exit, insani, saffee |
-|           23 |     3090 | 2024-04-08 | W7M            | W   | 0.402      | -            | -                | -                | -         |     0.51 | brnz4n, drop, exit, insani, saffee |
-|           22 |     3124 | 2024-04-07 | paiN           | W   | 0.396      | -            | -                | -                | -         |     6.49 | brnz4n, drop, exit, insani, saffee |
-|           21 |     3141 | 2024-04-06 | Bounty Hunters | W   | 0.389      | -            | -                | -                | -         |     0.70 | brnz4n, drop, exit, insani, saffee |
-|           20 |     3158 | 2024-04-05 | Fluxo          | W   | 0.383      | -            | -                | -                | -         |     1.57 | brnz4n, drop, exit, insani, saffee |
-|           19 |     3159 | 2024-04-05 | Fluxo          | L   | 0.382      | -            | -                | -                | -         |   -10.59 | brnz4n, drop, exit, insani, saffee |
-|           18 |     3162 | 2024-04-05 | ODDIK          | W   | 0.381      | -            | -                | -                | -         |     0.97 | brnz4n, drop, exit, insani, saffee |
-|           17 |     3183 | 2024-04-04 | Solid          | W   | 0.376      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
-|           16 |     3189 | 2024-04-04 | Solid          | W   | 0.375      | -            | -                | -                | -         |     0.64 | brnz4n, drop, exit, insani, saffee |
-|           15 |     3222 | 2024-04-03 | Fluxo          | W   | 0.369      | -            | -                | -                | -         |     1.43 | brnz4n, drop, exit, insani, saffee |
-|           14 |     3270 | 2024-04-02 | Fluxo          | W   | 0.363      | -            | -                | -                | -         |     1.39 | brnz4n, drop, exit, insani, saffee |
-|           13 |     3273 | 2024-04-02 | Sharks         | W   | 0.361      | -            | -                | -                | -         |     0.30 | brnz4n, drop, exit, insani, saffee |
-|           12 |     3359 | 2024-03-27 | Case           | W   | 0.323      | -            | -                | -                | -         |     0.62 | brnz4n, drop, exit, insani, saffee |
-|           11 |     3365 | 2024-03-27 | Case           | W   | 0.322      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
-|           10 |     3405 | 2024-03-26 | ODDIK          | W   | 0.316      | -            | -                | -                | -         |     0.89 | brnz4n, drop, exit, insani, saffee |
-|            9 |     3407 | 2024-03-26 | ODDIK          | W   | 0.316      | -            | -                | -                | -         |     0.90 | brnz4n, drop, exit, insani, saffee |
-|            8 |     3599 | 2024-03-14 | Sharks         | W   | 0.236      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
-|            7 |     3601 | 2024-03-14 | Sharks         | W   | 0.236      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
-|            6 |     3673 | 2024-03-12 | Fluxo          | L   | 0.222      | -            | -                | -                | -         |    -6.14 | brnz4n, drop, exit, insani, saffee |
-|            5 |     3712 | 2024-03-10 | Galorys        | W   | 0.209      | -            | -                | -                | -         |     0.36 | brnz4n, drop, exit, insani, saffee |
-|            4 |     3760 | 2024-03-08 | LA RUGONETA    | W   | 0.195      | -            | -                | -                | -         |     0.05 | brnz4n, drop, exit, insani, saffee |
-|            3 |     3891 | 2024-03-03 | Legacy         | L   | 0.162      | -            | -                | -                | -         |    -4.61 | brnz4n, drop, exit, insani, saffee |
-|            2 |     3923 | 2024-03-02 | NRG            | W   | 0.154      | -            | -                | -                | 1 (0.154) |     0.20 | brnz4n, drop, exit, insani, saffee |
-|            1 |     3945 | 2024-03-01 | BOSS           | L   | 0.148      | -            | -                | -                | -         |    -4.52 | brnz4n, drop, exit, insani, saffee |
+|           81 |      104 | 2024-08-02 | paiN           | L   | 1.000      | -            | -                | -                | -         |   -11.99 | brnz4n, drop, exit, insani, saffee |
+|           80 |      106 | 2024-08-02 | ODDIK          | L   | 1.000      | -            | -                | -                | -         |   -25.96 | brnz4n, drop, exit, insani, saffee |
+|           79 |      120 | 2024-08-02 | Fluxo          | W   | 1.000      | 0.371        | 0.123 (0.046)    | 0.701 (0.260)    | -         |     7.84 | brnz4n, drop, exit, insani, saffee |
+|           78 |      147 | 2024-08-01 | ODDIK          | W   | 1.000      | 0.371        | -                | 0.805 (0.298)    | -         |     5.02 | brnz4n, drop, exit, insani, saffee |
+|           77 |      194 | 2024-07-31 | Sharks         | W   | 1.000      | -            | -                | -                | -         |     4.63 | brnz4n, drop, exit, insani, saffee |
+|           76 |      197 | 2024-07-31 | ODDIK          | W   | 1.000      | 0.450        | 0.099 (0.045)    | 0.805 (0.362)    | -         |     5.49 | brnz4n, drop, exit, insani, saffee |
+|           75 |      203 | 2024-07-31 | ODDIK          | W   | 1.000      | 0.450        | 0.099 (0.045)    | 0.805 (0.362)    | -         |     5.78 | brnz4n, drop, exit, insani, saffee |
+|           74 |      233 | 2024-07-30 | Dusty Roots    | L   | 1.000      | -            | -                | -                | -         |   -30.03 | brnz4n, drop, exit, insani, saffee |
+|           73 |      236 | 2024-07-30 | Dusty Roots    | W   | 1.000      | -            | -                | -                | -         |     1.27 | brnz4n, drop, exit, insani, saffee |
+|           72 |      242 | 2024-07-30 | 9z Academy     | W   | 1.000      | -            | -                | -                | -         |     0.28 | brnz4n, drop, exit, insani, saffee |
+|           71 |      278 | 2024-07-29 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -21.67 | brnz4n, drop, exit, insani, saffee |
+|           70 |      303 | 2024-07-28 | RED Canids     | W   | 1.000      | -            | -                | -                | -         |     7.39 | brnz4n, drop, exit, insani, saffee |
+|           69 |      309 | 2024-07-28 | Imperial       | L   | 1.000      | -            | -                | -                | -         |   -22.68 | brnz4n, drop, exit, insani, saffee |
+|           68 |      399 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.530 (0.239)    | -         |     1.23 | brnz4n, drop, exit, insani, saffee |
+|           67 |      400 | 2024-07-25 | Galorys        | W   | 1.000      | 0.450        | -                | 0.530 (0.239)    | -         |     1.25 | brnz4n, drop, exit, insani, saffee |
+|           66 |      663 | 2024-07-18 | The MongolZ    | L   | 1.000      | -            | -                | -                | -         |    -3.14 | brnz4n, drop, exit, insani, saffee |
+|           65 |      715 | 2024-07-17 | Spirit         | L   | 1.000      | -            | -                | -                | -         |    -1.42 | brnz4n, drop, exit, insani, saffee |
+|           64 |     1085 | 2024-06-15 | Complexity     | L   | 0.852      | -            | -                | -                | -         |    -6.50 | brnz4n, drop, exit, insani, saffee |
+|           63 |     1111 | 2024-06-14 | Alliance       | W   | 0.847      | -            | -                | -                | 1 (0.847) |     1.26 | brnz4n, drop, exit, insani, saffee |
+|           62 |     1124 | 2024-06-14 | ENCE           | L   | 0.846      | -            | -                | -                | -         |   -15.22 | brnz4n, drop, exit, insani, saffee |
+|           61 |     1366 | 2024-06-07 | Bounty Hunters | L   | 0.802      | -            | -                | -                | -         |   -23.99 | brnz4n, drop, exit, insani, saffee |
+|           60 |     1427 | 2024-06-06 | 9z             | L   | 0.795      | -            | -                | -                | -         |   -11.81 | brnz4n, drop, exit, insani, saffee |
+|           59 |     1495 | 2024-06-05 | BESTIA         | W   | 0.789      | 0.450        | -                | 0.776 (0.275)    | -         |     2.54 | brnz4n, drop, exit, insani, saffee |
+|           58 |     1549 | 2024-06-04 | Galorys        | W   | 0.782      | -            | -                | -                | -         |     1.00 | brnz4n, drop, exit, insani, saffee |
+|           57 |     1873 | 2024-05-22 | paiN           | W   | 0.694      | 0.450        | 0.324 (0.101)    | 0.839 (0.262)    | -         |     8.35 | brnz4n, drop, exit, insani, saffee |
+|           56 |     1877 | 2024-05-22 | paiN           | W   | 0.694      | 0.450        | 0.324 (0.101)    | 0.839 (0.262)    | -         |     8.85 | brnz4n, drop, exit, insani, saffee |
+|           55 |     1951 | 2024-05-20 | BetBoom        | L   | 0.681      | -            | -                | -                | -         |   -12.55 | brnz4n, drop, exit, insani, saffee |
+|           54 |     1962 | 2024-05-20 | BIG            | W   | 0.679      | 0.769        | 0.154 (0.080)    | -                | -         |     6.77 | brnz4n, drop, exit, insani, saffee |
+|           53 |     1971 | 2024-05-20 | BetBoom        | L   | 0.678      | -            | -                | -                | -         |   -12.97 | brnz4n, drop, exit, insani, saffee |
+|           52 |     2048 | 2024-05-17 | HEROIC         | L   | 0.660      | -            | -                | -                | -         |    -7.47 | brnz4n, drop, exit, insani, saffee |
+|           51 |     2081 | 2024-05-16 | Aurora         | W   | 0.654      | 0.769        | 0.420 (0.211)    | 0.758 (0.381)    | 1 (0.654) |    13.66 | brnz4n, drop, exit, insani, saffee |
+|           50 |     2139 | 2024-05-15 | HEROIC         | L   | 0.646      | -            | -                | -                | -         |    -7.28 | brnz4n, drop, exit, insani, saffee |
+|           49 |     2545 | 2024-04-28 | Aurora         | W   | 0.532      | 0.500        | 0.420 (0.112)    | -                | 1 (0.532) |    12.28 | brnz4n, drop, exit, insani, saffee |
+|           48 |     2548 | 2024-04-27 | Apeks          | W   | 0.530      | -            | -                | -                | 1 (0.530) |     1.08 | brnz4n, drop, exit, insani, saffee |
+|           47 |     2574 | 2024-04-26 | Rooster        | W   | 0.524      | -            | -                | -                | 1 (0.524) |     0.46 | brnz4n, drop, exit, insani, saffee |
+|           46 |     2597 | 2024-04-26 | Rebels         | L   | 0.518      | -            | -                | -                | -         |   -15.10 | brnz4n, drop, exit, insani, saffee |
+|           45 |     2600 | 2024-04-25 | KZG            | W   | 0.517      | -            | -                | -                | 1 (0.517) |     0.22 | brnz4n, drop, exit, insani, saffee |
+|           44 |     2710 | 2024-04-20 | paiN           | L   | 0.481      | -            | -                | -                | -         |    -8.84 | brnz4n, drop, exit, insani, saffee |
+|           43 |     2719 | 2024-04-20 | OG             | W   | 0.480      | -            | -                | -                | 1 (0.480) |     1.55 | brnz4n, drop, exit, insani, saffee |
+|           42 |     2732 | 2024-04-19 | paiN           | W   | 0.476      | -            | -                | -                | -         |     6.60 | brnz4n, drop, exit, insani, saffee |
+|           41 |     2739 | 2024-04-19 | FURIA          | W   | 0.475      | 0.589        | 0.284 (0.079)    | -                | 1 (0.475) |    11.75 | brnz4n, drop, exit, insani, saffee |
+|           40 |     2758 | 2024-04-19 | paiN           | L   | 0.474      | -            | -                | -                | -         |    -8.42 | brnz4n, drop, exit, insani, saffee |
+|           39 |     2780 | 2024-04-18 | Imperial       | W   | 0.470      | -            | -                | -                | -         |     4.54 | brnz4n, drop, exit, insani, saffee |
+|           38 |     2785 | 2024-04-18 | paiN           | W   | 0.469      | -            | -                | -                | -         |     6.60 | brnz4n, drop, exit, insani, saffee |
+|           37 |     2789 | 2024-04-18 | OG             | W   | 0.468      | -            | -                | -                | 1 (0.468) |     1.54 | brnz4n, drop, exit, insani, saffee |
+|           36 |     2834 | 2024-04-17 | RED Canids     | W   | 0.462      | -            | -                | -                | -         |     1.88 | brnz4n, drop, exit, insani, saffee |
+|           35 |     2840 | 2024-04-17 | Case           | W   | 0.462      | -            | -                | -                | -         |     0.78 | brnz4n, drop, exit, insani, saffee |
+|           34 |     2879 | 2024-04-16 | Bounty Hunters | W   | 0.456      | -            | -                | -                | -         |     0.69 | brnz4n, drop, exit, insani, saffee |
+|           33 |     2900 | 2024-04-15 | Imperial       | W   | 0.448      | 0.435        | 0.233 (0.045)    | -                | -         |     4.38 | brnz4n, drop, exit, insani, saffee |
+|           32 |     2914 | 2024-04-14 | Galorys        | W   | 0.441      | -            | -                | -                | -         |     0.77 | brnz4n, drop, exit, insani, saffee |
+|           31 |     2928 | 2024-04-13 | Case           | W   | 0.434      | -            | -                | -                | -         |     0.73 | brnz4n, drop, exit, insani, saffee |
+|           30 |     2959 | 2024-04-11 | paiN           | W   | 0.422      | -            | -                | -                | -         |     6.53 | brnz4n, drop, exit, insani, saffee |
+|           29 |     2997 | 2024-04-10 | Galorys        | W   | 0.416      | -            | -                | -                | -         |     0.71 | brnz4n, drop, exit, insani, saffee |
+|           28 |     3001 | 2024-04-10 | Galorys        | W   | 0.415      | -            | -                | -                | -         |     0.71 | brnz4n, drop, exit, insani, saffee |
+|           27 |     3018 | 2024-04-10 | Imperial       | W   | 0.413      | -            | -                | -                | -         |     4.30 | brnz4n, drop, exit, insani, saffee |
+|           26 |     3049 | 2024-04-09 | adalYamigos    | W   | 0.409      | -            | -                | -                | -         |     0.16 | brnz4n, drop, exit, insani, saffee |
+|           25 |     3054 | 2024-04-09 | adalYamigos    | W   | 0.409      | -            | -                | -                | -         |     0.16 | brnz4n, drop, exit, insani, saffee |
+|           24 |     3061 | 2024-04-09 | RED Canids     | W   | 0.408      | -            | -                | -                | -         |     1.81 | brnz4n, drop, exit, insani, saffee |
+|           23 |     3091 | 2024-04-08 | W7M            | W   | 0.402      | -            | -                | -                | -         |     0.51 | brnz4n, drop, exit, insani, saffee |
+|           22 |     3125 | 2024-04-07 | paiN           | W   | 0.396      | -            | -                | -                | -         |     6.49 | brnz4n, drop, exit, insani, saffee |
+|           21 |     3142 | 2024-04-06 | Bounty Hunters | W   | 0.389      | -            | -                | -                | -         |     0.70 | brnz4n, drop, exit, insani, saffee |
+|           20 |     3159 | 2024-04-05 | Fluxo          | W   | 0.383      | -            | -                | -                | -         |     1.57 | brnz4n, drop, exit, insani, saffee |
+|           19 |     3160 | 2024-04-05 | Fluxo          | L   | 0.382      | -            | -                | -                | -         |   -10.59 | brnz4n, drop, exit, insani, saffee |
+|           18 |     3163 | 2024-04-05 | ODDIK          | W   | 0.381      | -            | -                | -                | -         |     0.97 | brnz4n, drop, exit, insani, saffee |
+|           17 |     3184 | 2024-04-04 | Solid          | W   | 0.376      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
+|           16 |     3190 | 2024-04-04 | Solid          | W   | 0.375      | -            | -                | -                | -         |     0.64 | brnz4n, drop, exit, insani, saffee |
+|           15 |     3223 | 2024-04-03 | Fluxo          | W   | 0.369      | -            | -                | -                | -         |     1.43 | brnz4n, drop, exit, insani, saffee |
+|           14 |     3271 | 2024-04-02 | Fluxo          | W   | 0.362      | -            | -                | -                | -         |     1.39 | brnz4n, drop, exit, insani, saffee |
+|           13 |     3274 | 2024-04-02 | Sharks         | W   | 0.361      | -            | -                | -                | -         |     0.30 | brnz4n, drop, exit, insani, saffee |
+|           12 |     3360 | 2024-03-27 | Case           | W   | 0.323      | -            | -                | -                | -         |     0.62 | brnz4n, drop, exit, insani, saffee |
+|           11 |     3366 | 2024-03-27 | Case           | W   | 0.322      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
+|           10 |     3406 | 2024-03-26 | ODDIK          | W   | 0.316      | -            | -                | -                | -         |     0.89 | brnz4n, drop, exit, insani, saffee |
+|            9 |     3408 | 2024-03-26 | ODDIK          | W   | 0.316      | -            | -                | -                | -         |     0.90 | brnz4n, drop, exit, insani, saffee |
+|            8 |     3600 | 2024-03-14 | Sharks         | W   | 0.236      | -            | -                | -                | -         |     0.62 | brnz4n, drop, exit, insani, saffee |
+|            7 |     3602 | 2024-03-14 | Sharks         | W   | 0.236      | -            | -                | -                | -         |     0.63 | brnz4n, drop, exit, insani, saffee |
+|            6 |     3674 | 2024-03-12 | Fluxo          | L   | 0.221      | -            | -                | -                | -         |    -6.14 | brnz4n, drop, exit, insani, saffee |
+|            5 |     3713 | 2024-03-10 | Galorys        | W   | 0.208      | -            | -                | -                | -         |     0.36 | brnz4n, drop, exit, insani, saffee |
+|            4 |     3761 | 2024-03-08 | LA RUGONETA    | W   | 0.195      | -            | -                | -                | -         |     0.05 | brnz4n, drop, exit, insani, saffee |
+|            3 |     3892 | 2024-03-03 | Legacy         | L   | 0.162      | -            | -                | -                | -         |    -4.61 | brnz4n, drop, exit, insani, saffee |
+|            2 |     3924 | 2024-03-02 | NRG            | W   | 0.154      | -            | -                | -                | 1 (0.154) |     0.20 | brnz4n, drop, exit, insani, saffee |
+|            1 |     3946 | 2024-03-01 | BOSS           | L   | 0.148      | -            | -                | -                | -         |    -4.51 | brnz4n, drop, exit, insani, saffee |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($66,461.11)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($66,442.41)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.21) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
@@ -133,11 +133,11 @@ Top ten winnings for this roster:<br />
 | :- | -: | :- | :- |
 | 2024-08-02 |      1.000 | $4,000.00      | $4,000.00       |
 | 2024-07-21 |      1.000 | $10,000.00     | $10,000.00      |
-| 2024-06-16 |      0.860 | $3,000.00      | $2,579.72       |
-| 2024-06-09 |      0.815 | $3,000.00      | $2,445.28       |
-| 2024-04-28 |      0.532 | $50,000.00     | $26,594.91      |
-| 2024-04-20 |      0.482 | $20,000.00     | $9,635.19       |
-| 2024-04-15 |      0.448 | $25,000.00     | $11,206.02      |
+| 2024-06-16 |      0.860 | $3,000.00      | $2,579.17       |
+| 2024-06-09 |      0.815 | $3,000.00      | $2,444.72       |
+| 2024-04-28 |      0.532 | $50,000.00     | $26,585.65      |
+| 2024-04-20 |      0.482 | $20,000.00     | $9,631.48       |
+| 2024-04-15 |      0.448 | $25,000.00     | $11,201.39      |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />

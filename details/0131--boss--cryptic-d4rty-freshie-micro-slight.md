@@ -37,80 +37,80 @@ Note:<br />
 
 | Match Played | Match ID | Date       | Opponent          | W/L | Age Weight | Event Weight | Bounty Collected | Opponent Network | LAN Wins  | H2H Adj. | Roster                                   |
 | -: | -: | :- | :- | :- | :- | :- | :- | :- | :- | -: | :- |
-|           58 |       70 | 2024-08-03 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -7.80 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           57 |      178 | 2024-07-31 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.34 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           56 |      182 | 2024-07-31 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.95 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           55 |      228 | 2024-07-30 | Nouns             | L   | 1.000      | -            | -                | -                | -         |    -7.50 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           54 |      229 | 2024-07-30 | Nouns             | L   | 1.000      | -            | -                | -                | -         |    -8.00 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           53 |      549 | 2024-07-20 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.77 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           52 |      618 | 2024-07-18 | Elevate           | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    21.85 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           51 |      620 | 2024-07-18 | Elevate           | L   | 1.000      | -            | -                | -                | -         |    -9.20 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           50 |      680 | 2024-07-17 | LAG               | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | 0 (0.000) |    16.32 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           49 |      687 | 2024-07-17 | LAG               | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | 0 (0.000) |    17.82 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           48 |      796 | 2024-07-15 | Mythic            | W   | 1.000      | 0.477        | 0.010 (0.005)    | 0.285 (0.136)    | 0 (0.000) |    16.89 | Cryptic, d4rty, freshie, micro, SLIGHT   |
-|           47 |     1056 | 2024-06-15 | Elevate           | L   | 0.857      | -            | -                | -                | -         |    -6.49 | Cryptic, d4rty, freshie, Momo, Pluto     |
-|           46 |     1105 | 2024-06-14 | Final Form        | W   | 0.848      | -            | -                | -                | 0 (0.000) |     6.22 | Cryptic, d4rty, freshie, Momo, Pluto     |
-|           45 |     1542 | 2024-06-04 | Mythic            | L   | 0.783      | -            | -                | -                | -         |   -11.06 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           44 |     1852 | 2024-05-22 | Phoenix           | W   | 0.697      | 0.477        | -                | 0.270 (0.090)    | 0 (0.000) |    10.51 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           43 |     1856 | 2024-05-22 | Phoenix           | L   | 0.696      | -            | -                | -                | -         |   -11.67 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           42 |     1937 | 2024-05-20 | Limitless         | L   | 0.683      | -            | -                | -                | -         |   -10.76 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           41 |     1941 | 2024-05-20 | Limitless         | W   | 0.683      | -            | -                | -                | 0 (0.000) |    10.96 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           40 |     1972 | 2024-05-19 | M80               | L   | 0.676      | -            | -                | -                | -         |    -1.52 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           39 |     1973 | 2024-05-19 | M80               | L   | 0.675      | -            | -                | -                | -         |    -1.55 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
-|           38 |     2036 | 2024-05-17 | NRG               | L   | 0.662      | -            | -                | -                | -         |    -6.63 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           37 |     2100 | 2024-05-15 | Wildcard          | L   | 0.650      | -            | -                | -                | -         |    -7.21 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           36 |     2110 | 2024-05-15 | Wildcard          | L   | 0.650      | -            | -                | -                | -         |    -7.60 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           35 |     2159 | 2024-05-14 | MIGHT             | W   | 0.643      | -            | -                | -                | 0 (0.000) |     3.49 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           34 |     2167 | 2024-05-14 | MIGHT             | W   | 0.643      | -            | -                | -                | 0 (0.000) |     3.60 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           33 |     2254 | 2024-05-11 | Phoenix           | L   | 0.622      | -            | -                | -                | -         |   -11.72 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           32 |     2256 | 2024-05-11 | Party Astronauts  | W   | 0.622      | 0.270        | 0.041 (0.007)    | 0.510 (0.086)    | -         |    13.15 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           31 |     2259 | 2024-05-11 | NRG               | L   | 0.621      | -            | -                | -                | -         |    -8.04 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           30 |     2298 | 2024-05-09 | Nouns             | L   | 0.610      | -            | -                | -                | -         |    -6.19 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           29 |     2303 | 2024-05-09 | Nouns             | L   | 0.610      | -            | -                | -                | -         |    -6.50 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           28 |     2419 | 2024-05-03 | Ninjas in Pyjamas | L   | 0.568      | -            | -                | -                | -         |    -0.22 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           27 |     2456 | 2024-05-02 | FlyQuest          | L   | 0.559      | -            | -                | -                | -         |    -2.17 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           26 |     2477 | 2024-05-01 | BIG               | L   | 0.553      | -            | -                | -                | -         |    -1.22 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           25 |     2624 | 2024-04-24 | Mythic            | L   | 0.510      | -            | -                | -                | -         |    -9.66 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           24 |     2625 | 2024-04-24 | Mythic            | W   | 0.510      | 0.477        | 0.010 (0.002)    | 0.285 (0.069)    | -         |     6.50 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           23 |     2954 | 2024-04-11 | Limitless         | W   | 0.423      | -            | -                | -                | -         |     3.64 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           22 |     2956 | 2024-04-11 | Limitless         | W   | 0.423      | -            | -                | -                | -         |     3.75 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           21 |     2985 | 2024-04-10 | NRG               | L   | 0.417      | -            | -                | -                | -         |    -5.98 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           20 |     2989 | 2024-04-10 | NRG               | W   | 0.416      | 0.477        | 0.020 (0.004)    | 0.502 (0.100)    | -         |     7.31 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           19 |     3042 | 2024-04-09 | LAG               | W   | 0.410      | 0.477        | 0.012 (0.002)    | 0.376 (0.073)    | -         |     6.93 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           18 |     3045 | 2024-04-09 | LAG               | W   | 0.410      | 0.477        | 0.012 (0.002)    | 0.376 (0.073)    | -         |     7.18 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           17 |     3174 | 2024-04-04 | FLUFFY AIMERS     | W   | 0.376      | -            | -                | -                | -         |     5.20 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           16 |     3180 | 2024-04-04 | FLUFFY AIMERS     | W   | 0.376      | -            | -                | -                | -         |     5.37 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           15 |     3231 | 2024-04-03 | Party Astronauts  | L   | 0.369      | -            | -                | -                | -         |    -9.60 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           14 |     3267 | 2024-04-02 | Nouns             | L   | 0.363      | -            | -                | -                | -         |    -3.88 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           13 |     3272 | 2024-04-02 | Phoenix           | W   | 0.362      | -            | -                | -                | -         |     4.59 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
-|           12 |     3348 | 2024-03-27 | Take Flyte        | W   | 0.324      | -            | -                | -                | -         |     3.86 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|           11 |     3351 | 2024-03-27 | Take Flyte        | L   | 0.323      | -            | -                | -                | -         |    -6.45 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|           10 |     3396 | 2024-03-26 | Elevate           | L   | 0.317      | -            | -                | -                | -         |    -2.51 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            9 |     3401 | 2024-03-26 | Elevate           | L   | 0.317      | -            | -                | -                | -         |    -2.56 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            8 |     3477 | 2024-03-20 | Party Astronauts  | L   | 0.277      | -            | -                | -                | -         |    -2.87 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            7 |     3479 | 2024-03-20 | Party Astronauts  | L   | 0.277      | -            | -                | -                | -         |    -2.93 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            6 |     3913 | 2024-03-03 | Liquid            | L   | 0.160      | -            | -                | -                | -         |    -0.06 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            5 |     3930 | 2024-03-02 | Complexity        | L   | 0.154      | -            | -                | -                | -         |    -0.04 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            4 |     3945 | 2024-03-01 | MIBR              | W   | 0.148      | 0.143        | 0.208 (0.004)    | -                | 1 (0.148) |     4.52 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            3 |     4014 | 2024-02-26 | Liquid            | L   | 0.122      | -            | -                | -                | -         |    -0.05 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            2 |     4028 | 2024-02-25 | Nouns             | L   | 0.117      | -            | -                | -                | -         |    -1.35 | brett, Cryptic, d4rty, freshie, PwnAlone |
-|            1 |     4031 | 2024-02-25 | Wildcard          | W   | 0.116      | -            | -                | -                | -         |     2.17 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|           58 |       71 | 2024-08-03 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -7.80 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           57 |      179 | 2024-07-31 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.34 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           56 |      183 | 2024-07-31 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.95 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           55 |      229 | 2024-07-30 | Nouns             | L   | 1.000      | -            | -                | -                | -         |    -7.50 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           54 |      230 | 2024-07-30 | Nouns             | L   | 1.000      | -            | -                | -                | -         |    -8.01 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           53 |      550 | 2024-07-20 | NRG               | L   | 1.000      | -            | -                | -                | -         |    -8.78 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           52 |      619 | 2024-07-18 | Elevate           | W   | 1.000      | 0.477        | 0.027 (0.013)    | 0.501 (0.239)    | 0 (0.000) |    21.85 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           51 |      621 | 2024-07-18 | Elevate           | L   | 1.000      | -            | -                | -                | -         |    -9.20 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           50 |      681 | 2024-07-17 | LAG               | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | 0 (0.000) |    16.32 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           49 |      688 | 2024-07-17 | LAG               | W   | 1.000      | 0.477        | 0.012 (0.006)    | 0.376 (0.179)    | 0 (0.000) |    17.82 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           48 |      797 | 2024-07-15 | Mythic            | W   | 1.000      | 0.477        | 0.010 (0.005)    | 0.285 (0.136)    | 0 (0.000) |    16.89 | Cryptic, d4rty, freshie, micro, SLIGHT   |
+|           47 |     1057 | 2024-06-15 | Elevate           | L   | 0.857      | -            | -                | -                | -         |    -6.49 | Cryptic, d4rty, freshie, Momo, Pluto     |
+|           46 |     1106 | 2024-06-14 | Final Form        | W   | 0.847      | -            | -                | -                | 0 (0.000) |     6.22 | Cryptic, d4rty, freshie, Momo, Pluto     |
+|           45 |     1543 | 2024-06-04 | Mythic            | L   | 0.783      | -            | -                | -                | -         |   -11.05 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           44 |     1853 | 2024-05-22 | Phoenix           | W   | 0.696      | 0.477        | -                | 0.270 (0.090)    | 0 (0.000) |    10.51 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           43 |     1857 | 2024-05-22 | Phoenix           | L   | 0.696      | -            | -                | -                | -         |   -11.67 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           42 |     1938 | 2024-05-20 | Limitless         | L   | 0.683      | -            | -                | -                | -         |   -10.76 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           41 |     1942 | 2024-05-20 | Limitless         | W   | 0.682      | -            | -                | -                | 0 (0.000) |    10.96 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           40 |     1973 | 2024-05-19 | M80               | L   | 0.676      | -            | -                | -                | -         |    -1.52 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           39 |     1974 | 2024-05-19 | M80               | L   | 0.675      | -            | -                | -                | -         |    -1.54 | Cryptic, d4rty, freshie, Pluto, PwnAlone |
+|           38 |     2037 | 2024-05-17 | NRG               | L   | 0.662      | -            | -                | -                | -         |    -6.63 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           37 |     2101 | 2024-05-15 | Wildcard          | L   | 0.650      | -            | -                | -                | -         |    -7.21 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           36 |     2111 | 2024-05-15 | Wildcard          | L   | 0.649      | -            | -                | -                | -         |    -7.60 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           35 |     2160 | 2024-05-14 | MIGHT             | W   | 0.643      | -            | -                | -                | 0 (0.000) |     3.49 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           34 |     2168 | 2024-05-14 | MIGHT             | W   | 0.642      | -            | -                | -                | 0 (0.000) |     3.60 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           33 |     2255 | 2024-05-11 | Phoenix           | L   | 0.622      | -            | -                | -                | -         |   -11.72 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           32 |     2257 | 2024-05-11 | Party Astronauts  | W   | 0.622      | 0.270        | 0.041 (0.007)    | 0.510 (0.086)    | -         |    13.15 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           31 |     2260 | 2024-05-11 | NRG               | L   | 0.621      | -            | -                | -                | -         |    -8.04 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           30 |     2299 | 2024-05-09 | Nouns             | L   | 0.610      | -            | -                | -                | -         |    -6.19 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           29 |     2304 | 2024-05-09 | Nouns             | L   | 0.609      | -            | -                | -                | -         |    -6.49 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           28 |     2420 | 2024-05-03 | Ninjas in Pyjamas | L   | 0.567      | -            | -                | -                | -         |    -0.22 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           27 |     2457 | 2024-05-02 | FlyQuest          | L   | 0.559      | -            | -                | -                | -         |    -2.17 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           26 |     2478 | 2024-05-01 | BIG               | L   | 0.552      | -            | -                | -                | -         |    -1.22 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           25 |     2625 | 2024-04-24 | Mythic            | L   | 0.510      | -            | -                | -                | -         |    -9.66 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           24 |     2626 | 2024-04-24 | Mythic            | W   | 0.509      | 0.477        | 0.010 (0.002)    | 0.285 (0.069)    | -         |     6.50 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           23 |     2955 | 2024-04-11 | Limitless         | W   | 0.423      | -            | -                | -                | -         |     3.64 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           22 |     2957 | 2024-04-11 | Limitless         | W   | 0.423      | -            | -                | -                | -         |     3.75 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           21 |     2986 | 2024-04-10 | NRG               | L   | 0.416      | -            | -                | -                | -         |    -5.97 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           20 |     2990 | 2024-04-10 | NRG               | W   | 0.416      | 0.477        | 0.020 (0.004)    | 0.502 (0.100)    | -         |     7.30 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           19 |     3043 | 2024-04-09 | LAG               | W   | 0.410      | 0.477        | 0.012 (0.002)    | 0.376 (0.073)    | -         |     6.93 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           18 |     3046 | 2024-04-09 | LAG               | W   | 0.409      | 0.477        | 0.012 (0.002)    | 0.376 (0.073)    | -         |     7.18 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           17 |     3175 | 2024-04-04 | FLUFFY AIMERS     | W   | 0.376      | -            | -                | -                | -         |     5.20 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           16 |     3181 | 2024-04-04 | FLUFFY AIMERS     | W   | 0.376      | -            | -                | -                | -         |     5.37 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           15 |     3232 | 2024-04-03 | Party Astronauts  | L   | 0.368      | -            | -                | -                | -         |    -9.59 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           14 |     3268 | 2024-04-02 | Nouns             | L   | 0.363      | -            | -                | -                | -         |    -3.88 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           13 |     3273 | 2024-04-02 | Phoenix           | W   | 0.362      | -            | -                | -                | -         |     4.59 | Cryptic, d4rty, FaNg, freshie, PwnAlone  |
+|           12 |     3349 | 2024-03-27 | Take Flyte        | W   | 0.323      | -            | -                | -                | -         |     3.86 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|           11 |     3352 | 2024-03-27 | Take Flyte        | L   | 0.323      | -            | -                | -                | -         |    -6.45 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|           10 |     3397 | 2024-03-26 | Elevate           | L   | 0.317      | -            | -                | -                | -         |    -2.51 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            9 |     3402 | 2024-03-26 | Elevate           | L   | 0.316      | -            | -                | -                | -         |    -2.56 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            8 |     3478 | 2024-03-20 | Party Astronauts  | L   | 0.277      | -            | -                | -                | -         |    -2.87 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            7 |     3480 | 2024-03-20 | Party Astronauts  | L   | 0.276      | -            | -                | -                | -         |    -2.93 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            6 |     3914 | 2024-03-03 | Liquid            | L   | 0.160      | -            | -                | -                | -         |    -0.06 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            5 |     3931 | 2024-03-02 | Complexity        | L   | 0.154      | -            | -                | -                | -         |    -0.04 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            4 |     3946 | 2024-03-01 | MIBR              | W   | 0.148      | 0.143        | 0.208 (0.004)    | -                | 1 (0.148) |     4.51 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            3 |     4015 | 2024-02-26 | Liquid            | L   | 0.122      | -            | -                | -                | -         |    -0.05 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            2 |     4029 | 2024-02-25 | Nouns             | L   | 0.117      | -            | -                | -                | -         |    -1.34 | brett, Cryptic, d4rty, freshie, PwnAlone |
+|            1 |     4032 | 2024-02-25 | Wildcard          | W   | 0.115      | -            | -                | -                | -         |     2.17 | brett, Cryptic, d4rty, freshie, PwnAlone |
 
 <br />
 <span id="table2"></span><br />
 To calculate a roster's Bounty Offered:<br />
 
-- First, take the sum of their top 10 scaled winnings ($4,473.34)
-- Divide that value by the 5th highest value among all rosters ($320,247.08)
+- First, take the sum of their top 10 scaled winnings ($4,472.19)
+- Divide that value by the 5th highest value among all rosters ($320,192.18)
 - The final value (0.01) is scaled by the curve function.[<sup>3</sup>](#curveFunction)
 
 Top ten winnings for this roster:<br />
 
 | Event Date | Age Weight | Prize Winnings | Scaled Winnings |
 | :- | -: | :- | :- |
-| 2024-06-16 |      0.863 | $750.00        | $647.33         |
-| 2024-06-09 |      0.816 | $2,000.00      | $1,632.04       |
-| 2024-05-12 |      0.627 | $3,500.00      | $2,193.98       |
+| 2024-06-16 |      0.863 | $750.00        | $647.19         |
+| 2024-06-09 |      0.816 | $2,000.00      | $1,631.67       |
+| 2024-05-12 |      0.627 | $3,500.00      | $2,193.33       |
 
 
 <span id="curveFunction"></span>_The Curve Function: 1 / ( 1 + abs( log10( x ) ) )_<br />
